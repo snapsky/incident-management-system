@@ -1,0 +1,2186 @@
+[
+  {
+    "month": "January",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-01-01",
+          "time": "07:35 AM",
+          "reporter_role": "ICU Charge Nurse",
+          "incident_description": "ICU AHU-2 not holding 22C; temp fluctuating 24–26C and alarms frequent. Please check chilled water valve/actuator before rounds.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-02",
+          "time": "09:10 AM",
+          "reporter_role": "OT Nursing Officer (Theatre 2)",
+          "incident_description": "Theatre 2 negative pressure not maintaining; door closer misaligned and pressure drops when door shuts. Need urgent HVAC/door seal review.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-01-03",
+          "time": "09:25 AM",
+          "reporter_role": "Senior Radiographer - CT",
+          "incident_description": "After the morning drizzle, ceiling leak near CT cable tray; water dripping close to power trunking. Area cordoned off.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-01-03",
+          "time": "11:05 AM",
+          "reporter_role": "Stores Supervisor (Basement)",
+          "incident_description": "Basement stores sump pump not cutting in; 2–3 cm water pooling after rain. Request immediate check of pump and float switches.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-05",
+          "time": "02:20 PM",
+          "reporter_role": "Duty Electrician",
+          "incident_description": "During weekly genny test, ATS failed to transfer back to CEB mains; manual return required. Inspect ATS controller and interlocks.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-01-06",
+          "time": "08:15 AM",
+          "reporter_role": "OPD Attendant",
+          "incident_description": "OPD male toilet flush line has very low pressure; multiple pans not clearing. Likely valve/N.R.V. stuck.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-01-07",
+          "time": "10:42 PM",
+          "reporter_role": "Ward Sister - Paediatrics",
+          "incident_description": "Fire alarm shows intermittent fault in Zone 4 (Paeds); repeater beeping through night. Please trace detector/cabling issue.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-01-08",
+          "time": "03:30 PM",
+          "reporter_role": "Pharmacist In Charge - OPD Pharmacy",
+          "incident_description": "Short shower caused skylight leak over dispensing counter; floor wet near shelving. Need sealant and check for cracked pane.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-09",
+          "time": "06:50 AM",
+          "reporter_role": "Staff Nurse - Ward 3 (Surgical)",
+          "incident_description": "Oxygen outlet at Bed 12 hissing and loose; flowmeter wobbles. Shut valve for now—urgent pipeline check needed.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-01-10",
+          "time": "01:05 PM",
+          "reporter_role": "NICU Nurse",
+          "incident_description": "NICU RH above 65%; AHU-1 filters likely choked and incubators fogging. Please service AHU and verify humidistat.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-11",
+          "time": "09:55 AM",
+          "reporter_role": "Porter (Block A)",
+          "incident_description": "Staff lift No.2 intermittently stops with doors half open at Level 1; occurred three times this morning. Needs immediate inspection.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-01-12",
+          "time": "08:40 PM",
+          "reporter_role": "Security Supervisor - Genset Yard",
+          "incident_description": "Strong diesel smell at generator day tank; small drip visible at bottom flange. Drip tray placed—please rectify leak.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-13",
+          "time": "02:10 PM",
+          "reporter_role": "Endoscopy Coordinator",
+          "incident_description": "Humid afternoon causing condensation from supply duct near scope cleaning area; floor getting wet. Check insulation and condensate drain.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-01-13",
+          "time": "07:20 PM",
+          "reporter_role": "Matron - Maternity Block",
+          "incident_description": "After brief rain, water seeped from roof gutter into Stair C landing; steps slippery. Clear downpipe and repair flashing.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-14",
+          "time": "09:00 AM",
+          "reporter_role": "Safety Officer",
+          "incident_description": "During fire drill, Isolation Room 3 maglock did not release on alarm; door remained secured. Immediate fix required.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-01-15",
+          "time": "11:18 AM",
+          "reporter_role": "Senior Medical Laboratory Technologist (Hematology)",
+          "incident_description": "Noted repeated mains dips; UPS switching frequently. Suspect phase imbalance at Lab MDB—please test and tighten terminations.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-16",
+          "time": "07:55 AM",
+          "reporter_role": "OPD Receptionist",
+          "incident_description": "OPD entrance auto door shudders and fails to open fully; sensor seems misaligned. Queue forming outside.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-01-17",
+          "time": "06:15 PM",
+          "reporter_role": "Consultant Anaesthetist (On Call)",
+          "incident_description": "Theatre 1 wall suction weak during list; central vacuum reading low. Kindly check vacuum pumps and pipeline leaks.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-18",
+          "time": "04:05 PM",
+          "reporter_role": "Ambulance Driver",
+          "incident_description": "Loose roof tiles above ambulance bay walkway rattling; one tile shifted and may fall. Please secure before night.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-01-19",
+          "time": "09:40 AM",
+          "reporter_role": "Supply Assistant (Basement)",
+          "incident_description": "Light rain this morning; water seeping along basement corridor to CSSD. Pump alarm lit and floor wet—request immediate action.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-19",
+          "time": "01:50 PM",
+          "reporter_role": "Security Control Room Operator",
+          "incident_description": "Fire panel shows ground fault on Zone 7 (Records Store) after damp morning; buzzer silenced, fault persists. Inspect loop/wiring.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-01-20",
+          "time": "12:30 PM",
+          "reporter_role": "Paediatric MO (On Duty)",
+          "incident_description": "Ward 5 AHU tripped twice around noon; ward became very warm. Check condenser coil and filters ASAP.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-22",
+          "time": "10:25 AM",
+          "reporter_role": "Dialysis Nurse",
+          "incident_description": "Feed water pressure to RO plant low; pre-filter differential high. Please clean/replace strainers and verify inlet line.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-01-28",
+          "time": "05:45 PM",
+          "reporter_role": "Duty Security - Block B",
+          "incident_description": "After afternoon rain, Lift 1 out of service; panel shows 'pit water detected'. Need pit pumped out and system reset.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-28",
+          "time": "06:10 PM",
+          "reporter_role": "Canteen Manager",
+          "incident_description": "Rainwater overflowing from gutter onto canteen external steps; slippery where public walks. Unclog downpipe and add anti-slip.",
+          "urgency": "Medium"
+        }
+      ]
+    }
+  },
+  {
+    "month": "February",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-02-01",
+          "time": "11:35 AM",
+          "reporter_role": "Nursing Officer - OPD",
+          "incident_description": "OPD waiting hall not cooling; AHU blowing warm air since late morning, patients getting restless.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-02-03",
+          "time": "02:40 PM",
+          "reporter_role": "Physiotherapy In-Charge",
+          "incident_description": "After brief shower, water seeped under rear door of Physio gym; likely blocked courtyard drain, slip risk.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-03",
+          "time": "08:10 PM",
+          "reporter_role": "Security Supervisor",
+          "incident_description": "Damp patch appearing on basement corridor ceiling near pharmacy store post-rain; buckets placed, please check source.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-02-05",
+          "time": "12:20 PM",
+          "reporter_role": "CSSD Supervisor",
+          "incident_description": "CSSD sterilizer room exhaust fan failed; heat build-up making work unsafe, kindly rectify.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-07",
+          "time": "09:15 AM",
+          "reporter_role": "Porter - Theatre",
+          "incident_description": "Patient lift No. 2 stalled twice at 3rd floor; doors reopen with alarm, delays theatre transfers.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-08",
+          "time": "01:25 PM",
+          "reporter_role": "ICU Nursing Officer",
+          "incident_description": "Condensation from AHU duct dripping near ICU isolation entrance; floor repeatedly wet despite mopping.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-08",
+          "time": "06:50 PM",
+          "reporter_role": "OPD Registration Clerk",
+          "incident_description": "Light rain leaked above OPD counters; water near power strips and on floor—urgent cleanup and sealing needed.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-02-09",
+          "time": "05:40 AM",
+          "reporter_role": "Generator Attendant",
+          "incident_description": "Diesel day tank low-level alarm; auto transfer pump not refilling from main tank, genset readiness at risk.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-11",
+          "time": "10:05 AM",
+          "reporter_role": "Administrative Officer",
+          "incident_description": "Multiple ABC fire extinguishers on Ward 12 corridor show low pressure and overdue servicing.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-02-13",
+          "time": "03:30 PM",
+          "reporter_role": "MOIC - Surgical Ward",
+          "incident_description": "Expansion joint cover on veranda has come loose and is flapping in the wind; risk to staff and visitors below.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-13",
+          "time": "08:25 AM",
+          "reporter_role": "Anaesthetic Registrar",
+          "incident_description": "Minor Theatre 1 smells dusty; AHU filters likely choked and temp slow to reach setpoint.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-02-14",
+          "time": "02:55 PM",
+          "reporter_role": "ICU Consultant",
+          "incident_description": "Power dip during thunder; ATS changed over late and ICU UPS alarmed—please test ATS and earthing immediately.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-02-14",
+          "time": "05:20 PM",
+          "reporter_role": "Records Officer",
+          "incident_description": "Basement ramp took in rainwater; one sump pump tripped—water approaching medical records archive.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-02-14",
+          "time": "07:10 PM",
+          "reporter_role": "Lift Operator",
+          "incident_description": "Water noted in Lift B shaft after evening rain through louvre; lift isolated, need inspection and drying.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-16",
+          "time": "08:40 AM",
+          "reporter_role": "Matron - Maternity",
+          "incident_description": "Maternity OT oxygen pressure dropped and area valve box alarmed; request immediate MGPS check of regulators/valves.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-02-18",
+          "time": "11:50 AM",
+          "reporter_role": "Plumbing Supervisor",
+          "incident_description": "Cooling tower make-up float stuck open; continuous overflow to drain near Paediatrics OPD.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-02-19",
+          "time": "06:35 AM",
+          "reporter_role": "NICU Nursing Officer",
+          "incident_description": "NICU anteroom door closer broken; airlock not sealing and warm corridor air entering.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-20",
+          "time": "08:10 AM",
+          "reporter_role": "Front Office Executive",
+          "incident_description": "Main entrance canopy leaking after morning drizzle; granite floor slippery and mats soaked—need anti-slip signs and sealing.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-20",
+          "time": "04:45 PM",
+          "reporter_role": "Engineering Technician",
+          "incident_description": "Chiller-2 tripped on high pressure in afternoon heat; wards reporting rising room temperatures.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-22",
+          "time": "09:55 AM",
+          "reporter_role": "Administrative Director",
+          "incident_description": "Polycarbonate roof panel over OPD walkway cracked; piece rattling in breeze—fall hazard.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-23",
+          "time": "02:05 PM",
+          "reporter_role": "Biomedical Engineer",
+          "incident_description": "Manifold shed ventilation fan off; oxygen cylinder area very warm—ventilation not per code.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-24",
+          "time": "12:40 PM",
+          "reporter_role": "Pathology Technologist",
+          "incident_description": "Histology room dehumidifier not running; RH at 75% and paraffin blocks turning tacky.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-02-26",
+          "time": "06:25 PM",
+          "reporter_role": "Duty Manager",
+          "incident_description": "Gusts dislodged cladding above OPD driveway; panel hanging by two screws—immediate securing needed.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-02-26",
+          "time": "08:35 PM",
+          "reporter_role": "Maintenance Electrician",
+          "incident_description": "Post-rain, rooftop AHU-4 breaker tripped; moisture observed inside junction box and cable gland.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-28",
+          "time": "07:20 AM",
+          "reporter_role": "Canteen Supervisor",
+          "incident_description": "Pigeons nesting in Block B roof gutter; droppings and feathers falling near canteen entrance—request netting and cleanup.",
+          "urgency": "Low"
+        }
+      ]
+    }
+  },
+  {
+    "month": "March",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-03-01",
+          "time": "07:10 PM",
+          "reporter_role": "OPD Nursing Officer",
+          "incident_description": "OPD waiting area ceiling has condensate dripping; AHU not dehumidifying in this evening humidity. Floor getting wet despite mopping; please check chilled-water valve control and drain traps.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-02",
+          "time": "01:05 PM",
+          "reporter_role": "IT Officer",
+          "incident_description": "UPS room split AC not cooling; room temp at 33°C and inverters issuing high-temp alarm. Need immediate restoration or temporary cooling.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-03",
+          "time": "04:20 PM",
+          "reporter_role": "Staff Nurse - Surgical Ward",
+          "incident_description": "After the thunderstorm, roof leak above surgical corridor near Bed 14; steady drip causing slip hazard. Suspect flashing loosened by wind.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-03",
+          "time": "06:05 PM",
+          "reporter_role": "Security Supervisor",
+          "incident_description": "OPD entrance canopy fascia panel is loose and vibrating in gusts; may detach onto public walkway. Request urgent securing or removal.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-03-05",
+          "time": "08:50 PM",
+          "reporter_role": "Maintenance Attendant (Night)",
+          "incident_description": "Basement near Radiology: stormwater sump pump tripped; 3–4 cm water pooling close to live cable trays.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-03-06",
+          "time": "03:10 PM",
+          "reporter_role": "Sister-in-Charge - ICU",
+          "incident_description": "Chiller-2 high-pressure trip during heat peak; ICU AHUs showing 26–27°C supply. Need immediate restart and condenser cleaning.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-03-08",
+          "time": "05:35 PM",
+          "reporter_role": "Admin Officer - Transport/Lifts",
+          "incident_description": "Lift B went to fault after brief downpour; water observed at shaft head. Please check shaft flashing, pit pump, and controller.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-10",
+          "time": "09:25 AM",
+          "reporter_role": "Nursing Matron",
+          "incident_description": "NICU fire door not self-closing; door closer weak and latch misaligned. Fire compartmentation compliance at risk.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-12",
+          "time": "01:40 PM",
+          "reporter_role": "Theatre Sister",
+          "incident_description": "Main OT AHU prefilter DP reading 380 Pa (above limit); airflow low and temp/humidity drifting. Request filter change and belt check.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-03-12",
+          "time": "06:55 PM",
+          "reporter_role": "Ward Clerk - Ward 3",
+          "incident_description": "Sluice room foul water backing up into floor drain after rain; strong odour entering ward. Possible check valve failure.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-14",
+          "time": "11:15 AM",
+          "reporter_role": "Electrical Supervisor (On-call)",
+          "incident_description": "Generator room ventilation fan not running; room ~38°C during standby test. Risk of overheating switchgear.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-16",
+          "time": "07:50 PM",
+          "reporter_role": "Duty Medical Officer - Ward 7",
+          "incident_description": "After heavy rain, B-Block electrical riser is damp; RCD feeding Ward 7 sockets tripped. Medication prep area without power.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-03-16",
+          "time": "06:30 PM",
+          "reporter_role": "Catering Manager",
+          "incident_description": "Canteen roof drain blocked; water ponding and seeping into staff dining. Slippery floor despite signage.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-03-18",
+          "time": "10:05 AM",
+          "reporter_role": "Chief Pharmacist",
+          "incident_description": "Pharmacy ceiling condensate from chilled-water valve insulation dripping onto cartons. Need insulation repair and drain check.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-19",
+          "time": "05:25 PM",
+          "reporter_role": "ETU Medical Officer",
+          "incident_description": "ETU ambulance bay roofing sheets rattling post-squall; one fixing screw missing. Potential sheet uplift hazard.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-20",
+          "time": "09:10 AM",
+          "reporter_role": "MOIC - OPD",
+          "incident_description": "OPD minor theatre oxygen outlet (Bed 2) leaking with audible hiss even without flowmeter. Requires outlet isolation and replacement.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-03-22",
+          "time": "03:35 PM",
+          "reporter_role": "Laboratory Technologist",
+          "incident_description": "Lab vacuum suction low in phlebotomy area during afternoon rain; gauge ~200 mmHg vs usual 450. Please inspect vacuum pump and lines.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-23",
+          "time": "02:00 PM",
+          "reporter_role": "Infection Control Nurse",
+          "incident_description": "Isolation ward negative pressure alarm; monitor shows +2 Pa. Exhaust fan belt appears slack; room doors pulling outwards.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-03-24",
+          "time": "08:30 AM",
+          "reporter_role": "Assistant Matron",
+          "incident_description": "Level 2 main corridor: ceiling tile sagging above Ward 5 entrance; likely old leak. Tile at risk of falling.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-25",
+          "time": "08:10 AM",
+          "reporter_role": "Mechanical Foreman",
+          "incident_description": "Weekly genset test revealed coolant drip at radiator lower hose; small puddle observed. Replace hose/clamps before next outage.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-26",
+          "time": "09:45 AM",
+          "reporter_role": "Housekeeping Supervisor - OPD",
+          "incident_description": "OPD access ramp slippery after morning drizzle; visible algae growth. Request pressure-wash and install anti-slip strips.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-03-28",
+          "time": "11:20 AM",
+          "reporter_role": "Pediatric Clinic Nurse",
+          "incident_description": "Clinic corridor water filter inlet joint leaking; steady drip forming wet patch and trip hazard. Shut-off valve hard to close.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-03-29",
+          "time": "07:05 AM",
+          "reporter_role": "Consultant Anaesthetist",
+          "incident_description": "OT 3 laminar flow low-velocity alarm; HEPA prefilter likely clogged. VFD shows 60% but setpoint not met.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-03-30",
+          "time": "04:50 PM",
+          "reporter_role": "Facilities Duty Officer",
+          "incident_description": "Basement lift pit water level alarm after heavy rain; submersible pump may have failed. Lift A isolated from service.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-03-30",
+          "time": "06:15 PM",
+          "reporter_role": "Nursing Sister - Maternity",
+          "incident_description": "Fire alarm activated in maternity; water ingress noted in detector near veranda. Need detector replacement and roof resealing.",
+          "urgency": "High"
+        }
+      ]
+    }
+  },
+  {
+    "month": "April",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-04-01",
+          "time": "07:40 AM",
+          "reporter_role": "ICU Nursing Officer",
+          "incident_description": "Condensation dripping from AHU supply duct above Bed 3; floor wet. Please clear condensate drain and re-insulate.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-02",
+          "time": "08:15 PM",
+          "reporter_role": "OPD Administrative Officer",
+          "incident_description": "Rainwater leaking through OPD foyer false ceiling during thunder; slippery near registration. Need roof/gutter repair.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-02",
+          "time": "08:47 PM",
+          "reporter_role": "Lift Operator",
+          "incident_description": "CEB power dip with lightning made Lift 1 stop and reset at Level 2. Please check supply quality and lift controls.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-03",
+          "time": "02:10 PM",
+          "reporter_role": "Plant Room Technician",
+          "incident_description": "Chiller 2 showing high condensing temperature alarm; cooling tower fan noisy under heat load.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-05",
+          "time": "11:25 AM",
+          "reporter_role": "Ward Matron - Male Surgical",
+          "incident_description": "Persistent sewage odour near ward corridor; likely gully trap/inspection chamber blockage. Please jet and disinfect.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-04-06",
+          "time": "11:58 PM",
+          "reporter_role": "Security Supervisor",
+          "incident_description": "Basement sump pump tripped after late storm; water rising near records archive. Immediate dewatering needed.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-04-07",
+          "time": "09:05 AM",
+          "reporter_role": "OPD Receptionist",
+          "incident_description": "Automatic sliding door at OPD stuck open; cooling loss and security concern. Kindly service sensor/track.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-04-08",
+          "time": "03:30 PM",
+          "reporter_role": "Radiographer",
+          "incident_description": "After brief downpour, seepage above CT room doorway; damp near cable tray. Request roof flashing sealing.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-09",
+          "time": "10:18 AM",
+          "reporter_role": "Theatre Sister",
+          "incident_description": "Main OT AHU not meeting temperature/humidity; feels muggy. Please check AHU and change filters.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-10",
+          "time": "07:12 PM",
+          "reporter_role": "Duty Medical Officer - ETU",
+          "incident_description": "Short outage during storm: DG started but no load; ATS did not transfer. Immediate rectification required.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-04-10",
+          "time": "07:40 PM",
+          "reporter_role": "Electrical Technician (On-call)",
+          "incident_description": "Fire alarm panel shows 'Ground Fault Loop 2' post-rain in Block B. Suspect moisture ingress in detector circuit.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-10",
+          "time": "08:05 PM",
+          "reporter_role": "NICU Nursing Officer",
+          "incident_description": "Gutter overflow above NICU causing drip near an electrical DB. Area cordoned; need urgent roof/gutter clearing.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-04-11",
+          "time": "09:50 AM",
+          "reporter_role": "Physiotherapy Unit In-Charge",
+          "incident_description": "Bed lift jerks with grinding sound between Ground and Level 1. Please inspect guide rails and motor.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-12",
+          "time": "04:22 PM",
+          "reporter_role": "Mortuary Attendant",
+          "incident_description": "Heavy rain backing up stormwater at JMO path; walkway flooded. Request drain clearing and pump-out.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-13",
+          "time": "01:35 PM",
+          "reporter_role": "Laboratory Manager",
+          "incident_description": "UPS room AC not cooling; room at 31°C with alarms. Need urgent service of split AC.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-14",
+          "time": "06:55 PM",
+          "reporter_role": "Paediatric Ward Sister",
+          "incident_description": "AHU condensate line blocked; water dripping through ceiling near nurses’ station after evening storm.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-15",
+          "time": "04:20 PM",
+          "reporter_role": "Surgical Registrar",
+          "incident_description": "Low oxygen pipeline pressure alarm in Surgical Ward; cylinders fine. Please check manifold/regulator and line.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-04-15",
+          "time": "05:05 PM",
+          "reporter_role": "Transport Officer",
+          "incident_description": "Ambulance bay waterlogged after rain; gullies clogged and floor slippery for stretchers. Kindly clear.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-16",
+          "time": "08:10 AM",
+          "reporter_role": "ETU Medical Officer",
+          "incident_description": "ETU main door slamming; hydraulic closer failed. Safety risk to patients and staff.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-04-18",
+          "time": "09:15 PM",
+          "reporter_role": "Security Supervisor",
+          "incident_description": "Lightning observed; down-conductor clamp of lightning arrester loose on East Block roof with visible arcing.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-04-20",
+          "time": "06:30 PM",
+          "reporter_role": "Generator Operator",
+          "incident_description": "During storm-run, DG radiator fan belt frayed; coolant temp rising. Replace belt before next outage.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-22",
+          "time": "03:05 PM",
+          "reporter_role": "Acting Electrical Engineer",
+          "incident_description": "Water seepage into transformer room via cable trench; puddling near LV panel. Need sealing and dewatering.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-04-22",
+          "time": "07:18 PM",
+          "reporter_role": "Nursing Officer - Maternity",
+          "incident_description": "Block C fire exit door swollen and not closing; alarm beeping. Please adjust door and ironmongery.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-24",
+          "time": "08:42 PM",
+          "reporter_role": "Duty Fire Warden",
+          "incident_description": "Jockey pump running continuously; sprinkler pressure falling. Wet patch at L2 maternity stairwell—suspected leak.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-04-29",
+          "time": "05:50 PM",
+          "reporter_role": "Administrative Officer",
+          "incident_description": "Main entrance canopy gutter partially detached and swinging after heavy rain; area cordoned. Need urgent fixing.",
+          "urgency": "High"
+        }
+      ]
+    }
+  },
+  {
+    "month": "May",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-05-01",
+          "time": "02:40 PM",
+          "reporter_role": "Staff Nurse - OPD Triage",
+          "incident_description": "During heavy rain, water is leaking through the OPD triage ceiling onto a live plug bar; floor wet despite mopping. Please inspect roof/gutter and make area electrically safe.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-01",
+          "time": "03:05 PM",
+          "reporter_role": "Duty Engineer - Powerhouse",
+          "incident_description": "Brief mains dip with thunder; genset started but ATS failed to transfer for DB-2. Manual changeover done. Request immediate ATS contactor/logic inspection.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-05-02",
+          "time": "11:15 AM",
+          "reporter_role": "CSSD Supervisor",
+          "incident_description": "Stormwater not draining at CSSD loading bay; gully overflowing and surface slippery for sterile trolley movement.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-03",
+          "time": "01:10 PM",
+          "reporter_role": "Lift Operator",
+          "incident_description": "Lift-3 auto shutdown; water observed in pit after torrential rain. Need pumping and sealing; service call required before restarting.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-03",
+          "time": "04:25 PM",
+          "reporter_role": "Medical Gas Attendant",
+          "incident_description": "Rainwater dripping through manifold shed roof onto oxygen header and gauges. Please repair roofing and check for moisture ingress to keep compliance.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-05-05",
+          "time": "05:30 PM",
+          "reporter_role": "Electrical Technician",
+          "incident_description": "Basement substation had minor water ingress from cable trench during downpour; one MCCB tripped. Circuits isolated. Require trench sealing and insulation checks.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-05-06",
+          "time": "09:20 AM",
+          "reporter_role": "Sister-in-Charge - NICU",
+          "incident_description": "NICU AHU not dehumidifying; RH 72% with condensation near warmers after morning squalls. Request urgent HVAC service (filters/coil/airflow).",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-08",
+          "time": "07:55 AM",
+          "reporter_role": "Ward Master - Female Surgical",
+          "incident_description": "Persistent sewage odour and slow drain in ward toilets after night rain; likely blocked gully trap. Patients complaining.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-05-09",
+          "time": "12:05 PM",
+          "reporter_role": "Dialysis Unit Nurse",
+          "incident_description": "Roof sheet above dialysis walkway loosened in wind; flapping and screws missing. Risk to patients on trolleys.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-09",
+          "time": "06:40 PM",
+          "reporter_role": "Security Supervisor",
+          "incident_description": "Basement parking ramp very slippery in continuous drizzle; algae noted. Cones placed. Request pressure wash and anti-slip coating.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-05-11",
+          "time": "10:18 AM",
+          "reporter_role": "OPD Admin Officer",
+          "incident_description": "Fire detector near OPD pharmacy shows intermittent fault after rain; likely moisture in junction box. Panel beeping repeatedly.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-13",
+          "time": "02:32 PM",
+          "reporter_role": "Dietary Supervisor",
+          "incident_description": "Kitchen rear area waterlogged; silted gully causing runoff to enter dry store threshold during heavy rain. Needs immediate clearing and bunding.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-15",
+          "time": "08:12 AM",
+          "reporter_role": "Anaesthetist - OT Complex",
+          "incident_description": "Vacuum line suction weak in OT-2; central vacuum gauge fluctuating since morning. Cases at risk—please check pumps and condensate drains.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-05-15",
+          "time": "09:45 PM",
+          "reporter_role": "Nursing Officer - Ward 7",
+          "incident_description": "Ceiling tile above nurses’ station is sagging with brown stains after full-day rain; could fall on the desk.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-16",
+          "time": "03:28 PM",
+          "reporter_role": "IT/UPS Room Caretaker",
+          "incident_description": "UPS room AC not cooling; room at 31°C and rising, UPS fans running hard. Need HVAC attention ASAP.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-17",
+          "time": "01:56 PM",
+          "reporter_role": "ICU Consultant",
+          "incident_description": "After lightning and generator changeover, one ICU sub-circuit did not transfer to emergency supply; outlets flickered. Request ATS/panel testing immediately.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-05-17",
+          "time": "05:20 PM",
+          "reporter_role": "OPD Front Desk Supervisor",
+          "incident_description": "OPD entrance canopy signboard bolts loosened in high winds; sign is swaying over the queue line. Please secure.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-19",
+          "time": "11:02 AM",
+          "reporter_role": "Maintenance Helper - Fire Team",
+          "incident_description": "Leak at 3rd-floor fire hydrant branch; corroded GI elbow seeping into corridor and pressure drops during test.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-21",
+          "time": "07:40 PM",
+          "reporter_role": "Sister-in-Charge - Ward 10",
+          "incident_description": "Toilet floor flooding from drain during evening rain; suspect common stack choke. Housekeeping unable to clear.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-05-23",
+          "time": "03:37 PM",
+          "reporter_role": "CSSD Officer",
+          "incident_description": "Sterile store AC condensate overflowing and pooling near shelving; humidity high after afternoon storm. Risk to packaging integrity.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-25",
+          "time": "11:48 AM",
+          "reporter_role": "MO - Paediatric Clinic",
+          "incident_description": "Roof leak dripping near vaccine fridge socket during intense downpour; electrical hazard to cold-chain equipment.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-05-25",
+          "time": "01:22 PM",
+          "reporter_role": "Duty Engineer - Utilities",
+          "incident_description": "Stormwater sump Pump-2 not starting; level rising towards lift pit. Float switch appears stuck; manual bypass not engaging.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-05-27",
+          "time": "10:05 AM",
+          "reporter_role": "Fire Safety Warden - Block B",
+          "incident_description": "Emergency exit light and sounder on 4th floor failed during drill; battery pack appears dead. Replacement/testing needed.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-05-28",
+          "time": "06:18 PM",
+          "reporter_role": "Powerhouse Supervisor",
+          "incident_description": "Diesel seeping from generator day tank return union after prolonged run; floor slick and fumes strong. Needs tightening and cleanup.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-31",
+          "time": "09:14 AM",
+          "reporter_role": "Biomedical Engineer (Gas)",
+          "incident_description": "ICU medical air line pressure oscillating; likely faulty secondary regulator at ward riser. No audible leaks.",
+          "urgency": "High"
+        }
+      ]
+    }
+  },
+  {
+    "month": "June",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-06-01",
+          "time": "08:10 AM",
+          "reporter_role": "OPD Sister-in-Charge",
+          "incident_description": "Ceiling above OPD registration is leaking after the morning downpour; tiles sagging and water tracking towards two live sockets.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-06-01",
+          "time": "09:05 AM",
+          "reporter_role": "Security Supervisor",
+          "incident_description": "Strong winds have thrown the main entrance sliding door off alignment; door keeps jamming and hitting the frame.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-02",
+          "time": "02:20 PM",
+          "reporter_role": "ICU Nurse",
+          "incident_description": "ICU corridor floor is wet from condensation; AHU not dehumidifying in this humidity and the temp is drifting.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-04",
+          "time": "12:42 PM",
+          "reporter_role": "Duty Medical Officer - ETU",
+          "incident_description": "During the brief grid dip, the standby generator failed to auto-start; ATS alarmed then reset. Please investigate before night shift.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-06-04",
+          "time": "03:15 PM",
+          "reporter_role": "Admin Officer - Supplies",
+          "incident_description": "Water pooling in the fire pump room after the thunderstorm; seepage near the controller panel base.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-06",
+          "time": "10:18 AM",
+          "reporter_role": "Paediatric Ward Nurse",
+          "incident_description": "After the heavy shower, water dripped through a light fitting in Ward 12; pronounced leak near the nurses’ station.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-06-08",
+          "time": "04:07 PM",
+          "reporter_role": "Lift Operator",
+          "incident_description": "Lift 2 stopped between 2nd and 3rd floors during the lightning burst; two staff inside, intercom working but car not moving.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-06-08",
+          "time": "05:10 PM",
+          "reporter_role": "Stores Officer",
+          "incident_description": "Basement sump pumps did not cut in after the rain; water level rising near pharmacy bulk stores.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-09",
+          "time": "08:35 AM",
+          "reporter_role": "OPD Medical Officer",
+          "incident_description": "Wind has loosened the OPD canopy sign; the panel is swinging above the patient queue.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-11",
+          "time": "11:22 AM",
+          "reporter_role": "Theatre Nursing Sister",
+          "incident_description": "Oxygen pipeline pressure to Theatre Complex dropped twice this morning; manifold pressure stable, suspect corridor valve box leak.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-06-12",
+          "time": "09:50 AM",
+          "reporter_role": "ICU Consultant",
+          "incident_description": "ICU AHU emitting a grinding noise and airflow is low; bedsides feel warm despite setpoint.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-13",
+          "time": "01:05 PM",
+          "reporter_role": "Radiographer",
+          "incident_description": "Rainwater is seeping under the side door into Radiology; floor slippery near X‑ray room entrance.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-15",
+          "time": "08:00 AM",
+          "reporter_role": "BMS Operator",
+          "incident_description": "Gen-set day tank level sensor is stuck high causing nuisance alarms and erratic auto-refill commands.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-06-15",
+          "time": "06:25 PM",
+          "reporter_role": "Catering Supervisor",
+          "incident_description": "Roofing sheet above kitchen service yard is rattling badly in the wind; screws look loose and sheet could lift.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-17",
+          "time": "02:18 PM",
+          "reporter_role": "NICU Senior House Officer",
+          "incident_description": "Short power flicker caused NICU non-essential lighting to go off; UPS bypass reported a fault and ATS chattered.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-06-17",
+          "time": "07:40 PM",
+          "reporter_role": "Duty Matron",
+          "incident_description": "Multiple false fire alarms from Ward 7 after the rain; panel shows earth fault, likely water in conduit.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-18",
+          "time": "07:10 AM",
+          "reporter_role": "OPD Cleaner-in-Charge",
+          "incident_description": "After the early downpour, the gully by OPD clogged and sewage backed into the staff toilet; strong odour present.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-18",
+          "time": "03:32 PM",
+          "reporter_role": "Safety Officer",
+          "incident_description": "Fire exit door at Stair C is not self-closing and keeps slamming in the wind; closer failed and latch misaligned.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-06-20",
+          "time": "09:12 AM",
+          "reporter_role": "Anaesthetist - Theatre 2",
+          "incident_description": "AHU condensate drain overflowed into the Theatre 2 ceiling plenum; humidity climbing and drip marks on tiles.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-06-22",
+          "time": "04:28 PM",
+          "reporter_role": "BMS Technician",
+          "incident_description": "Chilled Water Pump-2 tripped after a brief outage; delta-T low and wards on Block B are reporting warm rooms.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-24",
+          "time": "10:05 AM",
+          "reporter_role": "Mortuary Attendant",
+          "incident_description": "Cold Room 1 high head pressure alarm; condenser choked with storm debris and room temp rising.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-24",
+          "time": "02:56 PM",
+          "reporter_role": "Antenatal Clinic Sister",
+          "incident_description": "Ceiling plaster fell in the ANC corridor after the heavy rain; leak at roof joint still active, debris on floor.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-06-25",
+          "time": "11:18 AM",
+          "reporter_role": "Infection Control Nurse",
+          "incident_description": "Isolation Ward negative pressure not holding; exhaust fan belt slipping and supply damper hunting in the wind.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-26",
+          "time": "06:50 PM",
+          "reporter_role": "Ward 3 Nursing Officer",
+          "incident_description": "Pantry taps showing low chlorine smell and cloudy water after the rain band; please flush tank and adjust dosing.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-06-28",
+          "time": "03:22 PM",
+          "reporter_role": "Electrical Supervisor",
+          "incident_description": "Underground diesel transfer pump overheated and tripped during the afternoon downpour; generator on test could not refuel.",
+          "urgency": "High"
+        }
+      ]
+    }
+  },
+  {
+    "month": "July",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-07-01",
+          "time": "07:35 AM",
+          "reporter_role": "Duty Nurse - Medical Ward 3",
+          "incident_description": "Ceiling fan on female side of Ward 3 emitted burnt smell; MCB in sub-board felt warm. Morning humidity high. Please isolate and inspect.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-03",
+          "time": "02:10 PM",
+          "reporter_role": "OPD Supervisor",
+          "incident_description": "During heavy rain, water dripped from OPD registration ceiling near computers; bucket placed and floor slippery. Suspect blocked gutter above.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-03",
+          "time": "03:55 PM",
+          "reporter_role": "ICU Medical Officer",
+          "incident_description": "Two voltage dips on CEB supply after thunder; ICU UPS alarmed. Generator did not transfer—ATS appears in MANUAL. Immediate check needed.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-07-05",
+          "time": "11:20 AM",
+          "reporter_role": "Pharmacy In-Charge",
+          "incident_description": "Main Pharmacy AC not cooling; RH above 70%, blister packs getting tacky. Please check AHU and return air dampers.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-07",
+          "time": "06:40 PM",
+          "reporter_role": "Security Officer (Evening Shift)",
+          "incident_description": "Basement near electrical room taking water with steady rain; sump pump not cutting in. Water within 2 cm of panel base.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-07-07",
+          "time": "09:05 AM",
+          "reporter_role": "OPD Attendant",
+          "incident_description": "Roof sheet over OPD side entrance rattling in breeze; one screw missing. Risk to queueing patients.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-09",
+          "time": "04:18 PM",
+          "reporter_role": "Portering Supervisor",
+          "incident_description": "Lift 2 stuck between G and 1 with a trolley and porter; alarm works, car fan off. Please release and service controller battery.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-07-09",
+          "time": "02:47 PM",
+          "reporter_role": "Anaesthetist On-Call",
+          "incident_description": "After lightning, chiller tripped; OT temperature rising to 27°C. Surgeries delayed—need urgent reset and surge protection review.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-07-10",
+          "time": "08:15 AM",
+          "reporter_role": "Dialysis Unit Sister-in-Charge",
+          "incident_description": "Ramp handrail to Dialysis is loose; base bolts rusted through. High wheelchair traffic—please secure before first session.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-12",
+          "time": "10:30 AM",
+          "reporter_role": "Housekeeping Supervisor",
+          "incident_description": "Sewage odour along Paediatric corridor; gully pit bubbling after light rain. Request jetting and trap checks.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-07-14",
+          "time": "07:50 PM",
+          "reporter_role": "Laboratory Manager",
+          "incident_description": "Fire alarm panel shows intermittent fault in Pathology stores; one ceiling detector has moisture stain. Humid evening.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-15",
+          "time": "03:12 PM",
+          "reporter_role": "Hospital Administrator",
+          "incident_description": "Emergency exit light on 3rd floor Surgical Block failed during test; test switch OK but unit dark—battery likely dead.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-17",
+          "time": "06:15 AM",
+          "reporter_role": "Ward Sister - 6B",
+          "incident_description": "Pipeline oxygen pressure low alarm at 06:05; portable cylinders OK. Suspect leak at Bed 12 headwall outlet.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-07-17",
+          "time": "08:42 AM",
+          "reporter_role": "Theatre Attendant",
+          "incident_description": "Minor OT changing room ceiling tile sagging with wet patch after night rain; droplets forming—risk of collapse.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-19",
+          "time": "11:05 AM",
+          "reporter_role": "OPD Duty Manager",
+          "incident_description": "Surface water entering OPD foyer during rain; mats soaked and floor slippery. Need sandbags and gutter/downpipe clearing.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-19",
+          "time": "05:20 PM",
+          "reporter_role": "Security OIC",
+          "incident_description": "Strong diesel fumes along back corridor during generator test; exhaust louvers jammed half-closed.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-07-20",
+          "time": "09:10 AM",
+          "reporter_role": "ETU Medical Officer",
+          "incident_description": "Wall suction in Resus Bay weak with constant hiss; likely vacuum pipeline leak at outlet. Procedures being delayed.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-07-21",
+          "time": "07:25 PM",
+          "reporter_role": "Maternity Ward Nurse",
+          "incident_description": "Covered walkway leak dripping onto a live light fitting; small spark seen during evening rain. Local switch isolated.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-07-23",
+          "time": "02:35 PM",
+          "reporter_role": "Mortuary Attendant",
+          "incident_description": "Cold Room 2 temperature rising to 12°C; condenser coils dusty and door gasket torn. Contents at risk.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-24",
+          "time": "04:50 PM",
+          "reporter_role": "Transport Officer",
+          "incident_description": "Fallen branch after gusts damaged boundary wall and car-park light conduit. Area cordoned off; needs repair.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-26",
+          "time": "08:05 AM",
+          "reporter_role": "Plant Room Operator",
+          "incident_description": "Primary chilled-water Pump B vibrating heavily; mechanical seal spraying. Recommend isolate and run on Pump A until repaired.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-29",
+          "time": "01:40 PM",
+          "reporter_role": "NICU Sister",
+          "incident_description": "Condensation dripping from AHU duct above incubators; filters likely clogged and humidity high on ward.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-30",
+          "time": "10:55 AM",
+          "reporter_role": "Medical Records Officer",
+          "incident_description": "Basement archive flooded 3–4 cm after rain; cartons wet. Sump pump appears off; need water extraction and dehumidifiers.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-30",
+          "time": "09:30 AM",
+          "reporter_role": "Safety Officer",
+          "incident_description": "Weekly drill: fire pump failed to auto-start; manual start OK. Jockey pump cycling every 2 minutes—check controller and pressure switch.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-07-31",
+          "time": "06:10 AM",
+          "reporter_role": "Nursing Officer - Male Surgical Ward",
+          "incident_description": "Flush valve in gents toilet leaking continuously; water seeping under tiles into corridor creating slip risk.",
+          "urgency": "Medium"
+        }
+      ]
+    }
+  },
+  {
+    "month": "August",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-08-01",
+          "time": "07:40 AM",
+          "reporter_role": "Staff Nurse - Ward 5",
+          "incident_description": "Condensation pooling under ceiling diffuser; corridor floor slippery due to morning humidity. Please adjust AC and fix drain.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-02",
+          "time": "03:55 PM",
+          "reporter_role": "OPD Pharmacist",
+          "incident_description": "Rainwater seeping through pharmacy skylight during afternoon shower; cartons getting damp. Request roof sealing and temporary cover.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-05",
+          "time": "04:20 PM",
+          "reporter_role": "Administrative Officer",
+          "incident_description": "Brief power dip; lifts stalled momentarily. ATS to generator chattered. Please check synchronization and voltage settings.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-08",
+          "time": "02:10 PM",
+          "reporter_role": "Housekeeping Supervisor",
+          "incident_description": "Heavy rain caused water ingress near basement records; sump pump appears tripped. Floor wet and slippery.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-08-08",
+          "time": "03:30 PM",
+          "reporter_role": "Paediatric Ward Sister",
+          "incident_description": "Storm rain leaking via window frame; ceiling tile bulging above Bed 8. Request immediate make-safe.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-09",
+          "time": "10:25 AM",
+          "reporter_role": "OT In-Charge (Eye Theatre)",
+          "incident_description": "AHU not holding setpoint; temp 24.5 C and RH high. Elective list may be delayed; need HVAC check.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-11",
+          "time": "08:05 AM",
+          "reporter_role": "MO - Labour Room",
+          "incident_description": "Vacuum pipeline suction weak at two pendants; gauge low. Suspect MGPS restriction; please inspect urgently.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-12",
+          "time": "12:15 PM",
+          "reporter_role": "ICU Consultant",
+          "incident_description": "Chiller-2 high temp alarm; ICU supply air >23 C. Immediate HVAC intervention required.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-08-13",
+          "time": "05:40 PM",
+          "reporter_role": "OPD Manager",
+          "incident_description": "After rain, OPD ramp is slippery; gully clogged and water pooling. Need clearing and non-slip mats.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-15",
+          "time": "09:10 AM",
+          "reporter_role": "Electrical Supervisor",
+          "incident_description": "Weekly generator test: radiator fan belt frayed and near failure. Request replacement before next load test.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-08-16",
+          "time": "11:30 AM",
+          "reporter_role": "NICU Matron",
+          "incident_description": "Fire door to NICU not self-closing; latch misaligned. Please repair and certify.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-17",
+          "time": "01:20 PM",
+          "reporter_role": "Radiographer",
+          "incident_description": "Gusty rain leaking above X-ray control console; water tracking along cable tray. Power isolated.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-08-17",
+          "time": "06:10 PM",
+          "reporter_role": "Security Supervisor",
+          "incident_description": "High-mast light at staff car park bent after strong winds; base bolts loose. Area cordoned off.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-19",
+          "time": "02:50 PM",
+          "reporter_role": "Kitchen Manager",
+          "incident_description": "Service corridor outside kitchen flooded with wastewater during light rain; gully blocked; foul odour spreading.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-20",
+          "time": "08:25 AM",
+          "reporter_role": "Theatre Nurse - OT 3",
+          "incident_description": "AHU filter DP 450 Pa; airflow reduced. Request filter change and balancing before noon cases.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-08-22",
+          "time": "03:40 PM",
+          "reporter_role": "Administrative Officer - Old OPD",
+          "incident_description": "Fire alarm panel shows Zone 4 fault after thunder; possible MCP/detector loop issue. Kindly investigate.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-22",
+          "time": "04:05 PM",
+          "reporter_role": "Maternity Ward Sister",
+          "incident_description": "Gutter overflow during shower; downpipe blocked and water spilling onto entry steps. Slip hazard.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-08-23",
+          "time": "09:15 AM",
+          "reporter_role": "Staff Nurse - Ward 10",
+          "incident_description": "Split AC condensate drain blocked; water dripping near bed head panel and outlets. Please attend ASAP.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-24",
+          "time": "02:25 PM",
+          "reporter_role": "Lift Attendant",
+          "incident_description": "Lift 2 tripped during afternoon rain; water visible in shaft pit. Power isolated for safety.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-08-24",
+          "time": "05:40 PM",
+          "reporter_role": "Front Office Executive",
+          "incident_description": "Lobby false ceiling tile soaked and fell; suspected chilled water pipe insulation leak above.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-25",
+          "time": "07:50 AM",
+          "reporter_role": "Surgical Ward Sister",
+          "incident_description": "Staircase handrail at Ward 6 mid-landing is loose; screws pulled out. Please secure.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-08-27",
+          "time": "08:10 PM",
+          "reporter_role": "Duty Medical Officer",
+          "incident_description": "Emergency exit light on 3rd floor fails on battery test. Replace unit/backup pack.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-08-28",
+          "time": "11:05 AM",
+          "reporter_role": "Biomedical Engineer",
+          "incident_description": "Medical air dryer showing high dew point; risk of moisture in MGPS. Check desiccant and auto drains.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-30",
+          "time": "03:10 PM",
+          "reporter_role": "CSSD Supervisor",
+          "incident_description": "Downpour caused roof drain overflow; water entered CSSD corridor. Sterile packs at risk if not contained.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-30",
+          "time": "03:25 PM",
+          "reporter_role": "Transport In-Charge",
+          "incident_description": "Ambulance bay flooded; one trench drain grate displaced. Vehicles struggling to dock safely.",
+          "urgency": "Critical"
+        }
+      ]
+    }
+  },
+  {
+    "month": "September",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-09-02",
+          "time": "07:25 AM",
+          "reporter_role": "ICU Charge Nurse",
+          "incident_description": "ICU corridor floor wet from AHU condensate due to today’s humidity; two near slips. Please clear condensate drain and place anti-slip mats.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-03",
+          "time": "12:10 PM",
+          "reporter_role": "Theatre Coordinator",
+          "incident_description": "OT 2 AHU not maintaining setpoint; temp 28°C, RH high. Elective list at risk. Request urgent HVAC inspection and filter check.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-04",
+          "time": "06:20 PM",
+          "reporter_role": "OPD Admin Officer",
+          "incident_description": "OPD entrance ramp ponding after evening showers; drain likely blocked with debris. Slip hazard for clinic crowd. Please clear and squeegee.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-09-04",
+          "time": "08:40 PM",
+          "reporter_role": "Nursing Officer - Medical Ward 4",
+          "incident_description": "Ceiling leak near window bay after rain; drip falling over Bed 14 area. Need roof flashing repair and ceiling tile replacement.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-06",
+          "time": "10:15 AM",
+          "reporter_role": "Security Supervisor",
+          "incident_description": "Lift 2 machine room very hot; exhaust fan not running. Motor overheating alarm observed. Request ventilation repair to prevent lift shutdown.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-08",
+          "time": "03:50 PM",
+          "reporter_role": "Ward Sister - Maternity",
+          "incident_description": "Roof leak over nurses’ station during afternoon rain; water dripping onto electrical trunking. Kindly isolate power and attend roof urgently.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-09-08",
+          "time": "04:05 PM",
+          "reporter_role": "Laboratory Manager",
+          "incident_description": "UPS beeping due to voltage dips after gusty showers; lights flicker. Please check AVR and MDB feeders for stabilization.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-10",
+          "time": "07:30 PM",
+          "reporter_role": "Nursing Officer - ETU",
+          "incident_description": "ETU AHU stopped after thunder; area getting warm and stuffy. Request immediate restart and check of surge protection.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-10",
+          "time": "08:10 PM",
+          "reporter_role": "Security Guard (Basement Patrol)",
+          "incident_description": "Basement pump room water ingress during storm; Sump Pump 2 not starting. Rising water near electrical panels—urgent dewatering required.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-09-11",
+          "time": "09:05 AM",
+          "reporter_role": "Safety Officer",
+          "incident_description": "Surgical Block fire exit door at L2 not latching; door scrapes floor. Compromises compartmentation. Please plane door and fix closer.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-09-12",
+          "time": "02:40 PM",
+          "reporter_role": "Paediatric Clinic Nurse",
+          "incident_description": "Clinic waiting area smells musty after intermittent rain; condensation from diffuser dripping onto bench. Need AHU filter change and drain check.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-09-14",
+          "time": "11:30 AM",
+          "reporter_role": "ICU Senior Nursing Officer",
+          "incident_description": "ICU Bed 6 oxygen outlet gauge fluctuating with audible hiss. Suspect loose terminal unit. Request medical gas line inspection.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-15",
+          "time": "06:55 AM",
+          "reporter_role": "Nutrition Unit In-Charge",
+          "incident_description": "Milk kitchen hot-water not available; solar line lukewarm only. Likely circulation pump or mixing valve issue. Please attend before morning prep.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-09-17",
+          "time": "03:25 PM",
+          "reporter_role": "Radiology Technologist",
+          "incident_description": "X-ray Room 1 false ceiling tile sagged and fell after heavy rain; visible leak above. Area now exposed. Kindly repair and make safe.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-17",
+          "time": "04:10 PM",
+          "reporter_role": "Duty Engineer - Electrical",
+          "incident_description": "GenSet 2 failed to accept load during post-thunder test; sync panel tripped. Request immediate diagnosis of breaker and AVR.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-09-17",
+          "time": "06:05 PM",
+          "reporter_role": "Administrative Officer (Transport)",
+          "incident_description": "Rainwater seeping into staff car park stairwell; emergency light not working. Stair is dark and slippery. Need light and drain fix.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-19",
+          "time": "09:40 AM",
+          "reporter_role": "OPD Housekeeping Supervisor",
+          "incident_description": "Persistent sewer odour in OPD toilets despite cleaning. Suspect blocked vent or dry trap. Please inspect lines and reseal joints.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-09-21",
+          "time": "02:20 PM",
+          "reporter_role": "Pharmacist In-Charge",
+          "incident_description": "Fire alarm panel showing Zone 5 fault after thundery rain; intermittent beeping. Likely detector/wiring moisture ingress. Request urgent check.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-21",
+          "time": "05:50 PM",
+          "reporter_role": "Nursing Officer - Paediatric Ward",
+          "incident_description": "Children’s ward louvre window clip broken; wind-driven rain entering near bed area. Need clip replacement and rubber beading reseal.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-09-23",
+          "time": "04:35 PM",
+          "reporter_role": "Dialysis Unit Nurse",
+          "incident_description": "RO plant feed pressure low; storage tank level warning during evening storm. Request booster pump and inlet strainer check.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-23",
+          "time": "07:15 PM",
+          "reporter_role": "Front Office Executive",
+          "incident_description": "Main foyer ceiling leaking above registration counters; multiple buckets placed. Slip risk at queue area. Please cordon and repair.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-25",
+          "time": "02:05 PM",
+          "reporter_role": "Transport Supervisor",
+          "incident_description": "Surgical Block roof gutter overflowing in heavy rain; downpipe blocked. Water cascading onto ambulance bay ramp. Need immediate clearance.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-25",
+          "time": "05:30 PM",
+          "reporter_role": "Ward Sister - Ward 7",
+          "incident_description": "Burnt smell at medication prep room; one socket faceplate scorched after lightning surge. MCB warm. Circuit to be isolated and replaced.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-09-27",
+          "time": "11:10 AM",
+          "reporter_role": "Safety Officer",
+          "incident_description": "Stair 3 emergency exit light on Level 2 dead; test button no response. Battery likely failed. Replace to maintain egress compliance.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-09-28",
+          "time": "01:25 PM",
+          "reporter_role": "CSSD In-Charge",
+          "incident_description": "Steam line near trap in CSSD hissing; small condensate leak making floor wet. Please isolate and repair before afternoon sterilization run.",
+          "urgency": "High"
+        }
+      ]
+    }
+  },
+  {
+    "month": "October",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-10-01",
+          "time": "08:12 PM",
+          "reporter_role": "OPD Registration Officer",
+          "incident_description": "During the evening thunderstorm, rainwater dripped through the light fitting above OPD ticketing. Risk of shorting at the counter DB; please seal roof penetration and inspect wiring.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-02",
+          "time": "03:20 PM",
+          "reporter_role": "CSSD In-Charge",
+          "incident_description": "Heavy rain caused the rear drain to back up; water is pooling at the CSSD entrance threshold. Immediate dewatering and gully clearance needed to prevent slip/contamination.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-03",
+          "time": "11:05 AM",
+          "reporter_role": "Sister-in-Charge, ICU",
+          "incident_description": "ICU AHU not holding temperature/humidity in Bed 3–6 bay; condensation forming on diffusers and dripping. Request HVAC team to check AHU-2 cooling coil and drain pan.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-04",
+          "time": "07:41 PM",
+          "reporter_role": "Security Officer (Control Room)",
+          "incident_description": "Fire alarm false activations reported on Maternity Stairwell, Loop-2, during rain. Panel shows intermittent moisture fault; please check detectors and cabling ingress.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-10-05",
+          "time": "06:58 PM",
+          "reporter_role": "Hospital Administrator (On-call)",
+          "incident_description": "Brief blackout in Surgical Ward; genset did not auto-transfer. ATS contactor appears stuck; urgent inspection and function test required before next storm.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-10-06",
+          "time": "09:17 AM",
+          "reporter_role": "Dialysis Unit Nursing Officer",
+          "incident_description": "Broken floor tile in Dialysis corridor near RO room causing a trip hazard for trolleys and patients. Request immediate repair and area cordon.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-10-07",
+          "time": "02:46 PM",
+          "reporter_role": "Pediatric Ward Nursing Officer",
+          "incident_description": "Blocked downpipe at Ward 4 balcony; water overflowing into ward doorway during rain. Need clearing of gutters and sealing of door threshold.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-08",
+          "time": "07:25 PM",
+          "reporter_role": "Theatre Matron",
+          "incident_description": "Main OT humidity at 70%; BMS shows AHU-3 reheat valve stuck and dehumidifier alarm active after thunder. Request immediate HVAC intervention before elective list.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-09",
+          "time": "10:33 AM",
+          "reporter_role": "Consultant Anaesthetist (OT)",
+          "incident_description": "Audible hiss from N2O outlet at OT-2 pendant; AVSU closed temporarily. Please test and rectify outlet/line leak and re-certify the point.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-10",
+          "time": "08:04 PM",
+          "reporter_role": "Administrative Officer",
+          "incident_description": "Lightning during storm tripped MDB-Admin; partial outage in Accounts/HR. UPS circuits held. Need surge protection check and insulation testing before re-energizing.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-11",
+          "time": "01:56 PM",
+          "reporter_role": "Lift Attendant",
+          "incident_description": "Lift-2 pit flooded due to persistent rain; sump pump not starting and lift locked at Level 1. Request dewatering and pump repair ASAP.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-10-11",
+          "time": "05:22 PM",
+          "reporter_role": "IT Officer",
+          "incident_description": "Water tracking along basement ceiling expansion joint; damp patch forming outside Server Room. Need sealing of joint and inspection of nearby piping/roof drain.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-12",
+          "time": "09:48 AM",
+          "reporter_role": "Ward 3 Sister",
+          "incident_description": "AHU belt squealing and airflow low in Ward 3 side A; rooms getting stuffy. Request belt replacement and filter check.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-10-13",
+          "time": "02:10 PM",
+          "reporter_role": "Quality Officer - Patient Safety",
+          "incident_description": "Monthly emergency lighting test: six fittings in Oncology corridor failed to illuminate. Please replace batteries/units and update log.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-10-14",
+          "time": "07:52 PM",
+          "reporter_role": "BMS Operator",
+          "incident_description": "During violent storm, Chiller-2 tripped on high head pressure; OPD and Clinics losing cooling. Need condenser coil wash and cooling tower check.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-14",
+          "time": "08:37 PM",
+          "reporter_role": "Security Officer (Control Room)",
+          "incident_description": "Fire panel shows ground fault on Loop-4 (Radiology wing) after lightning. Repeated beeping; request loop isolation and detector/cable insulation test.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-15",
+          "time": "03:05 PM",
+          "reporter_role": "Lab Technologist - Pathology",
+          "incident_description": "Ceiling tile collapsed in Pathology store after thundery rain; visible leak from above. Boxes at risk; kindly fix leak and replace damaged tiles.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-16",
+          "time": "10:14 AM",
+          "reporter_role": "Sister, Labour Room",
+          "incident_description": "Fire door to Labour Room corridor not self-closing; door closer failed. Please repair to maintain compartmentation compliance.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-10-17",
+          "time": "06:11 PM",
+          "reporter_role": "Laundry Supervisor",
+          "incident_description": "Strong gusts loosened a roofing sheet over Laundry; loud rattling and visible lift at corner. Need safe securing before it detaches.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-18",
+          "time": "07:03 PM",
+          "reporter_role": "OPD Attendant",
+          "incident_description": "Sewage backflow in Gents toilet near OPD pharmacy; gully overflowing after showers. Request jetting and check of sump/pump operation.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-19",
+          "time": "11:22 AM",
+          "reporter_role": "Medical Officer - OPD",
+          "incident_description": "Handrail on main staircase (L1–L2) is loose and wobbly on the right side. Please tighten/reweld brackets; high pedestrian traffic here.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-10-20",
+          "time": "02:49 PM",
+          "reporter_role": "Duty Electrician",
+          "incident_description": "Water ingress in Main Switch Room via cable trench during intense rain; pooling adjacent to MDB-1A. Urgent pumping and sealing needed before energization risk.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-10-20",
+          "time": "08:18 PM",
+          "reporter_role": "Power House Operator",
+          "incident_description": "Genset overheating alarm; radiator fan belt snapped while on load due to unstable CEB supply. Require belt replacement and cooling check immediately.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-10-28",
+          "time": "07:39 PM",
+          "reporter_role": "Theatre Nursing Officer",
+          "incident_description": "Heavy rain leaking through scrub area light fitting in OT-1; water dripping near electrical outlets. Please isolate, waterproof, and test circuits.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-10-30",
+          "time": "09:06 PM",
+          "reporter_role": "ICU Medical Officer",
+          "incident_description": "Severe storm caused a power dip; ICU UPS room is overheated as split AC tripped. Overload alarm active—need HVAC restored and UPS temp stabilized.",
+          "urgency": "Critical"
+        }
+      ]
+    }
+  },
+  {
+    "month": "November",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-11-01",
+          "time": "02:40 PM",
+          "reporter_role": "Radiology Technologist",
+          "incident_description": "Water dripping through the false ceiling above the CT corridor, wetting the cable tray during the afternoon downpour. Risk to DB in Room R-02; please attend roof membrane and isolate any affected lighting circuit.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-01",
+          "time": "04:10 PM",
+          "reporter_role": "Front Office Supervisor",
+          "incident_description": "Wind-driven rain coming past the main sliding door; floor mats are saturated and the granite is slippery. Bottom seal on the door is torn—urgent replacement and rain barrier needed.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-02",
+          "time": "08:25 AM",
+          "reporter_role": "Housekeeping Supervisor",
+          "incident_description": "G/F Male Toilet by OPD has gully overflow after steady rain; foul smell and brown water backflow via floor trap. Request immediate jetting and inspection chamber clearing.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-04",
+          "time": "03:35 PM",
+          "reporter_role": "Maintenance Technician",
+          "incident_description": "Seepage under generator room door; ATS panel gives intermittent earth-leak alarm when floor damp. Need door threshold sealing and panel check.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-05",
+          "time": "11:15 AM",
+          "reporter_role": "OT In-Charge Sister",
+          "incident_description": "OT chiller-2 tripped on high head pressure; condenser likely fouled. OR temps trending to 25°C—please service and restore redundancy.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-06",
+          "time": "06:50 AM",
+          "reporter_role": "Infection Control Nurse",
+          "incident_description": "TB isolation room (Ward 3) negative pressure alarm; exhaust belt snapped, DP now positive to corridor. Immediate fix required to restore airflow.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-11-07",
+          "time": "09:05 AM",
+          "reporter_role": "Health and Safety Officer",
+          "incident_description": "Roof gutter above Stair B overflowing; water tracking into landing making tiles slick. Likely downpipe choke with leaves.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-11-08",
+          "time": "10:20 AM",
+          "reporter_role": "Sister-in-Charge, NICU",
+          "incident_description": "NICU AHU showing RH 72–75% with warm supply; dehumidification ineffective on this humid day. Incubators struggling to maintain setpoints.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-09",
+          "time": "12:10 PM",
+          "reporter_role": "Security Supervisor",
+          "incident_description": "Squally gusts have loosened a GI sheet on the OPD drop-off canopy; loud flapping and risk of detachment onto driveway.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-11-09",
+          "time": "02:55 PM",
+          "reporter_role": "IT Officer - ICU",
+          "incident_description": "ICU UPS/battery room at 32°C; wall extractor not working and room feels humid. Please restore ventilation to protect UPS batteries.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-11",
+          "time": "05:40 PM",
+          "reporter_role": "Anaesthetic Technician",
+          "incident_description": "Oxygen manifold shed roof leaking; water on secondary regulators and condensation on gauges after prolonged rain. Need urgent roof patch and safe drying.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-11-12",
+          "time": "03:00 PM",
+          "reporter_role": "Fire Safety Warden - Block C",
+          "incident_description": "Level 2 fire exit door not self-closing; closer arm loose and door remains ajar. Compromises compartmentation.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-13",
+          "time": "07:30 PM",
+          "reporter_role": "Stores Officer",
+          "incident_description": "Basement pump room sump level high; duty pump not starting, only standby runs on manual. With ongoing rain, risk to MV cables nearby.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-14",
+          "time": "07:10 AM",
+          "reporter_role": "Consultant Anaesthetist",
+          "incident_description": "OT-2 AHU airflow low; V-belt frayed and slipping. Theatre temp drifting to 24°C ahead of morning list.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-15",
+          "time": "01:25 PM",
+          "reporter_role": "Nursing Officer - Ward 7B",
+          "incident_description": "Window frame leaking in heavy rain; water running onto bedhead trunking at Bed 12 near 230V sockets. Immediate attention needed.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-11-15",
+          "time": "06:20 PM",
+          "reporter_role": "Security Supervisor",
+          "incident_description": "Parking lot pole lights off; B-Block lighting MCB tripped. Suspect water ingress at junction box by Pole P3.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-11-16",
+          "time": "09:45 AM",
+          "reporter_role": "Duty Engineer (Power Plant)",
+          "incident_description": "Monthly generator test: gen started but ATS took ~20 sec to transfer and failed to retransfer to CEB mains. Request ATS logic and battery check.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-11-17",
+          "time": "11:50 AM",
+          "reporter_role": "CSSD Supervisor",
+          "incident_description": "CSSD sterilizer feedwater pressure unstable; booster pump cavitating (possible foot/check valve issue). Two cycles aborted.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-11-18",
+          "time": "04:15 PM",
+          "reporter_role": "Medical Records Officer",
+          "incident_description": "Leak at expansion joint in MRD; cartons on lower racks damp with today’s rain and breeze. Need sealing and dehumidification.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-11-20",
+          "time": "09:00 AM",
+          "reporter_role": "Radiology In-Charge",
+          "incident_description": "Diagnostic corridor outside X-Ray flooded 1–2 cm after heavy rain; catchpit at Door D5 overflowing with silt and leaves.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-20",
+          "time": "09:40 AM",
+          "reporter_role": "Transport Officer",
+          "incident_description": "Lift A halted between G and 1; pit water level activated safety switch after rain. Passengers assisted out—lift to remain OOS until pit is pumped and reset.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-11-22",
+          "time": "02:05 PM",
+          "reporter_role": "Ward Sister - Surgical Ward",
+          "incident_description": "Medical vacuum plant low pressure alarm; Pump-2 overheated and prefilter appears clogged. Suction weak at bedside outlets.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-23",
+          "time": "11:05 AM",
+          "reporter_role": "OPD Reception Supervisor",
+          "incident_description": "Cardiology OPD ceiling getting damp; AHU condensate tray overflowing onto tiles. Likely drain choke on this hot, muggy day.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-11-25",
+          "time": "03:30 PM",
+          "reporter_role": "ETU Medical Officer",
+          "incident_description": "ETU ambulance bay waterlogged to ankle depth; trench drain choked with debris after thunderstorm. Offloading affected—urgent clearing needed.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-25",
+          "time": "05:10 PM",
+          "reporter_role": "Electrical Foreman",
+          "incident_description": "Main LT panel (Room L1) shows moisture tracking near neutral busbar; faint burning smell noted after rain. Request immediate dehumidification and insulation integrity test.",
+          "urgency": "Critical"
+        }
+      ]
+    }
+  },
+  {
+    "month": "December",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-12-01",
+          "time": "02:40 PM",
+          "reporter_role": "OPD Staff Nurse",
+          "incident_description": "Rainwater dripping from OPD ceiling near registration; wet floor causing slip risk—please check roof and drainage.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-01",
+          "time": "06:10 PM",
+          "reporter_role": "Security Officer",
+          "incident_description": "Thunderstorm runoff entering generator yard; sump pump running continuously and alarm beeping.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-03",
+          "time": "07:30 AM",
+          "reporter_role": "Theatre Stores Assistant",
+          "incident_description": "Light rain seeped under sterile store door; cartons damp—need door seal and drain check.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-05",
+          "time": "12:20 PM",
+          "reporter_role": "Paediatric Ward Nurse",
+          "incident_description": "Handwash sink trap leaking in Bay 2; steady drip forming puddle.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-12-05",
+          "time": "04:45 PM",
+          "reporter_role": "Pharmacist",
+          "incident_description": "Pharmacy storeroom RH at 70%; dehumidifier not working after brief rain; risk to stock.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-07",
+          "time": "08:50 PM",
+          "reporter_role": "ETU Duty MO",
+          "incident_description": "Leak through light fitting over triage bed during evening rain; electrical hazard.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-12-08",
+          "time": "03:10 PM",
+          "reporter_role": "Admin Officer",
+          "incident_description": "Fire exit Stair B—exit sign and landing light are out; please restore.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-12-09",
+          "time": "07:15 AM",
+          "reporter_role": "Housekeeping Supervisor",
+          "incident_description": "Early rain blew in through main lobby doors; missing bottom seal; slippery tiles.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-10",
+          "time": "02:25 PM",
+          "reporter_role": "Consultant Anaesthetist",
+          "incident_description": "Theatre 2 medical air outlet showing pressure fluctuations during case; check pipeline/regulator.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-12-11",
+          "time": "01:05 PM",
+          "reporter_role": "ICU Nursing Officer",
+          "incident_description": "ICU AHU fault; humidity high and condensate dripping near Bed 4.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-11",
+          "time": "05:55 PM",
+          "reporter_role": "Duty Administrator",
+          "incident_description": "Power flicker with thunder; Block B generator started but ATS chattered; lights dipped twice.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-12",
+          "time": "09:35 AM",
+          "reporter_role": "Administrative Officer",
+          "incident_description": "Ceiling tile sagging outside Accounts; brown stain visible; risk of fall.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-12-13",
+          "time": "08:10 PM",
+          "reporter_role": "Labour Room Sister",
+          "incident_description": "After evening rain, gully overflow in anteroom; foul backflow through floor drain.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-14",
+          "time": "11:20 AM",
+          "reporter_role": "Security Chief",
+          "incident_description": "OPD hydrant cabinet seal broken; nozzle missing; replace and reseal.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-12-15",
+          "time": "05:50 PM",
+          "reporter_role": "Ward Clerk (Male Surgical)",
+          "incident_description": "Corridor handrail near MS-3 is loose and wobbly; fix brackets.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-12-16",
+          "time": "02:00 PM",
+          "reporter_role": "ETU Nurse-in-Charge",
+          "incident_description": "Heavy rain causing canopy gutter overflow; water splashing at ETU doorway.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-16",
+          "time": "06:30 PM",
+          "reporter_role": "Ward 7 Sister",
+          "incident_description": "Dirty utility exhaust not drawing after rain; strong odour persists.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-12-18",
+          "time": "08:40 AM",
+          "reporter_role": "OPD Ticket Counter Clerk",
+          "incident_description": "Counter 2 socket sparks when fan is switched on; cracked faceplate.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-20",
+          "time": "04:15 PM",
+          "reporter_role": "Supplies Admin Officer",
+          "incident_description": "Diesel smell from generator yard; visible drip at return line clamp during weekly run.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-21",
+          "time": "07:55 AM",
+          "reporter_role": "Consultant Microbiologist",
+          "incident_description": "Isolation Room 2 not holding negative pressure; gauge reads 0 Pa; urgent HVAC check.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-12-22",
+          "time": "03:35 PM",
+          "reporter_role": "Ward 4 Sister",
+          "incident_description": "Brief rain led to seepage above DB room door; wall damp near electrical panel.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-25",
+          "time": "10:10 AM",
+          "reporter_role": "Hospital Administrator",
+          "incident_description": "Festive lighting in OPD tripping MCB on Circuit OPD-03; need safe power arrangement.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-12-27",
+          "time": "06:40 AM",
+          "reporter_role": "Security Officer",
+          "incident_description": "LOX tank compound fence panel detached; access unsecured; lock and repair.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-28",
+          "time": "05:25 PM",
+          "reporter_role": "Senior Radiographer",
+          "incident_description": "Humid evening; MRI chiller/AHU not removing moisture; condensation on magnet room floor.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-31",
+          "time": "09:20 PM",
+          "reporter_role": "Night Duty Nursing Officer",
+          "incident_description": "Fire alarm shows 'Fault' on Zone 4 since 2100 hrs; please attend before midnight.",
+          "urgency": "High"
+        }
+      ]
+    }
+  }
+]

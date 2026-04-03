@@ -1,0 +1,13 @@
+llm:
+  default_provider: openai
+  providers:
+    openai:
+      api_key: ${OPENAI_API_KEY}
+      model: gpt-5
+      temperature: 0.7
+      max_tokens: 10000
+    gemini:
+      api_key: ${GEMINI_API_KEY}
+      model: gemini-3.1-pro-preview
+      temperature: 0.7
+      max_tokens: 6000

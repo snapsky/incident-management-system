@@ -1,0 +1,2186 @@
+[
+  {
+    "month": "January",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-01-01",
+          "time": "08:10 AM",
+          "reporter_role": "OPD Registration Officer",
+          "incident_description": "OPD token display is out of sync with HIS; looks like the display controller time is drifting and calls wrong ticket order.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-03",
+          "time": "08:22 AM",
+          "reporter_role": "ETU Nurse In-Charge",
+          "incident_description": "HIS sessions in ETU drop every few minutes since the light rain; link to the ETU switch is intermittently unreachable, slowing triage.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-03",
+          "time": "03:12 PM",
+          "reporter_role": "Radiology Technologist",
+          "incident_description": "PACS cannot retrieve prior CT studies; DICOM C-FIND works but C-MOVE fails from archive before the evening list.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-01-05",
+          "time": "10:47 AM",
+          "reporter_role": "Pharmacy In-Charge",
+          "incident_description": "Dispensing label printers in OPD pharmacy are offline after a power cycle; PCs reach HIS but printers look on the wrong VLAN.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-06",
+          "time": "06:35 AM",
+          "reporter_role": "Laboratory Manager",
+          "incident_description": "LIS to HIS result posting stalled since 05:50; HL7 messages stuck in the outbound queue and wards aren't seeing morning labs.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-01-08",
+          "time": "01:26 PM",
+          "reporter_role": "Telemedicine Coordinator",
+          "incident_description": "Link to the peripheral clinic dropped during the short rain; rooftop wireless backhaul is flapping and consult was aborted.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-01-08",
+          "time": "04:58 PM",
+          "reporter_role": "Consultant Surgeon",
+          "incident_description": "OT scheduling module shows a duplicate slot for Theatre 2 at 5 pm after rescheduling; risk of double-booking.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-10",
+          "time": "11:14 AM",
+          "reporter_role": "Billing Supervisor",
+          "incident_description": "Card payment gateway in HIS is timing out; receipts remain pending while tokens settle later; please check firewall and callbacks.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-11",
+          "time": "09:02 AM",
+          "reporter_role": "HR Officer",
+          "incident_description": "Unable to assign the standard MO role during onboarding; the role template is missing after the last HIS update.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-01-13",
+          "time": "09:06 AM",
+          "reporter_role": "Ward Clerk - Paediatric",
+          "incident_description": "Bed transfers done at 08:30 are not visible; ADT feed is delayed and BHT location still shows the old ward.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-01-13",
+          "time": "07:42 PM",
+          "reporter_role": "Data Centre Attendant",
+          "incident_description": "Humidity alarm in the server room after the brief evening rain; backup CRAC did not auto-start and sensors need checking.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-01-14",
+          "time": "06:50 AM",
+          "reporter_role": "NICU Staff Nurse",
+          "incident_description": "Barcode scanners at NICU med cabinet fail to read new wristbands; yesterday’s driver push seems incompatible.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-16",
+          "time": "12:18 AM",
+          "reporter_role": "Hospital Administrator",
+          "incident_description": "Nightly database backup failed two nights; offsite replication lag is 9 hours and needs immediate DR review.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-01-17",
+          "time": "02:11 PM",
+          "reporter_role": "Security Supervisor",
+          "incident_description": "Maternity block NVR is at 98% and not enforcing the 14-day retention after firmware patch; risk of recording halt.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-19",
+          "time": "08:17 AM",
+          "reporter_role": "ETU Medical Officer",
+          "incident_description": "Bedside monitors lost network to central station twice during the morning rain; PoE switch shows power issues.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-01-19",
+          "time": "02:31 PM",
+          "reporter_role": "OPD Cashier",
+          "incident_description": "After the noon patch, HIS is issuing duplicate receipt numbers in OPD; finance tallies are off and need a hotfix.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-21",
+          "time": "11:03 AM",
+          "reporter_role": "Consultant Radiologist",
+          "incident_description": "PACS viewer lags 20–30 seconds when scrolling MR series; local cache bypassed and Radiology VLAN QoS seems low.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-01-23",
+          "time": "07:55 AM",
+          "reporter_role": "Blood Bank Technologist",
+          "incident_description": "Crossmatch label timestamps are 10 minutes ahead of LIS; the workstation is not syncing with NTP, affecting traceability.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-24",
+          "time": "08:32 AM",
+          "reporter_role": "Theatre Matron",
+          "incident_description": "IP phone in OT 2 is not registering; anaesthesia calls fail and the voice VLAN DHCP scope may be exhausted.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-26",
+          "time": "10:09 AM",
+          "reporter_role": "Head of Physiotherapy",
+          "incident_description": "Rehab module access removed after role cleanup; therapists cannot document sessions and need permission mapping.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-01-28",
+          "time": "03:36 PM",
+          "reporter_role": "OPD Floor Supervisor",
+          "incident_description": "OPD token displays flicker and reboot during the afternoon light rain; the UPS is beeping and the switch keeps restarting.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-28",
+          "time": "07:21 PM",
+          "reporter_role": "Network Technician",
+          "incident_description": "High CRC errors and flapping on the fibre uplink to Ward 8E after rain; SFP shows increased optical loss and needs splice checks.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-29",
+          "time": "09:40 AM",
+          "reporter_role": "Dietary Department Supervisor",
+          "incident_description": "Diet order interface shows permission denied for two staff after HR roster change; likely AD group sync issue.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-01-30",
+          "time": "03:48 PM",
+          "reporter_role": "Administrative Registrar",
+          "incident_description": "Audit found three terminated locum accounts still active in HIS with eRx rights; please deactivate and run an access review.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-01-31",
+          "time": "08:46 PM",
+          "reporter_role": "On-call Anaesthetist",
+          "incident_description": "Cannot log in to e-prescribe on the tablet over hospital Wi-Fi; 2FA push not arriving and SMS gateway seems queued.",
+          "urgency": "High"
+        }
+      ]
+    }
+  },
+  {
+    "month": "February",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-02-01",
+          "time": "08:15 AM",
+          "reporter_role": "OPD Registration Clerk",
+          "incident_description": "Barcode wristband printer at Counter 2 not printing; HIS registration shows 'spooler paused' and patients are queueing.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-03",
+          "time": "02:40 PM",
+          "reporter_role": "Radiographer, Radiology",
+          "incident_description": "PACS viewer on CT console intermittently freezes when loading large series; DICOM association timeouts on VLAN Rad-02.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-05",
+          "time": "09:10 AM",
+          "reporter_role": "Pharmacist in Charge, OPD Pharmacy",
+          "incident_description": "Dispensing in HIS deducts stock locally but Inventory module not updating; negative balance alerts for amoxicillin since 08:30.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-05",
+          "time": "04:55 PM",
+          "reporter_role": "HR Officer",
+          "incident_description": "Biometric attendance terminal at Staff Gate 1 shows 'offline'; punches not syncing to HRM, likely switch port flapping in guard room.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-02-07",
+          "time": "12:20 PM",
+          "reporter_role": "Theatre Coordinator",
+          "incident_description": "HIS OR scheduling duplicated two lists after last patch; anaesthesia and theatre teams getting conflicting times.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-02-08",
+          "time": "07:30 AM",
+          "reporter_role": "Ward Sister, NICU",
+          "incident_description": "Bedside monitors exporting vitals to HIS under wrong cot numbers; ADT/bed mapping seems altered after weekend merge.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-08",
+          "time": "06:35 PM",
+          "reporter_role": "Ward Nurse, Medical Ward 8",
+          "incident_description": "After light rain, ward Wi‑Fi drops every few minutes; VoIP calls cut and HIS sessions log out—outdoor AP uplink may be wet.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-08",
+          "time": "08:10 PM",
+          "reporter_role": "Senior MLS, Laboratory",
+          "incident_description": "LIS-to-EHR results queue stuck (>180 messages); critical K+ results not posting to wards.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-02-10",
+          "time": "11:05 AM",
+          "reporter_role": "OPD Cashier Supervisor",
+          "incident_description": "Cashier role now exposes Psychiatry encounter notes via Billing screen; urgent role/permission correction needed.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-02-12",
+          "time": "08:50 AM",
+          "reporter_role": "Medical Officer, ETU",
+          "incident_description": "Triage tablets reject logins with 'license seats exceeded' after adding new MOs; need license pool adjustment.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-02-12",
+          "time": "03:15 PM",
+          "reporter_role": "Engineering Officer (BMS)",
+          "incident_description": "Server room temperature alarms during very warm afternoon; core switches reporting 58°C—please check CRAC and load.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-14",
+          "time": "02:25 PM",
+          "reporter_role": "Consultant Radiologist",
+          "incident_description": "Brief power dip during thundery rain—PACS archive failover misbehaved; new studies stuck in incoming queue.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-02-14",
+          "time": "05:40 PM",
+          "reporter_role": "Consultant Physician",
+          "incident_description": "e‑Prescription 2FA SMS OTPs timing out; unable to sign from clinic—OTP gateway or route issue.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-16",
+          "time": "01:05 PM",
+          "reporter_role": "Ward Nurse, Surgical Ward 3",
+          "incident_description": "After last night’s HIS update, MAR 'Acknowledge' button is greyed; drug rounds delayed.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-18",
+          "time": "09:20 AM",
+          "reporter_role": "Hospital Administrator",
+          "incident_description": "Phishing email about EPF update received by many staff; two entered credentials—please enforce resets and review mail logs.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-02-20",
+          "time": "08:10 AM",
+          "reporter_role": "Medical Records Officer",
+          "incident_description": "Scanning stations cannot upload PDFs to eMR; SFTP host unreachable since morning light rain.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-02-20",
+          "time": "01:30 PM",
+          "reporter_role": "Pathology Registrar",
+          "incident_description": "HL7 feed to external reference lab failing TLS handshake; certificate expired today and samples are queued.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-21",
+          "time": "07:55 AM",
+          "reporter_role": "OPD Matron",
+          "incident_description": "QMS kiosks stuck on Windows update splash; OPD queues building—need quick rollback or completion.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-22",
+          "time": "02:10 PM",
+          "reporter_role": "ICU Consultant",
+          "incident_description": "ICU PACS workstations can’t play echo loops; MPEG-2 codec missing after auto-update.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-02-24",
+          "time": "10:25 AM",
+          "reporter_role": "Charge Nurse, Dialysis Unit",
+          "incident_description": "Barcode label printer producing faint codes that scanners reject; driver shows wrong media settings post-update.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-02-24",
+          "time": "03:50 PM",
+          "reporter_role": "SHO, Medical Clinic",
+          "incident_description": "e‑OPD login locked after surname change; AD synced name but old username persists—access needed for evening clinic.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-02-25",
+          "time": "06:15 AM",
+          "reporter_role": "Duty Manager",
+          "incident_description": "Nightly EHR DB differential backup failed—storage at 95% and DR RPO at risk before OPD starts.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-02-26",
+          "time": "12:05 PM",
+          "reporter_role": "Matron, Maternity",
+          "incident_description": "HIS very slow in Maternity; fiber uplink shows packet loss—midday heat may be affecting cabinet; clinic e-registrations halted.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-26",
+          "time": "06:55 PM",
+          "reporter_role": "Telemedicine Coordinator",
+          "incident_description": "After brief rain and gusty wind, rooftop microwave link to Divisional Hospital is down; evening teleclinic cancelled—please failover to 4G.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-28",
+          "time": "04:30 PM",
+          "reporter_role": "Procurement Officer",
+          "incident_description": "During UAT of Inventory update, PO numbers are duplicating across suppliers; request hold on release and fix numbering rules.",
+          "urgency": "Medium"
+        }
+      ]
+    }
+  },
+  {
+    "month": "March",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-03-02",
+          "time": "08:15 AM",
+          "reporter_role": "OPD Receptionist",
+          "incident_description": "OPD registration keeps timing out; NIC lookup via HIS API fails and tokens don’t print. Front-desk Wi-Fi drops in the heat.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-03",
+          "time": "10:42 AM",
+          "reporter_role": "Radiographer - CT",
+          "incident_description": "CT console shows empty PACS worklist; HL7 ADT feed appears delayed. Please restart interface services.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-03",
+          "time": "06:20 PM",
+          "reporter_role": "Duty Medical Officer, ETU",
+          "incident_description": "EHR in ETU froze mid-triage; vitals and allergy fields won’t save after the thunder. Suspect database lock or replication lag.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-03-04",
+          "time": "09:05 AM",
+          "reporter_role": "Pharmacy Dispenser (Inpatient)",
+          "incident_description": "Inpatient Pharmacy barcode scanner reads but item codes not mapping post last night’s patch; Inventory posting fails and queue grows.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-03-06",
+          "time": "02:30 PM",
+          "reporter_role": "Nursing Sister, Surgical Ward 7",
+          "incident_description": "Two new interns cannot order pre-op labs in CPOE; role profiles missing for Ward 7. Please provision urgently.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-08",
+          "time": "12:55 PM",
+          "reporter_role": "Laboratory Technologist - Haematology",
+          "incident_description": "LIS interface stopped receiving CBC orders around the noon thunder; analyser idle; HIS-LIS channel shows ‘down’ in gateway.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-08",
+          "time": "07:10 PM",
+          "reporter_role": "Maintenance Supervisor",
+          "incident_description": "Basement corridor Wi-Fi keeps resetting; ceiling AP near oxygen plant cabinet loops. Need switch inspection.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-03-09",
+          "time": "05:40 AM",
+          "reporter_role": "Night Ward Clerk - Maternity",
+          "incident_description": "Zebra label printer off the network; patient wristbands not printing; possible DHCP conflict since 05:00. Request fixed IP.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-03-11",
+          "time": "01:15 PM",
+          "reporter_role": "Consultant Paediatrician",
+          "incident_description": "Archive viewer shows certificate expired when opening last year’s discharge summaries on ward round. Kindly renew and deploy.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-12",
+          "time": "09:25 AM",
+          "reporter_role": "Accounts Officer - Billing",
+          "incident_description": "OPD billing stalls at payment capture; callback not posting to HIS; duplicate tokens visible. Please trace payment gateway logs.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-13",
+          "time": "04:50 PM",
+          "reporter_role": "HR Executive",
+          "incident_description": "Biometric attendance devices not syncing since yesterday; HRM not receiving logs. Payroll cutoff this week.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-03-15",
+          "time": "08:00 PM",
+          "reporter_role": "On-call Anaesthetist",
+          "incident_description": "Theatre 2 PACS viewer blank; viewer plugin disabled after browser security policy change. Need exception to view pre-op echo.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-16",
+          "time": "03:40 PM",
+          "reporter_role": "Medical Records Officer (MRD)",
+          "incident_description": "MRD cannot generate ICD coding reports; report server timing out; outpatient clinic backlog forming.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-03-16",
+          "time": "08:18 PM",
+          "reporter_role": "Security Officer - Gate 1",
+          "incident_description": "Evening rain triggered moisture alarm in Gate 1 cabinet; CCTV NVR offline and streams unavailable. Need PoE switch check and drying.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-18",
+          "time": "01:05 PM",
+          "reporter_role": "Radiology Registrar",
+          "incident_description": "Ultrasound images intermittently fail to push to PACS; high latency on Radiology VLAN around lunch; equipment room AC struggling with heat.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-03-19",
+          "time": "09:12 AM",
+          "reporter_role": "Nurse In-Charge, Dialysis Unit",
+          "incident_description": "Bedside monitors stopped charting to HIS; interface engine service halted after morning thunder surge. Dialysis rounds affected.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-03-19",
+          "time": "07:35 PM",
+          "reporter_role": "Theatre Matron",
+          "incident_description": "Theatre scheduling duplicated tomorrow’s lists after sync; surgeons see conflicting allocations on the mobile app. Please de-duplicate and lock.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-21",
+          "time": "06:55 AM",
+          "reporter_role": "OPD Medical Officer",
+          "incident_description": "Cannot log into e-Prescribe; OTP SMS not arriving to multiple MOs. Suspect SMS gateway or firewall block.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-03-22",
+          "time": "02:22 PM",
+          "reporter_role": "Ward Clerk - Medical Ward 3",
+          "incident_description": "Bed board not updating discharges; ADT queue stuck since 13:40 after brief rain. Porters waiting for beds.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-22",
+          "time": "09:48 PM",
+          "reporter_role": "Biomedical Engineer (On-call)",
+          "incident_description": "ICU ventilator HL7 ORU messages rejected by HIS; device certificate not trusted and field mapping missing. Need whitelist and mapping.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-24",
+          "time": "11:37 AM",
+          "reporter_role": "Clinical Nutritionist/Dietician",
+          "incident_description": "Diet order module crashes when adding ‘lactose-free’ custom tag; app closes and orders are lost before lunch run.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-03-26",
+          "time": "08:26 AM",
+          "reporter_role": "Pharmacy Cashier - Bay 2",
+          "incident_description": "After light morning rain, Pharmacy Bay 2 POS printer disconnects; switch port flaps and bills keep reprinting.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-03-28",
+          "time": "05:18 PM",
+          "reporter_role": "Infection Control Nurse",
+          "incident_description": "Antibiotic stewardship dashboard is stale; ETL to the data warehouse failed since Sunday. Review meeting tomorrow.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-03-30",
+          "time": "03:11 PM",
+          "reporter_role": "Data Protection Officer",
+          "incident_description": "Shared drive with audit files accessible to All_Staff; permissions misapplied during folder migration. Immediate PDPA compliance risk.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-03-31",
+          "time": "07:52 PM",
+          "reporter_role": "Senior House Officer, ETU",
+          "incident_description": "During mass-casualty drill in the car park, triage tablets lost HIS access; captive portal reappeared. Need emergency SSID with MAC bypass.",
+          "urgency": "High"
+        }
+      ]
+    }
+  },
+  {
+    "month": "April",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-04-01",
+          "time": "08:25 AM",
+          "reporter_role": "Radiographer",
+          "incident_description": "New CT scanner's modality worklist not pulling from HIS; CT protocols appear as 'Unknown'. PACS/HIS mapping likely missing since yesterday's install.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-04-02",
+          "time": "11:10 AM",
+          "reporter_role": "OPD Registration Clerk",
+          "incident_description": "OPD token display frozen at counter 3; queue module not receiving updates though tokens being issued. Crowd getting restless.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-02",
+          "time": "08:40 PM",
+          "reporter_role": "Ward 7 Staff Nurse",
+          "incident_description": "During thunder and lightning, bedside PCs keep disconnecting; eIMR autosave failed twice; network switch may be rebooting on its own.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-04-04",
+          "time": "02:05 PM",
+          "reporter_role": "Senior Pharmacist",
+          "incident_description": "ePharmacy cannot fetch item balances from Inventory; purchase orders stuck in 'pending interface'. Suspect HIS-Inventory link down.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-04",
+          "time": "04:20 PM",
+          "reporter_role": "Facilities/Engineering Supervisor",
+          "incident_description": "After heavy rain and gusts, MDF room shows blinking red on fiber panel; several wards lost phone and LAN. Need IT to check core switch and fiber.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-04-06",
+          "time": "09:35 PM",
+          "reporter_role": "Laboratory Technologist",
+          "incident_description": "Thunderstorm caused LIS connection drop; analyzer results duplicated in HIS for 7 patients; need de-dup and reprocess HL7 queue.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-08",
+          "time": "03:15 PM",
+          "reporter_role": "Cardiology Clinic Nurse",
+          "incident_description": "Echo machine images not reaching PACS; DICOM send fails with AE title not recognized after last update.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-04-09",
+          "time": "10:20 AM",
+          "reporter_role": "HR Assistant",
+          "incident_description": "New MO batch joined OPD; need HIS accounts with OPD prescribing rights by noon. Two transferred MOs require role changes.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-04-10",
+          "time": "03:50 PM",
+          "reporter_role": "Theatre Sister-in-Charge",
+          "incident_description": "PACS viewer in OT-2 won't load today's CT angiogram; DICOM service times out; case waiting on table.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-04-10",
+          "time": "08:10 PM",
+          "reporter_role": "Security Supervisor",
+          "incident_description": "Gatehouse VoIP phones and intercom offline after evening lightning; NMS shows switch unreachable. Please restore comms.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-12",
+          "time": "01:30 PM",
+          "reporter_role": "OPD Cashier",
+          "incident_description": "Billing module double-charged a few receipts when payment gateway hung; need reversal and check timeout settings.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-14",
+          "time": "06:55 PM",
+          "reporter_role": "Consultant Paediatrician",
+          "incident_description": "e-Prescribing blocked for me on Ward 10; system says 'insufficient privileges' since last patch. Please correct role.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-15",
+          "time": "09:10 AM",
+          "reporter_role": "Laboratory Manager",
+          "incident_description": "Pathology file server shows 'read-only' and high humidity alert; staff can't save histology images. Rain all morning.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-15",
+          "time": "07:40 PM",
+          "reporter_role": "Dialysis Unit Charge Nurse",
+          "incident_description": "Bedside monitors not pushing vitals to HIS; VLAN 30 devices showing red on switch after power dips in rain.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-04-16",
+          "time": "11:05 AM",
+          "reporter_role": "Medical Records Supervisor",
+          "incident_description": "Casualty walk-ins created duplicate MRNs due to merge tool error; request de-dup and audit trail review.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-04-18",
+          "time": "01:20 PM",
+          "reporter_role": "Finance Officer",
+          "incident_description": "Claims export (OPD + inward) throws 500 error after yesterday's patch; cannot submit to insurer portal.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-04-18",
+          "time": "09:25 PM",
+          "reporter_role": "ICU Registrar",
+          "incident_description": "LIS results (ABG, electrolytes) not arriving in ICU dashboard; interface queue stuck; patient on ventilator needs labs now.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-04-20",
+          "time": "04:05 PM",
+          "reporter_role": "Ward 3 Staff Nurse",
+          "incident_description": "Wristband barcode printer offline; HIS shows device unreachable; wall jack damp after downpour.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-20",
+          "time": "06:50 PM",
+          "reporter_role": "Biomedical Engineer",
+          "incident_description": "NICU ventilator data feed to HIS intermittently drops since lightning; switch port shows errors; need port swap/VLAN check.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-04-21",
+          "time": "09:00 AM",
+          "reporter_role": "Dietary Department Clerk",
+          "incident_description": "Diet orders from wards not syncing to kitchen screen; message broker seems down; meals going out late.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-04-22",
+          "time": "07:25 PM",
+          "reporter_role": "Consultant Radiologist",
+          "incident_description": "Speech-to-text dictation profile missing; roaming profile server not loading; cannot sign off CT list.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-24",
+          "time": "02:40 PM",
+          "reporter_role": "Outreach Clinic Coordinator",
+          "incident_description": "VPN to Divisional Clinic - Kesbewa down; field team cannot upload immunization data; local ISP says link ok.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-27",
+          "time": "05:15 PM",
+          "reporter_role": "Maintenance Supervisor",
+          "incident_description": "Server room temp spiked; AC-2 failed after storm; core blades throttling alarms seen; request failover to DR rack until cooling restored.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-29",
+          "time": "03:30 PM",
+          "reporter_role": "Pharmacy In-Charge",
+          "incident_description": "Drug issues not decrementing stock; ePharmacy-Inventory sync backlog; DB index lock suspected since noon.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-30",
+          "time": "10:45 AM",
+          "reporter_role": "Nurse Educator",
+          "incident_description": "After HIS UI change, ward staff confused with new discharge workflow; request quick refresher and cheat sheet today.",
+          "urgency": "Low"
+        }
+      ]
+    }
+  },
+  {
+    "month": "May",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-05-01",
+          "time": "02:30 PM",
+          "reporter_role": "Ward Nurse - Surgical",
+          "incident_description": "During the afternoon thunderstorm the ward network switch kept rebooting; eMAR on the bedside tablets dropped connections. Please stabilise power to the switch and check logs.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-01",
+          "time": "05:50 PM",
+          "reporter_role": "Maintenance Engineer (Electrical)",
+          "incident_description": "After multiple surges in the downpour, the data centre UPS went to bypass; core HIS hosts are running unprotected. Request immediate IT verification and safe shutdown plan if needed.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-05-02",
+          "time": "09:10 AM",
+          "reporter_role": "OPD Registration Officer",
+          "incident_description": "OPD token display boards are not pulling numbers from HIS though registration is active; suspect API link from queue server is dropped. Please reset the service.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-05-03",
+          "time": "07:40 AM",
+          "reporter_role": "ETU Medical Officer",
+          "incident_description": "Water seepage near the ETU ground-floor rack; the fiber SFP shows errors and link to Radiology drops intermittently. Need IT to isolate the port and fail over.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-05-03",
+          "time": "10:25 AM",
+          "reporter_role": "Theatre Matron",
+          "incident_description": "PACS viewer in Theatre times out when opening CT; images take minutes during the flooding. Please check bandwidth/QoS between Theatre and PACS.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-03",
+          "time": "08:15 PM",
+          "reporter_role": "Laboratory Technologist - Night Duty",
+          "incident_description": "SMS results gateway shows a >200 message backlog; vendor endpoint unreachable and 4G backup is saturated due to storm. Kindly reroute or throttle noncritical traffic.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-05",
+          "time": "03:05 PM",
+          "reporter_role": "OPD Medical Officer",
+          "incident_description": "Multiple staff cannot log in to HIS after a brief power dip; OPD cannot reach the domain controller from our subnet. Need IT to restore AD connectivity.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-05-06",
+          "time": "09:30 AM",
+          "reporter_role": "Chief Pharmacist",
+          "incident_description": "Pharmacy label printers stopped receiving jobs; print server service appears down after morning restart. Please restart the spooler and clear the stuck queue.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-06",
+          "time": "07:20 PM",
+          "reporter_role": "Radiographer - CT",
+          "incident_description": "VPN to the teleradiology vendor is down; CT studies await reporting and can’t be pushed. Likely ISP/weather-related—kindly fail over to secondary tunnel.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-05-08",
+          "time": "11:45 AM",
+          "reporter_role": "Pathology Registrar",
+          "incident_description": "LIS-HIS orders interface is queuing; HL7 ACKs are delayed and phlebotomy labels print 10–15 mins late. Please drain the queue and check the interface engine.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-08",
+          "time": "06:10 PM",
+          "reporter_role": "Duty Administrator",
+          "incident_description": "Server room humidity alarm triggered in the wet heat; request IT to verify sensors and protect storage arrays until HVAC stabilises.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-09",
+          "time": "08:05 AM",
+          "reporter_role": "Paediatric Nursing Sister",
+          "incident_description": "Ward Wi‑Fi is down; bedside monitors won’t sync vitals to EHR and AP LEDs are off. Suspect PoE switch fault—please attend.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-11",
+          "time": "04:20 PM",
+          "reporter_role": "ETU Shift Leader",
+          "incident_description": "VoIP phones in ETU are dead during triage; the PoE core shows amber status. We can’t call Lab or Radiology—need urgent IT intervention.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-05-13",
+          "time": "09:55 AM",
+          "reporter_role": "Finance Officer - OPD Cashier",
+          "incident_description": "HIS billing module hangs on 'posting'; cashier counters piling up since morning rain. Please check DB locks and roll back any faulty patch.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-13",
+          "time": "02:35 PM",
+          "reporter_role": "Medical Records Officer",
+          "incident_description": "Discharge eBHT PDFs scan but won’t upload; MRD share is unreachable from records PCs. Kindly restore the file server path and permissions.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-14",
+          "time": "10:40 AM",
+          "reporter_role": "Consultant Physician",
+          "incident_description": "My clinic note templates vanished after a role update; account shows only OPD forms. Please reinstate the Consultant profile before the afternoon clinic.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-15",
+          "time": "07:10 AM",
+          "reporter_role": "IT Support Officer (Night)",
+          "incident_description": "Last night’s full DB backup failed with a tape picker error; no verified offsite copy. Request immediate retry and hardware check.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-15",
+          "time": "03:50 PM",
+          "reporter_role": "OPD Attendant",
+          "incident_description": "Self-service token kiosks are responsive but cannot fetch queue numbers; HIS gateway returns 500. Please restart the gateway service.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-17",
+          "time": "01:05 PM",
+          "reporter_role": "Radiology Medical Officer",
+          "incident_description": "Ultrasound modality worklist is empty; DICOM MWM service not reachable on Radiology VLAN post-storm. Need IT to restore the AE connectivity.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-17",
+          "time": "08:40 PM",
+          "reporter_role": "ICT Coordinator - On Call",
+          "incident_description": "Block B core switch is flapping since the squall; users lose HIS access every few minutes. Request priority stabilisation and link diagnostics.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-05-19",
+          "time": "09:20 AM",
+          "reporter_role": "HR Executive",
+          "incident_description": "Biometric attendance units are not syncing to HIS; staff hours missing. Suspect expired API certificate—please renew and push data.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-05-21",
+          "time": "12:15 PM",
+          "reporter_role": "Medical Officer - Medical Ward",
+          "incident_description": "Two-factor OTPs via SMS are delayed 5–8 minutes; can’t access e-prescribing during ward round. Kindly check the OTP gateway route and throttle noncritical SMS.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-25",
+          "time": "10:30 AM",
+          "reporter_role": "Senior Radiographer",
+          "incident_description": "Power surge during thunderstorm knocked an imaging storage node; PACS returns write failures and studies queue on modalities. Need urgent storage failover.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-05-25",
+          "time": "07:05 PM",
+          "reporter_role": "Ward Pharmacy Intern",
+          "incident_description": "EDR shows duplicate drug items after formulary update; barcode scan picks wrong strength. Please roll back mapping and correct item codes.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-05-28",
+          "time": "03:20 PM",
+          "reporter_role": "Telemedicine Coordinator",
+          "incident_description": "Inter-hospital MPLS link is unstable in the prolonged rain; teleconsult sessions drop with jitter >30%. Request traffic shaping and ISP escalation.",
+          "urgency": "High"
+        }
+      ]
+    }
+  },
+  {
+    "month": "June",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-06-01",
+          "time": "08:15 AM",
+          "reporter_role": "OPD Registration Clerk",
+          "incident_description": "OPD token module freezes when assigning numbers; error 'OPD-API unreachable' after the morning downpour and brief power flicker. Queues are backing up.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-01",
+          "time": "07:40 PM",
+          "reporter_role": "Radiology Technologist",
+          "incident_description": "PACS not pushing CXR to EHR; DICOM send shows 'association rejected' since the evening thunderburst. Patients waiting for reports.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-02",
+          "time": "03:05 PM",
+          "reporter_role": "Billing Officer",
+          "incident_description": "Billing module throwing duplicate invoice error; charge master not syncing after yesterday’s patch. Need rollback or hotfix before OPD close.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-06-04",
+          "time": "02:20 PM",
+          "reporter_role": "Biomedical Engineer",
+          "incident_description": "LIS–Hematology interface dropping HL7 messages during the thunder spell; results not posting to wards/EHR. Please stabilize and replay the queue.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-06-04",
+          "time": "05:50 PM",
+          "reporter_role": "Ward Sister - 5B",
+          "incident_description": "Medication barcode printers show 'network path not found'; corridor switch likely down after heavy rain, and labels are damp/curling.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-06",
+          "time": "11:10 AM",
+          "reporter_role": "Theatre Matron",
+          "incident_description": "OR scheduling board intermittently blank; 'WebSocket disconnected from HIS' on two theatre PCs. Elective list at risk.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-08",
+          "time": "02:35 PM",
+          "reporter_role": "Consultant Physician",
+          "incident_description": "ePrescribing hung during lightning; notes on two inpatients unsaved. Need data recovery and autosave enabled hospital‑wide.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-06-08",
+          "time": "06:25 PM",
+          "reporter_role": "Pharmacy Dispensary In-Charge",
+          "incident_description": "ePharmacy cannot sync stock with Inventory; API timeouts and negative stock alerts after afternoon storm. Dispensing delayed.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-11",
+          "time": "09:00 AM",
+          "reporter_role": "HR Officer",
+          "incident_description": "Doctor portal password resets failing; 'LDAP bind failed' on the IAM tool. Suspect domain controller connectivity.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-06-13",
+          "time": "09:40 AM",
+          "reporter_role": "ETU Medical Officer",
+          "incident_description": "Self‑registration/triage kiosks not printing wristbands; HIS label service down post‑morning downpour. ETU crowding.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-06-13",
+          "time": "08:10 PM",
+          "reporter_role": "Security Supervisor",
+          "incident_description": "OPD lobby IP cameras offline; access switch cycling with amber LEDs in the windy, humid evening. Check network and PoE budget.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-06-14",
+          "time": "10:55 AM",
+          "reporter_role": "Dietetics Officer",
+          "incident_description": "Ward diet orders not reaching the kitchen module; message queue stuck at 1,254 pending. Possibly after last HIS update.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-06-15",
+          "time": "04:30 PM",
+          "reporter_role": "Cashier - Private Wing",
+          "incident_description": "Payment gateway in Billing returns 502 via firewall; card payments intermittently fail after coastal winds/rain. Review outbound rules and SSL pinning.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-17",
+          "time": "01:15 PM",
+          "reporter_role": "Laboratory Scientist",
+          "incident_description": "LIS user roles reset; cannot verify/release results. Started after thunder and a brief outage; need role map restore.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-17",
+          "time": "07:05 PM",
+          "reporter_role": "Ward Nurse - NICU",
+          "incident_description": "Handheld vitals tablets dropping Wi‑Fi; readings not syncing to EHR. Began after the afternoon storm—AP may have water ingress.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-06-18",
+          "time": "07:40 AM",
+          "reporter_role": "Administrative Officer",
+          "incident_description": "Last night’s database backup to DR failed; VPN tunnel to offsite flapped during heavy rain. Please rerun and confirm integrity.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-20",
+          "time": "02:50 PM",
+          "reporter_role": "Physiotherapy Unit Coordinator",
+          "incident_description": "Appointment module double‑booked slots; server time drifted, NTP unsynced after power events. Need immediate time sync.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-06-22",
+          "time": "03:20 PM",
+          "reporter_role": "OPD Medical Records Officer",
+          "incident_description": "Document scanners fail to upload PDFs—shared drive quota full; OPD files stuck in staging. Request archiving and quota increase.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-06-23",
+          "time": "11:35 AM",
+          "reporter_role": "Infection Control Nurse",
+          "incident_description": "Antibiotic stewardship dashboard shows stale data; ETL job not running since Sunday. Kindly restart job and reschedule.",
+          "urgency": "Low"
+        },
+        {
+          "date": "2025-06-24",
+          "time": "09:25 AM",
+          "reporter_role": "Radiographer",
+          "incident_description": "PACS viewer freezing for CT over VPN; latency spikes since the morning heavy rain. Review core switch and QoS for imaging VLAN.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-24",
+          "time": "05:40 PM",
+          "reporter_role": "Nephrology MO",
+          "incident_description": "Dialysis chairside charting app not fetching labs; HL7 interface down post‑thunder. Dialysis rounds delayed.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-06-26",
+          "time": "12:05 PM",
+          "reporter_role": "Supplies/Inventory Officer",
+          "incident_description": "GRN posting hangs; Finance interface times out—possible DB lock. Began after the noon rain band; need vendor escalation.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-06-27",
+          "time": "08:50 AM",
+          "reporter_role": "Clinic Receptionist - Cardiology",
+          "incident_description": "SMS reminders not sending; SMPP credentials expired per logs. Patients arriving without confirmations.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-06-28",
+          "time": "01:30 PM",
+          "reporter_role": "Maintenance Supervisor",
+          "incident_description": "Server room humidity at 71% after coastal downpour; two TOR switches show CRC errors. Please inspect fiber and adjust HVAC alarms.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-30",
+          "time": "10:10 AM",
+          "reporter_role": "Consultant Surgeon - Theatre",
+          "incident_description": "E‑sign pad not recognized on pre‑op PC after Windows update; driver missing. Need rollback before the noon theatre list.",
+          "urgency": "High"
+        }
+      ]
+    }
+  },
+  {
+    "month": "July",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-07-01",
+          "time": "08:20 AM",
+          "reporter_role": "OPD Registration Clerk",
+          "incident_description": "Two OPD counters show 'Session expired' every 3-4 minutes after HIS login; patient tokens not printing.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-03",
+          "time": "11:05 AM",
+          "reporter_role": "Sister-in-Charge - Medical Ward",
+          "incident_description": "Ward Wi-Fi down; eMAR tablets not syncing meds after thunder and heavy rain. Manual charting started.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-03",
+          "time": "02:40 PM",
+          "reporter_role": "Radiographer",
+          "incident_description": "CT images not linking to EHR; PACS interface shows HL7 ACK timeouts. Radiologist cannot finalize reports.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-07-05",
+          "time": "07:10 AM",
+          "reporter_role": "Consultant Surgeon",
+          "incident_description": "OT scheduling module not pulling today's theatre list; anaesthesia notes exist but not visible to surgeons.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-07",
+          "time": "09:15 AM",
+          "reporter_role": "OPD Manager",
+          "incident_description": "OPD entrance token kiosk shows 'Network unreachable'; rainwater seen near floor box. Crowd building.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-09",
+          "time": "03:25 PM",
+          "reporter_role": "ICU MO",
+          "incident_description": "ABG analyser results not posting to HIS via LIS; sample IDs pending since 15:05. Nurses copying by hand.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-09",
+          "time": "05:10 PM",
+          "reporter_role": "Administrative Officer",
+          "incident_description": "VoIP extensions across admin block dropped during storm; PBX registrations cycling. Need network check.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-07-10",
+          "time": "10:35 AM",
+          "reporter_role": "Cashier - Billing",
+          "incident_description": "Billing module throws 'permission denied' for waiver approvals since last role update.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-07-12",
+          "time": "01:20 PM",
+          "reporter_role": "Pharmacy Dispenser",
+          "incident_description": "Pharmacy label printers print garbled Sinhala from eRx; encoding/driver mismatch after small update.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-07-14",
+          "time": "08:05 AM",
+          "reporter_role": "HR Officer",
+          "incident_description": "HR biometric attendance devices not syncing to HIS HRM since morning; today's punches missing.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-07-15",
+          "time": "11:50 PM",
+          "reporter_role": "Radiology Registrar (On-call)",
+          "incident_description": "On-call VPN token expired; cannot access PACS from home for CT reads. Please reset immediately.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-17",
+          "time": "12:30 PM",
+          "reporter_role": "Biomedical Engineer",
+          "incident_description": "Server room AC alarm—humidity high; storage shows 'condensation risk on bay 3'. Rain with thunder outside.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-07-17",
+          "time": "02:15 PM",
+          "reporter_role": "Lab Technologist",
+          "incident_description": "LIS-HIS interface queue stuck since 14:10; FBC/LFT not reaching wards; analyser end OK.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-18",
+          "time": "06:45 AM",
+          "reporter_role": "Theatre Coordinator",
+          "incident_description": "Pre-op checklist in Theatre module spins on 'saving' in OR2 only; other ORs OK. Suspect workstation profile.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-07-19",
+          "time": "08:55 PM",
+          "reporter_role": "Security Supervisor",
+          "incident_description": "CCTV feeds for Block B black at command room; NVR reachable but 'no stream'. Water seepage near access switch.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-19",
+          "time": "09:40 AM",
+          "reporter_role": "Matron - Paediatric Ward",
+          "incident_description": "Barcode med scanning intermittently failing—HIS says 'device not trusted' after last patch.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-07-21",
+          "time": "09:30 PM",
+          "reporter_role": "On-call Radiologist",
+          "incident_description": "Image routing to home workstation failing; site-to-site VPN unstable; studies stuck in 'sent'. Night calls affected.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-22",
+          "time": "04:05 PM",
+          "reporter_role": "Finance Manager",
+          "incident_description": "Month-end backup shows 'completed with warnings'; offsite object store not receiving billing DB snapshot.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-24",
+          "time": "07:25 AM",
+          "reporter_role": "OPD Ticketing Attendant",
+          "incident_description": "Self-service kiosk accepts cash but no token issued; HIS interface service down since 07:15.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-24",
+          "time": "11:10 AM",
+          "reporter_role": "Medical Records Officer",
+          "incident_description": "eMR patient search very slow (>30s) across MRD; started after weekend archive. Kindly reindex.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-07-25",
+          "time": "02:55 PM",
+          "reporter_role": "Ward Clerk - Surgical",
+          "incident_description": "New HO account cannot view past discharge summaries for Surgical Team A; role mapping missing.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-07-26",
+          "time": "10:00 AM",
+          "reporter_role": "Procurement Officer",
+          "incident_description": "Inventory module not syncing GRNs from supplier portal; API returns 500; CSSD stocks not updating.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-28",
+          "time": "03:40 PM",
+          "reporter_role": "ETU Nurse",
+          "incident_description": "ETU triage dashboard creating duplicates when scanning NIC; dedup matching service may be off.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-30",
+          "time": "08:12 PM",
+          "reporter_role": "Duty Engineer",
+          "incident_description": "After generator switchover, core network reconverged; several VLANs dropped—wards lost HIS ~6 mins.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-07-30",
+          "time": "09:05 PM",
+          "reporter_role": "Consultant Physician",
+          "incident_description": "Ward round tablets stuck on 'synchronizing records'; only work on 4G hotspot. Internal Wi-Fi routing issue?",
+          "urgency": "High"
+        }
+      ]
+    }
+  },
+  {
+    "month": "August",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-08-01",
+          "time": "08:25 AM",
+          "reporter_role": "Nursing Officer - Ward 3",
+          "incident_description": "HIS logs out every ~5 mins on Ward 3 desktops; session timeout seems misconfigured after last patch; medication charts keep closing.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-08-03",
+          "time": "11:10 AM",
+          "reporter_role": "Senior Radiographer - OPD X-Ray",
+          "incident_description": "PACS viewer in OPD shows blank study panes on Chrome since morning; Edge works; likely plugin/codec issue after update.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-05",
+          "time": "02:05 PM",
+          "reporter_role": "OPD Manager",
+          "incident_description": "OPD token displays freeze and not pulling queue from HIS after brief thunder; surge may have tripped the controller.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-05",
+          "time": "09:15 AM",
+          "reporter_role": "HR Executive",
+          "incident_description": "Biometric attendance punches not syncing to HR module since 06:00; night duty records missing; please reprocess logs.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-08-06",
+          "time": "03:40 PM",
+          "reporter_role": "Sister-in-charge - Ward 7",
+          "incident_description": "Ward 7 Wi‑Fi drops every few minutes; vitals upload from pumps to HIS failing; signal weak on the east side.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-08",
+          "time": "04:20 PM",
+          "reporter_role": "Radiology Registrar",
+          "incident_description": "During heavy rain the radiology VLAN shows 20–30% packet loss; CT images queueing and PACS transfers timing out.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-08-08",
+          "time": "05:05 PM",
+          "reporter_role": "MO - Blood Bank",
+          "incident_description": "VPN to Regional Blood Bank unstable; crossmatch results not posting to LIMS; using phone updates as workaround.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-10",
+          "time": "09:50 AM",
+          "reporter_role": "Chief Pharmacist",
+          "incident_description": "After HIS minor update, 'Pharmacy Technician' role blocked from Issue screen with 'insufficient permission'; dispensing halted.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-12",
+          "time": "10:30 AM",
+          "reporter_role": "Consultant Radiologist",
+          "incident_description": "Dictation microphones not detected after Windows update; speech-recognition driver missing; report turnaround delayed.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-13",
+          "time": "03:15 PM",
+          "reporter_role": "Administrative Officer (Maintenance)",
+          "incident_description": "UPS in server room beeping after rain; power fluctuation; HIS database latency spiking; request immediate failover check.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-08-13",
+          "time": "01:25 PM",
+          "reporter_role": "Cashier Supervisor - OPD",
+          "incident_description": "Card payments intermittently failing with gateway timeout; possible TLS/certificate issue; long patient queue building.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-15",
+          "time": "07:55 AM",
+          "reporter_role": "Nursing Officer - ETU",
+          "incident_description": "Self-service password reset shows 'token generation failed'; many staff unable to log in during shift change.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-08-17",
+          "time": "10:05 AM",
+          "reporter_role": "Medical Records Officer",
+          "incident_description": "No SMS appointment reminders sent today; vendor API returning 401; please renew the key and replay the batch.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-17",
+          "time": "02:45 PM",
+          "reporter_role": "OPD Admin Officer",
+          "incident_description": "Storm caused seepage into old network closet; fiber patch panel damp, link amber; OPD PCs dropping HIS intermittently.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-08-18",
+          "time": "06:35 AM",
+          "reporter_role": "Theatre Matron",
+          "incident_description": "OT list not syncing from consultants’ calendar to HIS; duplicate slots and wrong theatre numbers visible.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-19",
+          "time": "11:45 AM",
+          "reporter_role": "Senior MLS - Pathology",
+          "incident_description": "Analyzer interface sending duplicate HL7 results since noon; clinicians getting double reports; need de-dup and ACK fix.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-08-22",
+          "time": "01:50 PM",
+          "reporter_role": "Ward Clerk - Paediatrics",
+          "incident_description": "Barcode labels from ward printer smudge and won’t scan at Pharmacy; humidity curling paper; please calibrate and replace media.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-08-22",
+          "time": "09:05 AM",
+          "reporter_role": "Hospital Administrator",
+          "incident_description": "Spoofed 'HIS Admin' phishing email received by staff; at least 6 clicked; request forced password reset, MFA review, endpoint scans.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-08-24",
+          "time": "08:10 AM",
+          "reporter_role": "OPD Front Office Supervisor",
+          "incident_description": "VoIP phones in Block B are down; PoE switch appears to be in a reboot loop after morning rain; registration lines affected.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-24",
+          "time": "12:20 PM",
+          "reporter_role": "Senior Radiographer",
+          "incident_description": "PACS DICOM listener service stopped; image queue backlogged; please restart service and clear stuck jobs.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-25",
+          "time": "03:00 PM",
+          "reporter_role": "Finance Officer",
+          "incident_description": "Inventory module cannot post GRN; 'GL interface failed' error; month-end supplier invoices pending.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-08-27",
+          "time": "02:30 PM",
+          "reporter_role": "Sister-in-charge - NICU",
+          "incident_description": "NICU monitors intermittently not pushing vitals to EMR over Wi‑Fi; probable channel congestion; need site survey and QoS.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-30",
+          "time": "11:20 AM",
+          "reporter_role": "Consultant Physician - Medical Unit",
+          "incident_description": "Internet very slow; telemedicine consults breaking; firewall shows many inbound probes; request ISP check and rate-limiting.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-30",
+          "time": "07:10 AM",
+          "reporter_role": "Health Information Officer",
+          "incident_description": "Nightly HIS database backup failed two nights; storage repository at 95%; need cleanup and confirm restore integrity.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-08-31",
+          "time": "04:55 PM",
+          "reporter_role": "Ward Clerk - Ward 3",
+          "incident_description": "Discharge summaries not printing; print server queue stuck; spooler restart helps only briefly.",
+          "urgency": "Medium"
+        }
+      ]
+    }
+  },
+  {
+    "month": "September",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-09-01",
+          "time": "08:15 AM",
+          "reporter_role": "OPD Registration Supervisor",
+          "incident_description": "OPD Registration won’t pull NIC validation; screen shows 'Auth failed'. Counters cannot generate visit IDs; please reauthorize the external service.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-03",
+          "time": "10:22 AM",
+          "reporter_role": "Pharmacist-in-Charge",
+          "incident_description": "Pharmacy barcode label printer started printing gibberish after the morning Windows update. Suspect driver rollback; need correct driver and test print via HIS.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-09-04",
+          "time": "11:05 AM",
+          "reporter_role": "Radiology Reception Clerk",
+          "incident_description": "Radiology orders from EHR are queued and not reaching RIS/PACS. HL7 interface shows stuck messages since 10:30.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-04",
+          "time": "05:50 PM",
+          "reporter_role": "Dental OPD Administrative Officer",
+          "incident_description": "After the evening rain, Dental OPD lost network; fiber media converter shows LOS. Clinics cannot access HIS.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-05",
+          "time": "09:10 AM",
+          "reporter_role": "HR Officer (HRIS)",
+          "incident_description": "New intern batch not provisioned in AD/HIS. They cannot log in to order labs or write notes.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-07",
+          "time": "02:35 PM",
+          "reporter_role": "Theatre Coordinator",
+          "incident_description": "Theatre list is not syncing to the Anaesthesia pre-op module. We are seeing duplicate bookings on two screens.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-08",
+          "time": "03:40 PM",
+          "reporter_role": "Hospital Administrator (On Duty)",
+          "incident_description": "Brief lightning dip triggered DB failover; Billing went read-only. Please confirm data integrity and complete failback.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-09-08",
+          "time": "06:55 PM",
+          "reporter_role": "ETU Nurse-in-Charge",
+          "incident_description": "ETU VoIP phones are down; PoE switch keeps rebooting after the rain. Triage is using mobiles—urgent fix.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-10",
+          "time": "02:18 PM",
+          "reporter_role": "Cashier Supervisor, OPD",
+          "incident_description": "Staff received an email about a 'billing patch' with a login link. Two cashiers clicked—request forced password reset and mailbox scan.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-10",
+          "time": "07:50 PM",
+          "reporter_role": "Radiology Technologist (CT)",
+          "incident_description": "During the thunderstorm, CT images are not pushing to PACS. DICOM association timeouts; backlog growing.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-11",
+          "time": "09:48 AM",
+          "reporter_role": "Medical Education Unit Coordinator",
+          "incident_description": "OR camera feed to the lecture hall is blank. Looks like multicast blocked by a new firewall rule.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-09-12",
+          "time": "04:12 PM",
+          "reporter_role": "Ward Sister 7C",
+          "incident_description": "Ward 7C Wi‑Fi keeps dropping since the afternoon showers. eMAR won’t load; corridor AP shows red light.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-14",
+          "time": "08:05 PM",
+          "reporter_role": "Senior MLS (Hematology)",
+          "incident_description": "LIS archive to the storage share failed two nights in a row. Analyzer storage is near full—please clear space and fix the job.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-16",
+          "time": "11:30 AM",
+          "reporter_role": "Dialysis Unit Nurse",
+          "incident_description": "Renal clinic VPN to base hospital is unstable midday. Dialysis data sync to HIS fails intermittently.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-09-17",
+          "time": "09:15 AM",
+          "reporter_role": "Maternity Ward Sister",
+          "incident_description": "After morning thunder, several switch ports seem dead; bedside vitals PCs are offline. Need immediate port reassign/switch check.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-17",
+          "time": "06:25 PM",
+          "reporter_role": "IT Duty Officer (NOC)",
+          "incident_description": "Heavy rain coincided with rising server room humidity; UPS alarmed twice. Request dehumidification and sensor check to prevent shutdown.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-09-18",
+          "time": "12:42 PM",
+          "reporter_role": "Stores Officer",
+          "incident_description": "Inventory module freezes when posting GRN. Users get 'record locked' and can’t complete receipts.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-09-19",
+          "time": "08:20 PM",
+          "reporter_role": "HR Executive (Payroll)",
+          "incident_description": "SSO to HR/Payroll fails—'token signature invalid'. Suspect expired federation cert; payroll run due tonight.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-09-21",
+          "time": "03:05 PM",
+          "reporter_role": "OPD Floor Manager",
+          "incident_description": "OPD token display TVs keep going offline after the thundery spell. Media players cannot reach the signage server.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-09-23",
+          "time": "11:06 AM",
+          "reporter_role": "Senior MLS (Biochemistry)",
+          "incident_description": "EHR orders with Sinhala test names aren’t reaching LIS. Interface engine shows character encoding error; channel stopped.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-23",
+          "time": "08:10 PM",
+          "reporter_role": "Consultant Physician, Medical Ward",
+          "incident_description": "HIS is very sluggish; labs open late. DBA dashboard shows replica lag >25 minutes since the evening power dips.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-25",
+          "time": "03:55 PM",
+          "reporter_role": "CT Technologist",
+          "incident_description": "PACS gateway in CT room drops DICOM sessions during heavy rain. LAN point near gantry feels damp; images are queuing.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-27",
+          "time": "09:40 PM",
+          "reporter_role": "IT Database Administrator",
+          "incident_description": "Nightly backup verification reports checksum mismatch on the NAS. Started after multiple power blips—request disk health and restore test.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-28",
+          "time": "10:07 AM",
+          "reporter_role": "Information Security Officer",
+          "incident_description": "EDR blocked suspected ransomware on a Radiology workstation after a macro-enabled file. Machine isolated; need forensics and reimage.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-09-30",
+          "time": "07:25 AM",
+          "reporter_role": "Surgical Registrar (New)",
+          "incident_description": "Cannot access Operative Notes module; role not mapped. Theatre list prep is delayed.",
+          "urgency": "High"
+        }
+      ]
+    }
+  },
+  {
+    "month": "October",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-10-01",
+          "time": "07:18 PM",
+          "reporter_role": "Radiology Registrar",
+          "incident_description": "PACS viewer on all reporting stations goes black after login; started soon after evening lightning. DICOM router not reachable from VLAN-RAD.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-10-01",
+          "time": "08:02 PM",
+          "reporter_role": "ICU Duty Nurse",
+          "incident_description": "Bedside monitors intermittently lose HIS connectivity; drug orders not pulling. Suspect network switch near ICU ceiling damp from storm.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-10-02",
+          "time": "03:26 PM",
+          "reporter_role": "OPD Reception Supervisor",
+          "incident_description": "OPD queue TV reboots every few minutes during heavy rain; HDMI-over-LAN extenders dropping link on the OPD floor switch.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-03",
+          "time": "02:41 PM",
+          "reporter_role": "Biomedical Engineer - Theatre",
+          "incident_description": "Server room alarm shows high humidity and temperature; core HIS host throttling and session lag across wards this hot afternoon.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-04",
+          "time": "09:12 AM",
+          "reporter_role": "Chief Pharmacist",
+          "incident_description": "After morning Windows updates, pharmacy barcode scanners are not detected by HIS dispensing; unable to post issues to stock.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-10-05",
+          "time": "06:47 PM",
+          "reporter_role": "Lab Technologist - Biochemistry",
+          "incident_description": "Severe storm caused power dip; LIS rack UPS beeping and analyser results are not crossing to HIS (over 20 min delay).",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-10-05",
+          "time": "10:15 AM",
+          "reporter_role": "Billing Clerk - Cash Counter",
+          "incident_description": "Multiple staff locked out of HIS after new password policy; counters idle and token queue piling up.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-10-06",
+          "time": "07:35 AM",
+          "reporter_role": "Orthopaedic MOIC (Locum)",
+          "incident_description": "My account created but lacks order-entry and theatre booking rights in HIS; list for morning OT pending.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-07",
+          "time": "11:22 AM",
+          "reporter_role": "Accounts Officer - Billing",
+          "incident_description": "Agrahara insurance e-claim submission from Billing module times out repeatedly in today’s rain; payment queue held.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-08",
+          "time": "08:11 PM",
+          "reporter_role": "Radiology Sister-in-Charge",
+          "incident_description": "During thunder, SLT fibre to X-ray complex keeps dropping; PACS sync and teleconsult go offline.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-10-08",
+          "time": "01:48 PM",
+          "reporter_role": "Staff Nurse - Ward 3B",
+          "incident_description": "Ward Wi-Fi (MedNet) disconnects every 15 mins; vitals and intake charts not uploading to HIS.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-10-10",
+          "time": "08:02 AM",
+          "reporter_role": "OPD Medical Officer",
+          "incident_description": "eChanneling bookings not writing back to HIS; duplicate MRNs being created at registration this morning.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-11",
+          "time": "03:05 PM",
+          "reporter_role": "Records Officer - MRD",
+          "incident_description": "Water seepage from today’s persistent rain reached the records network rack; access switch ports amber and clinics offline.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-10-11",
+          "time": "06:02 AM",
+          "reporter_role": "Hospital Administrator (On Duty)",
+          "incident_description": "Nightly HIS database backup failed checksum; backup job reports corruption, last verified backup is D-2.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-10-12",
+          "time": "07:56 AM",
+          "reporter_role": "Phlebotomy Supervisor",
+          "incident_description": "Sample label printer queue stuck; new barcodes not spooling to Zebra; OPD blood collection stalled.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-13",
+          "time": "09:34 AM",
+          "reporter_role": "Consultant Physician",
+          "incident_description": "Patient portal TLS certificate expiring; browsers warn when sharing lab links with patients during clinic.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-10-14",
+          "time": "07:25 PM",
+          "reporter_role": "OT Nursing Officer - Main Theatre",
+          "incident_description": "Post-storm lightning: OT PoE phones and nurse call console offline; PoE switch in OT rack likely tripped.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-14",
+          "time": "10:21 AM",
+          "reporter_role": "Consultant Radiologist",
+          "incident_description": "Speech-to-text dictation in PACS says license expired; forced to type reports, slowing CT list.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-17",
+          "time": "08:39 PM",
+          "reporter_role": "Lab Manager",
+          "incident_description": "SMS gateway for releasing lab results not reachable after evening thunder; patients not receiving OTPs.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-18",
+          "time": "07:58 AM",
+          "reporter_role": "OPD Registration Clerk",
+          "incident_description": "Several counters show 'domain not available'; logins fail until reboot. Suspect AD/LDAP unreachable after brief outage.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-10-20",
+          "time": "05:12 PM",
+          "reporter_role": "Triage Nurse - OPD",
+          "incident_description": "Squally rain caused OPD network closet to reboot; triage tablets and queue displays offline.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-10-20",
+          "time": "11:46 AM",
+          "reporter_role": "HR Executive",
+          "incident_description": "Multiple staff received spoofed 'Health Ministry' email; a few clicked links on hospital PCs. Request immediate phishing containment.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-22",
+          "time": "02:07 PM",
+          "reporter_role": "CT Radiographer",
+          "incident_description": "CT modality worklist empty since morning HIS patch; techs entering IDs manually, risk of mis-tagging.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-24",
+          "time": "04:36 PM",
+          "reporter_role": "Deputy Director (Admin)",
+          "incident_description": "After today’s squall, replication lag between primary HIS DB and DR site exceeds 45 minutes; failover RPO not met.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-25",
+          "time": "09:18 AM",
+          "reporter_role": "Ward Sister - 5A (Medical)",
+          "incident_description": "Medication chart in HIS keeps spinning; query slow since last patch and morning round delayed.",
+          "urgency": "High"
+        }
+      ]
+    }
+  },
+  {
+    "month": "November",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-11-01",
+          "time": "08:15 AM",
+          "reporter_role": "OPD Registration Clerk",
+          "incident_description": "After last night’s HIS patch, OPD logins loop back to the sign-in screen and token printers won’t pull queue numbers.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-01",
+          "time": "04:40 PM",
+          "reporter_role": "Radiology Technologist",
+          "incident_description": "CT console shows DICOM send failures; PACS SCP is unreachable since the afternoon thunderstorm, so studies aren’t routing.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-11-03",
+          "time": "07:30 PM",
+          "reporter_role": "Ward Nurse - Ward 7",
+          "incident_description": "Medication barcode scanners can’t join the ward Wi‑Fi; AP signal is weak after roof leaks from today’s rain.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-05",
+          "time": "11:05 AM",
+          "reporter_role": "Pharmacy Superintendent",
+          "incident_description": "HIS dispensing isn’t deducting stock from the correct batch; inventory shows negative balance since 10:30 AM.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-06",
+          "time": "09:05 AM",
+          "reporter_role": "Theatre Matron",
+          "incident_description": "OR scheduling module returns HTTP 500 and the theatre list won’t print; morning sessions are held up.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-11-06",
+          "time": "07:20 PM",
+          "reporter_role": "ICU Nurse (NICU)",
+          "incident_description": "Bedside monitors stopped updating in HIS; VLAN to NICU is flapping and the corridor UPS is beeping after steady rain.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-11-07",
+          "time": "10:10 AM",
+          "reporter_role": "Senior Lab Technologist",
+          "incident_description": "New biochemistry analyzer isn’t sending results to LIS; ASTM/TCP handshake errors suggest interface configuration or cert issue.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-09",
+          "time": "09:50 AM",
+          "reporter_role": "ETU Consultant",
+          "incident_description": "PACS viewer times out for urgent chest CT; hospital network latency is high during the squally rain.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-11-09",
+          "time": "05:25 PM",
+          "reporter_role": "Security Supervisor",
+          "incident_description": "Ambulance bay CCTV feeds are down; NVR shows offline and the PoE switch in the guard room may have water ingress.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-10",
+          "time": "03:40 PM",
+          "reporter_role": "HR Executive",
+          "incident_description": "HR module attendance export stalls at 92% and fails; need DB job check and a rerun before payroll cut‑off.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-11-11",
+          "time": "03:15 AM",
+          "reporter_role": "Night Duty Administrator",
+          "incident_description": "Backup job ‘HIS‑Full’ failed; repository path not reachable during tonight’s rain—please initiate recovery plan and reschedule.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-12",
+          "time": "08:25 AM",
+          "reporter_role": "Dialysis Unit Nurse",
+          "incident_description": "Zebra label printer for sample stickers is offline after Windows update; driver not detected by HIS print service.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-11-13",
+          "time": "08:40 AM",
+          "reporter_role": "Senior Billing Officer",
+          "incident_description": "OPD card payments are posting twice; payment gateway callback is being logged twice, causing duplicate LKR charges.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-13",
+          "time": "06:55 PM",
+          "reporter_role": "Ward Sister - Surgical",
+          "incident_description": "Bed transfer done in HIS but vitals dashboard still shows patient under old ward; risk of missed meds.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-15",
+          "time": "01:20 PM",
+          "reporter_role": "Medical Records Officer",
+          "incident_description": "Scanned BHT PDFs aren’t attaching; shared folder \\\\his-scan\\intake is inaccessible after the afternoon thunder.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-15",
+          "time": "09:35 PM",
+          "reporter_role": "MOIC - ETU",
+          "incident_description": "On‑call alerts (SMS/email) from HIS are not sending; SMTP relay appears unreachable after power dips in the storm.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-11-17",
+          "time": "09:10 AM",
+          "reporter_role": "Consultant Paediatrician",
+          "incident_description": "Post role change, I cannot prescribe high‑alert meds—HIS shows insufficient privileges; please correct access now.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-18",
+          "time": "02:05 PM",
+          "reporter_role": "NICU Registrar",
+          "incident_description": "Realtime vitals from monitors intermittently drop from HIS; access switch is rebooting repeatedly since thunder.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-11-19",
+          "time": "07:45 AM",
+          "reporter_role": "Ward Clerk - Medical",
+          "incident_description": "Multiple users locked out after password expiry and aren’t receiving reset emails; AD–SMTP integration may be down.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-11-20",
+          "time": "02:30 PM",
+          "reporter_role": "Radiology Manager",
+          "incident_description": "PACS storage is at 95%; auto‑archive to tier‑2 has stalled—risk of rejecting incoming studies.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-20",
+          "time": "07:50 PM",
+          "reporter_role": "Facilities Supervisor",
+          "incident_description": "During generator changeover in heavy rain, server room temp/humidity spiked and VMware hosts threw thermal alerts—please verify monitoring and failover.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-11-22",
+          "time": "11:20 AM",
+          "reporter_role": "Physiotherapy Unit Coordinator",
+          "incident_description": "Wi‑Fi in physio gym is unstable; HIS check‑in kiosks keep dropping—request site survey and channel reconfiguration.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-11-25",
+          "time": "03:55 PM",
+          "reporter_role": "Ambulance Coordinator",
+          "incident_description": "Ambulance GPS locations not updating on dispatch console; SIM routers show APN auth failed after lightning.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-26",
+          "time": "10:35 AM",
+          "reporter_role": "Anaesthetist",
+          "incident_description": "Pre‑op checklist shows the wrong allergy banner for two BHTs—looks like a patient merge/mapping error in HIS.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-11-28",
+          "time": "04:45 PM",
+          "reporter_role": "Pathology Registrar",
+          "incident_description": "LIS to EHR interface queue is backlogged; culture reports stuck at ‘awaiting dispatch’ after the afternoon rain power dip.",
+          "urgency": "High"
+        }
+      ]
+    }
+  },
+  {
+    "month": "December",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-12-01",
+          "time": "09:12 AM",
+          "reporter_role": "OPD Registration Clerk",
+          "incident_description": "Since the morning thunder, OPD counters keep losing HIS connectivity and the token printer stalls; the OPD switch shows amber on VLAN 20 with frequent link flaps.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-01",
+          "time": "07:45 PM",
+          "reporter_role": "Radiology Registrar",
+          "incident_description": "PACS viewer cannot retrieve prior CTs from archive; DICOM association requests time out intermittently after the afternoon rain-induced power dip.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-03",
+          "time": "10:22 AM",
+          "reporter_role": "Pharmacist - OPD Dispensary",
+          "incident_description": "Inventory quantities are not syncing to the Pharmacy queue; HL7/ORM messages appear queued since 08:50 after the brief morning drizzle.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-12-04",
+          "time": "02:18 PM",
+          "reporter_role": "HR Executive",
+          "incident_description": "New nursing interns cannot log into the HIS; AD accounts created but roles/permissions for ward access are missing from the profile template.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-12-06",
+          "time": "06:40 AM",
+          "reporter_role": "Theatre Matron",
+          "incident_description": "OR schedule board is not pulling today’s list from HIS; last night’s OR module update may have broken the cache and the first case is due at 07:30.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-07",
+          "time": "03:55 PM",
+          "reporter_role": "Maintenance Supervisor",
+          "incident_description": "Humidity alert in the old Surgical Block network rack; AC is weak ahead of evening rain and the core switch fans are over-speeding with rising error packets.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-07",
+          "time": "09:28 PM",
+          "reporter_role": "ETU Nurse-in-Charge",
+          "incident_description": "After the rain started, ETU Wi‑Fi is down; COW tablets can’t open EHR triage, and the ceiling AP shows red on the PoE switch.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-12-09",
+          "time": "12:06 PM",
+          "reporter_role": "Laboratory Technologist",
+          "incident_description": "LIS results stopped posting to HIS since 11:30; the HL7 interface service seems stopped after a brief power flicker earlier today.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-11",
+          "time": "01:37 PM",
+          "reporter_role": "Hospital Administrator - IT Liaison",
+          "incident_description": "Appointment SMS gateway is throttling post-lunch (possibly after the thunder); messages are queued and tomorrow’s OPD turnout may be affected without advisories.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-12-11",
+          "time": "04:59 PM",
+          "reporter_role": "Consultant Pediatrician",
+          "incident_description": "E‑prescribing hangs while saving; other HIS pages are fine. Looks like a DB deadlock since the noon patch—clinic is ongoing.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-12",
+          "time": "08:03 AM",
+          "reporter_role": "Finance Manager - Billing",
+          "incident_description": "Day-end close for 11/12 failed; AR reconciliation is off by one batch and the job log shows index lock on the billing schema.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-13",
+          "time": "07:15 AM",
+          "reporter_role": "Radiographer - X-Ray",
+          "incident_description": "New DR panel is not getting an IP via DHCP; PACS workstation can’t see the device—please check VLAN tagging and firewall rules.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-12-13",
+          "time": "08:42 PM",
+          "reporter_role": "Security Supervisor",
+          "incident_description": "After the evening showers, both biometric terminals at Staff Gate 2 are offline; HR attendance upload to HIS shows ‘server unavailable’.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-16",
+          "time": "02:21 PM",
+          "reporter_role": "Ward Clerk - Medical Ward 3",
+          "incident_description": "During the downpour the UPS kept beeping; thin clients reboot and RDP sessions to HIS drop every few minutes—switch may be browning out.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-16",
+          "time": "07:02 PM",
+          "reporter_role": "On-call Medical Officer",
+          "incident_description": "Telemedicine link inside HIS to the peripheral clinic won’t connect; VPN tunnel latency spikes >600 ms since the rain, patient waiting now.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-18",
+          "time": "11:11 AM",
+          "reporter_role": "Pharmacist - OPD Dispensary",
+          "incident_description": "OPD token numbers are duplicating at peak; seems a concurrency bug after yesterday’s minor update—please hotfix or rollback.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-12-20",
+          "time": "09:26 AM",
+          "reporter_role": "Biomedical Engineer - Cardiology",
+          "incident_description": "ECHO machine cannot push DICOM to PACS due to TLS handshake failure; certificate appears expired after last week’s update.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-12-21",
+          "time": "05:34 PM",
+          "reporter_role": "Nursing Officer - Ward 7B",
+          "incident_description": "Two juniors are locked out of MAR e‑charting; password expiry alerts didn’t trigger—kindly reset and check policy notifications.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-12-22",
+          "time": "12:47 PM",
+          "reporter_role": "Blood Bank Medical Officer",
+          "incident_description": "Crossmatch results are not visible in the ward view; MLLP channel is up but messages are stuck in the outbound queue since noon drizzle.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-24",
+          "time": "10:05 AM",
+          "reporter_role": "Theatre Scheduler",
+          "incident_description": "OT lists won’t print—shared queue is stalled—and consent form templates are missing after the template library sync.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-12-25",
+          "time": "09:58 AM",
+          "reporter_role": "Consultant Surgeon",
+          "incident_description": "Remote PACS access from home is blocked; 2FA push is not arriving and SMS fallback also fails—pre-op review pending for afternoon case.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-25",
+          "time": "06:12 PM",
+          "reporter_role": "Duty Matron - OPD",
+          "incident_description": "Festival crowd: token display boards freeze every few minutes; signage server CPU at 98% and services need restart/patch.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-27",
+          "time": "03:39 PM",
+          "reporter_role": "Records Officer - MRD",
+          "incident_description": "Year-end digitization batch upload to HIS archive fails with ‘disk quota exceeded’ on the SFTP landing—need storage cleanup/extension.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-12-28",
+          "time": "02:03 PM",
+          "reporter_role": "Nephrology Registrar - Dialysis Unit",
+          "incident_description": "Dialysis charting tablets drop Wi‑Fi every 5–10 mins; AP above the RO plant area was damp after the humid afternoon and brief rain.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-31",
+          "time": "11:56 PM",
+          "reporter_role": "Hospital Administrator - Night Duty",
+          "incident_description": "Year‑end full backup is lagging and DR replication is 2 hours behind; RPO/RTO at risk as we cross midnight—need immediate intervention.",
+          "urgency": "Critical"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,2186 @@
+[
+  {
+    "month": "January",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-01-01",
+          "time": "10:15 AM",
+          "reporter_role": "Infection Control Nurse",
+          "incident_description": "Spot audit in Paediatric Ward showed hand hygiene compliance at 42%; several sinks lacked paper towels and one ABHR dispenser empty. Request QA-led corrective action and re-education.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-01-03",
+          "time": "09:05 AM",
+          "reporter_role": "OPD Nursing Officer",
+          "incident_description": "After brief morning rain, wet entrance mats led to a patient slip near OPD triage (no fracture). Signage inadequate and housekeeping response slow. Needs QA review of environmental safety controls.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-03",
+          "time": "11:20 AM",
+          "reporter_role": "Laboratory Technologist",
+          "incident_description": "Two FBC samples from OPD were received with the same CR number due to duplicate ticket issuance. Near-miss averted by technologist; requests QA RCA on patient identification and registration flow.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-05",
+          "time": "08:10 AM",
+          "reporter_role": "Theatre Sister (Main OT)",
+          "incident_description": "Perioperative antibiotic prophylaxis given after incision in 3/7 morning cases. Breach of surgical safety bundle; needs QA audit and corrective action with surgical teams.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-07",
+          "time": "04:35 PM",
+          "reporter_role": "OPD Pharmacist",
+          "incident_description": "Found 14 adrenaline vials close to expiry still on primary shelf; FEFO not followed. NMRA compliance risk; requesting QA-led stock rotation audit and staff refresher.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-01-08",
+          "time": "03:25 PM",
+          "reporter_role": "Radiology Charge Nurse",
+          "incident_description": "Short afternoon rain revealed minor ceiling seep near Radiology waiting area; droplets fell close to an electrical socket. Please initiate QA safety investigation and preventive maintenance follow-up.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-08",
+          "time": "02:50 PM",
+          "reporter_role": "Clinic Clerk (Medical Clinic)",
+          "incident_description": "Patient complaint: token calling skipped numbers and perceived favoritism; waiting time exceeded displayed target by ~90 minutes. Request QA review of queue management and service standards.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-01-10",
+          "time": "09:40 AM",
+          "reporter_role": "Medical Records Officer",
+          "incident_description": "Internal check found several BHTs missing the second identifier label (NIC/hospital ID). Breach of MoH patient identification policy. Needs QA compliance action across wards.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-12",
+          "time": "07:10 AM",
+          "reporter_role": "Biomedical Engineer",
+          "incident_description": "CSSD steam sterilizer load: physical parameters met but 2 trays failed chemical integrator. Instruments quarantined. Request immediate QA-led investigation and load recall review.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-01-13",
+          "time": "08:05 PM",
+          "reporter_role": "CSSD Supervisor",
+          "incident_description": "Evening humidity after brief rain led to wet packs post-ETO cycle aeration; risk of compromised sterility. Need QA to assess environmental controls and revise SOP adherence.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-13",
+          "time": "05:15 PM",
+          "reporter_role": "Patient Relations Officer",
+          "incident_description": "Complaint: Discharge summary provided only in English; patient requested Sinhala/Tamil as per hospital policy and MoH guidance. QA to review documentation standards and availability of translations.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-01-15",
+          "time": "01:35 PM",
+          "reporter_role": "Consultant Physician",
+          "incident_description": "Sepsis pathway activation delayed by ~25 minutes in ETU due to confusion over lab order entry and IV access prioritization. Request QA review of code sepsis SOP and drills.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-17",
+          "time": "10:50 AM",
+          "reporter_role": "Stroke Nurse Coordinator",
+          "incident_description": "CT head TAT for suspected stroke was 55 minutes (KPI ≤30). Delay attributed to porter unavailability and form re-entry. Needs QA process mapping and corrective action.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-17",
+          "time": "07:20 AM",
+          "reporter_role": "Matron (Surgical Complex)",
+          "incident_description": "Waste segregation non-compliance: infectious waste mixed in general bin; one uncovered sharps found. Recurrent issue despite training. Request QA enforcement and spot audits.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-19",
+          "time": "09:00 AM",
+          "reporter_role": "OPD Manager",
+          "incident_description": "Morning light rain caused damp OPD triage corridor; multiple near-slips reported, signage late. Request QA-led environmental safety risk assessment and wet weather protocol.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-19",
+          "time": "10:25 AM",
+          "reporter_role": "Public Health Nursing Sister (Immunization Clinic)",
+          "incident_description": "Vaccine fridge excursion to 11.2°C for ~50 minutes during rush; door repeatedly opened. Cold chain breach suspected. QA required for excursion handling and potential wastage assessment.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-01-19",
+          "time": "08:40 AM",
+          "reporter_role": "Safety Officer",
+          "incident_description": "Fire exit by ICU blocked with oxygen cylinder trolleys moved indoors due to rain. Immediate life-safety violation. Request QA escalation and disciplinary action per policy.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-01-21",
+          "time": "09:45 PM",
+          "reporter_role": "Intern Medical Officer (Ward 8)",
+          "incident_description": "Heparin infusion documented on nursing chart without a signed MO order in BHT; verbal order confusion noted. Needs QA review of medication authorization and documentation standards.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-22",
+          "time": "12:20 PM",
+          "reporter_role": "Catering Supervisor",
+          "incident_description": "Lunch HACCP log incomplete; probe thermometer overdue for calibration sticker. Food safety documentation gap—request QA compliance audit and corrective plan.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-01-23",
+          "time": "02:05 PM",
+          "reporter_role": "Matron (Medical Wards)",
+          "incident_description": "Outdated consent form version (pre-2024) found in Ward 5 drawer and used for one minor procedure. Requires QA action on document control and removal of obsolete forms.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-01-25",
+          "time": "07:55 AM",
+          "reporter_role": "Senior Lab Technologist (Biochemistry)",
+          "incident_description": "Analyzer QC for K+ out-of-range; 12 patient results auto-released before hold applied. Potential clinical impact. Request QA-led incident investigation and clinician notification protocol.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-01-27",
+          "time": "06:45 AM",
+          "reporter_role": "Radiographer",
+          "incident_description": "Misty morning condensation noted on portable X-ray detector; wiped and delayed start by 10 minutes. Seeking QA guidance on pre-use checks and EHS for early shifts.",
+          "urgency": "Low"
+        },
+        {
+          "date": "2025-01-28",
+          "time": "04:10 PM",
+          "reporter_role": "ENT Clinic Nursing Officer",
+          "incident_description": "Patient fall outside clinic where floor was wet from umbrellas during afternoon rain; minor abrasion treated. QA to open adverse event and review mats/signage/attendant allocation.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-28",
+          "time": "06:30 PM",
+          "reporter_role": "OPD Medical Officer",
+          "incident_description": "Rain-induced crowding led to long queues; six Category 3 patients waited >2 hours, breaching triage flow targets. Request QA analysis and surge staffing protocol.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-01-30",
+          "time": "03:40 PM",
+          "reporter_role": "Quality Officer (Accreditation Desk)",
+          "incident_description": "Internal audit found missing monthly KPI submissions from ICU (mortality, VAP), surgical readmissions, and OPD satisfaction. Monitoring gap affecting accreditation readiness; corrective plan needed.",
+          "urgency": "Medium"
+        }
+      ]
+    }
+  },
+  {
+    "month": "February",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-02-01",
+          "time": "08:25 AM",
+          "reporter_role": "Staff Nurse - Paediatric Ward",
+          "incident_description": "Two medication charts show overwritten doses without countersign; parents raised concern after nurse queried. Request audit of medication documentation and retraining.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-01",
+          "time": "07:10 PM",
+          "reporter_role": "Maintenance Supervisor",
+          "incident_description": "Ceiling condensation above OPD triage dripped onto floor near scale; no caution signage deployed. Recommend RCA and environment safety controls.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-02-03",
+          "time": "03:50 PM",
+          "reporter_role": "Radiology Technologist",
+          "incident_description": "Brief rain caused voltage dip; CT phantom QA failed tolerance, log unsigned and deviation not reported.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-04",
+          "time": "10:05 AM",
+          "reporter_role": "Hospital Administrator",
+          "incident_description": "Internal audit found expired nursing competency files in Female Surgical; accreditation clause on staff credentialing breached.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-02-06",
+          "time": "06:40 AM",
+          "reporter_role": "ICU Registrar",
+          "incident_description": "Emergency laparotomy proceeded without documented WHO time-out; entry added later on BHT.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-02-07",
+          "time": "12:15 PM",
+          "reporter_role": "Pharmacy Manager",
+          "incident_description": "Vaccine fridge probe recorded 9.5°C spike; no corrective action form completed; OPD immunisation cold chain at risk.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-07",
+          "time": "05:55 PM",
+          "reporter_role": "Housekeeping Supervisor",
+          "incident_description": "Surgical Theatre 2 cleaning audit <80% twice; ATP swab fails; CAPA not closed.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-02-08",
+          "time": "08:30 PM",
+          "reporter_role": "OPD Reception Supervisor",
+          "incident_description": "Evening rain; wet lobby led to two near-falls at card counter; entrance mats and cone protocol not followed.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-10",
+          "time": "09:20 AM",
+          "reporter_role": "Pathology Lab Technologist",
+          "incident_description": "Near-miss: two EDTA tubes with same surname; LIS auto-merge override used; barcode policy breached.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-11",
+          "time": "02:10 PM",
+          "reporter_role": "Patient Relations Officer",
+          "incident_description": "Complaint: chest-pain case triaged Green at ETU; KPI review for triage accuracy and retraining required.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-12",
+          "time": "07:45 AM",
+          "reporter_role": "Biomedical Engineer",
+          "incident_description": "Anaesthesia machine leak test failed in Theatre 3; prior weekly checklist missing signatures; unclear handoff between maintenance and users.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-12",
+          "time": "04:35 PM",
+          "reporter_role": "Dietary Services In-Charge",
+          "incident_description": "Hot afternoon service saw low soup temperatures; carts lack calibrated thermometers; food safety standard non-compliant.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-02-13",
+          "time": "11:10 AM",
+          "reporter_role": "Health Information Officer",
+          "incident_description": "Mismatch between eBHT and paper BHT discharges; 14 records lack clinician sign-off; audit trail incomplete.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-02-14",
+          "time": "05:25 PM",
+          "reporter_role": "Dialysis Unit Nurse",
+          "incident_description": "Thundery rain leak near RO plant; TDS spiked transiently; incident not escalated per SOP.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-14",
+          "time": "09:05 PM",
+          "reporter_role": "Security Supervisor",
+          "incident_description": "During rain, generator fumes entered OPD corridor via propped door; no recorded environmental risk assessment.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-16",
+          "time": "08:00 AM",
+          "reporter_role": "Matron - Maternity",
+          "incident_description": "Two PPH events not logged in monthly audit register; M&M minutes pending; data gap in obstetric indicators.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-02-18",
+          "time": "01:20 PM",
+          "reporter_role": "Ward Clerk - Male Medical",
+          "incident_description": "Double-sided consent forms led to missing signatures on page two in five BHTs; informed consent process deviation.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-19",
+          "time": "06:55 AM",
+          "reporter_role": "Infection Control Nurse",
+          "incident_description": "ICU hand hygiene compliance fell to 42% overnight; dispenser in Bay 3 empty; need rapid PDSA cycle.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-20",
+          "time": "09:05 AM",
+          "reporter_role": "ETU Medical Officer",
+          "incident_description": "Morning drizzle left ambulance bay slick; stretcher wheels skidded; anti-slip mats still not installed despite prior recommendation.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-21",
+          "time": "03:40 PM",
+          "reporter_role": "Physiotherapy In-Charge",
+          "incident_description": "Stroke rehab outcomes incomplete; mRS at discharge not recorded for Jan–Feb cohort; KPI at risk.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-02-22",
+          "time": "12:05 PM",
+          "reporter_role": "Blood Bank Technologist",
+          "incident_description": "Temperature mapping overdue; one crossmatch dispatch used cool box without data logger; deviation not reported.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-24",
+          "time": "01:50 PM",
+          "reporter_role": "Consultant Paediatrician",
+          "incident_description": "Adverse drug event (rash) noted in progress notes but not in incident portal; pattern of under-reporting in unit.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-26",
+          "time": "06:30 PM",
+          "reporter_role": "Maintenance Supervisor",
+          "incident_description": "Gusty rain blew dust into Ortho Theatre ante-room; positive pressure alarm low; door discipline failure.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-26",
+          "time": "08:10 PM",
+          "reporter_role": "Ward Sister - Female Medical",
+          "incident_description": "Power flicker with evening rain; two bedside monitors rebooted; crash cart defib post-check undocumented; staff unclear on SOP.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-02-27",
+          "time": "10:25 AM",
+          "reporter_role": "Theatre Manager",
+          "incident_description": "Instrument count discrepancy resolved only after re-open; count sheet had pre-ticked items; WHO checklist integrity compromised.",
+          "urgency": "Critical"
+        }
+      ]
+    }
+  },
+  {
+    "month": "March",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-03-01",
+          "time": "07:20 AM",
+          "reporter_role": "Sister-in-Charge, Main OT",
+          "incident_description": "CSSD delivered several instrument sets with moisture inside after autoclave; high morning humidity noted. Packs quarantined, but this is a sterility breach requiring QA review of cycle validation and release criteria.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-03",
+          "time": "04:05 PM",
+          "reporter_role": "Staff Nurse, Ward 5B",
+          "incident_description": "During the thunderstorm, water leaked into the 5B corridor; a geriatric patient nearly slipped and no caution signage was placed for 20 minutes. Request QA-led safety audit and CAPA with Engineering.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-03",
+          "time": "05:30 PM",
+          "reporter_role": "Medical Laboratory Technologist (Haematology)",
+          "incident_description": "Power dip in the storm interrupted morning IQC, yet 14 CBC reports were released without documented daily QC. QA intervention needed for nonconformance handling and clinician notification protocol.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-03-05",
+          "time": "07:55 PM",
+          "reporter_role": "Patient Relations Officer",
+          "incident_description": "Rain blew into OPD entrance and soaked the complaint box; several forms are unreadable and timelines for response were breached. Request QA oversight to restore the patient feedback process and prevent recurrence.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-03-07",
+          "time": "11:10 AM",
+          "reporter_role": "Infection Control Nurse",
+          "incident_description": "Paediatric Ward hand hygiene dashboard not updated for 10 days; spot checks showed multiple noncompliance events. QA support needed to enforce the audit-feedback loop per MoH IPC guideline.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-03-08",
+          "time": "02:25 PM",
+          "reporter_role": "Senior Medical Officer, Isolation Unit",
+          "incident_description": "Negative-pressure in TB room fluctuated between 0 and -2 Pa during the afternoon storm; monitoring logs have gaps. Request QA to coordinate RCA and risk mitigation before next admission.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-08",
+          "time": "06:40 PM",
+          "reporter_role": "Registrar, SICU",
+          "incident_description": "Look-alike medication near-miss not filed in the e-incident portal within 24 hours due to confusion with the new system. QA to retrain staff and ensure near-miss capture for trend analysis.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-03-10",
+          "time": "07:35 AM",
+          "reporter_role": "Consultant Orthopaedic Surgeon",
+          "incident_description": "Two theatre consent forms lacked a second patient identifier and a witness; cases were delayed. QA audit needed on consent completeness and reinforcement of WHO checklist practice.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-12",
+          "time": "01:15 PM",
+          "reporter_role": "Housekeeping Supervisor",
+          "incident_description": "Due to rain, the waste yard flooded and yellow bags were temporarily placed near OPD with general waste; segregation and signage were noncompliant. Request QA investigation with IPC and retraining.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-12",
+          "time": "08:05 PM",
+          "reporter_role": "Medical Officer, Medical Ward",
+          "incident_description": "Damp BHT pages caused an insulin order to be misread; dose was corrected after telephone verification. QA to review documentation legibility standards and protective sleeves for wet conditions.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-14",
+          "time": "10:20 AM",
+          "reporter_role": "Registrar, Microbiology",
+          "incident_description": "Antimicrobial stewardship audit submission for March is pending after registrar rotation; DDD tracking has stalled. QA to enforce compliance with MoH AMS reporting and continuity planning.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-03-15",
+          "time": "09:30 AM",
+          "reporter_role": "OPD Nursing Officer",
+          "incident_description": "OPD satisfaction kiosks have been offline since Friday and no paper fallback was arranged, so no feedback captured. QA support requested to restore KPI monitoring and implement downtime SOP.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-03-16",
+          "time": "06:50 PM",
+          "reporter_role": "Medical Officer, ETU",
+          "incident_description": "Post-thunder surge, triage documentation was incomplete; three Priority 2 cases waited over 60 minutes without timestamps. QA to conduct process audit and refresher on local triage scale use.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-17",
+          "time": "11:55 AM",
+          "reporter_role": "Anaesthetist Registrar",
+          "incident_description": "Time-out was marked not applicable in an emergency appendectomy though the team was present; a side-marking near-miss was later caught. Request QA-led RCA and re-briefing of theatre teams.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-18",
+          "time": "03:10 PM",
+          "reporter_role": "Pharmacist",
+          "incident_description": "Vaccine refrigerator spiked to 9.2 C for 35 minutes during peak heat; alarm escalation did not occur. QA to review cold-chain compliance and alarm response protocol.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-03-19",
+          "time": "08:25 PM",
+          "reporter_role": "Medical Officer, Ward 3A",
+          "incident_description": "After a brief power flicker, LIS duplicated a potassium result in the EHR; a medication adjustment was almost made on the wrong value. QA to oversee change control with IT and issue a safety alert.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-21",
+          "time": "07:05 PM",
+          "reporter_role": "Nursing Officer, Surgical Ward",
+          "incident_description": "Needle-stick injury PEP was not initiated within one hour and the incident was reported only the next day. QA review needed for NSI protocol adherence and staff counselling process.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-22",
+          "time": "03:40 PM",
+          "reporter_role": "Environmental Services Supervisor",
+          "incident_description": "Heavy rain made the waste yard unusable; yellow bags remained in the corridor for over 6 hours with odour complaints. QA to verify storage time limits and set a rainy-day contingency plan.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-03-22",
+          "time": "05:10 PM",
+          "reporter_role": "Patient Relations Officer",
+          "incident_description": "Multiple complaints about wet OPD benches and absent warning signs; two elderly patients slipped without injury. QA to assess response time KPIs and signage availability.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-24",
+          "time": "10:05 AM",
+          "reporter_role": "Medical Administrator",
+          "incident_description": "M&M committee minutes for Jan–Feb lack action owners and deadlines; closures are not tracked. QA to implement a tracking matrix and follow-up mechanism.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-03-26",
+          "time": "09:15 AM",
+          "reporter_role": "Health Information Officer",
+          "incident_description": "Records room is damp with a mold odour and visible spotting on BHT files after morning showers. QA to initiate risk assessment, consult IPC, and ensure records preservation standards.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-27",
+          "time": "12:25 PM",
+          "reporter_role": "Catering Supervisor",
+          "incident_description": "Buffet holding temperature recorded at 52 C during lunch and HACCP logs are blank for 24–26 March. QA to open nonconformance and conduct food safety retraining.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-29",
+          "time": "02:30 PM",
+          "reporter_role": "CSSD In-Charge",
+          "incident_description": "Sterile store measured 30.8 C and 75% RH in the afternoon heat; several peel packs are curling. QA to decide on quarantine and update environmental monitoring actions.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-30",
+          "time": "04:55 PM",
+          "reporter_role": "Security Supervisor",
+          "incident_description": "ETU entrance mat was saturated after heavy rain; a visitor slipped and sustained a minor abrasion. QA to categorize as a patient safety incident and coordinate CAPA with Facilities and Housekeeping.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-31",
+          "time": "08:40 AM",
+          "reporter_role": "Deputy Director",
+          "incident_description": "March KPI dashboard shows denominator errors for SSI rate; figures exceed surgical admissions. QA to validate the data pipeline before submission to RHHD.",
+          "urgency": "Medium"
+        }
+      ]
+    }
+  },
+  {
+    "month": "April",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-04-02",
+          "time": "07:55 AM",
+          "reporter_role": "Medical Records Officer",
+          "incident_description": "Heavy evening rain leaked into the records store; 24 consent forms damp and box storage not per policy. Request QA guidance on salvage, digitisation, and storage compliance.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-02",
+          "time": "09:20 PM",
+          "reporter_role": "Laboratory Technologist - Biochemistry",
+          "incident_description": "Lightning-induced power dip caused the analyzer to reboot; QC not re-run before two STAT samples were processed. Downtime SOP adherence needs review.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-04",
+          "time": "12:40 PM",
+          "reporter_role": "Staff Nurse - OPD Triage",
+          "incident_description": "Corridor outside OPD triage became slippery after the storm; wet floor signs were delayed and a visitor skidded (no injury). Please audit response time and signage readiness.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-04-04",
+          "time": "02:15 PM",
+          "reporter_role": "ETU Medical Officer",
+          "incident_description": "Generator auto-start lagged ~70 seconds during brief outage; monitors rebooted mid-resus readiness. Request RCA with Engineering and drill compliance review.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-04-04",
+          "time": "04:05 PM",
+          "reporter_role": "CSSD Supervisor",
+          "incident_description": "Afternoon humidity spike; Bowie-Dick borderline failure in Autoclave 2 and load quarantined. Need steam quality check, PPM logs, and corrective action.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-06",
+          "time": "08:10 AM",
+          "reporter_role": "Nursing Sister - Medical Ward 3",
+          "incident_description": "Clinical waste overflow and mixed segregation noted since last evening; smell prompted patient complaint. Verify pickup schedule and staff compliance.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-04-06",
+          "time": "01:25 PM",
+          "reporter_role": "OPD Patient Relations Officer",
+          "incident_description": "Token system froze after a power fluctuation; queues unmanaged >30 minutes and multiple complaints. Manual fallback SOP was not activated.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-04-08",
+          "time": "06:35 PM",
+          "reporter_role": "Housekeeping Supervisor",
+          "incident_description": "Downpour left the old lab stairwell wet due to louvre windows; anti-slip tape is worn and overdue for replacement per last audit.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-04-10",
+          "time": "07:30 AM",
+          "reporter_role": "Theatre Scrub Nurse - General Surgery",
+          "incident_description": "Instrument and swab count section left unsigned on first case; corrected immediately. Request targeted compliance audit of OT documentation.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-04-10",
+          "time": "08:55 PM",
+          "reporter_role": "Pharmacy In-Charge",
+          "incident_description": "Storm-time restocking left vaccine fridge door ajar; temp rose to 10°C for 25 minutes and alarm was acknowledged late. Affected batches quarantined; review cold-chain SOP.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-11",
+          "time": "11:10 AM",
+          "reporter_role": "Infection Control Nurse",
+          "incident_description": "Orthopaedic ward hand hygiene audit at 52% vs 80% target. Need immediate coaching plan and repeat audit in one week.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-04-12",
+          "time": "03:35 PM",
+          "reporter_role": "NICU Sister-in-Charge",
+          "incident_description": "Ceiling tile loosened with moisture in NICU corridor post-storm; droplet contamination risk. Admissions diverted for 20 minutes; environmental safety action required.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-04-14",
+          "time": "02:10 PM",
+          "reporter_role": "Anaesthetist - OT Complex",
+          "incident_description": "WHO Surgical Safety Checklist ‘time-out’ not verbalised for Case 3 until prompted. Request refresher and real-time checklist audit.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-15",
+          "time": "10:05 AM",
+          "reporter_role": "Dialysis Unit Medical Officer",
+          "incident_description": "RO water check showed free chlorine 0.1 ppm pre-filter; sessions delayed and line flushed. Need CAPA, logs review, and vendor notification per standard.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-16",
+          "time": "09:40 PM",
+          "reporter_role": "Senior House Officer - Paediatrics",
+          "incident_description": "Look-alike/ sound-alike error intercepted: ceftriaxone prepared instead of cefotaxime; barcode scan prevented administration. Request LASA mitigation and storage re-layout.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-18",
+          "time": "08:20 AM",
+          "reporter_role": "Medical Records Clerk",
+          "incident_description": "Lab report filed into wrong patient folder; detected on consultant ward round. Breach of two-identifier policy; needs retraining and spot checks.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-18",
+          "time": "05:50 PM",
+          "reporter_role": "Fire & Safety Marshal",
+          "incident_description": "Quarterly fire drill documentation incomplete; night shift in Ward 7 not oriented and uncertain of evacuation route. Accreditation compliance risk.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-04-20",
+          "time": "09:15 AM",
+          "reporter_role": "CSSD Technician",
+          "incident_description": "Sterile store RH >75% for ~3 hours during morning rain; some packs damp and wrap integrity compromised. Quarantined stock; HVAC and monitoring review needed.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-20",
+          "time": "11:30 PM",
+          "reporter_role": "Mortuary Attendant",
+          "incident_description": "Mortuary temperature logger shows a 3-hour data gap; probe battery flat. Chain-of-custody and accreditation nonconformance noted.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-04-22",
+          "time": "10:05 AM",
+          "reporter_role": "Pathology Registrar",
+          "incident_description": "External QA blood sample mislabeled before dispatch; scheme informed. Requires RCA on specimen identification and corrective training.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-24",
+          "time": "03:00 PM",
+          "reporter_role": "Infection Control Medical Officer",
+          "incident_description": "Negative-pressure isolation room at -1 Pa vs -5 Pa target; door was propped open due to heat with a TB-suspected patient inside. Immediate containment and process review needed.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-04-27",
+          "time": "06:50 AM",
+          "reporter_role": "Ward Nurse - Medical Ward 2",
+          "incident_description": "Patient slip in bathroom with superficial bruise; early mopping done without barrier tape though falls-risk signage was present. Review cleaning schedule and falls protocol.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-04-29",
+          "time": "08:25 AM",
+          "reporter_role": "OPD Nursing Officer",
+          "incident_description": "OPD token display down again; manual fallback not announced, causing crowding and 12 complaints. Trend requires process improvement and monitoring.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-04-29",
+          "time": "02:35 PM",
+          "reporter_role": "Biomedical Engineer",
+          "incident_description": "Oxygen cylinder exchanges (n=14) lack batch numbers in the log; traceability broken and vendor slips missing. Immediate corrective action required.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-30",
+          "time": "04:45 PM",
+          "reporter_role": "Quality Data Analyst",
+          "incident_description": "Ward 5 patient satisfaction forms show identical handwriting/patterns suggesting coached entries. Request data integrity audit and retraining.",
+          "urgency": "Medium"
+        }
+      ]
+    }
+  },
+  {
+    "month": "May",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-05-01",
+          "time": "05:12 PM",
+          "reporter_role": "ICU Nursing Officer",
+          "incident_description": "Ceiling leak during the afternoon storm wet the ICU corridor near oxygen outlets; no hazard cones placed. Request QA safety review and immediate corrective action with Engineering.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-02",
+          "time": "09:05 AM",
+          "reporter_role": "MO-OPD (Triage)",
+          "incident_description": "Rain-driven crowding caused triage overflow; fast-track signage unclear and two patients bypassed tokens. Please audit OPD patient flow and signage compliance.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-05-03",
+          "time": "08:40 PM",
+          "reporter_role": "Records Officer (MRD)",
+          "incident_description": "Water ingress soaked several BHTs; some entries illegible. Risk to record retention and medico-legal standards. Request QA investigation and SOP reinforcement for document protection.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-05",
+          "time": "10:25 AM",
+          "reporter_role": "Theatre Sister",
+          "incident_description": "During heavy rain, OR humidity spiked >75%; two tray indicators showed incomplete sterilization colour change. Cases delayed. Need QA validation of HVAC monitoring and stop-rule adherence.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-05",
+          "time": "12:05 PM",
+          "reporter_role": "Surgical House Officer",
+          "incident_description": "WHO surgical checklist ‘time-out’ was rushed due to storm-related schedule shuffle; antibiotic prophylaxis confirmation missed but caught pre-incision. Request QA audit and refresher.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-06",
+          "time": "07:30 AM",
+          "reporter_role": "Biomedical Engineer",
+          "incident_description": "Generator weekly test entry missing in the compliance log despite multiple power dips today. Please initiate QA nonconformance for critical equipment readiness.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-05-08",
+          "time": "03:10 PM",
+          "reporter_role": "Senior Lab Technologist",
+          "incident_description": "Flooded corridor delayed OPD-to-Lab transport; three INR samples exceeded 30-min window. Pre-analytical quality risk. Request QA review of specimen transport during monsoon.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-08",
+          "time": "04:20 PM",
+          "reporter_role": "MO-OPD (Immunisation Clinic)",
+          "incident_description": "Vaccine fridge temp rose to 10°C for ~15 min after thunderstorm; alarm battery failed. Need QA investigation of cold-chain deviation and corrective actions.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-09",
+          "time": "01:15 PM",
+          "reporter_role": "Clinical Pharmacist",
+          "incident_description": "Humidity caused OPD-label ink smudging on BHT charts; near-miss wrong-patient dose averted. Recommend QA check on label materials and labeling SOP.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-05-10",
+          "time": "11:00 AM",
+          "reporter_role": "Nursing Supervisor",
+          "incident_description": "Internal round found expired sutures in Ward 3 emergency trolley. Items removed. Request QA nonconformance and unit-wide spot audit.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-05-11",
+          "time": "02:18 PM",
+          "reporter_role": "Radiographer",
+          "incident_description": "Patient slipped outside X-ray after downpour; floor wet, no caution cone. Minor abrasion treated. Please initiate QA fall incident investigation and signage audit.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-11",
+          "time": "09:35 PM",
+          "reporter_role": "ETU Medical Officer",
+          "incident_description": "Adverse drug reaction form incomplete—key chronology fields left blank. Request QA-led retraining on incident documentation standards.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-05-12",
+          "time": "01:05 PM",
+          "reporter_role": "Infection Control Nurse",
+          "incident_description": "Hand hygiene observation: two interns missed ‘5 moments’ during lunch relief. Recommend QA feedback session and repeat audit next week.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-05-13",
+          "time": "07:50 AM",
+          "reporter_role": "Minor Staff Supervisor (Waste Management)",
+          "incident_description": "Monsoon winds displaced lids; red and yellow biomedical waste bins found open and commingled in the yard. Please raise QA noncompliance and reinforce BMWM training.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-13",
+          "time": "10:45 AM",
+          "reporter_role": "Patient Relations Officer",
+          "incident_description": "Token display failed during storms; OPD patients queued blindly and lodged complaints. Seek QA review of communication contingency and patient information standards.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-05-15",
+          "time": "06:30 PM",
+          "reporter_role": "Theatre Attendant",
+          "incident_description": "Due to prolonged rain, 12 histopath jars left in theatre anteroom ~3 hours before dispatch. Chain-of-custody and fixation delays. Request QA investigation.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-16",
+          "time": "09:20 AM",
+          "reporter_role": "Ward Sister – Medical Ward 5",
+          "incident_description": "NBM patient had wrong-colour ID band; nearly received oral meds during round. Near-miss flagged. Please audit ID band policy adherence.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-17",
+          "time": "03:55 PM",
+          "reporter_role": "Dialysis Unit Nurse",
+          "incident_description": "Storm-related power blip moved machines to UPS; alarm histories for two patients not saved. Documentation integrity issue—request QA review of business continuity.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-17",
+          "time": "11:40 AM",
+          "reporter_role": "Consultant Anaesthetist",
+          "incident_description": "OR temperature 28°C and RH 78% for ~40 min; list continued without formal deviation approval. Need QA investigation into environmental parameter breaches.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-19",
+          "time": "08:10 PM",
+          "reporter_role": "Medical Officer – Ward 8",
+          "incident_description": "ICU-to-ward transfer without medication reconciliation; duplicate anticoagulant order caught on round. Request QA audit of handover checklist use.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-20",
+          "time": "10:10 AM",
+          "reporter_role": "Hospital Administrator (Accreditation Lead)",
+          "incident_description": "Tracer review found missing Q2 fire drill records for OPD. Please open QA CAPA and schedule make-up drill.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-05-21",
+          "time": "01:40 PM",
+          "reporter_role": "Midwife (Labour Room)",
+          "incident_description": "Leak over neonatal warmer during widespread rain; baby moved safely. High-risk facility issue—request QA-led hazard assessment and PM follow-up.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-05-25",
+          "time": "07:05 PM",
+          "reporter_role": "Mortuary Attendant",
+          "incident_description": "Cold room temp 10–12°C for ~50 min post-thunderstorm; logging gaps noted. Request QA verification of monitoring and escalation pathway.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-05-25",
+          "time": "08:15 PM",
+          "reporter_role": "Dietician In-Charge",
+          "incident_description": "Sewage backflow near pantry after intense rain; meal service paused. Food safety risk—request QA environmental risk review and corrective actions.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-05-31",
+          "time": "09:50 AM",
+          "reporter_role": "IT Officer (HIS)",
+          "incident_description": "Month-end KPI extract shows missing Ward 5 discharge summaries; outcome metrics incomplete. Need QA data validation and escalation to clinical documentation leads.",
+          "urgency": "Medium"
+        }
+      ]
+    }
+  },
+  {
+    "month": "June",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-06-01",
+          "time": "08:15 AM",
+          "reporter_role": "Senior Staff Nurse, OPD",
+          "incident_description": "During the morning downpour, water tracked into OPD entrance; mats absent, two slips and one elderly fall (no fracture). Request QA review wet-floor SOP and entrance risk controls.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-01",
+          "time": "06:40 PM",
+          "reporter_role": "Theatre Matron",
+          "incident_description": "CSSD noted several autoclave indicator strips not fully changed in evening cycle; humidity very high and packs were still released to OT. Need QA-led quarantine and sterilization audit.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-06-02",
+          "time": "02:25 PM",
+          "reporter_role": "Ward Sister, Medical Ward 6",
+          "incident_description": "Brief power dip after heavy rain; insulin fridge temp rose to 12°C for ~20 mins, no excursion form filled. Seek QA guidance on product quarantine and cold-chain documentation compliance.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-04",
+          "time": "11:10 AM",
+          "reporter_role": "Consultant Anaesthetist",
+          "incident_description": "Thunderstorm caused leak near scrub sink in OT-2; splash risk to sterile area. Recommend QA stop-list protocol and RCA on building integrity.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-06-04",
+          "time": "03:05 PM",
+          "reporter_role": "Patient Relations Officer",
+          "incident_description": "Complaint: consent taken only in English for endoscopy; patient states no Sinhala/Tamil explanation documented. Please check policy adherence and staff briefing.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-06-06",
+          "time": "07:50 AM",
+          "reporter_role": "Housekeeping Supervisor",
+          "incident_description": "Wind blew open clinical waste room; yellow bags briefly outside and one torn by stray dog. Noncompliance with waste segregation/storage; request QA audit and corrective actions.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-08",
+          "time": "09:12 AM",
+          "reporter_role": "NICU Medical Officer",
+          "incident_description": "Lightning caused short outage; monitors rebooted, 8 minutes of vitals not charted. Need QA review of downtime SOP and generator transfer testing.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-08",
+          "time": "04:18 PM",
+          "reporter_role": "Chief MLT, Hematology",
+          "incident_description": "Internal audit found expired diluent used once on CBC analyzer; results already issued on six OPD BHTs. Require QA to initiate recall, clinician notification, and CAPA.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-06-09",
+          "time": "10:45 AM",
+          "reporter_role": "Pharmacy Manager",
+          "incident_description": "Antibiotic bulk store damp; humidity indicator pink, no log maintained. Request QA implement humidity monitoring and storage compliance check.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-06-11",
+          "time": "07:30 PM",
+          "reporter_role": "Nursing Officer, Ward 6",
+          "incident_description": "Falls-risk form incomplete in 4/6 new admissions; one bathroom slip (no injury). Need QA spot audit and immediate feedback.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-06-13",
+          "time": "01:20 PM",
+          "reporter_role": "Medical Records Officer",
+          "incident_description": "Multiple BHT discharges lack consultant signature and ICD coding delays; patients complain of insurance claim holdup. Please verify documentation compliance.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-06-14",
+          "time": "09:05 AM",
+          "reporter_role": "Safety Officer",
+          "incident_description": "Rear stairwell fire door wedged open with bin due to wind; egress compromised and noncompliant with fire code. Request QA enforcement and action tracking.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-16",
+          "time": "08:00 AM",
+          "reporter_role": "Infection Control Nurse",
+          "incident_description": "Hand hygiene audit in ETU at shift change showed 38% compliance, frequent glove-on-touch. Recommend QA-led corrective training and HICC escalation.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-16",
+          "time": "02:42 PM",
+          "reporter_role": "Clinical Pharmacist",
+          "incident_description": "Near-miss: heparin dose calculated using outdated protocol from shared drive; intercepted before admin. Need QA document control and version management fix.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-17",
+          "time": "05:55 PM",
+          "reporter_role": "OT Runner",
+          "incident_description": "Rainwater flooded staff corridor; trolley with sterile sets splashed at base, not clearly quarantined. QA to trigger product recall and traceability check.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-18",
+          "time": "08:10 AM",
+          "reporter_role": "Biomedical Engineer",
+          "incident_description": "OT HVAC logged humidity >65% during first case; no follow-up action recorded. Potential SSI risk—request QA immediate environmental check and case review.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-06-18",
+          "time": "03:30 PM",
+          "reporter_role": "OPD Manager",
+          "incident_description": "Mid-month survey shows median OPD waiting >3 hours; multiple complaints on token sequence errors. Propose QA-facilitated QI project.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-06-20",
+          "time": "04:22 PM",
+          "reporter_role": "Health Information Officer",
+          "incident_description": "Rainwater seeped into records room; several BHTs on floor damp, covers stained. Need QA to activate records salvage SOP and assess confidentiality risks.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-22",
+          "time": "09:40 AM",
+          "reporter_role": "Maintenance Supervisor",
+          "incident_description": "Medical gas manifold area labels faded/peeled after rain; new staff hesitated during cylinder change. Noncompliance with safety labeling—request QA audit.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-22",
+          "time": "01:15 PM",
+          "reporter_role": "Oncology Day Unit Sister",
+          "incident_description": "Two vesicant extravasations this week via peripheral lines; vein assessment checklist incompletely filled. Please initiate QA-led cluster review and protocol reinforcement.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-23",
+          "time": "11:05 AM",
+          "reporter_role": "Consultant Physician",
+          "incident_description": "Unlabelled sample medicines found in clinic cupboard; not in pharmacy ledger, NMRA compliance issue. Require QA investigation and corrective action.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-06-24",
+          "time": "07:25 PM",
+          "reporter_role": "Senior Radiographer",
+          "incident_description": "Ceiling leak above radiology waiting; damp near exposed wiring and patient seating. Area closed temporarily—need QA to classify as sentinel hazard and track fixes.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-06-26",
+          "time": "10:02 AM",
+          "reporter_role": "CSSD Technician",
+          "incident_description": "Indicator tape not adhering on wrapped sets due to humidity; IDs handwritten on wrap, traceability compromised. Request QA nonconformance handling and retraining.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-28",
+          "time": "02:55 PM",
+          "reporter_role": "Ambulance Nurse",
+          "incident_description": "Heavy coastal downpour left pooling at ambulance bay; stretcher wheels slipped, near-fall. Need QA-led safety walkabout and anti-slip controls.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-30",
+          "time": "09:00 AM",
+          "reporter_role": "Medical Administrator",
+          "incident_description": "M&M minutes lack action tracking; several last-month items unresolved. Request QA standardize governance templates and follow-ups.",
+          "urgency": "Medium"
+        }
+      ]
+    }
+  },
+  {
+    "month": "July",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-07-01",
+          "time": "08:10 AM",
+          "reporter_role": "CSSD Supervisor",
+          "incident_description": "Multiple chemical indicators failed to change on wrapped sets this morning; ambient humidity was very high. Request QA review of environmental controls and hold-release process.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-03",
+          "time": "02:25 PM",
+          "reporter_role": "Housekeeping Supervisor",
+          "incident_description": "Rainwater tracked into OPD corridor created a slippery patch with no caution signage for ~20 minutes; one visitor slipped (no injury). Please audit safety rounds and signage stock during monsoon.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-03",
+          "time": "07:50 PM",
+          "reporter_role": "MO-ETU",
+          "incident_description": "Brief thunderstorm-related power flicker caused LIS downtime; two ETU samples were processed without applying downtime labels—traceability gap noted. QA review and staff retraining needed.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-05",
+          "time": "09:35 AM",
+          "reporter_role": "Patient Relations Officer",
+          "incident_description": "OPD feedback forms available only in Sinhala today; Tamil/English not stocked. Noncompliance with patient communication standards and accreditation requirements.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-07-07",
+          "time": "10:15 AM",
+          "reporter_role": "CSSD Manager",
+          "incident_description": "Seven instrument sets found damp on opening post-sterilization; steady rain and high humidity reported. Sets quarantined—request QA audit of cycle parameters and storage conditions.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-07",
+          "time": "05:40 PM",
+          "reporter_role": "Security Supervisor",
+          "incident_description": "Main entrance coir mats saturated from continuous rain; no extra absorbent mats deployed. Two near-miss slips reported—please review monsoon entryway SOP compliance.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-07-09",
+          "time": "03:05 PM",
+          "reporter_role": "Infection Control Nurse",
+          "incident_description": "Ward 3B isolation room lost negative pressure for ~12 minutes after a power flicker; alarm acknowledged but escalation chain unclear. Request QA investigation and corrective action.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-09",
+          "time": "11:20 AM",
+          "reporter_role": "Senior MLT",
+          "incident_description": "Near-miss: two BHT labels mixed at Pathology reception; discrepancy caught before analysis. Recommend QA-led audit on specimen identification practice.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-11",
+          "time": "07:25 AM",
+          "reporter_role": "Anaesthesia SHO",
+          "incident_description": "Audit shows 6/20 cases with surgical antibiotic prophylaxis given >60 min before incision in OT. Need QA-facilitated QI plan with theatre team.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-07-12",
+          "time": "01:10 PM",
+          "reporter_role": "Waste Management Officer",
+          "incident_description": "Yellow clinical waste mixed with general waste behind OPD during light rain; bin lids left open. Noncompliance with segregation and infection control policy.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-07-14",
+          "time": "09:00 AM",
+          "reporter_role": "Records Officer",
+          "incident_description": "Dampness in Medical Records store; several BHT bundles on lower rack wet after last night’s rain. Risk to record integrity—request QA guidance on salvage and storage controls.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-14",
+          "time": "08:35 PM",
+          "reporter_role": "ICU Sister-in-Charge",
+          "incident_description": "During thunder, central monitor feed dropped; manual charting not commenced for 18 minutes. Downtime SOP not followed—please initiate incident review.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-16",
+          "time": "04:50 PM",
+          "reporter_role": "Staff Nurse, Ward 6 (Geriatrics)",
+          "incident_description": "Nine of today’s fifteen new admissions lack initial fall-risk assessment on BHT. Request QA to support rapid audit and corrective action.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-07-17",
+          "time": "06:40 AM",
+          "reporter_role": "Night Duty MLT",
+          "incident_description": "Reagent fridge alarmed overnight; manual temperature checks not recorded from 12–4 AM (stormy night). Verify cold chain integrity and reinforce SOP.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-17",
+          "time": "09:05 PM",
+          "reporter_role": "Engineering Duty Officer",
+          "incident_description": "Post-outage review shows generator fuel log totals don’t match hour-meter. Documentation control issue—request QA audit of records and reconciliation process.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-07-19",
+          "time": "08:55 AM",
+          "reporter_role": "ETU RMO",
+          "incident_description": "During steady rain, crowd sheltering led to triage congestion; fast-track SOP not activated. Two formal complaints about delays—process compliance review needed.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-07-19",
+          "time": "03:30 PM",
+          "reporter_role": "Nephrology Consultant",
+          "incident_description": "Ceiling leak near Dialysis RO plant; humidity alarm triggered. Buckets placed but no incident form until prompted—please address reporting culture and environmental risk.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-21",
+          "time": "10:05 AM",
+          "reporter_role": "Clinical Pharmacist",
+          "incident_description": "Severe rash after ceftriaxone not entered in ADR register and not reported to NMRA within 7 days. Regulatory noncompliance—request QA follow-up.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-23",
+          "time": "12:20 PM",
+          "reporter_role": "Infection Control Nurse",
+          "incident_description": "Hand hygiene spot audit in Surgical Ward: 58% vs target 80%; July trend declining. Request QA-facilitated corrective action plan.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-07-24",
+          "time": "07:15 AM",
+          "reporter_role": "Theatre Matron",
+          "incident_description": "Gusty conditions caused Theatre 2 door to draft open; sterile field wrapper lifted. Case paused—request environmental controls and door-closer compliance audit.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-24",
+          "time": "02:45 PM",
+          "reporter_role": "Biomedical Engineer",
+          "incident_description": "Moisture ingress seen at OPD injection room outlet after rain; monthly electrical safety checklist for area is overdue. QA to verify compliance and follow-up.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-07-26",
+          "time": "09:10 AM",
+          "reporter_role": "Ophthalmology MO",
+          "incident_description": "Cataract camp consents issued only in English; Sinhala/Tamil versions not provided. Several patients signed without translation—urgent policy and process review needed.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-28",
+          "time": "03:55 PM",
+          "reporter_role": "OPD Coordinator",
+          "incident_description": "Patient satisfaction kiosk offline since Friday; no paper fallback used. Weekly metric gap—request QA guidance on continuity of data capture.",
+          "urgency": "Low"
+        },
+        {
+          "date": "2025-07-30",
+          "time": "08:20 AM",
+          "reporter_role": "Pharmacist-in-Charge",
+          "incident_description": "Dawn thunderstorm led to vaccine fridge rising to 10°C for ~35 minutes; deviation form initiated late. Cold-chain risk—request QA oversight for excursion assessment.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-07-30",
+          "time": "09:40 PM",
+          "reporter_role": "Blood Bank Technologist",
+          "incident_description": "During LIS outage, two units were issued after manual crossmatch without second-person verification per SOP. Major near-miss—RCA and corrective action required.",
+          "urgency": "Critical"
+        }
+      ]
+    }
+  },
+  {
+    "month": "August",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-08-01",
+          "time": "06:45 AM",
+          "reporter_role": "CSSD Supervisor",
+          "incident_description": "Two ortho sets came out damp despite full autoclave run; CSSD humidity at 75%. Cases delayed—request QA review of sterilization parameters and environment control.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-02",
+          "time": "03:20 PM",
+          "reporter_role": "OPD Patient Relations Officer",
+          "incident_description": "Several OPD clients asked how to lodge complaints; forms in Sinhala/Tamil not displayed and noticeboard outdated. Please verify complaints handling compliance and refresh materials.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-08-04",
+          "time": "11:10 AM",
+          "reporter_role": "Medical Records Officer",
+          "incident_description": "Pre-op consent packs in Ward 7 lack Tamil version; some interpreter sections blank. Possible MoH bilingual consent non-compliance—request QA audit.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-08-05",
+          "time": "02:35 PM",
+          "reporter_role": "Front Desk Supervisor",
+          "incident_description": "Brief rain led to wet lobby tiles; no caution cones placed. Visitor slipped (no injury). Near-miss logged—QA to review housekeeping SOP and corrective action plan.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-06",
+          "time": "09:25 AM",
+          "reporter_role": "Laboratory Technologist",
+          "incident_description": "Two EDTA tubes from ETU had identical barcodes but different names handwritten; near-miss prevented. Request QA-led RCA and labeling audit at ETU.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-08",
+          "time": "04:40 PM",
+          "reporter_role": "NICU Staff Nurse",
+          "incident_description": "During thundery rain, seepage noted above Bay B; two cots shifted. Need QA to assess facility risk and track CAPA for leak source.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-08",
+          "time": "05:05 PM",
+          "reporter_role": "Biomedical Engineer",
+          "incident_description": "Power dip; generator stabilized after ~20 seconds. Three HDU monitors rebooted; no harm. Event requires QA review of power contingency testing frequency.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-09",
+          "time": "10:15 AM",
+          "reporter_role": "OPD Medical Officer",
+          "incident_description": "Patient for minor suturing arrived without ID band; only clinic card checked. Breach of two-identifier policy—request QA corrective training.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-08-11",
+          "time": "08:50 PM",
+          "reporter_role": "Ward 3 Registrar",
+          "incident_description": "On ETU-to-ward transfer, medication reconciliation not done; duplicate cefuroxime charted then stopped. No harm. QA to audit handover checklist compliance.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-08-13",
+          "time": "06:30 PM",
+          "reporter_role": "Theatre Matron",
+          "incident_description": "Autoclave printer paper got damp during rain; two cycle records are unreadable. Traceability risk—please have QA enforce documentation controls.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-15",
+          "time": "02:10 PM",
+          "reporter_role": "Pharmacy In-Charge",
+          "incident_description": "Vaccine fridge logged 9–10°C for ~45 minutes in afternoon heat; frequent door opening noted. Potential cold-chain breach—request QA guidance on quarantine and CAPA.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-08-16",
+          "time": "01:05 PM",
+          "reporter_role": "Consultant Anaesthetist",
+          "incident_description": "WHO checklist ‘sign-in’ incomplete in OT 2; allergy status not ticked before induction. No adverse event. QA reinforcement of checklist compliance needed.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-17",
+          "time": "03:25 PM",
+          "reporter_role": "Radiology Nurse",
+          "incident_description": "Gusty rain caused power fluctuation; patient on trolley trapped in Lift 2 for 7 minutes en route to CT. QA to review emergency lift drill and response time.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-17",
+          "time": "05:15 PM",
+          "reporter_role": "Infection Control Nurse",
+          "incident_description": "Rainwater entered biomedical waste holding area; yellow bag labels smeared. Environmental control breach—QA to coordinate corrective actions and compliance check.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-19",
+          "time": "09:40 AM",
+          "reporter_role": "Health Information Officer",
+          "incident_description": "Patient satisfaction forms in Sinhala exhausted at OPD; only English available. KPI collection affected—request QA to ensure tri-lingual supply and continuity.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-08-21",
+          "time": "11:55 AM",
+          "reporter_role": "OPD Sister-in-Charge",
+          "incident_description": "Manual ticket-time register not tallied yesterday; waiting-time dashboard shows zero. Need QA support to standardize data capture and backfill.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-08-22",
+          "time": "04:10 PM",
+          "reporter_role": "Radiographer",
+          "incident_description": "Leak during thundershower dripping near 3‑pin outlet in X-ray waiting area; area cordoned. Please have QA log safety hazard and verify controls.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-24",
+          "time": "02:50 PM",
+          "reporter_role": "Dialysis Unit Nurse",
+          "incident_description": "RO water TDS log has no entries for last 24 hours though sessions ran. Compliance gap—request QA audit and re-training on documentation.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-25",
+          "time": "09:05 AM",
+          "reporter_role": "OPD Triage Nurse",
+          "incident_description": "Morning rush: NEWS scores not calculated; ‘stable’ ticked for several patients. Risk of missed deterioration—QA refresher and monitoring requested.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-26",
+          "time": "08:15 AM",
+          "reporter_role": "Medical Officer, Ward 5",
+          "incident_description": "Night-to-day handover sent as WhatsApp voice notes instead of SBAR sheet; key details missing. Please QA to enforce formal handover policy.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-08-27",
+          "time": "07:10 AM",
+          "reporter_role": "Nursing Supervisor (Night)",
+          "incident_description": "Ward 2 crash cart seal broken; two adrenaline amps expired last month. Non-conformance found on round—request QA to expand spot-checks.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-28",
+          "time": "03:00 PM",
+          "reporter_role": "Endoscopy Technician",
+          "incident_description": "Scope drying cabinet showed RH >60% for about 2 hours in afternoon heat; scopes stored meanwhile. Need QA guidance on quarantine and environment control.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-30",
+          "time": "02:25 PM",
+          "reporter_role": "Laboratory Manager",
+          "incident_description": "Thunderstorm power fluctuations disrupted SMS alerts; critical K+ 6.9 not notified for 25 minutes. QA to verify critical result escalation pathway and fallback.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-08-30",
+          "time": "05:40 PM",
+          "reporter_role": "Security Officer",
+          "incident_description": "Heavy rain caused pooling at OPD entrance; elderly patient slipped, minor abrasion. Incident logged—request QA-led RCA and preventive measures.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-31",
+          "time": "10:30 AM",
+          "reporter_role": "Infection Control Nurse",
+          "incident_description": "Weekend shift: HCAs entered isolation room without face shields; donning poster present but ignored. Please QA to conduct spot audit and reinforce training.",
+          "urgency": "High"
+        }
+      ]
+    }
+  },
+  {
+    "month": "September",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-09-01",
+          "time": "09:15 AM",
+          "reporter_role": "Ward Nurse (Ward 8 - Medical)",
+          "incident_description": "Monthly BHT documentation spot-check: 7/25 files had undocumented allergies and unsigned nursing notes. Request QA audit and corrective training per hospital policy.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-09-03",
+          "time": "02:40 PM",
+          "reporter_role": "Public Health Nursing Sister (Immunization Clinic)",
+          "incident_description": "Vaccine fridge recorded 10°C for ~35 minutes during stock take; heat today likely worsened drift. Possible cold-chain breach—QA to lead RCA and patient safety notification protocol.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-04",
+          "time": "11:10 AM",
+          "reporter_role": "Clinical Pharmacist (Inpatient)",
+          "incident_description": "Near-miss: Gentamicin 80 mg ampoule stocked in 40 mg bin; intercepted before dose prep. LASA control not followed. Request QA review of storage SOP and label strategy.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-04",
+          "time": "06:25 PM",
+          "reporter_role": "Sister-in-Charge, OPD",
+          "incident_description": "After rain, OPD foyer floor got wet; no caution boards placed; one patient almost slipped. Please trigger QA safety audit and immediate CAPA.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-06",
+          "time": "08:05 AM",
+          "reporter_role": "CSSD Supervisor",
+          "incident_description": "Two ortho sets failed chemical indicators; printout shows brief temperature drop and visible condensation after morning drizzle. QA to quarantine loads and review autoclave validation.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-08",
+          "time": "10:35 AM",
+          "reporter_role": "Accounts Officer (Billing)",
+          "incident_description": "OPD billing queue breached 45-min KPI; token sequence skipped during manual override. Need QA process mapping and staff retraining.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-09-08",
+          "time": "03:20 PM",
+          "reporter_role": "Theatre Matron",
+          "incident_description": "Ceiling leak in surgical corridor during rain; sterile trolley staged nearby. Request QA-led risk assessment and compliance check with infection control standards.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-09",
+          "time": "04:10 PM",
+          "reporter_role": "Medical Records Officer",
+          "incident_description": "August mortality audits not closed within 30 days; M&M minutes pending sign-off. Accreditation compliance at risk—QA coordination needed.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-09-10",
+          "time": "07:50 PM",
+          "reporter_role": "ETU Medical Officer",
+          "incident_description": "Thunderstorm surge—triage times exceeded 20 min for Category 2; two chest pain cases waited. KPI breach; please initiate QA review and surge protocol drill.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-10",
+          "time": "08:30 PM",
+          "reporter_role": "Senior Lab Technologist",
+          "incident_description": "Two power dips; chemistry analyzer QC failed, but no deviation form raised. Need QA investigation into documentation lapse and contingency SOP adherence.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-12",
+          "time": "01:15 PM",
+          "reporter_role": "Waste Management Officer",
+          "incident_description": "Segregation breach near Ward 5 pantry—yellow bag placed in black bin; staff unsure of latest MoH circular. Request QA audit and refresher.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-14",
+          "time": "06:10 PM",
+          "reporter_role": "Anaesthetist (On-call)",
+          "incident_description": "Three consent forms in Theatre 2 missing witness signatures; discovered pre-induction. QA to enforce checklist compliance and audit sample.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-09-15",
+          "time": "11:25 AM",
+          "reporter_role": "Ward Doctor (Ward 10 - Surgical)",
+          "incident_description": "Pressure ulcer bundle slippage—3 new Stage 2 within 48 hrs; turning charts incomplete. Request QA-facilitated RCA and prevention drive.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-17",
+          "time": "03:45 PM",
+          "reporter_role": "Nursing Officer (OPD Lobby)",
+          "incident_description": "Patient slipped on puddle near lift after heavy rain; minor elbow injury treated. Please open QA adverse event review and falls audit.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-17",
+          "time": "04:30 PM",
+          "reporter_role": "Pharmacist (Stores)",
+          "incident_description": "Fridge temperature logs for outage period appear backfilled; same ink and handwriting for multiple shifts. Data integrity concern—urgent QA investigation needed.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-09-19",
+          "time": "07:20 PM",
+          "reporter_role": "Biomedical Engineer",
+          "incident_description": "Two empty O2 cylinders found on ready trolley; changeover checklist not signed at shift handover. QA to audit traceability and escalate to MOIC.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-21",
+          "time": "09:10 AM",
+          "reporter_role": "Dialysis Unit Sister",
+          "incident_description": "Weekly RO water quality test missed; outsourced lab delayed, no documented risk assessment. Noncompliant with RDHS guidance—QA action requested.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-21",
+          "time": "02:00 PM",
+          "reporter_role": "Gynae OPD Medical Officer",
+          "incident_description": "Patient complaint about privacy—no curtains at two examination cubicles; conversations audible in queue. Please engage QA on patient rights standards.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-09-22",
+          "time": "11:50 AM",
+          "reporter_role": "Infection Control Nurse (NICU)",
+          "incident_description": "Covert audit: hand hygiene compliance 62%; family visiting overcrowding noted. Request QA-led rapid PDSA with unit leadership.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-23",
+          "time": "05:35 PM",
+          "reporter_role": "Records Room Attendant",
+          "incident_description": "Storm water seeped into ground-floor MRD; several BHTs damp. Need QA guidance on document salvage and disaster preparedness compliance.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-23",
+          "time": "08:40 PM",
+          "reporter_role": "Consultant Physician (ETU cover)",
+          "incident_description": "Sepsis bundle not started within 1 hr for two arrivals; antibiotics delayed; lactate not drawn. Require QA case review and pathway fix.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-09-25",
+          "time": "05:55 PM",
+          "reporter_role": "Storekeeper (Sterile Store)",
+          "incident_description": "Humidity spiked to 78% for ~3 hrs during rain; dehumidifier offline; sterility risk for packed consumables. QA to evaluate and document CAPA.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-25",
+          "time": "06:20 PM",
+          "reporter_role": "Hospital Administrator",
+          "incident_description": "Outage during rain—generator changeover delayed 4 min; weekly test log missing. Please initiate QA investigation and compliance review with accreditation standards.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-09-27",
+          "time": "07:05 PM",
+          "reporter_role": "Surgical SHO (Theatre 1)",
+          "incident_description": "Wrong-side prep avoided at time-out; booking form and BHT laterality conflicted. Near-miss—QA to reinforce WHO checklist reliability.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-28",
+          "time": "10:05 AM",
+          "reporter_role": "Neonatal Ward Sister",
+          "incident_description": "Two infant warmers found with expired PPM stickers; condensation on canopy in today’s humidity. QA to verify asset register and enforce PPM compliance.",
+          "urgency": "High"
+        }
+      ]
+    }
+  },
+  {
+    "month": "October",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-10-01",
+          "time": "07:55 PM",
+          "reporter_role": "Staff Nurse - OPD",
+          "incident_description": "During the evening thunderstorm, rain leaked onto the OPD triage area; one visitor slipped and fell. Wet floor signage was not promptly placed; request QA review and corrective action.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-01",
+          "time": "08:20 PM",
+          "reporter_role": "Biomedical Engineer",
+          "incident_description": "Brief lightning-related voltage dip caused two infusion pumps in Medical Ward to reboot mid-infusion. Near-miss noted; require QA-led RCA and UPS coverage check.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-02",
+          "time": "03:10 PM",
+          "reporter_role": "CSSD Supervisor",
+          "incident_description": "Sudden humidity spike during the afternoon rain; two sterilizer loads failed chemical indicators. Loads quarantined; need QA oversight on release and environment controls.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-04",
+          "time": "10:05 AM",
+          "reporter_role": "Theatre Matron",
+          "incident_description": "Internal audit found three consent forms missing documented risk discussion in Sinhala. Non-compliance with informed consent policy; request QA standardization.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-10-05",
+          "time": "06:40 PM",
+          "reporter_role": "Lab Manager",
+          "incident_description": "Severe storm coincided with LIS outage; two critical potassium results breached the 60-min TAT KPI. Need QA review of downtime protocol and escalation.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-05",
+          "time": "07:25 PM",
+          "reporter_role": "Ward Sister - Antenatal",
+          "incident_description": "Ceiling seepage during the thunderstorm; buckets placed near beds. Infection control risk; request QA environmental safety assessment.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-07",
+          "time": "02:30 PM",
+          "reporter_role": "OPD Medical Officer",
+          "incident_description": "OPD token display froze during heavy rain, causing crowding and patient complaints. Need QA to evaluate patient flow and backup process.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-10-08",
+          "time": "08:15 PM",
+          "reporter_role": "Pharmacist In-Charge",
+          "incident_description": "Pharmacy vaccine fridge recorded 10°C for 25 minutes after a power blip in the storm. Deviation logged; QA disposition and CAPA required.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-10",
+          "time": "09:20 AM",
+          "reporter_role": "ED Senior House Officer",
+          "incident_description": "Spot audit: 6/25 ED triage forms missing vital signs. Non-adherence to triage SOP; request QA retraining plan and re-audit.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-10-11",
+          "time": "11:05 AM",
+          "reporter_role": "Infection Control Nurse",
+          "incident_description": "Persistent rain tracked mud into ICU entrance; hand hygiene compliance dropped to 58% this morning. Need QA coordination for immediate controls.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-13",
+          "time": "07:45 AM",
+          "reporter_role": "Nurse In-Charge - Ward 3",
+          "incident_description": "Crash trolley check found expired adrenaline vials and dead laryngoscope batteries. QA to review checklist compliance and frequency.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-14",
+          "time": "04:50 PM",
+          "reporter_role": "Consultant Anaesthetist",
+          "incident_description": "Lift stalled after storm-related surge; 8-min delay transferring ASA IV patient to OT. No harm, but high risk; QA RCA requested.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-10-14",
+          "time": "08:35 PM",
+          "reporter_role": "Medical Records Officer",
+          "incident_description": "Rainwater ingress dampened several inpatient files in Records. Need QA action on document preservation and disaster recovery.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-10-15",
+          "time": "03:40 PM",
+          "reporter_role": "Clinical Pharmacist",
+          "incident_description": "ADR in Ward 5 not entered into e-ADR within 24 hours. Recurrent delay; QA to enforce reporting timelines and accountability.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-10-17",
+          "time": "11:10 AM",
+          "reporter_role": "Theatre Registrar",
+          "incident_description": "WHO time-out not documented for an elective case labeled as urgent by team. QA to investigate checklist adherence and triggers.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-18",
+          "time": "07:25 PM",
+          "reporter_role": "Infection Control Medical Officer",
+          "incident_description": "Negative pressure failed in Isolation Room 2 after evening thunderstorms; smoke test failed. TB patient housed; urgent QA-led containment needed.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-10-20",
+          "time": "02:55 PM",
+          "reporter_role": "Pathology Reception Supervisor",
+          "incident_description": "Due to squalls, porter route changed; four biochem samples arrived unlogged and warm. Chain-of-custody breach; QA to assess impact and process gaps.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-22",
+          "time": "09:05 PM",
+          "reporter_role": "Radiology Technologist",
+          "incident_description": "PACS down during lightning; manual reports issued without second-reader verification in two cases. QA to review downtime checklist.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-23",
+          "time": "11:30 AM",
+          "reporter_role": "Patient Relations Officer",
+          "incident_description": "OPD satisfaction cards show sharp drop in waiting-time scores today. Token-counter mismatch suspected; need QA analysis and improvement plan.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-10-24",
+          "time": "01:40 PM",
+          "reporter_role": "Theatre Matron",
+          "incident_description": "Squally rain pushed water under OT changing room door, wetting the approach to the sterile corridor. Lists paused; QA to verify sterility and restart criteria.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-10-27",
+          "time": "05:15 PM",
+          "reporter_role": "Waste Management Officer",
+          "incident_description": "Ward 6 audit: infectious waste mixed with general in three bins despite prior training. Recurrent non-compliance; QA corrective plan needed.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-28",
+          "time": "07:50 PM",
+          "reporter_role": "Senior Nurse - NICU",
+          "incident_description": "Thunderstorm triggered UPS alarm; one incubator temp dropped to 34°C for 6 minutes. Infant stable; QA review of power contingency required.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-10-30",
+          "time": "06:05 PM",
+          "reporter_role": "IT Officer - HIS/LIS",
+          "incident_description": "Lightning during torrential rain caused brief HIS/LIS desync, creating duplicate MRNs for two ED patients. QA to manage data integrity incident.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-30",
+          "time": "06:40 PM",
+          "reporter_role": "Dialysis Unit Nurse",
+          "incident_description": "Roof leak over Station 3 during storm; water near power strips, two sessions postponed. QA to clear safety and coordinate maintenance.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-10-31",
+          "time": "10:20 AM",
+          "reporter_role": "Quality Metrics Analyst",
+          "incident_description": "This month’s M&M minutes list four cases without assigned actions or timelines. Governance non-compliance; QA follow-up required.",
+          "urgency": "Medium"
+        }
+      ]
+    }
+  },
+  {
+    "month": "November",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-11-01",
+          "time": "02:40 PM",
+          "reporter_role": "Nursing Officer - OT",
+          "incident_description": "During the afternoon downpour, rainwater leaked into the sterile store adjacent to Theatre 2; several wrapped instrument sets were damp. Request QA to quarantine affected packs and audit building integrity and CSSD humidity controls.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-01",
+          "time": "10:15 AM",
+          "reporter_role": "Ward Sister - Medical Ward",
+          "incident_description": "Internal crash cart check found three expired adrenaline ampoules and one missing seal on the defib pads pouch. Nonconformance to emergency trolley policy; please log for QA corrective action.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-02",
+          "time": "11:05 AM",
+          "reporter_role": "Medical Records Officer - OPD Registration",
+          "incident_description": "Steady rain caused crowding and overflow seating at OPD; 9 written complaints about 4+ hour waits and token display visibility. Request QA review of patient flow and signage per service quality standards.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-11-03",
+          "time": "03:20 PM",
+          "reporter_role": "ICU Registrar",
+          "incident_description": "Brief power dips during thunderstorm led to two bedside monitors rebooting; no harm but alarms were temporarily suppressed. Please log as a near-miss and initiate QA-facilitated RCA with Engineering.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-05",
+          "time": "09:10 AM",
+          "reporter_role": "Theatre Sister",
+          "incident_description": "Random pre-list audit found four consent forms lacking a witness and one not available in Sinhala/Tamil per policy. Requires QA compliance review and refresher for surgical teams.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-06",
+          "time": "05:35 PM",
+          "reporter_role": "Medical Laboratory Technologist - Haematology",
+          "incident_description": "Samples from peripheral clinic arrived with rain-soaked request forms; two labels were smudged beyond readability. Pre-analytical risk noted; request QA to enforce secondary containment SOP with transporters.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-08",
+          "time": "04:50 PM",
+          "reporter_role": "CSSD In-Charge",
+          "incident_description": "Due to hot, humid conditions, two autoclave loads had wet packs despite indicator change. Halted release; seek QA guidance on environmental controls and load-drying validation.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-09",
+          "time": "02:10 PM",
+          "reporter_role": "ETU Triage Nurse",
+          "incident_description": "Squally rain led to surge; Manchester triage steps were abbreviated and two yellow-tag patients waited 70 minutes. Need QA review of surge protocol and staffing escalation.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-09",
+          "time": "06:25 PM",
+          "reporter_role": "Patient Relations Officer",
+          "incident_description": "Token display went offline after a power surge; staff called names verbally causing queue confusion and three formal complaints. Please route to QA for service recovery and system reliability review.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-11-11",
+          "time": "08:30 PM",
+          "reporter_role": "Pharmacist - Main Pharmacy",
+          "incident_description": "Cold-chain fridge for thermolabile meds recorded 10.5°C for ~2 hours; deviation form incomplete and no documented product quarantine. Request QA assessment and CAPA for temperature excursion handling.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-13",
+          "time": "07:45 PM",
+          "reporter_role": "Infection Control Nurse",
+          "incident_description": "Continuous rain caused water tracking into Medical Ward corridor; a visitor slipped (minor abrasion). Wet floor signage absent; QA to lead patient safety review and corrective actions with Maintenance.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-14",
+          "time": "11:20 AM",
+          "reporter_role": "Quality Data Analyst",
+          "incident_description": "SSI surveillance shows rising LSCS infection rate past hospital benchmark for the last 6 weeks. Request QA-triggered audit of perioperative bundles and data quality check.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-11-15",
+          "time": "10:05 AM",
+          "reporter_role": "Radiographer - X-Ray",
+          "incident_description": "Quarterly QC records for lead aprons and shielding are incomplete; last documented test in July. Noncompliance with accreditation standards; please schedule QA internal audit.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-11-15",
+          "time": "09:55 PM",
+          "reporter_role": "Senior House Officer - Medical Ward",
+          "incident_description": "Admission medication reconciliation missed a patient’s ayurvedic preparation; pharmacy flagged a potential interaction later. Near-miss reported; QA support needed to strengthen admission checklist.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-11-17",
+          "time": "01:40 PM",
+          "reporter_role": "Dietitian - NCD Clinic",
+          "incident_description": "Clinic satisfaction survey ran out; photocopied forms lacked full scale labels, compromising KPI comparability. Request QA guidance on tool control and data integrity.",
+          "urgency": "Low"
+        },
+        {
+          "date": "2025-11-18",
+          "time": "05:15 PM",
+          "reporter_role": "MLT - Biochemistry",
+          "incident_description": "Critical K+ 7.2 mmol/L communicated via phone during storm; no read-back documented and later follow-up was through WhatsApp without acknowledgment. Requires QA review of critical result communication policy.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-11-20",
+          "time": "03:05 PM",
+          "reporter_role": "Ward Sister - Surgical Ward",
+          "incident_description": "Heavy rain caused a ceiling leak over the medication prep counter; IV admixtures were made nearby before area was cordoned. Immediate QA-led deviation and contamination risk assessment needed.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-11-20",
+          "time": "08:10 AM",
+          "reporter_role": "Security Supervisor",
+          "incident_description": "Morning rain forced OPD queues onto the steps; token lanes were unclear and pushing occurred. Please involve QA to revise crowd control signage and wet-weather flow.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-11-22",
+          "time": "12:35 PM",
+          "reporter_role": "Medical Records Officer",
+          "incident_description": "Backlog of 27 discharge summaries >48 hours pending in HIS, affecting continuity of care and data reporting. Request QA follow-up on TAT compliance with units.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-11-23",
+          "time": "03:30 PM",
+          "reporter_role": "Biomedical Engineer",
+          "incident_description": "Infusion pump stickers don’t match the asset register; two pumps in Ward 4 show overdue calibration dates. Nonconformance to equipment QA requirements; needs reconciliation and recall if needed.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-25",
+          "time": "07:20 PM",
+          "reporter_role": "Neonatal Nurse",
+          "incident_description": "During thunder and heavy rain, warmer temperature alarm was silenced without escalation while staff attended another baby. Training and human factors gap; request QA-led review and refresher.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-25",
+          "time": "01:10 PM",
+          "reporter_role": "Laundry Supervisor",
+          "incident_description": "High humidity with ongoing rain led to under-dried linen; ICU received damp sheets. Infection control risk noted; request QA to implement release criteria and re-drying checks.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-27",
+          "time": "05:55 PM",
+          "reporter_role": "Consultant Anaesthetist",
+          "incident_description": "Observed late-list time-outs done verbally only; two cases lacked explicit allergy confirmation. Nonadherence to WHO Surgical Safety Checklist—request QA enforcement and feedback loop.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-11-28",
+          "time": "11:50 AM",
+          "reporter_role": "Blood Bank Technologist",
+          "incident_description": "Two crossmatch samples from Ward 5 arrived without signed request forms; one lacked patient NIC. Recurrent documentation lapse; needs QA intervention with ward training and compliance monitoring.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-30",
+          "time": "10:45 AM",
+          "reporter_role": "IT Officer - HIS",
+          "incident_description": "Incident portal shows zero safety reports from Paediatrics for November despite known falls/near-misses. Likely under-reporting; request QA culture-building sessions and reporting refresher.",
+          "urgency": "Medium"
+        }
+      ]
+    }
+  },
+  {
+    "month": "December",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-12-01",
+          "time": "08:20 AM",
+          "reporter_role": "Staff Nurse - Ward 5",
+          "incident_description": "Afternoon thunderstorm caused ceiling drip near Ward 5 nurses’ station; floor became slippery and no caution boards available. Request QA safety review and signage stock check.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-01",
+          "time": "03:15 PM",
+          "reporter_role": "Biomedical Engineer",
+          "incident_description": "Brief power dip during thunder led two NICU monitors to reboot and freeze alarms. Please initiate RCA and verify compliance with electrical safety and generator switchover SOP.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-02",
+          "time": "11:05 AM",
+          "reporter_role": "Pharmacist - Main Pharmacy",
+          "incident_description": "Two ceftriaxone batches delivered with NMRA sticker-lot mismatch versus invoice. Need QA-led lot traceability audit and hold release until cleared.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-12-03",
+          "time": "07:55 AM",
+          "reporter_role": "CSSD Supervisor",
+          "incident_description": "After morning drizzle, several sterile linen packs felt cool/damp on opening, though indicators turned. Please audit CSSD drying parameters and quarantine suspect loads.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-05",
+          "time": "09:30 AM",
+          "reporter_role": "Medical Officer - OPD",
+          "incident_description": "OPD patient complained Sinhala consent unavailable for incision and drainage; English form used. QA to review patient-rights materials and MoH language compliance.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-12-05",
+          "time": "06:40 PM",
+          "reporter_role": "Catering Manager",
+          "incident_description": "Rainwater tracked from loading bay into meal assembly; floor wet near veg prep. Request QA food-safety assessment and corrective actions on drainage and door seals.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-07",
+          "time": "08:10 PM",
+          "reporter_role": "Security Supervisor",
+          "incident_description": "Due to evening rain crowding, visitors used side stair; handrail loose and no warning. Please arrange QA safety audit of escape routes and contractor rectification.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-12-09",
+          "time": "10:22 AM",
+          "reporter_role": "MLT - Microbiology",
+          "incident_description": "Microbiology received sputum without BHT number and ward label mismatch; near-miss caught. Seek QA reinforcement of specimen ID policy and ward audit.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-10",
+          "time": "02:05 PM",
+          "reporter_role": "Ward Sister - 8A",
+          "incident_description": "Three BHTs discharged from Ward 8A lacked MO signature on reconciliation page. Request QA documentation compliance check and quick refresher for MOs.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-12-11",
+          "time": "01:30 PM",
+          "reporter_role": "Infection Control Nurse (ICN)",
+          "incident_description": "OPD hand rub dispensers empty in three bays during humid rush; observed compliance drop. Need QA to run rapid PDSA and restocking audit.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-11",
+          "time": "05:50 PM",
+          "reporter_role": "Resident Medical Officer - ETU",
+          "incident_description": "Triage timestamps missing in HIS for 25 minutes during thunder-related network outage. Please verify QA downtime SOP adherence and data back-entry.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-12",
+          "time": "09:12 AM",
+          "reporter_role": "Physiotherapist",
+          "incident_description": "Lift stopped unevenly at 2nd floor; patient’s walker caught momentarily, no injury. Request QA safety review and vendor compliance check.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-12-13",
+          "time": "08:35 AM",
+          "reporter_role": "MLT - Blood Bank",
+          "incident_description": "Transfusion request received with allergy field blank; O-neg emergency issue halted at bench. Urgently require QA-led RCA and ward retraining.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-12-13",
+          "time": "07:05 PM",
+          "reporter_role": "Nurse In-Charge - Dialysis Unit",
+          "incident_description": "Two dialyzers found past expiry on open shelf; quarantined before use. Please conduct QA/pharmacy stock-rotation audit and revise bin labelling.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-15",
+          "time": "04:18 PM",
+          "reporter_role": "Records Officer - MRD",
+          "incident_description": "Original OT consent missing; only faint scan in MRD file for today’s list. QA to assess accreditation risk and enforce pre-op document verification.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-16",
+          "time": "11:40 AM",
+          "reporter_role": "Biomedical Engineer",
+          "incident_description": "OPD ECG machine showed leakage-current alarm after humid morning; removed from service. Request QA to coordinate safety checks and preventive maintenance audit.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-16",
+          "time": "08:55 PM",
+          "reporter_role": "Housekeeping Supervisor",
+          "incident_description": "Lobby mats saturated post-rain; detergent residue left floor slick and signage inadequate. Please review wet-floor SOP with QA and monitor compliance.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-18",
+          "time": "09:00 AM",
+          "reporter_role": "Consultant Paediatrician",
+          "incident_description": "This week’s neonatal hypoglycaemia rates higher than baseline on SCBU dashboard. Request QA to validate data and convene case review.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-12-20",
+          "time": "03:37 PM",
+          "reporter_role": "CSSD Technician",
+          "incident_description": "Artery forceps missing from set; count discrepancy noticed only on return to CSSD. QA to audit surgical count process and theatre adherence.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-22",
+          "time": "08:02 AM",
+          "reporter_role": "Front Desk Executive - OPD",
+          "incident_description": "Light rain made OPD entrance tiles wet; cones only in English, not Sinhala/Tamil. Please standardize multilingual safety signage via QA.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-12-24",
+          "time": "07:48 AM",
+          "reporter_role": "Nursing Officer - SCBU",
+          "incident_description": "Formula fridge in SCBU shows overnight temperature gaps; data logger off. Need QA cold-chain deviation review and corrective actions.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-26",
+          "time": "11:10 AM",
+          "reporter_role": "Pharmacist - Stores",
+          "incident_description": "Two recalled antibiotic lots still in store pending quarantine labels; NMRA notice not logged in QA file. Request immediate QA-led recall compliance check.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-28",
+          "time": "02:26 PM",
+          "reporter_role": "Radiographer",
+          "incident_description": "Humidity made X-ray room floor tacky; antistatic mats worn, artefacts seen on plate. Please initiate QA environmental control and image-quality audit.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-12-28",
+          "time": "08:33 PM",
+          "reporter_role": "Ward Medical Officer - 3B",
+          "incident_description": "Near-miss: insulin pen prepared for wrong patient; second-check caught before dosing. Urgently need QA RCA and immediate re-training on ID protocol.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-12-30",
+          "time": "05:25 PM",
+          "reporter_role": "Hospital Administrator",
+          "incident_description": "Patient satisfaction KPI board shows data last updated in September; December feedback pending validation. Request QA to close reporting gap and publish dashboard.",
+          "urgency": "Medium"
+        }
+      ]
+    }
+  }
+]

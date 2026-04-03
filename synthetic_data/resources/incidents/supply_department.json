@@ -1,0 +1,2186 @@
+[
+  {
+    "month": "January",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-01-01",
+          "time": "08:10 AM",
+          "reporter_role": "Staff Nurse - Paediatric Ward",
+          "incident_description": "10 ml syringes are out in Paeds since morning rounds; IV meds delayed. Request urgent redistribution and raise immediate PO—weekend usage not reflected on bin card.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-02",
+          "time": "11:35 AM",
+          "reporter_role": "OPD Pharmacist",
+          "incident_description": "Vaccine fridge data logger batteries (CR2032) are dead; cannot record temps. Need immediate supply to avoid cold chain documentation gap.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-03",
+          "time": "09:05 AM",
+          "reporter_role": "Stores Assistant",
+          "incident_description": "Brief morning rain dampened cartons of sterile gauze at the external dock. Please inspect/segregate and arrange vendor replacement for compromised packs.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-01-03",
+          "time": "02:20 PM",
+          "reporter_role": "MO - ETU",
+          "incident_description": "Adrenaline ampoules supplied are short-dated (expiring next month). ETU policy needs >6 months shelf life—request immediate swap with vendor.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-05",
+          "time": "07:50 AM",
+          "reporter_role": "Theatre Sister-in-Charge",
+          "incident_description": "Oxygen E-type regulators missing fibre washers; risk of leaks with 08:30 OT list. Need urgent issue from Supply.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-01-07",
+          "time": "03:40 PM",
+          "reporter_role": "CSSD Supervisor",
+          "incident_description": "60 cm sterile wrap rolls out of stock; staff double-wrapping with 45 cm, slowing turnover. Please expedite issue/local purchase.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-08",
+          "time": "01:15 PM",
+          "reporter_role": "Registrar - Labour Room",
+          "incident_description": "Oxytocin vials arrived warm; logger shows >8°C for ~30 mins during delivery. Request quarantine and vendor replacement under cold chain breach.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-01-08",
+          "time": "02:05 PM",
+          "reporter_role": "Staff Nurse - Ward 7A",
+          "incident_description": "IV cannula boxes have barcodes that won’t scan; GS1 not recognized. Distribution/stock update blocked—please rectify with supplier.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-01-08",
+          "time": "05:30 PM",
+          "reporter_role": "Stores Officer",
+          "incident_description": "Afternoon shower splashed into loading bay; two glove cartons soaked. Raise damage-in-transit claim and arrange immediate replacements.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-01-10",
+          "time": "10:25 AM",
+          "reporter_role": "Consultant - ICU",
+          "incident_description": "Sterile water 500 ml nearing zero due to weekend surge; buffer miscalculated. Need emergency pull from OT sub-store and urgent PO release.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-01-12",
+          "time": "08:55 AM",
+          "reporter_role": "Dialysis Unit Nurse",
+          "incident_description": "Bicarbonate concentrate delivered as A-3 instead of A-2. Quarantined batch; request immediate correct supply and vendor swap note.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-13",
+          "time": "11:10 AM",
+          "reporter_role": "Physiotherapy In-charge",
+          "incident_description": "Gel electrodes losing adhesion; batch feels dry—likely heat exposure. Need fresher stock and check storage conditions.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-01-15",
+          "time": "09:00 AM",
+          "reporter_role": "Oncology Day Unit Pharmacist",
+          "incident_description": "Chemo carriers warm by midday runs in strong sun; coolant packs insufficient. Request more ice packs and better insulated boxes.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-15",
+          "time": "04:45 PM",
+          "reporter_role": "OPD Matron",
+          "incident_description": "Alcohol hand rub nearly finished in OPD clinics; MSD tender stock still in main store. Please release to OPD before evening clinics.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-17",
+          "time": "02:35 PM",
+          "reporter_role": "MO - Radiology",
+          "incident_description": "Recall notice for Iohexol 350 (lot F2J...) received. Need Supply to trace and quarantine all units and arrange vendor pickup today.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-19",
+          "time": "08:20 AM",
+          "reporter_role": "CSSD Technician",
+          "incident_description": "Self-seal autoclave pouches not adhering reliably after morning humidity/rain. Request alternate brand stock and immediate issue.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-19",
+          "time": "06:10 PM",
+          "reporter_role": "Blood Bank Technologist",
+          "incident_description": "Dry ice vendor missed evening drop; plasma transfer pending to Teaching Hospital. Need emergency supply via alternate vendor.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-01-21",
+          "time": "07:25 AM",
+          "reporter_role": "Sister - Male Medical Ward",
+          "incident_description": "Three 1L saline bags cracked—likely from a broken pallet. Please inspect full lot and replace; ward on last carton.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-22",
+          "time": "12:05 PM",
+          "reporter_role": "Administrative Executive (Procurement)",
+          "incident_description": "N95 mask rate contract lapsed; supplier holding stock. Request urgent PO extension and bridge order to resume deliveries.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-23",
+          "time": "03:10 PM",
+          "reporter_role": "MO - Orthopaedic OT",
+          "incident_description": "Vicryl 2-0 unavailable; received 3-0 instead. Tonight’s list needs 2-0—request inter-ward loan and fast-track correct supply.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-01-25",
+          "time": "09:50 AM",
+          "reporter_role": "Infection Control Nurse",
+          "incident_description": "Yellow clinical waste bags (50 micron) nearly out in ICU/ETU; reorder level not triggered. Need urgent issue today.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-27",
+          "time": "05:55 PM",
+          "reporter_role": "Security Supervisor",
+          "incident_description": "Vendor lorry delivered implants after-hours without gate pass. Please enforce delivery window per contract and notify supplier.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-01-28",
+          "time": "02:00 PM",
+          "reporter_role": "OT Runner",
+          "incident_description": "Suture consignment delayed; courier reports rain-related road closures. Need Supply to arrange direct pickup or alternate vendor for tonight’s emergencies.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-01-28",
+          "time": "07:20 PM",
+          "reporter_role": "Stores Assistant",
+          "incident_description": "Sub-store floor damp after evening drizzle; paracetamol cartons feel clammy. Request pallets/desiccants and QA check; relocate stock.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-30",
+          "time": "11:40 AM",
+          "reporter_role": "Sister - Chemotherapy Ward",
+          "incident_description": "Chemo spill kits down to last two; pre-printed cytotoxic labels finished. Please replenish before tomorrow’s session.",
+          "urgency": "High"
+        }
+      ]
+    }
+  },
+  {
+    "month": "February",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-02-01",
+          "time": "08:05 AM",
+          "reporter_role": "ICU Charge Nurse",
+          "incident_description": "Triple lumen central line kits are out of stock in ICU; two insertions planned this morning. Please issue immediately and fast-track replenishment of the par level.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-03",
+          "time": "10:18 AM",
+          "reporter_role": "Pharmacy In-Charge",
+          "incident_description": "Cefazolin vials (batch noted in MSD recall) still present in ward returns; require Supply to quarantine and arrange replacement with vendor.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-04",
+          "time": "09:20 AM",
+          "reporter_role": "Consultant Anaesthetist",
+          "incident_description": "OT 2 has not received 3-0 silk sutures despite yesterday’s indent; elective list starts 10:30. Request priority delivery to theatre.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-04",
+          "time": "02:10 PM",
+          "reporter_role": "Senior Laboratory Technologist",
+          "incident_description": "Standing order for ABG cartridges lapsed on 31 Jan; vendor has paused dispatch. Need urgent PO renewal and interim supply to avoid service disruption.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-06",
+          "time": "07:40 AM",
+          "reporter_role": "ETU Medical Officer",
+          "incident_description": "Adrenaline 1:1000 ampoules down to two in ETU crash trolley; restock not received. Immediate issue required to prevent stockout.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-02-07",
+          "time": "03:55 PM",
+          "reporter_role": "Stores Supervisor",
+          "incident_description": "Gauze swab cartons feel damp and barcodes are smudging after coastal humidity; need inspection and re-packing before ward distribution.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-02-08",
+          "time": "06:35 PM",
+          "reporter_role": "Receiving Bay Officer",
+          "incident_description": "Evening light rain during unloading; several 0.9% saline cartons got wet with label ink bleeding. Request quarantine and vendor replacement.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-08",
+          "time": "12:20 PM",
+          "reporter_role": "Cold Chain Technician",
+          "incident_description": "OPD immunisation run short of frozen gel packs and a spare cool box in today’s heat/humidity. Need urgent supply to maintain cold chain.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-09",
+          "time": "04:05 PM",
+          "reporter_role": "Ward Sister - Gynaecology",
+          "incident_description": "Foley catheters size 16G nearly finished; last indent partially supplied. Please expedite balance delivery today.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-10",
+          "time": "09:45 AM",
+          "reporter_role": "Senior Pharmacist",
+          "incident_description": "Potassium chloride ampoules expiring this month held on wards; request Supply coordinate ward returns and rotate stock FEFO.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-02-12",
+          "time": "06:50 AM",
+          "reporter_role": "Consultant Nephrologist",
+          "incident_description": "Dialysis fluid (1.5% dextrose) not available in unit store; CAPD exchanges starting at 7:30 AM will be delayed without immediate issue.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-02-13",
+          "time": "02:35 PM",
+          "reporter_role": "Procurement Assistant",
+          "incident_description": "Vendor attempted brand substitution for IV cannula without prior approval and above SPC rate. Please advise and block GRN until resolved.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-02-14",
+          "time": "05:30 PM",
+          "reporter_role": "Theatre Matron",
+          "incident_description": "Sterilization wrap reels arrived damp after afternoon thundershower; edges wavy. Require assessment and replacement before tomorrow’s lists.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-14",
+          "time": "09:15 PM",
+          "reporter_role": "Ambulance Coordinator",
+          "incident_description": "Neonatal ambu mask sizes 0 and 1 out of stock for inter-hospital transfer tonight. Request immediate issue or emergency purchase.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-02-15",
+          "time": "10:05 AM",
+          "reporter_role": "Radiology Registrar",
+          "incident_description": "50 ml contrast syringes not delivered to CT; contrast scans queued from 11 AM. Please prioritize distribution from stores.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-16",
+          "time": "08:25 AM",
+          "reporter_role": "OPD Nursing Officer",
+          "incident_description": "Glucose test strips expiring next week issued ahead of older batch. Request pullback and re-issue following FEFO.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-02-18",
+          "time": "04:40 PM",
+          "reporter_role": "CSSD Supervisor",
+          "incident_description": "Indicator tape for instrument packs will finish by evening; backorder pending. Need emergency supply or inter-department transfer.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-19",
+          "time": "01:20 PM",
+          "reporter_role": "Pharmacy In-Charge",
+          "incident_description": "Insulin pens received warm; data logger shows temperature spike during hot afternoon handover. Please verify cold chain and liaise for replacement/stability letter.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-19",
+          "time": "11:35 AM",
+          "reporter_role": "Ward Clerk - Medical Ward 3",
+          "incident_description": "Medium-size non-sterile gloves are finished; staff using incorrect sizes. Request immediate issue and review par level.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-02-20",
+          "time": "08:10 AM",
+          "reporter_role": "Receiving Bay Officer",
+          "incident_description": "Passing morning rain left the unloading area wet; two cartons of disposable gowns soaked. Need vendor replacement and claim processing.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-02-21",
+          "time": "12:45 PM",
+          "reporter_role": "Consultant Surgeon",
+          "incident_description": "Laparoscopic sets missing sterile camera drapes; cholecystectomy list at 2 PM. Request urgent issue to OT.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-22",
+          "time": "06:15 AM",
+          "reporter_role": "Dietician - Nutrition Unit",
+          "incident_description": "Feeding pump giving sets not delivered; NICU feeds start early. Please release stock from main store.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-25",
+          "time": "03:25 PM",
+          "reporter_role": "Main Pharmacy Storekeeper",
+          "incident_description": "Two pallets of paracetamol 500 mg expiring in May exceed our monthly issue. Request redistribution plan to peripheral units or vendor take-back per contract.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-02-26",
+          "time": "07:20 PM",
+          "reporter_role": "Security/Receiving",
+          "incident_description": "Brief evening rain with gusts blew into bay; outer cartons of surgical masks damp and shrink-wrap torn. Quarantine needed and arrange replacements.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-26",
+          "time": "11:05 AM",
+          "reporter_role": "MO Anaesthesia (ICU)",
+          "incident_description": "Sterile water bottles for oxygen humidifiers delayed; last two refills used ward reserve. Please deliver to ICU before night shift.",
+          "urgency": "High"
+        }
+      ]
+    }
+  },
+  {
+    "month": "March",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-03-01",
+          "time": "08:25 AM",
+          "reporter_role": "OPD Sister-in-Charge",
+          "incident_description": "OPD ran out of 5 ml syringes by 08:00; bin cards show miscount. Request emergency issue from central store and a stock audit to prevent repeat.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-03",
+          "time": "06:15 PM",
+          "reporter_role": "Stores Supervisor",
+          "incident_description": "Evening thunderstorm caused seepage in Receiving; four cartons of sterile gauze got wet. Please quarantine, arrange vendor replacement, and document as damaged on GRN.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-03",
+          "time": "07:40 PM",
+          "reporter_role": "Theatre Matron",
+          "incident_description": "Spinal needles 25G are back-ordered; three spinal cases start 07:30 tomorrow. Need alternate supplier approval tonight or inter-ward transfer.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-03-05",
+          "time": "09:10 PM",
+          "reporter_role": "Night Pharmacist",
+          "incident_description": "Earlier rains left 0.9% saline 1L cartons damp; outer boxes collapsing in pharmacy store. Request immediate replacement and plastic crates for future receipts.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-05",
+          "time": "02:35 PM",
+          "reporter_role": "ICU Nurse",
+          "incident_description": "Propofol 1% vials: only 18 left after two ventilated admissions. Please rush top-up now and confirm reorder under existing rate.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-03-06",
+          "time": "11:55 AM",
+          "reporter_role": "Cold Chain Nurse (Immunization Clinic)",
+          "incident_description": "Very hot midday; vaccine fridge peaked at 7.1°C for 12 minutes. Need additional ice packs, replacement of affected lots if required, and guidance on stock rotation.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-08",
+          "time": "04:20 PM",
+          "reporter_role": "Ambulance Coordinator",
+          "incident_description": "Afternoon thunderstorm delayed oxygen cylinder vendor run; only two B-type left for transfers. Request emergency swap from wards and confirm vendor ETA.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-03-08",
+          "time": "05:05 PM",
+          "reporter_role": "Surgical Ward Sister",
+          "incident_description": "Sterile dressing packs lot 23C show humidity indicator pink in our cupboard. Please inspect central stock and replace affected boxes.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-10",
+          "time": "07:10 AM",
+          "reporter_role": "Dialysis Unit In-Charge",
+          "incident_description": "Heparin prefilled syringes (5,000 IU) not delivered with morning trolley; first session at 07:30. Need immediate dispatch to Dialysis.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-03-12",
+          "time": "03:50 PM",
+          "reporter_role": "Biomedical Engineer",
+          "incident_description": "Received ECG electrodes with adhesive partly melted after heat/rain; pads clumping. Please place QC hold and supply alternate brand under current rate contract.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-03-12",
+          "time": "08:25 PM",
+          "reporter_role": "RMO (Casualty)",
+          "incident_description": "ED is low on Ringer’s lactate; only 12 bags remaining amid dengue surge. Request urgent issue now and revision of par level.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-03-13",
+          "time": "11:30 AM",
+          "reporter_role": "Hospital Administrator",
+          "incident_description": "Sterile glove tender lapsed yesterday; wards report size mismatches. Kindly arrange stop-gap procurement and issue the rate contract extension letter today.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-15",
+          "time": "09:05 AM",
+          "reporter_role": "Paediatric OPD MO",
+          "incident_description": "ORS nearly finished; only one carton found though bin card shows five. Suspect misposting. Request urgent issue and bin card reconciliation.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-16",
+          "time": "02:10 PM",
+          "reporter_role": "Pharmacy Manager",
+          "incident_description": "Heavy rain earlier; amoxicillin 500 mg received with water-damaged labels—batch unreadable. Place batch on hold and obtain credit note against GRN 5621.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-03-16",
+          "time": "09:20 PM",
+          "reporter_role": "Labour Room Sister",
+          "incident_description": "Oxytocin ampoules down to last tray, with inductions tonight. Need immediate supply from main store to Labour Room.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-03-18",
+          "time": "01:45 PM",
+          "reporter_role": "Radiology Registrar",
+          "incident_description": "Two boxes of iohexol 350 expire end-April; slow usage here. Please redistribute to Theatres/OPD to avoid expiry wastage.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-03-19",
+          "time": "10:05 AM",
+          "reporter_role": "CSSD Supervisor",
+          "incident_description": "Suture packs in theatre kits mismatched (2-0 instead of 3-0). Likely packing error at stores. Need re-kitting before afternoon list.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-19",
+          "time": "07:25 PM",
+          "reporter_role": "Security Supervisor",
+          "incident_description": "Vendor truck stuck after evening storm; canteen LPG change may be delayed. Request release of one backup cylinder from stores.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-03-20",
+          "time": "06:50 AM",
+          "reporter_role": "Ward 12 (Surgical) Nurse",
+          "incident_description": "Only one suction canister liner left; last night issue voucher not delivered. Please send 20 liners immediately for morning rounds.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-22",
+          "time": "09:40 AM",
+          "reporter_role": "Chief Pharmacist",
+          "incident_description": "NMRA recall: neonatal 24G IV cannula batch L24A. Require hospital-wide quarantine, ward sweep, and return to supplier today.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-03-22",
+          "time": "03:30 PM",
+          "reporter_role": "Stores Assistant",
+          "incident_description": "Burst of rain left loading bay wet; glove cartons on floor became damp. Need pallet covers, repacking, and preventive SOP update.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-03-24",
+          "time": "07:20 AM",
+          "reporter_role": "Theatre Anaesthetist",
+          "incident_description": "CO2 absorbent canisters (soda lime) short—two left for three lists. Please issue immediately and confirm next delivery under rate contract.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-26",
+          "time": "08:10 AM",
+          "reporter_role": "Dialysis Unit Nurse",
+          "incident_description": "Morning showers delayed vendor; F8 dialyzers not arrived. Sessions start 08:30. Request temporary swap from ICU stock and ETA confirmation.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-03-30",
+          "time": "01:25 PM",
+          "reporter_role": "Central Store Keeper",
+          "incident_description": "Loading bay flooded during storm; incoming antibiotics on pallets at risk. Need immediate dry relocation and plastic sheeting for shelter.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-30",
+          "time": "05:55 PM",
+          "reporter_role": "Public Health Midwife (Immunization Clinic)",
+          "incident_description": "Vendor cold chain log shows 9°C spike for T.T. vials during transport. Request rejection of consignment and urgent replacement.",
+          "urgency": "High"
+        }
+      ]
+    }
+  },
+  {
+    "month": "April",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-04-01",
+          "time": "09:15 AM",
+          "reporter_role": "Ward Nurse - Medical Ward 5",
+          "incident_description": "Latex examination gloves are sticking together due to the morning humidity; several boxes tear on opening. Request alternate nitrile stock and drier storage guidance.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-04-02",
+          "time": "05:40 PM",
+          "reporter_role": "MO - OPD",
+          "incident_description": "OPD is down to the last two cartons of 0.9% saline. Evening thunderstorm delayed vendor delivery; please arrange emergency issue from central store or another ward.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-02",
+          "time": "08:10 PM",
+          "reporter_role": "Stores Supervisor - Central Medical Stores",
+          "incident_description": "Rain seeped through the loading-bay roof; two cartons of sterile sutures and gauze are wet. Quarantine and raise replacement with vendor.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-03",
+          "time": "11:05 AM",
+          "reporter_role": "Pharmacist - OPD Pharmacy",
+          "incident_description": "OPD Pharmacy will stock out of metformin 500 mg by tomorrow noon. Footfall spiked; please expedite procurement or transfer from low-use wards.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-04",
+          "time": "03:20 PM",
+          "reporter_role": "Sister-in-Charge - ICU",
+          "incident_description": "ICU has only three non-rebreather masks remaining. Afternoon storm held up dispatch; need immediate priority issue from stores.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-04-04",
+          "time": "06:55 PM",
+          "reporter_role": "Ward Matron - Female Medical",
+          "incident_description": "Laundry vendor missed pickup during the squall; clean sheet stock is low. Kindly release buffer disposables and coordinate alternate pickup.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-05",
+          "time": "10:10 AM",
+          "reporter_role": "Clinical Pharmacist - Inpatient",
+          "incident_description": "Multiple heparin 5000 IU vials expire 30/04; some wards overstocked while OPD is low. Request redistribution and update of expiry tracker.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-04-06",
+          "time": "09:35 PM",
+          "reporter_role": "Lab Manager - Microbiology",
+          "incident_description": "High humidity tonight has clumped rapid antigen kits; desiccants saturated. Need fresh kits and silica gel from stores.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-08",
+          "time": "02:25 PM",
+          "reporter_role": "In-Charge - Physiotherapy Unit",
+          "incident_description": "Three OPD wheelchairs idle due to missing footrests; original order pending and today’s downpour slowed responses. Please source from an alternate local vendor.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-04-10",
+          "time": "04:50 PM",
+          "reporter_role": "Consultant - Emergency Department",
+          "incident_description": "Stocks of oxygen humidifier bottles are nearly finished in ED. Thunderstorms delayed the supplier; request immediate issue from theatre/ICU surplus.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-10",
+          "time": "07:30 PM",
+          "reporter_role": "Loading Bay Supervisor",
+          "incident_description": "Pallet slipped on wet floor during storm—24 vials of IV meropenem broken. Initiate replacement and transporter claim.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-11",
+          "time": "09:00 AM",
+          "reporter_role": "Supply Officer - Medical Stores",
+          "incident_description": "MSD recall notice for 5 ml syringes lot SJ23-441. Request quarantine across all wards and arrange replacements.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-15",
+          "time": "08:20 AM",
+          "reporter_role": "Phlebotomy Supervisor",
+          "incident_description": "Less than one day’s EDTA vacutainers left; rains disrupted delivery. Please reallocate from low-use areas and fast-track procurement.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-15",
+          "time": "05:15 PM",
+          "reporter_role": "Assistant Stores Officer",
+          "incident_description": "Several outer cartons arrived damp; drug barcodes smudged and unscannable. Need relabel supplies and vendor swap for affected stock.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-04-17",
+          "time": "11:45 AM",
+          "reporter_role": "Theatre Matron / CSSD",
+          "incident_description": "Sterile wrap seals lifting in the heat; indicator tape not holding post-autoclave. Request higher-grade wraps and additional indicator tape.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-18",
+          "time": "06:20 PM",
+          "reporter_role": "Ward Sister - Paediatric Ward",
+          "incident_description": "Paediatric ward nearly out of paracetamol 500 mg; evening storm has supplier stuck en route. Please move stock from main pharmacy buffer.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-04-20",
+          "time": "09:10 AM",
+          "reporter_role": "Renal Unit Nurse Manager",
+          "incident_description": "Last batch of 15G AV fistula needles failed QC due to burrs; only one box left. Need urgent alternate-brand procurement.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-20",
+          "time": "01:35 PM",
+          "reporter_role": "Dietary Services Supervisor",
+          "incident_description": "Special diet milk powder delivered slightly clumped after rain. Request dry replacements and moisture-proof storage.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-04-22",
+          "time": "08:55 AM",
+          "reporter_role": "Pharmacist - Main Pharmacy",
+          "incident_description": "Urgent—insulin pens batch IP-04-24 flagged for recall. Please pull from OPD and wards today and arrange substitutes.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-04-22",
+          "time": "04:05 PM",
+          "reporter_role": "Distribution Clerk - Central Stores",
+          "incident_description": "Loading-bay flooding delayed routine runs; several wards short of 22G IV cannulas. Request manual pick-and-issue until bay clears.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-24",
+          "time": "10:30 AM",
+          "reporter_role": "Biomedical Engineer",
+          "incident_description": "Supplier for medical gas regulators revised rates mid-cycle; current PO ends this week. Need Supply to renegotiate to avoid gaps.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-04-25",
+          "time": "03:15 PM",
+          "reporter_role": "Infection Control Nurse",
+          "incident_description": "PPE coverall count short by 120 after recent dengue surge issues. Request immediate stock audit and top-up.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-04-27",
+          "time": "08:40 PM",
+          "reporter_role": "MO - Anaesthesia",
+          "incident_description": "Heavy rain during offload—multiple 500 ml sterile water glass bottles broke. Tonight’s OT list needs replacements; please expedite.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-29",
+          "time": "05:50 PM",
+          "reporter_role": "Public Health Nursing Sister (PHNS)",
+          "incident_description": "Refrigerated vehicle with EPI supplies broke down in the storm; ice packs melted. Need urgent ice-packs and temporary cold storage for tomorrow’s clinic.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-30",
+          "time": "11:05 AM",
+          "reporter_role": "Emergency Department Consultant",
+          "incident_description": "Month-end count shows adrenaline 1:1000 amps below buffer in ED. Please replenish from MSD or arrange emergency local purchase.",
+          "urgency": "Critical"
+        }
+      ]
+    }
+  },
+  {
+    "month": "May",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-05-01",
+          "time": "02:40 PM",
+          "reporter_role": "Chief Pharmacist",
+          "incident_description": "Afternoon downpour has left the meropenem delivery stuck en route; courier says road is waterlogged. PICU stock is below buffer for sepsis cases. Please arrange alternate vendor or hospital pickup immediately.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-05-02",
+          "time": "09:15 AM",
+          "reporter_role": "Stores Supervisor",
+          "incident_description": "Inbound surgical consumables arrived with cartons water-damaged after last night’s rain. Outer labels are smeared and sterility is questionable. Request quarantine and replacement from vendor.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-02",
+          "time": "04:20 PM",
+          "reporter_role": "Theatre Matron",
+          "incident_description": "Suture rate contract appears lapsed; supplier is holding today’s dispatch. Tomorrow’s ortho list needs size 1 PDS and 2-0 Vicryl. Please issue emergency LPO or extend the contract tonight.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-03",
+          "time": "11:05 AM",
+          "reporter_role": "ICU Nurse-in-Charge",
+          "incident_description": "O2 cylinder refill truck delayed by flooded access road. Backup manifold shows roughly two hours at current flow. Request diversion to local supplier and immediate swap.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-05-05",
+          "time": "07:50 PM",
+          "reporter_role": "Medical Ward Sister",
+          "incident_description": "Insulin pens (Mix 30) show zero on shelf while ERP shows 48 units. Likely mis-posted issue after barcode reader glitch during the thunderstorm. Need immediate release from reserve and stock correction.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-06",
+          "time": "10:30 AM",
+          "reporter_role": "Lab Technologist (Biochemistry)",
+          "incident_description": "Cold-chain reagents arrived warm; TempTale indicates 14°C during the squally rain delay. QC failures seen on control run. Please process replacement and DOA documentation.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-08",
+          "time": "01:25 PM",
+          "reporter_role": "Renal Unit Sister",
+          "incident_description": "Dialyzer filters (F7/F8) not dispatched; morning rain soaked the staging area and consignment was held. Two dialysis sessions were postponed. Need immediate dry-pack delivery.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-09",
+          "time": "08:40 AM",
+          "reporter_role": "Radiology MO",
+          "incident_description": "NMRA recall for iohexol lot JX21 received; stock is still on CT shelf. Please quarantine, arrange pickup with vendor, and supply alternative contrast today.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-09",
+          "time": "02:10 PM",
+          "reporter_role": "Pharmacy In-Charge",
+          "incident_description": "1,200 vials of ceftriaxone expire 31/05 and will not clear at current usage. Request redistribution to high-turnover wards and hold fresh ordering.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-05-11",
+          "time": "06:30 PM",
+          "reporter_role": "Catering Manager",
+          "incident_description": "Diet kitchen LPG at 15%; supplier van returned due to gusty rain. Night meals for wards may be affected. Please arrange emergency refill or swap from canteen stock.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-05-13",
+          "time": "09:00 AM",
+          "reporter_role": "Laundry Supervisor",
+          "incident_description": "Detergent and oxygen bleach exhausted while tender award is pending. Wet weather has increased linen load. Request emergency local purchase to maintain ward supply.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-13",
+          "time": "03:35 PM",
+          "reporter_role": "Stores Pharmacist",
+          "incident_description": "Sterile glove cartons arrived damp with musty odor after waterlogging. Pairs are sticking together. Please reject the lot and expedite replacement.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-05-15",
+          "time": "10:50 AM",
+          "reporter_role": "Ward 7B Sister",
+          "incident_description": "Transfusion sets and 18G cannulas not delivered since morning; lift outages during rain causing delays. Our list is ongoing. Need manual distribution now.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-15",
+          "time": "04:55 PM",
+          "reporter_role": "Dietician",
+          "incident_description": "Bulk rice supplier stuck beyond Kelaniya due to flooded roads. Kitchen has one day buffer. Please arrange spot-purchase with urgent LPO.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-16",
+          "time": "11:20 AM",
+          "reporter_role": "OPD Nurse",
+          "incident_description": "Bin card shows 6 boxes of 22G IV cannulas but shelf empty. Suspect over-issue to ETU without postings. Request cycle count and controlled issue for clinics.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-05-17",
+          "time": "07:10 PM",
+          "reporter_role": "Hospital Engineer (On-call)",
+          "incident_description": "Diesel for standby generator at 18% after frequent storm changeovers. Need immediate fuel procurement to restore buffer stock tonight.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-05-19",
+          "time": "08:25 AM",
+          "reporter_role": "CSSD Supervisor",
+          "incident_description": "Indicator tape and chemical integrators down to last rolls; delivery delayed by rain. We cannot release sets after noon without them. Please issue or purchase urgently.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-21",
+          "time": "07:45 AM",
+          "reporter_role": "Haematology Lab Technologist",
+          "incident_description": "Vacutainer needles 21G out of stock in OPD phlebotomy; clinics are already queueing. Vendor sent partial due to import hold. Request inter-ward transfer and urgent top-up.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-21",
+          "time": "01:55 PM",
+          "reporter_role": "Chief Pharmacist",
+          "incident_description": "NMRA alert for a metformin 500 mg lot. Please quarantine across pharmacy and wards, arrange vendor return, and supply replacement to avoid OPD gaps.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-05-22",
+          "time": "03:05 PM",
+          "reporter_role": "Consultant Surgeon",
+          "incident_description": "Theatre informed that suture contract expired; supplier declined to dispatch PDS/Vicryl for tomorrow. Need immediate extension or emergency LPO.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-23",
+          "time": "10:10 AM",
+          "reporter_role": "Infection Control Nurse",
+          "incident_description": "Multiple 5L povidone-iodine bottles leaking due to cracked caps after transport in rain. Contamination risk in store. Please segregate, replace, and arrange spill clean-up materials.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-05-25",
+          "time": "12:40 PM",
+          "reporter_role": "Anaesthesia MO",
+          "incident_description": "Sterile water for injection pallets got soaked while unloading in the downpour. Cartons collapsing and labels unreadable. Require replacement batch and covered transfer to theatre pharmacy.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-28",
+          "time": "09:30 AM",
+          "reporter_role": "Neonatal ICU Consultant",
+          "incident_description": "TPN consumables (lipid sets, filters) down to a few units; supplier delayed by prolonged rain and wind. Please reallocate from adult ICU and fast-track delivery.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-05-28",
+          "time": "02:50 PM",
+          "reporter_role": "Wound Care Nurse",
+          "incident_description": "Hydrocolloid dressings show condensation inside pouches after the humid spell. Seals appear compromised. Kindly quarantine and issue dry-stock replacement.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-05-30",
+          "time": "11:05 AM",
+          "reporter_role": "Procurement Officer",
+          "incident_description": "Disinfectant concentrate PO on hold due to currency mismatch in supplier quote. Current stock is under 7 days for wards and theatres. Need approval to proceed and avoid stockout.",
+          "urgency": "Medium"
+        }
+      ]
+    }
+  },
+  {
+    "month": "June",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-06-01",
+          "time": "08:20 AM",
+          "reporter_role": "Storekeeper Grade II",
+          "incident_description": "Morning downpour blew rain into Loading Bay A; several gauze and cotton cartons are damp with smeared barcodes. Request quarantine and immediate re-issue of dry stock to Surgical and ETU.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-01",
+          "time": "06:50 PM",
+          "reporter_role": "ICU Nurse-in-Charge",
+          "incident_description": "Oxygen cylinder truck delayed due to flooded roads during the evening storm; ICU has only four H-type left. Need emergency swap from other wards/vendors.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-06-02",
+          "time": "02:10 PM",
+          "reporter_role": "OPD Nursing Officer",
+          "incident_description": "IV fluid cartons stored near an external wall feel swollen from humidity after the rain burst; two bags show softening around the outer seal. Please replace stock and review storage.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-04",
+          "time": "04:35 PM",
+          "reporter_role": "Engineering Officer",
+          "incident_description": "Standby generator diesel level below minimum; vendor postponed dispatch after the afternoon thunderstorm. Please arrange split delivery tonight.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-06",
+          "time": "09:30 AM",
+          "reporter_role": "Pharmacy Superintendent",
+          "incident_description": "Manufacturer recall received for cefazolin 1 g (Batch CZL0524). Need batch tracing across wards, immediate pickup, and replacement.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-06-08",
+          "time": "01:55 PM",
+          "reporter_role": "Senior Medical Laboratory Scientist",
+          "incident_description": "PCR extraction kits arrived warm; courier was stuck in heavy rain with lightning. Cold chain breach—quarantine and obtain replacements today.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-06-08",
+          "time": "05:40 PM",
+          "reporter_role": "Infection Control Nurse",
+          "incident_description": "Handrub refills and paper towels kept near the dock got damp during the storm; outer boxes are collapsing. Need dry replacements to OPD/clinics before morning.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-10",
+          "time": "10:05 AM",
+          "reporter_role": "Theatre Sister",
+          "incident_description": "New glove consignment is powdered latex instead of tendered nitrile. Stop issue to theatres and procure correct spec immediately.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-11",
+          "time": "03:15 PM",
+          "reporter_role": "Labour Room Midwife",
+          "incident_description": "0.9% saline 1 L outer pouches from today’s pick show dampness; one had seal delamination after intermittent showers. Please quarantine lot and backfill.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-13",
+          "time": "11:25 AM",
+          "reporter_role": "Laundry Supervisor",
+          "incident_description": "Detergent sacks for CSSD/laundry delayed after the morning downpour; stock will run out by night shift. Request emergency local purchase.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-14",
+          "time": "09:10 AM",
+          "reporter_role": "Matron",
+          "incident_description": "N95 model delivered under the current contract fails fit test for multiple staff. Need approved alternate brand and vendor clarification.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-06-15",
+          "time": "07:05 AM",
+          "reporter_role": "Anaesthesia Registrar",
+          "incident_description": "Size L sterile gowns stockout noted at first list; only XL available, affecting donning. Require same-day redistribution or urgent purchase.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-16",
+          "time": "02:20 PM",
+          "reporter_role": "Inventory Controller",
+          "incident_description": "Duplicate GRN posted for glucose strips (GRN 14322 & 14323), system shows inflated stock. Please rectify to prevent false availability.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-06-17",
+          "time": "12:40 PM",
+          "reporter_role": "Dialysis Unit Nursing Officer",
+          "incident_description": "AVF needles (16G) delivery delayed by flooded approach roads after the thunder burst. Unit has 6 boxes left—need prioritised dispatch.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-06-18",
+          "time": "08:35 AM",
+          "reporter_role": "Quality Officer",
+          "incident_description": "Urgent recall: 22G IV cannula Batch IV22-1805. Require immediate ward sweep, returns, and vendor pickup today.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-06-20",
+          "time": "09:50 AM",
+          "reporter_role": "Maintenance Supervisor",
+          "incident_description": "Chlorine tablets for overhead tank disinfection exhausted; supplier deferred due to passing heavy rain. Need interim stock from alternate source.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-21",
+          "time": "03:05 PM",
+          "reporter_role": "Medical Laboratory Technologist",
+          "incident_description": "Haematology printer toner finished; LIS reports are stuck. Please supply correct toner model today.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-22",
+          "time": "02:30 PM",
+          "reporter_role": "Consultant Microbiologist",
+          "incident_description": "Received blood culture bottle packs with wet outer boxes after coastal gusts and rain. Quarantine consignment and arrange replacements.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-23",
+          "time": "06:10 PM",
+          "reporter_role": "NICU Sister-in-Charge",
+          "incident_description": "Wrong items delivered—adult sheets and large diapers sent to NICU; neonatal sizes pending. Need swap before night shift.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-24",
+          "time": "01:25 PM",
+          "reporter_role": "Store Manager",
+          "incident_description": "Loading Bay B flooded during heavy rain; pallets with IV sets on the floor are wicking water. Need relocation to higher racks and packaging inspection.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-24",
+          "time": "04:55 PM",
+          "reporter_role": "CSSD Supervisor",
+          "incident_description": "One 5 L povidone-iodine can leaked; soggy carton after the storm. Replace damaged unit and replenish spill kit used.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-06-25",
+          "time": "08:15 AM",
+          "reporter_role": "Surgical Ward Medical Officer",
+          "incident_description": "Ceftriaxone 2 g requested but 1 g vials sent in mix; morning post-op doses pending. Need immediate exchange.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-26",
+          "time": "10:45 AM",
+          "reporter_role": "Diabetes Clinic Nurse",
+          "incident_description": "Blood glucose strips show humidity indicator pink after the rain band; desiccant saturated. Quarantine and issue fresh stock.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-28",
+          "time": "11:35 AM",
+          "reporter_role": "General Services Officer",
+          "incident_description": "Yellow clinical waste bags nearly out; delivery stuck near Dehiwala due to waterlogging. ETU and theatres will run out by night.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-06-29",
+          "time": "09:00 AM",
+          "reporter_role": "Procurement Officer",
+          "incident_description": "Third consecutive week of incomplete suture delivery (3-0 vicryl backorder). Need vendor escalation per SLA and internal redistribution.",
+          "urgency": "Medium"
+        }
+      ]
+    }
+  },
+  {
+    "month": "July",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-07-01",
+          "time": "08:10 AM",
+          "reporter_role": "Main Stores Supervisor",
+          "incident_description": "Barcode labels on IV fluid cartons peeling in humidity; picks are mis-scanning. Request waterproof labels and relabel before distribution.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-07-03",
+          "time": "02:35 PM",
+          "reporter_role": "Procurement Assistant",
+          "incident_description": "Suture consignment for OT delayed; vendor truck held up by afternoon flooding near Baseline Rd. Need emergency split delivery/local hire.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-03",
+          "time": "04:20 PM",
+          "reporter_role": "Surgical Ward Sister-in-Charge",
+          "incident_description": "Two boxes of sterile gauze arrived damp from loading bay during heavy rain; sterility doubtful. Replace and quarantine lot.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-05",
+          "time": "11:05 AM",
+          "reporter_role": "OPD Pharmacist",
+          "incident_description": "Insulin vials (Actrapid) expiring 09/2025 found in OPD bin. Request redistribution to clinics/high-turnover units today.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-07-07",
+          "time": "09:12 AM",
+          "reporter_role": "ETU Medical Officer",
+          "incident_description": "0.9% NS 500 ml ran out at ETU; yesterday’s issue note missed. Need immediate transfer from Main Stores despite rain delays.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-07-07",
+          "time": "03:48 PM",
+          "reporter_role": "Paediatric Ward Nurse",
+          "incident_description": "Nebulizer masks (child size) on backorder; today’s delivery stalled in steady rain. Please arrange emergency local purchase or inter-ward borrow.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-09",
+          "time": "06:25 PM",
+          "reporter_role": "MO OPD (Rabies Clinic)",
+          "incident_description": "Cold chain breach: anti-rabies vaccine logger showed 10°C during thunderstorm unloading. Quarantine stock and arrange replacement today.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-07-12",
+          "time": "10:02 AM",
+          "reporter_role": "Pharmacy Stores Officer",
+          "incident_description": "MSD recall notice for Ceftriaxone 1g, batch CF2309. Need immediate quarantine, bin-card update, and ward sweep for returns.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-14",
+          "time": "07:15 AM",
+          "reporter_role": "Theatre Matron",
+          "incident_description": "OT short of sterile gloves size 6.5 for morning list; last requisition unfilled. Require urgent issue before first C-section.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-14",
+          "time": "01:55 PM",
+          "reporter_role": "Medical Ward Sister",
+          "incident_description": "Face mask cartons collapsed; boxes softened from humidity and last night’s rain seepage. Request plastic crates and replacement stock.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-07-15",
+          "time": "11:40 AM",
+          "reporter_role": "Procurement Officer",
+          "incident_description": "Vendor attempted unapproved substitution for paediatric cannulas (24G). Contract brand only; please reject GRN and escalate.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-07-17",
+          "time": "08:05 AM",
+          "reporter_role": "Dialysis Unit Nurse",
+          "incident_description": "Dialyzer (FX80) delivery rerouted due to flooded side road; afternoon sessions at risk. Need priority hand-carry from stores.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-17",
+          "time": "09:30 PM",
+          "reporter_role": "ICU Senior House Officer",
+          "incident_description": "Adrenaline 1:1000 amps: bin card shows 80, physical count 12. Discrepancy risks overnight stockout. Investigate and replenish.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-07-18",
+          "time": "02:22 PM",
+          "reporter_role": "Infection Control Nurse",
+          "incident_description": "N95 masks delivered mostly size L; staff require M. Please coordinate swaps across wards before tomorrow’s audit.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-07-19",
+          "time": "08:25 AM",
+          "reporter_role": "Laboratory Manager",
+          "incident_description": "Blood culture bottle shipment at gate; driver refusing to unload due to wet, slippery bay in steady rain. Arrange safe unloading now.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-19",
+          "time": "02:50 PM",
+          "reporter_role": "Pharmacy QA Pharmacist",
+          "incident_description": "Amoxicillin syrup cartons water-stained; outer labels/lot numbers peeling after rain exposure. Need relabel plan or vendor replacement.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-07-21",
+          "time": "11:58 PM",
+          "reporter_role": "ETU Duty Medical Officer",
+          "incident_description": "Sterile water for injection exhausted; two intubations pending. Need immediate issue from night cupboard/Main Stores.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-07-23",
+          "time": "09:10 AM",
+          "reporter_role": "Hospital Administrator",
+          "incident_description": "Suture framework agreement lapsed; TEC minutes pending causing gaps. Supply to activate interim LPO via SPC urgently.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-24",
+          "time": "12:15 PM",
+          "reporter_role": "Maternity Ward MOIC",
+          "incident_description": "Oxytocin cold boxes arrived with melted ice packs after gusty rain delay; logger peaked at 9°C. Quarantine and replace today.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-07-24",
+          "time": "04:05 PM",
+          "reporter_role": "Orthopaedic Ward Clerk",
+          "incident_description": "IV set pouches received with wrinkled seals, likely damp during today’s rain. Request inspection and replacement issue.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-07-26",
+          "time": "10:32 AM",
+          "reporter_role": "OPD Nurse",
+          "incident_description": "Cartons labelled 10 ml syringes contain 5 ml units; near-miss during vaccination. Quarantine pallet, correct picks, notify vendor.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-28",
+          "time": "03:18 PM",
+          "reporter_role": "Supply Chain Data Entry Operator",
+          "incident_description": "Noradrenaline marked ‘in stock’ in system but bin empty; bin card not updated after last issue. Urgent correction and replenishment needed.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-30",
+          "time": "09:00 AM",
+          "reporter_role": "Consultant Physician",
+          "incident_description": "Meropenem supply disrupted; SPC cites port delay. Request emergency LPO to cover 7 days for HDU cases.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-30",
+          "time": "07:42 PM",
+          "reporter_role": "Surgical Ward RMO",
+          "incident_description": "Adhesive dressings failing in tonight’s humidity; multiple non-adherent. Please review batch quality and issue alternate brand.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-07-31",
+          "time": "08:47 AM",
+          "reporter_role": "Anaesthesia Registrar",
+          "incident_description": "ET tubes sizes 6.0–7.0: several packs found expired during pre-op check. Need immediate replacement and ward sweep.",
+          "urgency": "High"
+        }
+      ]
+    }
+  },
+  {
+    "month": "August",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-08-01",
+          "time": "08:10 AM",
+          "reporter_role": "OPD Nursing Officer",
+          "incident_description": "OPD ran out of 1 mL syringes; BIN card shows balance 600 but shelf empty. Request immediate top-up from main stores and cycle count.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-03",
+          "time": "12:40 PM",
+          "reporter_role": "Theatre Sister",
+          "incident_description": "4-0 Vicryl nearly exhausted for afternoon list; only two foils left. Please issue from buffer or arrange LP if no stock.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-05",
+          "time": "09:05 AM",
+          "reporter_role": "Senior Pharmacist",
+          "incident_description": "HbA1c reagent lot expiring in 14 days delivered to lab; vendor had promised longer-dated. Need swap/return arranged today.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-08-08",
+          "time": "07:55 AM",
+          "reporter_role": "Ward Clerk - Surgical",
+          "incident_description": "Dressing packs not delivered to Wards 6/7; lorry reportedly delayed by morning thunder/rain. Request release of in-house reserve.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-08",
+          "time": "05:20 PM",
+          "reporter_role": "Stores Supervisor",
+          "incident_description": "Two cartons of 0.9% NS found damp; outer boxes softened after afternoon downpour. Quarantined—need vendor replacement and pallet covers.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-08-09",
+          "time": "10:15 AM",
+          "reporter_role": "Paediatric Ward Nurse",
+          "incident_description": "22G paediatric cannulas short; last issue contained mostly 18G by mistake. Need correct size urgently.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-11",
+          "time": "03:30 PM",
+          "reporter_role": "ETU Medical Officer",
+          "incident_description": "ETU received nebuliser masks past expiry last week. Please trace batch, replace, and audit distribution list.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-08-12",
+          "time": "11:00 AM",
+          "reporter_role": "Administrative Officer",
+          "incident_description": "Laundry detergent framework contract lapsed; wards report low stock of powder. Kindly extend or process LP today.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-13",
+          "time": "08:35 AM",
+          "reporter_role": "Diabetic Clinic Nurse",
+          "incident_description": "Pen needles delivered 5mm; indent requested 4mm. Patients queued now. Arrange immediate exchange with supplier.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-13",
+          "time": "06:10 PM",
+          "reporter_role": "Stores QA Assistant",
+          "incident_description": "Humidity after evening rain: multiple sterile gauze pouches show moisture spotting on inner wrap. Batch segregated; need vendor inspection.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-08-15",
+          "time": "09:25 AM",
+          "reporter_role": "Dental Surgeon",
+          "incident_description": "Lidocaine with adrenaline cartridges stockout by noon; MSD indent pending. Request emergency borrow from Base Hosp. Kalutara via Supply.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-08-16",
+          "time": "07:20 AM",
+          "reporter_role": "ETU Nursing Officer",
+          "incident_description": "Adrenaline 1:1000 discrepancy—BIN card shows 180, physical 64. Please investigate and top-up immediately for resus trolley.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-08-17",
+          "time": "10:05 AM",
+          "reporter_role": "Theatre Coordinator",
+          "incident_description": "2-0 silk sutures backordered; two hernia cases at 2 PM. Need alternative approved suture issued or LP.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-17",
+          "time": "04:45 PM",
+          "reporter_role": "Catering Manager",
+          "incident_description": "LPG cylinder delivery delayed due to gusty afternoon rain; kitchen has one spare only. Please expedite supplier and arrange interim swap.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-19",
+          "time": "02:15 PM",
+          "reporter_role": "Accounts Officer",
+          "incident_description": "Invoice vs GRN mismatch on nitrile gloves—30 boxes short on delivery note. Need Supply to rectify with vendor before payment.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-08-20",
+          "time": "05:50 PM",
+          "reporter_role": "Dialysis Unit In-charge Nurse",
+          "incident_description": "AV fistula needles (15G) below PAR; night shift will finish remaining stock. Kindly issue or arrange emergency borrow.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-22",
+          "time": "09:40 AM",
+          "reporter_role": "Stores Supervisor",
+          "incident_description": "Leak over Bulk Rack B during thundery rain; outer boxes of Foley catheters wet. Items quarantined; need replacement and pallet covers.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-08-22",
+          "time": "03:05 PM",
+          "reporter_role": "Procurement Officer",
+          "incident_description": "Dialysis concentrate reorder awaiting signed rate contract; courier stuck in rain. Request vendor email undertaking so PO can be released.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-23",
+          "time": "08:50 AM",
+          "reporter_role": "OPD Dispenser",
+          "incident_description": "Thermal label rolls finished; dispensing halted at OPD counter. Need immediate issue from stores.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-08-24",
+          "time": "11:30 AM",
+          "reporter_role": "Orthopaedic Registrar",
+          "incident_description": "Bone drill bit set received with rust stains on two sterile packs after morning rain transit. Please replace and notify supplier.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-24",
+          "time": "05:00 PM",
+          "reporter_role": "Pharmacy Intern",
+          "incident_description": "Seepage near back door; cartons of sterile water 100 ml softened. We have segregated—please re-pack into crates and replace damaged.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-08-26",
+          "time": "10:25 AM",
+          "reporter_role": "Pharmacist - Main Stores",
+          "incident_description": "NMRA recall notice for Metformin 500 mg, batch MTF234. Need system block, quarantine, and ward trace immediately.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-08-28",
+          "time": "12:55 PM",
+          "reporter_role": "MOH Vaccination Clinic Coordinator",
+          "incident_description": "Vaccine carrier ice-packs insufficient; tomorrow’s outreach to Panadura needs 20 more. Request issue from cold-chain store today.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-30",
+          "time": "09:05 AM",
+          "reporter_role": "CCU Nursing Sister",
+          "incident_description": "Oxygen cylinder delivery delayed by heavy rain; CCU has only two full backups. Please arrange immediate swap from theatre or vendor refill.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-08-30",
+          "time": "02:35 PM",
+          "reporter_role": "Procurement Assistant",
+          "incident_description": "MSD e-order portal down; ceftriaxone tender window closes today. Need approval to place manual fax order to SPC.",
+          "urgency": "High"
+        }
+      ]
+    }
+  },
+  {
+    "month": "September",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-09-01",
+          "time": "07:35 AM",
+          "reporter_role": "ICU Nursing Officer-in-Charge",
+          "incident_description": "Stockout of 3-way stopcocks in ICU; BIN card shows 40 in hand but shelves are empty. Request urgent issue or redistribution and audit of the sub-store ledger.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-03",
+          "time": "09:10 AM",
+          "reporter_role": "Cardiology OPD Staff Nurse",
+          "incident_description": "ECG electrodes from the last two boxes not adhering in today’s humidity; please issue alternate brand and adjust future procurement specs.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-09-04",
+          "time": "06:50 PM",
+          "reporter_role": "Orthopaedic OT Sister",
+          "incident_description": "Outer cartons of sterile drape packs arrived damp after evening rain; wicking seen under some seals. Please quarantine batch and arrange immediate replacement.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-04",
+          "time": "08:10 PM",
+          "reporter_role": "ETU Medical Officer",
+          "incident_description": "LP consignment of oxygen masks delayed in rain; ETU has <12 masks left. Request emergency redistribution from wards and vendor follow-up tonight.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-09-06",
+          "time": "10:05 AM",
+          "reporter_role": "Pharmacy Stores Pharmacist",
+          "incident_description": "Cold room logger showed 11°C spike during unloading in drizzle; MSD vaccines received with wet outers. Quarantine advised—please arrange replacement transport boxes and confirm viability with supplier.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-07",
+          "time": "09:20 AM",
+          "reporter_role": "Labour Room Midwife-in-Charge",
+          "incident_description": "Oxytocin ampoules low (only 8 on shelf) though BIN shows 30. Need immediate top-up for LR and reconciliation of bin card vs. actual.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-09-08",
+          "time": "02:35 PM",
+          "reporter_role": "Laundry Supervisor",
+          "incident_description": "Detergent powder supply caked due to damp in stores after rain. Request pallets, moisture barriers, and replacement of affected bags.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-09-08",
+          "time": "05:50 PM",
+          "reporter_role": "NICU Nursing Sister",
+          "incident_description": "100 ml sterile water cartons soaked during receiving; barcodes smeared, some seals compromised. Need urgent replacement for humidifiers and vendor claim processing.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-09",
+          "time": "11:15 AM",
+          "reporter_role": "Surgical Ward Sister",
+          "incident_description": "18G cannula GRN posted yesterday but not issued to ward. OTs borrowing from SICU—please release ward quota today.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-09-10",
+          "time": "07:40 PM",
+          "reporter_role": "Renal Unit Nurse Manager",
+          "incident_description": "Thunderstorm and lift downtime delayed movement of PD fluids; only 4 bags in unit. Please arrange manual trolley team and night issue.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-09-10",
+          "time": "03:10 PM",
+          "reporter_role": "Pharmacist In-Charge",
+          "incident_description": "MSD recall received for ceftriaxone batch CFX2307. Request immediate batch trace, quarantine across wards, and notification to prescribers.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-12",
+          "time": "04:25 PM",
+          "reporter_role": "Admin Officer - Linen",
+          "incident_description": "Shortage of linen trolleys (2 sent for welding). Wards piling bags in corridor; please expedite LP purchase or short-term rental.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-09-15",
+          "time": "09:50 AM",
+          "reporter_role": "Surgical Sub-Store Keeper",
+          "incident_description": "2-0 Vicryl near expiry in 6 weeks; low consumption trend. Request redistribution to high-use theatres or return to MSD as per policy.",
+          "urgency": "Low"
+        },
+        {
+          "date": "2025-09-17",
+          "time": "02:20 PM",
+          "reporter_role": "Stores Officer - Main Medical Store",
+          "incident_description": "Leak over cannula aisle during heavy rain; several cartons damp. Need immediate relocation, assessment for damage, and supplier claim initiation.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-17",
+          "time": "05:15 PM",
+          "reporter_role": "Chief MLS - Biochemistry",
+          "incident_description": "MSD truck delayed by flooding; serum analyzer reagents <48 hrs stock. Request emergency LP or inter-hospital borrowing via Supply.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-09-19",
+          "time": "09:05 AM",
+          "reporter_role": "OPD Admin Officer",
+          "incident_description": "OPD printer toners finished; queue growing. PO pending finance note—please release from buffer stock and regularize later.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-09-21",
+          "time": "01:25 PM",
+          "reporter_role": "CSSD Supervisor",
+          "incident_description": "Indicator tape losing adhesion in today’s humidity; packs risk failing checks. Need alternate brand and procurement of dehumidifier for packing room.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-21",
+          "time": "08:30 PM",
+          "reporter_role": "Stores Porter Team Lead",
+          "incident_description": "Unloading bay slippery after thundery rain; staff nearly fell. Please supply non-slip mats and plastic sheeting tonight.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-09-23",
+          "time": "03:45 PM",
+          "reporter_role": "Consultant Anaesthetist",
+          "incident_description": "Nitrous oxide cylinder exchange not done by vendor; theatres down to one spare. Require immediate escalation per contract and emergency swap from nearby facility.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-09-23",
+          "time": "08:05 PM",
+          "reporter_role": "Ward Pharmacist - Medical Ward",
+          "incident_description": "After storm, ward stock labels smudged; batch numbers unreadable. Need relabelling supplies and reconciliation with BIN cards before issue.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-09-25",
+          "time": "06:40 PM",
+          "reporter_role": "ETU Sister",
+          "incident_description": "Glove cartons at ambulance bay got wet in evening rain; boxes sticky and compromised. Please quarantine and replace for ETU tonight.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-27",
+          "time": "04:55 PM",
+          "reporter_role": "Biomedical Engineer",
+          "incident_description": "Filters received for oxygen concentrators are wrong model per PO. Need urgent return and correct filters for Respiratory Isolation Unit.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-28",
+          "time": "10:30 AM",
+          "reporter_role": "Main Store Data Entry Operator",
+          "incident_description": "Barcode scanners intermittently failing due to moisture; GRN posting delayed. Request protective sleeves or swap units from IT stock.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-09-28",
+          "time": "07:20 PM",
+          "reporter_role": "Paediatric Ward Sister",
+          "incident_description": "Milk formula tins arrived dented after wet cartons collapsed in transit. Please hold lot, arrange vendor replacement, and verify batch integrity.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-29",
+          "time": "02:40 PM",
+          "reporter_role": "OPD Matron",
+          "incident_description": "Surgical spirit below reorder level; three-way match incomplete so PO not triggered. Request emergency LP and release from buffer today.",
+          "urgency": "High"
+        }
+      ]
+    }
+  },
+  {
+    "month": "October",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-10-01",
+          "time": "08:55 PM",
+          "reporter_role": "Stores Supervisor",
+          "incident_description": "Evening thunderstorm caused a roof leak in central stores; two cartons of sterile surgical gloves were soaked and seals compromised. Request quarantine and immediate replacement issue to theatres.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-01",
+          "time": "09:18 PM",
+          "reporter_role": "Laboratory Manager",
+          "incident_description": "Supplier truck with blood collection tubes is stuck due to flooding; OPD and wards will stock out by morning. Please arrange emergency diversion from RMSD or inter-ward reallocation tonight.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-10-02",
+          "time": "03:22 PM",
+          "reporter_role": "ETU Nurse-in-Charge",
+          "incident_description": "Received IV fluid pallets with outer cartons water-damaged during afternoon downpour. Hold for QC; we need a clean batch released to ETU within 2 hours to maintain resus stocks.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-03",
+          "time": "06:35 PM",
+          "reporter_role": "Pharmacy In-Charge (OPD)",
+          "incident_description": "Cold room log shows 9–10°C for ~30 minutes during goods receipt; temperature-sensitive vials from today’s consignment may be impacted. Request lot quarantine and guidance for redistribution.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-04",
+          "time": "10:10 AM",
+          "reporter_role": "Pharmacy Stores Pharmacist",
+          "incident_description": "Expiry review: 38 adrenaline ampoules expiring end-Nov. Please prioritize distribution to high-usage areas to avoid wastage and adjust reorder levels.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-10-05",
+          "time": "05:12 PM",
+          "reporter_role": "Procurement Officer",
+          "incident_description": "Network outage during the storm prevented LPO issuance for sutures; vendor will not dispatch without document. Request emergency manual PO per procurement SOP.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-05",
+          "time": "07:26 PM",
+          "reporter_role": "ETU Registrar",
+          "incident_description": "Oxygen cylinder swap delayed due to flooded access roads. ETU has only one spare D-type remaining; please arrange internal transfer from low-use wards immediately.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-10-07",
+          "time": "11:02 AM",
+          "reporter_role": "Laundry Supervisor",
+          "incident_description": "Low stock of detergent and disinfectant; today’s rain-delayed delivery means we can’t meet evening linen demand. Need interim release from buffer stock.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-08",
+          "time": "08:03 PM",
+          "reporter_role": "Antibiotic Stewardship Pharmacist",
+          "incident_description": "Supplier issued an urgent recall for cefuroxime 750 mg, Lot CFU-2319 (MSD alert). Request immediate quarantine and ward collection tonight.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-10",
+          "time": "08:41 PM",
+          "reporter_role": "Theatre Manager",
+          "incident_description": "OT received wrong suture sizes (need 2-0 polyglactin 910; got 0). Tomorrow’s gynae list at 7:30 AM will be affected. Please correct distribution before midnight.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-10-11",
+          "time": "10:48 AM",
+          "reporter_role": "CSSD In-Charge",
+          "incident_description": "Sterilization wraps down to one roll; vendor delays due to road ponding. We need emergency issue from contingency or alternate supplier today.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-11",
+          "time": "03:57 PM",
+          "reporter_role": "Stores Clerk",
+          "incident_description": "Receiving bay floor is damp; several cardboard boxes sagging. Request plastic pallets and dehumidifier blowers to protect sterile consumables.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-10-13",
+          "time": "09:20 AM",
+          "reporter_role": "MO-OPD",
+          "incident_description": "Cannula consignment delivered as 20G instead of contracted 22G; specification change unapproved. Please initiate rejection note and replacement.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-10-14",
+          "time": "06:12 PM",
+          "reporter_role": "Ambulance Coordinator",
+          "incident_description": "Storm disruptions: resupply of ambulance first-aid packs incomplete. Request immediate top-up of dressings and IV sets for two ALS units.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-14",
+          "time": "02:55 PM",
+          "reporter_role": "Endocrine Clinic Nurse",
+          "incident_description": "Insulin pens (Lot INS-147A) expiring end-Dec; clinic can’t consume at current pace. Please arrange redistribution to medical wards and peripheral clinics.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-10-15",
+          "time": "04:18 PM",
+          "reporter_role": "Pharmacy Storekeeper",
+          "incident_description": "Humidity reached 78% during thundery spell; several moisture‑sensitive tablet bottles show clumping. Need additional desiccants and faster put-away of dry packs.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-17",
+          "time": "05:31 PM",
+          "reporter_role": "Infection Control Nurse",
+          "incident_description": "N95 mask supplier notified shipping delay; stock will last ~3 days only. Please activate alternate vendor under framework and expedite.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-18",
+          "time": "07:22 PM",
+          "reporter_role": "Microbiology Lab Manager",
+          "incident_description": "MSD safety alert on aerobic blood culture bottle Lot AB-402. Request immediate quarantine and collection from wards and ETU.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-20",
+          "time": "04:05 PM",
+          "reporter_role": "MO Anaesthesia",
+          "incident_description": "Nitrous oxide cylinder swap overdue; vendor delayed by squalls. Elective OT list tomorrow may be affected; please arrange inter-hospital borrow tonight.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-22",
+          "time": "01:14 PM",
+          "reporter_role": "Medical Ward Sister",
+          "incident_description": "Bedside glucometer strips expiring in two weeks; Ward 3B overstocked while 2A is short. Request rotation and adjusted par levels.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-10-22",
+          "time": "03:39 PM",
+          "reporter_role": "Finance Officer",
+          "incident_description": "Invoice for 0.9% saline shows rate above contracted LKR price. Please confirm receipt terms and issue debit note to vendor.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-10-24",
+          "time": "02:28 PM",
+          "reporter_role": "Biochemistry Scientist",
+          "incident_description": "Electrolyte reagent kit arrived with melted cold packs after brief flooding; kit temperature uncertain. Need urgent replacement dispatch and return authorization.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-24",
+          "time": "06:46 PM",
+          "reporter_role": "ICU Nurse",
+          "incident_description": "Enteral feeding formula cases were misrouted to OPD; ICU will run short by night shift. Request immediate redistribution to ICU.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-10-28",
+          "time": "07:11 PM",
+          "reporter_role": "Obstetrics Theatre Sister",
+          "incident_description": "Sterile water for irrigation on backorder; c-section list at 6:30 AM threatened. Please arrange emergency local purchase tonight.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-10-30",
+          "time": "08:07 PM",
+          "reporter_role": "Hospital Administrator",
+          "incident_description": "Torrential rain has flooded the main stores access; outbound distribution halted. Request temporary staging in old OPD hall and emergency glove/cannula drops to all wards.",
+          "urgency": "Critical"
+        }
+      ]
+    }
+  },
+  {
+    "month": "November",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-11-01",
+          "time": "03:35 PM",
+          "reporter_role": "Central Stores Supervisor",
+          "incident_description": "Afternoon thunderstorm caused a leak over Rack C; three cartons of sterile gloves got soaked. Request quarantine and immediate replacement to avoid OT stockout.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-01",
+          "time": "05:10 PM",
+          "reporter_role": "Theatre In-Charge Nurse",
+          "incident_description": "Oxygen cylinder refill lorry stuck due to flooded approach road; OT running on last four D-type. Need urgent redistribution from wards and vendor escalation.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-11-03",
+          "time": "10:20 AM",
+          "reporter_role": "Procurement Assistant",
+          "incident_description": "Sutures (3/0) delivery short by 12 packets vs GRN; outer boxes damp after rain during unloading. Please raise short-supply note and arrange backfill.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-11-04",
+          "time": "09:05 AM",
+          "reporter_role": "OPD Pharmacist",
+          "incident_description": "Insulin vials (Lot KX21) expiring end-Dec; OPD holding high stock. Request rotation to wards and reduce next SPC call-up.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-11-04",
+          "time": "11:50 AM",
+          "reporter_role": "Immunisation Clinic Nursing Sister",
+          "incident_description": "After morning power flickers with rain, we lacked adequate cool boxes/ice packs to shift EPI vaccines. Please supply six cool boxes and gel packs today.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-06",
+          "time": "02:25 PM",
+          "reporter_role": "ICU Charge Nurse",
+          "incident_description": "Rain disrupted cylinder trolley rounds; ICU received only two D-type oxygen. Balance still pending—request immediate redistribution.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-08",
+          "time": "08:45 AM",
+          "reporter_role": "Cardiology Technician",
+          "incident_description": "New ECG electrodes losing adhesion in humid conditions; multiple patient leads failing. Please initiate vendor QA claim and arrange replacement batch.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-11-09",
+          "time": "01:30 PM",
+          "reporter_role": "Stores Keeper",
+          "incident_description": "Squally rain led to a ceiling drip above saline pallets; several cartons soaked. Request quarantine and urgent draw from RMSD.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-09",
+          "time": "04:15 PM",
+          "reporter_role": "Laboratory Manager",
+          "incident_description": "Gate area waterlogged; reagent cold-chain boxes delayed and warming. Need priority offloading and additional ice packs from supply immediately.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-11-11",
+          "time": "11:10 AM",
+          "reporter_role": "Medical Supplies Officer",
+          "incident_description": "SPC failed to deliver ceftriaxone per PO today; wards report only two days’ buffer. Please expedite follow-up and initiate LP if required.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-13",
+          "time": "09:35 AM",
+          "reporter_role": "Nursing Officer - Quality",
+          "incident_description": "MSD recall circular received for IV cannula lot L23-781. Request coordinated collection from wards, quarantine, and vendor return.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-13",
+          "time": "03:00 PM",
+          "reporter_role": "Stores Data Entry Clerk",
+          "incident_description": "eLMIS shows 180 units of 5L irrigation fluid; physical count is 96. Need cycle count, adjustment, and plan for immediate top-up.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-11-14",
+          "time": "10:50 AM",
+          "reporter_role": "CSSD Supervisor",
+          "incident_description": "Indicator tape for sterile packs is out of stock; linen sets can’t be sealed to standard. Request urgent procurement/issue for today’s lists.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-15",
+          "time": "12:40 PM",
+          "reporter_role": "Theatre Coordinator",
+          "incident_description": "Disposable gowns delivery delayed by heavy rain; orthopaedic list at 2 PM short by 30. Please transfer stock from Gynae OT and chase vendor.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-11-15",
+          "time": "08:15 AM",
+          "reporter_role": "OPD Sister",
+          "incident_description": "23G needles down to last three boxes; yesterday’s indent not issued. Need immediate distribution before morning clinic rush.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-17",
+          "time": "02:05 PM",
+          "reporter_role": "Paediatric Ward In-Charge",
+          "incident_description": "Sterile gauze packs with blurred indicators from humid sub-store. Please replace affected cartons and supply silica gel packs.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-11-18",
+          "time": "10:00 AM",
+          "reporter_role": "Housekeeping Supervisor",
+          "incident_description": "Two sodium hypochlorite drums arrived with corroded caps after rains; minor leakage at receiving bay. Raise NCR, claim replacement, and restock.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-18",
+          "time": "07:25 PM",
+          "reporter_role": "ETU Medical Officer",
+          "incident_description": "Emergency trolley restock kits short of adrenaline amps; bin card shows zero balance. Need immediate inter-ward transfer or LP tonight.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-11-20",
+          "time": "08:55 AM",
+          "reporter_role": "Laboratory Scientist",
+          "incident_description": "SPC dispatch cancelled due to widespread rain; pipette tips at two days’ stock. Request RMSD pickup or LP by tomorrow.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-20",
+          "time": "02:40 PM",
+          "reporter_role": "Pharmacy Storekeeper",
+          "incident_description": "Amoxicillin syrup boxes got wet during unloading in rain; labels smudged. Quarantine affected lot and arrange replacements.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-22",
+          "time": "11:30 AM",
+          "reporter_role": "Blood Bank Technologist",
+          "incident_description": "450 ml blood bags with weak seals (3 ruptured on inspection). Please raise vendor NCR and issue alternative lot immediately.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-24",
+          "time": "09:20 AM",
+          "reporter_role": "Inventory Officer",
+          "incident_description": "5 ml syringes: ledger 12,000 vs physical 7,850; likely unposted ETU issue. Need reconciliation and urgent top-up for clinic day.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-11-25",
+          "time": "03:10 PM",
+          "reporter_role": "ICU Consultant",
+          "incident_description": "Medical gas supplier delayed by storms; ICU has ~6 hours O2 at current flow. Request immediate redistribution from OT/wards and vendor escalation.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-11-28",
+          "time": "09:05 AM",
+          "reporter_role": "Deputy Matron",
+          "incident_description": "MSD alert: stop IV set lot A1-112 (particulate risk). Please collect from wards today and issue safe lot.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-30",
+          "time": "10:15 AM",
+          "reporter_role": "Senior Pharmacist",
+          "incident_description": "Found 84 lignocaine 2% ampoules expired on Rack C. Request write-off, adjust min–max levels, and arrange replacement supply.",
+          "urgency": "Medium"
+        }
+      ]
+    }
+  },
+  {
+    "month": "December",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-12-01",
+          "time": "08:20 AM",
+          "reporter_role": "Junior Stores Keeper - Main Stores",
+          "incident_description": "During the afternoon thunder rain, two cartons of 50 ml syringes on the lower pallet were found damp with compromised outer packaging. Request immediate quarantine and vendor replacement, and please check moisture indicators on adjacent pallets.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-01",
+          "time": "05:05 PM",
+          "reporter_role": "MO - ETU",
+          "incident_description": "Adrenaline 1:1000 ampoules down to 6 units in ETU after multiple resus cases; MSD consignment not received. Please arrange emergency redistribution from low-use wards and expedite supply via SPC/backup LPO tonight.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-12-02",
+          "time": "11:05 AM",
+          "reporter_role": "Sister-in-Charge - Labour Room",
+          "incident_description": "Received macrodrip sets instead of microdrip for oxytocin inductions; induction list is full this afternoon. Kindly exchange to microdrip immediately and correct the pick list for LR.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-03",
+          "time": "07:30 AM",
+          "reporter_role": "Pharmacist - Inpatient Pharmacy",
+          "incident_description": "Morning rain delayed the SPC insulin (Human 30/70) delivery; ward stock will last only till evening. Please follow up with the courier and arrange temporary drawdown from buffer stock.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-05",
+          "time": "01:10 PM",
+          "reporter_role": "Lab Technologist - Haematology",
+          "incident_description": "Eight sleeves of lavender-top EDTA tubes failed vacuum on QC; same lot differs from the delivery note. Request immediate replacement and lot reconciliation before further issue to OPD phlebotomy.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-07",
+          "time": "06:40 PM",
+          "reporter_role": "On-call Pharmacist",
+          "incident_description": "Refrigerated erythropoietin consignment arrived late during evening rain; ice packs partly melted and logger not downloaded. Supply to verify temperature records and decide accept/return urgently.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-07",
+          "time": "08:25 AM",
+          "reporter_role": "Theatre Matron - OT",
+          "incident_description": "Sterile gloves delivered today are short of size 6.0; wrong size mix in three cartons. Please swap with correct sizes before first list starts.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-08",
+          "time": "10:45 AM",
+          "reporter_role": "MO - Radiology",
+          "incident_description": "Iohexol 350 mg I/ml (100 ml) lot expiring end-Jan; our usage is low. Request redistribution to CT in Theatre/ICU and adjustment in inventory to avoid expiry.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-12-09",
+          "time": "09:15 AM",
+          "reporter_role": "Sister - Paediatric Ward",
+          "incident_description": "Neonatal nasal prongs (premie size) stockout; morning delivery delayed after light rain. Please release from reserve and place urgent order to MSD.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-11",
+          "time": "03:30 PM",
+          "reporter_role": "Stores Keeper - Surgical Stores",
+          "incident_description": "Metal clips on wound dressing sets show rust specks after today’s damp conditions. Quarantining 4 cartons; need vendor inspection and immediate replacement.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-11",
+          "time": "11:55 AM",
+          "reporter_role": "Consultant Anaesthetist",
+          "incident_description": "Nitroglycerin 50 mg/10 ml infusion vials not supplied for two cycles; theatres running on last 4 vials. Please expedite LPO or emergency procurement via SPC.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-12",
+          "time": "02:20 PM",
+          "reporter_role": "ICU Nurse",
+          "incident_description": "Enteral feeding giving sets received have non-compatible spikes with our pumps. Request immediate exchange to the specified set and correction of future orders.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-13",
+          "time": "07:10 PM",
+          "reporter_role": "Laundry Supervisor",
+          "incident_description": "Chlorine bleach drums appear weak/diluted and current stock is low; linen loads increased after evening showers. Please test concentration, reject if substandard, and deliver fresh stock.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-12-14",
+          "time": "08:05 AM",
+          "reporter_role": "Administrative Officer - OPD",
+          "incident_description": "OPD ticket and prescription paper nearing finish; morning crowd is heavy. Kindly release two reams each to counters and update routine distribution.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-12-16",
+          "time": "08:30 AM",
+          "reporter_role": "CSSD Supervisor",
+          "incident_description": "Bowie–Dick indicator sheets show pre-reaction spots, likely from humidity ingress. Need immediate replacement stock and review of storage conditions with Supply.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-16",
+          "time": "04:40 PM",
+          "reporter_role": "Stores Assistant - Main Stores",
+          "incident_description": "Downpour during unloading soaked outer cartons of 0.9% saline 1L. Request joint inspection for wicking, repacking with vendor, and fast-track replacement for damaged boxes.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-18",
+          "time": "06:50 AM",
+          "reporter_role": "Nurse - Renal Unit",
+          "incident_description": "Dialyzers F6HPS nearly out; morning sessions at risk. Please arrange urgent issue from central stores and confirm expedited procurement—backorder noted with supplier.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-12-19",
+          "time": "03:05 PM",
+          "reporter_role": "Consultant - Histopathology",
+          "incident_description": "Two formalin drums arrived with dented caps, no MSDS enclosed. Hold these and arrange compliant replacement per contract specs.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-12-21",
+          "time": "09:40 AM",
+          "reporter_role": "In-Charge - Physiotherapy Unit",
+          "incident_description": "Latex-free therabands requested; received regular latex. Please exchange with the correct item to avoid allergy issues; not urgent for today’s sessions.",
+          "urgency": "Low"
+        },
+        {
+          "date": "2025-12-22",
+          "time": "07:55 AM",
+          "reporter_role": "Administrative Officer - Facilities",
+          "incident_description": "Entrance doormats delivered wet after brief rain; surfaces are slippery and unsafe. Kindly replace immediately and take up quality with vendor.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-23",
+          "time": "10:20 AM",
+          "reporter_role": "Consultant Paediatrician",
+          "incident_description": "NMRA recall notice received for Vitamin K 1 mg ampoules (specific lot). Please quarantine all stock, trace usage to wards/OPD, and initiate return via vendor/MSD.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-12-25",
+          "time": "11:10 AM",
+          "reporter_role": "MO - Paediatrics OPD",
+          "incident_description": "Small nebulizer masks finished during holiday clinic; medium sizes unsuitable for infants. Request immediate release from reserve and adjust ward allocations.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-27",
+          "time": "02:35 PM",
+          "reporter_role": "Ward Clerk - Orthopaedic Ward",
+          "incident_description": "New Plaster of Paris bandage brand setting inconsistently; splints taking too long to harden. Please revert to the approved supplier and replace current stock.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-12-28",
+          "time": "09:25 AM",
+          "reporter_role": "MO - ICU",
+          "incident_description": "ETT 7.0/7.5 shortage and several peel-packs lifting at edges in today’s humidity; sterility in doubt. Quarantine affected batch and arrange urgent replacement.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-12-28",
+          "time": "01:50 PM",
+          "reporter_role": "Pharmacy Intern - Inpatient",
+          "incident_description": "Glucometer strips (Lot 4X) repeatedly failing control in high humidity; risk of inaccurate readings. Hold dispensing and obtain immediate vendor replacement/credit.",
+          "urgency": "High"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,135 @@
+[
+  {
+    "department_name": "Reception",
+    "nature": "A non-clinical, administrative department serving as the primary entry point for the hospital, responsible for initial patient contact, registration, information dissemination, and coordinating visitor flow.",
+    "responsibilities": [
+      "Greet and direct patients, visitors, and vendors to their appropriate destinations within the facility.",
+      "Manage patient registration, demographic data entry, and initial intake processes.",
+      "Operate the main hospital switchboard, routing calls to appropriate wards, departments, or staff.",
+      "Coordinate with triage and emergency departments to alert them of incoming critical patients.",
+      "Provide general administrative support, including handling initial insurance verifications and visitor inquiries."
+    ]
+  },
+  {
+    "department_name": "Transport",
+    "nature": "An operational and clinical-support department responsible for the safe, timely, and efficient movement of patients, specialized medical equipment, and emergency medical personnel via ambulance services.",
+    "responsibilities": [
+      "Dispatch and operate emergency and non-emergency ambulance services for patient transfer and pre-hospital care.",
+      "Safely transport patients between hospital wards, operating theaters, and diagnostic imaging centers.",
+      "Ensure the regular maintenance, sanitization, and operational readiness of the hospital's entire vehicle fleet.",
+      "Transport critical medical supplies, laboratory specimens, and blood products securely across different facility wings.",
+      "Assist nursing and clinical staff with the physical transfer of patients using wheelchairs, stretchers, and specialized mobility aids."
+    ]
+  },
+  {
+    "department_name": "Dietary and Food Services",
+    "nature": "An allied health and operational department dedicated to planning, preparing, and delivering nutritionally appropriate meals to patients based on clinical requirements, while also managing cafeteria services for staff and visitors.",
+    "responsibilities": [
+      "Prepare and deliver therapeutic and medically prescribed diets (e.g., diabetic, low-sodium, liquid) in coordination with clinical dietitians.",
+      "Maintain strict compliance with food safety, sanitation, and hygiene regulations during food preparation and storage.",
+      "Accommodate specific patient dietary restrictions, severe allergies, and religious or cultural food preferences.",
+      "Manage the procurement, inventory tracking, and proper storage of all food supplies and nutritional supplements.",
+      "Operate and manage the hospital cafeteria and any associated catering services for hospital staff and visiting guests."
+    ]
+  },
+  {
+    "department_name": "Facility Management",
+    "nature": "A non-clinical, operational department responsible for ensuring the hospital's physical infrastructure is safe, functional, and compliant with building codes.",
+    "responsibilities": [
+      "Maintain building infrastructure, including structural repairs and renovations.",
+      "Manage HVAC systems to ensure proper ventilation and climate control.",
+      "Ensure uninterrupted power supply, including backup generators.",
+      "Maintain plumbing and medical gas delivery systems.",
+      "Oversee fire safety systems and physical hazard mitigation."
+    ]
+  },
+  {
+    "department_name": "Biomedical Engineering",
+    "nature": "A technical support department bridging engineering and healthcare, tasked with the lifecycle management of medical technology and devices.",
+    "responsibilities": [
+      "Install, calibrate, and test new medical equipment.",
+      "Perform routine preventative maintenance on all medical devices.",
+      "Repair malfunctioning equipment (e.g., MRI machines, patient monitors, ventilators).",
+      "Ensure all clinical equipment meets safety and electrical standards.",
+      "Advise hospital administration on the procurement of new medical technology."
+    ]
+  },
+  {
+    "department_name": "Housekeeping Department",
+    "nature": "An essential support service dedicated to maintaining a clean, sanitary, and aesthetically pleasing environment to prevent healthcare-associated infections.",
+    "responsibilities": [
+      "Clean and sanitize patient rooms, waiting areas, and clinical spaces.",
+      "Handle the safe segregation, collection, and disposal of biomedical waste.",
+      "Perform deep cleaning and sterilization of isolation rooms.",
+      "Provide hospital laundry services for bed linens, scrubs, and gowns.",
+      "Support overall infection control protocols established by the hospital."
+    ]
+  },
+  {
+    "department_name": "Supply Department",
+    "nature": "The logistical and supply chain backbone of the hospital, ensuring that all clinical and non-clinical areas have the necessary materials to function seamlessly.",
+    "responsibilities": [
+      "Procure medical supplies, pharmaceuticals, and general hospital goods.",
+      "Manage inventory levels to prevent stockouts of critical life-saving items.",
+      "Distribute supplies to various wards and departments.",
+      "Negotiate contracts and manage relationships with external vendors.",
+      "Track supply expiration dates and manage product recalls."
+    ]
+  },
+  {
+    "department_name": "Security",
+    "nature": "A protective service department responsible for maintaining a safe and secure environment for patients, staff, visitors, and hospital assets.",
+    "responsibilities": [
+      "Monitor entrances, exits, and CCTV camera systems.",
+      "De-escalate aggressive behavior and manage unruly individuals.",
+      "Respond to internal emergency codes (e.g., infant abduction, active threats).",
+      "Prevent theft of hospital property, drugs, and personal belongings.",
+      "Provide after-hours escorts for staff and enforce visiting hours."
+    ]
+  },
+  {
+    "department_name": "IT",
+    "nature": "A critical technical and operational hub responsible for managing the hospital's overarching Hospital Information System (HIS), ensuring seamless digital integration across all departments, alongside maintaining core hardware infrastructure and robust data security.",
+    "responsibilities": [
+      "Oversee the deployment, integration, and continuous maintenance of the Hospital Information System (HIS), ensuring smooth communication between clinical modules (like EHR, PACS, and Lab Systems) and administrative modules (Billing, HR, Inventory).",
+      "Administer strict user access controls, roles, and permissions within the HIS to safeguard sensitive patient health data and ensure regulatory compliance (e.g., HIPAA).",
+      "Provide specialized IT Helpdesk support and ongoing training for hospital staff to ensure efficient utilization of the various HIS modules and related hardware.",
+      "Manage and monitor the hospital-wide network infrastructure, servers, and communication systems that are vital for keeping the HIS operational 24/7 without latency.",
+      "Execute comprehensive data backup, archiving, and robust disaster recovery protocols to ensure zero downtime and protect critical hospital databases from cyber threats or system failures.",
+      "Coordinate with software vendors and department heads to implement routine HIS updates, patch security vulnerabilities, and integrate new medical technologies into the existing network."
+    ]
+  },
+  {
+    "department_name": "Finance and Account",
+    "nature": "The administrative backbone managing the economic health, revenue cycle, and daily monetary operations of the healthcare facility.",
+    "responsibilities": [
+      "Generate patient bills and process payments.",
+      "Submit and manage claims with health insurance companies and government programs.",
+      "Process hospital staff payroll and benefits compensation.",
+      "Manage accounts payable (vendor payments) and accounts receivable.",
+      "Prepare departmental budgets, financial forecasts, and audit reports."
+    ]
+  },
+  {
+    "department_name": "Human Resources",
+    "nature": "An administrative department focused on the recruitment, credentialing, management, and well-being of the hospital's workforce.",
+    "responsibilities": [
+      "Recruit, interview, and onboard doctors, nurses, and administrative staff.",
+      "Verify medical licenses, credentials, and background checks.",
+      "Manage employee benefits, leave requests, and performance evaluations.",
+      "Mediate workplace conflicts and ensure compliance with labor laws.",
+      "Organize continuous education and staff training programs."
+    ]
+  },
+  {
+    "department_name": "Quality Assurance department",
+    "nature": "An evaluative and regulatory body focused on continuous improvement, patient safety, and ensuring the hospital meets strict healthcare standards.",
+    "responsibilities": [
+      "Conduct internal audits of clinical and operational procedures.",
+      "Investigate medical errors, adverse events, and patient complaints.",
+      "Ensure compliance with local health regulations and accreditation bodies.",
+      "Develop and implement hospital-wide quality improvement initiatives.",
+      "Monitor clinical outcomes and patient satisfaction metrics."
+    ]
+  }
+]

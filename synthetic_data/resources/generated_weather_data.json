@@ -1,0 +1,1522 @@
+[
+    {
+        "month": "January",
+        "weather_data": [
+            {
+                "date": 1,
+                "weather_summary": "Morning: Clear and pleasantly fresh; Afternoon: Sunny, warm, gentle sea breeze; Evening: Clear, mild, lower humidity."
+            },
+            {
+                "date": 2,
+                "weather_summary": "Morning: Sunny with a light northeast breeze; Afternoon: Bright and warm, little cloud; Evening: Calm, comfortably mild and dry."
+            },
+            {
+                "date": 3,
+                "weather_summary": "Morning: Cloudy with a brief spell of light rain; Afternoon: Skies clearing, warm with a breeze; Evening: Mostly clear, mild and dry."
+            },
+            {
+                "date": 4,
+                "weather_summary": "Morning: Bright and crisp by local standards; Afternoon: Sunny, warm, hazy horizons; Evening: Clear, comfortable, light breeze."
+            },
+            {
+                "date": 5,
+                "weather_summary": "Morning: Sunny and dry; Afternoon: Strong sun, warm, sea breeze moderates heat; Evening: Clear and pleasant."
+            },
+            {
+                "date": 6,
+                "weather_summary": "Morning: Sunny with a gentle breeze; Afternoon: Warm, mostly clear skies; Evening: Mild with patchy clouds."
+            },
+            {
+                "date": 7,
+                "weather_summary": "Morning: Mostly sunny, slightly hazy; Afternoon: Warm with scattered clouds; Evening: Clear, comfortable night."
+            },
+            {
+                "date": 8,
+                "weather_summary": "Morning: Sunny and fresh; Afternoon: Warm with a short spell of rain; Evening: Partly cloudy, turning dry and mild."
+            },
+            {
+                "date": 9,
+                "weather_summary": "Morning: Clear skies and low humidity; Afternoon: Bright, warm, gentle sea breeze; Evening: Mostly clear, pleasant."
+            },
+            {
+                "date": 10,
+                "weather_summary": "Morning: Sunny with thin haze; Afternoon: Warm, mostly clear, breezy; Evening: Clear and comfortable."
+            },
+            {
+                "date": 11,
+                "weather_summary": "Morning: Hazy sunshine, light breeze; Afternoon: Warm and bright; Evening: Clear, mild, low humidity."
+            },
+            {
+                "date": 12,
+                "weather_summary": "Morning: Sunny and dry; Afternoon: Warm with a steady sea breeze; Evening: Clear and comfortable."
+            },
+            {
+                "date": 13,
+                "weather_summary": "Morning: Bright start with few clouds; Afternoon: Warm and a bit humid; Evening: A brief spell of rain, then partly cloudy."
+            },
+            {
+                "date": 14,
+                "weather_summary": "Morning: Sunny and pleasant; Afternoon: Bright, warm, gentle breeze; Evening: Clear and mild."
+            },
+            {
+                "date": 15,
+                "weather_summary": "Morning: Clear and fresh; Afternoon: Strong sun, warm, low humidity; Evening: Calm, dry, comfortable."
+            },
+            {
+                "date": 16,
+                "weather_summary": "Morning: Sunny, slightly hazy; Afternoon: Warm with scattered clouds; Evening: Mostly clear and mild."
+            },
+            {
+                "date": 17,
+                "weather_summary": "Morning: Bright with a light breeze; Afternoon: Warm, mostly sunny; Evening: Clear, comfortable conditions."
+            },
+            {
+                "date": 18,
+                "weather_summary": "Morning: Sunny and dry; Afternoon: Warm, hazy horizons; Evening: Mild with clear skies."
+            },
+            {
+                "date": 19,
+                "weather_summary": "Morning: Overcast with passing light rain; Afternoon: Partly sunny, warm, breezy; Evening: Clear, slightly cooler and dry."
+            },
+            {
+                "date": 20,
+                "weather_summary": "Morning: Sunny and pleasant; Afternoon: Warm, bright, gentle sea breeze; Evening: Clear, mild night."
+            },
+            {
+                "date": 21,
+                "weather_summary": "Morning: Clear with low humidity; Afternoon: Warm, mostly sunny; Evening: Calm, comfortable and dry."
+            },
+            {
+                "date": 22,
+                "weather_summary": "Morning: Sunny with a light northeast breeze; Afternoon: Warm, a few drifting clouds; Evening: Clear and mild."
+            },
+            {
+                "date": 23,
+                "weather_summary": "Morning: Bright and fresh; Afternoon: Warm, strong sun, breezy; Evening: Clear, comfortable."
+            },
+            {
+                "date": 24,
+                "weather_summary": "Morning: Sunny and dry; Afternoon: Warm, mostly clear skies; Evening: Mild with light breeze."
+            },
+            {
+                "date": 25,
+                "weather_summary": "Morning: Sunny, slightly hazy; Afternoon: Warm, noticeable sea breeze; Evening: Clear, comfortable."
+            },
+            {
+                "date": 26,
+                "weather_summary": "Morning: Bright with thin cloud; Afternoon: Warm, mostly sunny; Evening: Clear and mild."
+            },
+            {
+                "date": 27,
+                "weather_summary": "Morning: Misty early, then sunny; Afternoon: Warm, gentle breeze; Evening: Clear, pleasant conditions."
+            },
+            {
+                "date": 28,
+                "weather_summary": "Morning: Sunny and fresh; Afternoon: Warm with light rain developing; Evening: Cloudy with lingering light rain, turning mild."
+            },
+            {
+                "date": 29,
+                "weather_summary": "Morning: Bright and dry; Afternoon: Warm, mostly sunny; Evening: Clear and comfortable."
+            },
+            {
+                "date": 30,
+                "weather_summary": "Morning: Sunny with low humidity; Afternoon: Warm, breezy and bright; Evening: Clear, mild night."
+            },
+            {
+                "date": 31,
+                "weather_summary": "Morning: Clear blue skies; Afternoon: Warm, gentle sea breeze; Evening: Calm, pleasant and dry."
+            }
+        ]
+    },
+    {
+        "month": "February",
+        "weather_data": [
+            {
+                "date": 1,
+                "weather_summary": "Morning sunny and calm; Afternoon hot and bright with a light sea breeze; Evening warm and mostly clear."
+            },
+            {
+                "date": 2,
+                "weather_summary": "Morning hazy sunshine; Afternoon very warm, breezy along the coast; Evening clear and humid."
+            },
+            {
+                "date": 3,
+                "weather_summary": "Morning sunny; Afternoon hot with building cloud and brief rain in a few areas; Evening partly cloudy and warm."
+            },
+            {
+                "date": 4,
+                "weather_summary": "Morning bright and calm; Afternoon hot with a dry breeze; Evening clear with lingering warmth."
+            },
+            {
+                "date": 5,
+                "weather_summary": "Morning sunny with slight haze; Afternoon hot and dry under strong sun; Evening mostly clear with a light breeze."
+            },
+            {
+                "date": 6,
+                "weather_summary": "Morning fair skies; Afternoon hot, a bit breezy near the coast; Evening clear and humid."
+            },
+            {
+                "date": 7,
+                "weather_summary": "Morning sunny and calm; Afternoon very warm with patchy cloud; Evening clear with a gentle coastal breeze."
+            },
+            {
+                "date": 8,
+                "weather_summary": "Morning bright; Afternoon hot and humid; Evening light rain in parts of the city, then clearing."
+            },
+            {
+                "date": 9,
+                "weather_summary": "Morning sunny; Afternoon hot with a dry feel; Evening clear and warm."
+            },
+            {
+                "date": 10,
+                "weather_summary": "Morning hazy sunshine; Afternoon hot with a light sea breeze; Evening mostly clear and muggy."
+            },
+            {
+                "date": 11,
+                "weather_summary": "Morning bright and calm; Afternoon hot with thin clouds at times; Evening clear with a gentle breeze."
+            },
+            {
+                "date": 12,
+                "weather_summary": "Morning sunny; Afternoon very warm, UV high; Evening warm and mostly clear."
+            },
+            {
+                "date": 13,
+                "weather_summary": "Morning fair with slight haze; Afternoon hot and breezy; Evening clear and humid."
+            },
+            {
+                "date": 14,
+                "weather_summary": "Morning sunny; Afternoon thundery rain in a few spots, otherwise hot; Evening partly cloudy and warm."
+            },
+            {
+                "date": 15,
+                "weather_summary": "Morning clear and calm; Afternoon hot and bright; Evening clear with a light breeze."
+            },
+            {
+                "date": 16,
+                "weather_summary": "Morning sunny; Afternoon very warm with a dry breeze; Evening mostly clear and muggy."
+            },
+            {
+                "date": 17,
+                "weather_summary": "Morning hazy start; Afternoon hot with patchy cloud; Evening clear and warm."
+            },
+            {
+                "date": 18,
+                "weather_summary": "Morning bright; Afternoon hot, sea breeze offers slight relief; Evening clear and humid."
+            },
+            {
+                "date": 19,
+                "weather_summary": "Morning sunny and calm; Afternoon hot and dry; Evening clear with a gentle breeze."
+            },
+            {
+                "date": 20,
+                "weather_summary": "Morning passing light rain along the coast; Afternoon hot and bright; Evening mostly clear and humid."
+            },
+            {
+                "date": 21,
+                "weather_summary": "Morning sunny; Afternoon very warm and a bit breezy; Evening clear and warm."
+            },
+            {
+                "date": 22,
+                "weather_summary": "Morning hazy sunshine; Afternoon hot with thin clouds; Evening clear with a coastal breeze."
+            },
+            {
+                "date": 23,
+                "weather_summary": "Morning bright and calm; Afternoon hot and dry; Evening mostly clear and warm."
+            },
+            {
+                "date": 24,
+                "weather_summary": "Morning sunny; Afternoon hot and humid; Evening clear and muggy."
+            },
+            {
+                "date": 25,
+                "weather_summary": "Morning fair skies; Afternoon very warm with patchy cloud; Evening clear with a light breeze."
+            },
+            {
+                "date": 26,
+                "weather_summary": "Morning sunny; Afternoon hot and bright; Evening brief rain with a gusty breeze, then clearing."
+            },
+            {
+                "date": 27,
+                "weather_summary": "Morning bright; Afternoon hot with a dry feel; Evening clear and humid."
+            },
+            {
+                "date": 28,
+                "weather_summary": "Morning sunny and calm; Afternoon very warm with a sea breeze; Evening mostly clear and warm."
+            }
+        ]
+    },
+    {
+        "month": "March",
+        "weather_data": [
+            {
+                "date": 1,
+                "weather_summary": "Morning: Mostly clear and humid. Afternoon: Hot with a gentle sea breeze and building clouds. Evening: Warm, partly cloudy, and muggy."
+            },
+            {
+                "date": 2,
+                "weather_summary": "Morning: Hazy sunshine and humid. Afternoon: Very hot, clouds bubble up. Evening: Warm and calm with patchy clouds."
+            },
+            {
+                "date": 3,
+                "weather_summary": "Morning: Sunny and sticky. Afternoon: Thunderstorm develops with brief heavy rain and gusty wind. Evening: Damp with cloudy breaks and lingering thunder."
+            },
+            {
+                "date": 4,
+                "weather_summary": "Morning: Bright and humid. Afternoon: Hot with a sea breeze, clouds towering inland. Evening: Warm and partly cloudy."
+            },
+            {
+                "date": 5,
+                "weather_summary": "Morning: Sunny and muggy. Afternoon: Hot with increasing clouds. Evening: Thunder and rain in places, then humid."
+            },
+            {
+                "date": 6,
+                "weather_summary": "Morning: Hazy sun and humid. Afternoon: Very hot, clouds but dry. Evening: Warm with light breeze and scattered clouds."
+            },
+            {
+                "date": 7,
+                "weather_summary": "Morning: Mostly sunny and sticky. Afternoon: Hot with a sea breeze, clouds stay inland. Evening: Humid and partly cloudy."
+            },
+            {
+                "date": 8,
+                "weather_summary": "Morning: Bright and humid. Afternoon: Heat triggers a thunderstorm with brief heavy rain. Evening: Cloudy at first, then warm and damp."
+            },
+            {
+                "date": 9,
+                "weather_summary": "Morning: Sunny with light haze. Afternoon: Hot, clouds build but stay dry. Evening: Warm and humid under patchy cloud."
+            },
+            {
+                "date": 10,
+                "weather_summary": "Morning: Sunny and sticky. Afternoon: Very hot with a sea breeze. Evening: Partly cloudy and humid."
+            },
+            {
+                "date": 11,
+                "weather_summary": "Morning: Humid start with hazy sunshine. Afternoon: Hot, towering clouds drift inland. Evening: Warm, mostly dry and muggy."
+            },
+            {
+                "date": 12,
+                "weather_summary": "Morning: Sunny and sultry. Afternoon: Thunder and rain move through parts of the city. Evening: Damp, easing to warm and cloudy."
+            },
+            {
+                "date": 13,
+                "weather_summary": "Morning: Bright and humid. Afternoon: Hot with a sea breeze; clouds build. Evening: Warm, partly cloudy, and calm."
+            },
+            {
+                "date": 14,
+                "weather_summary": "Morning: Hazy sun and humid. Afternoon: Very hot, patchy cloud. Evening: Warm with light breeze."
+            },
+            {
+                "date": 15,
+                "weather_summary": "Morning: Mostly sunny and sticky. Afternoon: Hot, clouds but dry. Evening: Humid and partly cloudy."
+            },
+            {
+                "date": 16,
+                "weather_summary": "Morning: Sunny and humid. Afternoon: Clouds thicken; late thunder with heavy rain in spots. Evening: Wet at first, then warm and cloudy."
+            },
+            {
+                "date": 17,
+                "weather_summary": "Morning: Bright and muggy. Afternoon: Hot with a sea breeze, clouds towering. Evening: Warm, partly cloudy, and humid."
+            },
+            {
+                "date": 18,
+                "weather_summary": "Morning: Sunny and humid. Afternoon: Very hot; haze lingers. Evening: Warm and calm under thin cloud."
+            },
+            {
+                "date": 19,
+                "weather_summary": "Morning: Sunny and sticky. Afternoon: Thunderstorm brings brief rain and gusty wind. Evening: Damp, turning warm and cloudy."
+            },
+            {
+                "date": 20,
+                "weather_summary": "Morning: Hazy sunshine and humid. Afternoon: Hot with a sea breeze, mostly dry. Evening: Warm and muggy."
+            },
+            {
+                "date": 21,
+                "weather_summary": "Morning: Bright and sticky. Afternoon: Hot; clouds drift inland. Evening: Warm, partly cloudy."
+            },
+            {
+                "date": 22,
+                "weather_summary": "Morning: Sunny and humid. Afternoon: Heat sparks thunder and a burst of rain. Evening: Cloudy and damp, then muggy."
+            },
+            {
+                "date": 23,
+                "weather_summary": "Morning: Hazy sun and humid. Afternoon: Very hot with a sea breeze. Evening: Warm, mostly cloudy, and dry."
+            },
+            {
+                "date": 24,
+                "weather_summary": "Morning: Mostly sunny and sticky. Afternoon: Hot, clouds but dry. Evening: Warm and humid with patchy clouds."
+            },
+            {
+                "date": 25,
+                "weather_summary": "Morning: Bright and humid. Afternoon: Very hot, slight haze. Evening: Warm, calm, and partly cloudy."
+            },
+            {
+                "date": 26,
+                "weather_summary": "Morning: Cloudy with light rain in a few areas. Afternoon: Hot, turning partly sunny with a sea breeze. Evening: Warm, humid, and mostly dry."
+            },
+            {
+                "date": 27,
+                "weather_summary": "Morning: Sunny and sticky. Afternoon: Very hot with building clouds. Evening: Warm and partly cloudy."
+            },
+            {
+                "date": 28,
+                "weather_summary": "Morning: Bright and humid. Afternoon: Hot; haze and clouds linger. Evening: Warm, calm, and muggy."
+            },
+            {
+                "date": 29,
+                "weather_summary": "Morning: Hazy sunshine and humid. Afternoon: Very hot, clouds but dry. Evening: Warm under patchy cloud."
+            },
+            {
+                "date": 30,
+                "weather_summary": "Morning: Sunny and sultry. Afternoon: Thunderstorm with heavy rain in parts of the city. Evening: Damp, turning warm and cloudy."
+            },
+            {
+                "date": 31,
+                "weather_summary": "Morning: Bright and humid. Afternoon: Hot with a sea breeze; clouds stay inland. Evening: Warm, partly cloudy, and muggy."
+            }
+        ]
+    },
+    {
+        "month": "April",
+        "weather_data": [
+            {
+                "date": 1,
+                "weather_summary": "Morning: hot and humid with hazy sun; Afternoon: very warm with a light sea breeze; Evening: partly cloudy and warm."
+            },
+            {
+                "date": 2,
+                "weather_summary": "Morning: sticky and mostly sunny; Afternoon: towering clouds and oppressive heat; Evening: thunderstorm with brief heavy rain and lightning."
+            },
+            {
+                "date": 3,
+                "weather_summary": "Morning: bright and muggy; Afternoon: hot with a gentle sea breeze; Evening: warm with patchy clouds."
+            },
+            {
+                "date": 4,
+                "weather_summary": "Morning: humid with some high cloud; Afternoon: thunderstorm brings heavy rain and gusty winds; Evening: damp with clouds breaking."
+            },
+            {
+                "date": 5,
+                "weather_summary": "Morning: hazy sun and uncomfortable humidity; Afternoon: hot with slight breeze; Evening: warm and calm."
+            },
+            {
+                "date": 6,
+                "weather_summary": "Morning: muggy with sunny breaks; Afternoon: clouds build and heat index high; Evening: late thunderstorm with intense rain, easing near midnight."
+            },
+            {
+                "date": 7,
+                "weather_summary": "Morning: sunny spells and sticky air; Afternoon: very warm with a light coastal breeze; Evening: partly cloudy and sultry."
+            },
+            {
+                "date": 8,
+                "weather_summary": "Morning: humid with filtered sun; Afternoon: thunderstorm develops with a brief downpour; Evening: lingering light rain, turning cloudy."
+            },
+            {
+                "date": 9,
+                "weather_summary": "Morning: bright and steamy; Afternoon: hot under hazy skies; Evening: warm as clouds thin."
+            },
+            {
+                "date": 10,
+                "weather_summary": "Morning: warm and humid with limited breeze; Afternoon: increasing clouds and heat; Evening: thunderstorms with heavy rain and frequent lightning."
+            },
+            {
+                "date": 11,
+                "weather_summary": "Morning: sunny and muggy; Afternoon: hot with a brisk sea breeze; Evening: warm and mostly clear."
+            },
+            {
+                "date": 12,
+                "weather_summary": "Morning: humid with early haze; Afternoon: thunderstorm brings heavy rain and gusty winds; Evening: slightly cooler feel with lingering cloud."
+            },
+            {
+                "date": 13,
+                "weather_summary": "Morning: bright and sultry; Afternoon: very hot with a slight breeze; Evening: partly cloudy and humid."
+            },
+            {
+                "date": 14,
+                "weather_summary": "Morning: warm and humid with sunny breaks; Afternoon: towering clouds with rising heat; Evening: thunderstorm and a short spell of heavy rain."
+            },
+            {
+                "date": 15,
+                "weather_summary": "Morning: sticky start with haze; Afternoon: widespread rain with thunder and brief gusts; Evening: damp with clouds thinning."
+            },
+            {
+                "date": 16,
+                "weather_summary": "Morning: sunny and steamy; Afternoon: hot with a light breeze; Evening: warm and partly cloudy."
+            },
+            {
+                "date": 17,
+                "weather_summary": "Morning: humid with hazy sun; Afternoon: very warm and heavy air; Evening: calm with some high cloud."
+            },
+            {
+                "date": 18,
+                "weather_summary": "Morning: muggy with sunny intervals; Afternoon: clouds build and conditions oppressive; Evening: thunderstorm with heavy rain, winds easing later."
+            },
+            {
+                "date": 19,
+                "weather_summary": "Morning: bright and sticky; Afternoon: hot with a slight sea breeze; Evening: warm with scattered clouds."
+            },
+            {
+                "date": 20,
+                "weather_summary": "Morning: humid with brief sunny spells; Afternoon: thunderstorm with heavy rain and lightning; Evening: lingering light rain and very humid."
+            },
+            {
+                "date": 21,
+                "weather_summary": "Morning: hazy sun and steamy air; Afternoon: hot with a steady sea breeze; Evening: mostly clear and warm."
+            },
+            {
+                "date": 22,
+                "weather_summary": "Morning: warm and humid with sunny breaks; Afternoon: clouds thicken as heat builds; Evening: thunderstorm and heavy rain, isolated thunder late."
+            },
+            {
+                "date": 23,
+                "weather_summary": "Morning: bright and muggy; Afternoon: very warm with hazy skies; Evening: warm and partly cloudy."
+            },
+            {
+                "date": 24,
+                "weather_summary": "Morning: humid with thin cloud; Afternoon: rain with thunder and brief strong gusts; Evening: overcast and sticky."
+            },
+            {
+                "date": 25,
+                "weather_summary": "Morning: sunny and humid; Afternoon: hot with a sea breeze giving slight relief; Evening: warm with a few clouds."
+            },
+            {
+                "date": 26,
+                "weather_summary": "Morning: hazy sun and a steamy start; Afternoon: very warm with a light breeze; Evening: calm and humid under broken cloud."
+            },
+            {
+                "date": 27,
+                "weather_summary": "Morning: muggy with sunny intervals; Afternoon: towering clouds and oppressive heat; Evening: late thunderstorm with intense rain, clearing later."
+            },
+            {
+                "date": 28,
+                "weather_summary": "Morning: bright and sticky; Afternoon: hot with a light coastal breeze; Evening: warm and partly cloudy."
+            },
+            {
+                "date": 29,
+                "weather_summary": "Morning: humid with early haze; Afternoon: widespread thunderstorm bringing heavy rain; Evening: damp and cloudy with high humidity."
+            },
+            {
+                "date": 30,
+                "weather_summary": "Morning: sunny spells and very humid; Afternoon: hot with hazy skies; Evening: warm and mostly clear."
+            }
+        ]
+    },
+    {
+        "month": "May",
+        "weather_data": [
+            {
+                "date": 1,
+                "weather_summary": "Morning: Overcast and humid with light rain. Afternoon: Heavy downpour with thunder and gusty southwesterly winds. Evening: Lingering drizzle and breezy."
+            },
+            {
+                "date": 2,
+                "weather_summary": "Morning: Cloudy with a brisk sea breeze. Afternoon: Intermittent rain and occasional thunder. Evening: Steady rain tapers, roads wet."
+            },
+            {
+                "date": 3,
+                "weather_summary": "Morning: Brief bright spell then rain sets in. Afternoon: Torrential monsoon rain, local flooding risk. Evening: Cloudy with patchy rain and rough seas."
+            },
+            {
+                "date": 4,
+                "weather_summary": "Morning: Cloudy and muggy. Afternoon: Overcast with strong sea breeze, stays dry inland. Evening: Low clouds and humid, no rain."
+            },
+            {
+                "date": 5,
+                "weather_summary": "Morning: Calm then light rain develops. Afternoon: Thunder with an intense downpour. Evening: Breezy with scattered drizzle near the coast."
+            },
+            {
+                "date": 6,
+                "weather_summary": "Morning: Grey skies with periods of rain. Afternoon: Squally winds and heavy rain. Evening: Easing to cloudy and damp."
+            },
+            {
+                "date": 7,
+                "weather_summary": "Morning: Partly cloudy with hazy sun. Afternoon: Breezy and humid, dry. Evening: Overcast but rain holds off."
+            },
+            {
+                "date": 8,
+                "weather_summary": "Morning: Windy with sea spray and brief coastal rain. Afternoon: Widespread rain with thunder. Evening: Cloudy with occasional light rain."
+            },
+            {
+                "date": 9,
+                "weather_summary": "Morning: Overcast with steady rain. Afternoon: Rain continues with bursts of thunder. Evening: Drizzle fading, still breezy."
+            },
+            {
+                "date": 10,
+                "weather_summary": "Morning: Sunnier intervals. Afternoon: Cloudy with a strong sea breeze, dry. Evening: Warm, humid, and rain-free."
+            },
+            {
+                "date": 11,
+                "weather_summary": "Morning: Muggy with light rain at times. Afternoon: Heavy downpour and gusty winds. Evening: Cloudy with residual light rain."
+            },
+            {
+                "date": 12,
+                "weather_summary": "Morning: Cloudy and breezy. Afternoon: Overcast and humid, remains dry. Evening: Low clouds and patchy mist, dry."
+            },
+            {
+                "date": 13,
+                "weather_summary": "Morning: Gloomy with intermittent rain. Afternoon: Thunder and intense rain; waterlogging in spots. Evening: Windy as rain diminishes."
+            },
+            {
+                "date": 14,
+                "weather_summary": "Morning: Filtered sun and humid. Afternoon: Thick clouds with sea breeze, stays dry. Evening: Cloudy and warm."
+            },
+            {
+                "date": 15,
+                "weather_summary": "Morning: Mostly cloudy with brief rain. Afternoon: Prolonged rain with thunder. Evening: Cloudy with occasional drizzle."
+            },
+            {
+                "date": 16,
+                "weather_summary": "Morning: Partly cloudy and sticky. Afternoon: Breezy with coastal spray, dry inland. Evening: Overcast, no rain."
+            },
+            {
+                "date": 17,
+                "weather_summary": "Morning: Grey with early rain. Afternoon: Squally line of storms bringing heavy rain. Evening: Windy with light rain lingering."
+            },
+            {
+                "date": 18,
+                "weather_summary": "Morning: Sunny intervals. Afternoon: Clouding over with strong breeze, dry. Evening: Cloudy and humid."
+            },
+            {
+                "date": 19,
+                "weather_summary": "Morning: Cloudy with intermittent light rain. Afternoon: Heavy rain and thunder. Evening: Damp and breezy with patchy rain."
+            },
+            {
+                "date": 20,
+                "weather_summary": "Morning: Hazy sun. Afternoon: Overcast and gusty; rain stays offshore. Evening: Cloudy and dry."
+            },
+            {
+                "date": 21,
+                "weather_summary": "Morning: Humid and cloudy with light rain. Afternoon: Widespread rain with occasional thunder. Evening: Breezy with drizzle at times."
+            },
+            {
+                "date": 22,
+                "weather_summary": "Morning: Cloud breaks at times. Afternoon: Windy from the southwest, dry. Evening: Overcast, muggy, no rain."
+            },
+            {
+                "date": 23,
+                "weather_summary": "Morning: Overcast with early rain. Afternoon: Another burst of heavy rain and thunder. Evening: Cloudy with light rain tapering."
+            },
+            {
+                "date": 24,
+                "weather_summary": "Morning: Partly sunny and humid. Afternoon: Thick clouds and strong sea breeze, dry. Evening: Cloud deck persists, dry."
+            },
+            {
+                "date": 25,
+                "weather_summary": "Morning: Breezy with coastal rain. Afternoon: Intense downpour; frequent thunder. Evening: Damp with occasional drizzle."
+            },
+            {
+                "date": 26,
+                "weather_summary": "Morning: Cloudy and sticky. Afternoon: Windy and overcast; remains dry. Evening: Cloudy and warm."
+            },
+            {
+                "date": 27,
+                "weather_summary": "Morning: Sun through haze. Afternoon: Clouds build with sea breeze, dry. Evening: Overcast, no rain."
+            },
+            {
+                "date": 28,
+                "weather_summary": "Morning: Grey with rain at times. Afternoon: Prolonged rain and gusty winds. Evening: Light rain continues; rough seas."
+            },
+            {
+                "date": 29,
+                "weather_summary": "Morning: Patchy sun. Afternoon: Cloudy and breezy, dry. Evening: Humid, cloudy, no rain."
+            },
+            {
+                "date": 30,
+                "weather_summary": "Morning: Overcast and muggy. Afternoon: Windy from the sea, dry. Evening: Clouds thicken, stays dry."
+            },
+            {
+                "date": 31,
+                "weather_summary": "Morning: Cloudy with brief bright spells. Afternoon: Fresh sea breeze, dry. Evening: Calm, humid, and rain-free."
+            }
+        ]
+    },
+    {
+        "month": "June",
+        "weather_data": [
+            {
+                "date": 1,
+                "weather_summary": "Morning: Overcast with a short heavy downpour, very windy along the coast. Afternoon: Cloudy and humid with brief light rain. Evening: Thunderclouds bring another burst of rain before easing."
+            },
+            {
+                "date": 2,
+                "weather_summary": "Morning: Cloudy and breezy. Afternoon: Hot and humid with a sudden heavy rain burst. Evening: Overcast and windy with lingering drizzle."
+            },
+            {
+                "date": 3,
+                "weather_summary": "Morning: Cloudy with brief sun, breezy. Afternoon: Overcast, humid, and very windy along the coast. Evening: Cloudy and warm with gusts."
+            },
+            {
+                "date": 4,
+                "weather_summary": "Morning: Grey and windy. Afternoon: A thunderstorm brings heavy rain in a quick spell. Evening: Overcast and damp, breezy."
+            },
+            {
+                "date": 5,
+                "weather_summary": "Morning: Partly cloudy with hazy sun. Afternoon: Overcast and gusty near the coast. Evening: Cloudy, humid, and windy."
+            },
+            {
+                "date": 6,
+                "weather_summary": "Morning: Overcast and breezy. Afternoon: Brief heavy downpour, then cloudy. Evening: Windy and overcast, sticky humidity."
+            },
+            {
+                "date": 7,
+                "weather_summary": "Morning: Cloudy with sunny breaks. Afternoon: Overcast, strong sea breeze. Evening: Cloudy and warm, no rain."
+            },
+            {
+                "date": 8,
+                "weather_summary": "Morning: Humid with a few sun breaks. Afternoon: Heavy rain with lightning in a short burst. Evening: Cloudy and damp with a fresh breeze."
+            },
+            {
+                "date": 9,
+                "weather_summary": "Morning: Early light rain under grey skies. Afternoon: Cloudy and windy along the coast. Evening: Another quick burst of rain before midnight."
+            },
+            {
+                "date": 10,
+                "weather_summary": "Morning: Mostly cloudy and breezy. Afternoon: Overcast, humid, and very windy by the shore. Evening: Cloudy and warm."
+            },
+            {
+                "date": 11,
+                "weather_summary": "Morning: Cloudy and windy. Afternoon: Intermittent rain in short heavy spells. Evening: Humid and mostly overcast, winds easing slightly."
+            },
+            {
+                "date": 12,
+                "weather_summary": "Morning: Cloudy with hazy sun. Afternoon: Overcast and gusty. Evening: Cloudy and warm, coastal winds continue."
+            },
+            {
+                "date": 13,
+                "weather_summary": "Morning: Overcast with drizzle turning into a quick downpour. Afternoon: Cloudy, windy, and humid. Evening: Mostly cloudy with a stray rumble of thunder."
+            },
+            {
+                "date": 14,
+                "weather_summary": "Morning: Partly cloudy and breezy. Afternoon: Overcast, very windy along the coast. Evening: Cloudy and warm, no rain expected."
+            },
+            {
+                "date": 15,
+                "weather_summary": "Morning: Partly cloudy with a brisk breeze. Afternoon: Strong coastal winds with a brief spell of heavy rain. Evening: Cloudy and slightly cooler, humid."
+            },
+            {
+                "date": 16,
+                "weather_summary": "Morning: Cloudy with a few sun breaks. Afternoon: Overcast, windy, and humid. Evening: Cloudy and warm, dry."
+            },
+            {
+                "date": 17,
+                "weather_summary": "Morning: Cloudy and breezy. Afternoon: Thunder and a burst of heavy rain move through. Evening: Overcast and windy, lingering dampness."
+            },
+            {
+                "date": 18,
+                "weather_summary": "Morning: Early heavy downpour and gusty winds. Afternoon: Overcast and humid. Evening: Another short spell of rain."
+            },
+            {
+                "date": 19,
+                "weather_summary": "Morning: Cloudy with hazy sun. Afternoon: Overcast and very windy along the coast. Evening: Cloudy and warm, no rain."
+            },
+            {
+                "date": 20,
+                "weather_summary": "Morning: Mostly cloudy and breezy. Afternoon: Windy with passing heavy rain from the southwest. Evening: Cloudy, sticky humidity."
+            },
+            {
+                "date": 21,
+                "weather_summary": "Morning: Cloudy with sunny breaks. Afternoon: Overcast, gusty sea breeze. Evening: Cloudy and warm."
+            },
+            {
+                "date": 22,
+                "weather_summary": "Morning: Cloudy and breezy. Afternoon: Intermittent rain with gusts, mainly near the coast. Evening: Overcast with a little light rain lingering."
+            },
+            {
+                "date": 23,
+                "weather_summary": "Morning: Partly cloudy and windy. Afternoon: Overcast and humid. Evening: Cloudy and warm, staying dry."
+            },
+            {
+                "date": 24,
+                "weather_summary": "Morning: Grey and windy. Afternoon: Heavy rain with thunder, then turning cloudy. Evening: Humid with lingering clouds and a fresh breeze."
+            },
+            {
+                "date": 25,
+                "weather_summary": "Morning: Mostly cloudy with hazy sun. Afternoon: Overcast, very windy along the shore. Evening: Cloudy and warm, no rain."
+            },
+            {
+                "date": 26,
+                "weather_summary": "Morning: Cloudy with a brisk breeze. Afternoon: A short, intense band of rain moves through. Evening: Windy and overcast, humid."
+            },
+            {
+                "date": 27,
+                "weather_summary": "Morning: Cloudy with sunny breaks. Afternoon: Overcast and gusty. Evening: Cloudy and warm, dry."
+            },
+            {
+                "date": 28,
+                "weather_summary": "Morning: Breezy with low clouds. Afternoon: A heavy downpour near the coast, then cloudy. Evening: Cloudy and humid, winds easing."
+            },
+            {
+                "date": 29,
+                "weather_summary": "Morning: Mostly cloudy and breezy. Afternoon: Overcast, humid, and windy by the sea. Evening: Cloudy and warm, dry."
+            },
+            {
+                "date": 30,
+                "weather_summary": "Morning: Cloudy with brief sun. Afternoon: Overcast and breezy along the coast. Evening: Cloudy, warm, and dry."
+            }
+        ]
+    },
+    {
+        "month": "July",
+        "weather_data": [
+            {
+                "date": 1,
+                "weather_summary": "Morning: Cloudy and humid. Afternoon: Warm with brief sun. Evening: Overcast and calm."
+            },
+            {
+                "date": 2,
+                "weather_summary": "Morning: Overcast and sticky. Afternoon: Light rain with a westerly breeze. Evening: Damp and cloudy."
+            },
+            {
+                "date": 3,
+                "weather_summary": "Morning: Mostly cloudy. Afternoon: Heavy rain with thunder in places. Evening: Drizzle under thick clouds."
+            },
+            {
+                "date": 4,
+                "weather_summary": "Morning: Low clouds. Afternoon: Breezy with brief sun. Evening: Cloudy and warm."
+            },
+            {
+                "date": 5,
+                "weather_summary": "Morning: Cloudy. Afternoon: Partly bright and humid. Evening: Cloudy and still."
+            },
+            {
+                "date": 6,
+                "weather_summary": "Morning: Gray with a sea breeze. Afternoon: Cloudy and warm. Evening: Muggy with cloud cover."
+            },
+            {
+                "date": 7,
+                "weather_summary": "Morning: Cloudy. Afternoon: Steady rain, breezy. Evening: Cloudy with wet roads."
+            },
+            {
+                "date": 8,
+                "weather_summary": "Morning: Cloudy with brief sun. Afternoon: Warm and humid. Evening: Clouds persist."
+            },
+            {
+                "date": 9,
+                "weather_summary": "Morning: Sun breaks through clouds. Afternoon: Thunderstorm and gusty wind. Evening: Lingering light rain and clouds."
+            },
+            {
+                "date": 10,
+                "weather_summary": "Morning: Overcast. Afternoon: Breezy and warm with sun intervals. Evening: Cloudy and humid."
+            },
+            {
+                "date": 11,
+                "weather_summary": "Morning: Cloudy. Afternoon: Warm with hazy sun. Evening: Calm and overcast."
+            },
+            {
+                "date": 12,
+                "weather_summary": "Morning: Light rain and low cloud. Afternoon: Cloudy with a damp breeze. Evening: Patchy drizzle."
+            },
+            {
+                "date": 13,
+                "weather_summary": "Morning: Cloudy. Afternoon: Warm with a sea breeze. Evening: Cloudy and muggy."
+            },
+            {
+                "date": 14,
+                "weather_summary": "Morning: Mostly cloudy. Afternoon: Humid with sun breaks. Evening: Rain with rumbling thunder."
+            },
+            {
+                "date": 15,
+                "weather_summary": "Morning: Gray and still. Afternoon: Warm and cloudy. Evening: Overcast and sticky."
+            },
+            {
+                "date": 16,
+                "weather_summary": "Morning: Cloudy. Afternoon: Breezy and partly bright. Evening: Humid with clouds."
+            },
+            {
+                "date": 17,
+                "weather_summary": "Morning: Cloudy. Afternoon: Rain with embedded thunder. Evening: Cloudy and damp."
+            },
+            {
+                "date": 18,
+                "weather_summary": "Morning: Low clouds. Afternoon: Warm and breezy. Evening: Cloudy and muggy."
+            },
+            {
+                "date": 19,
+                "weather_summary": "Morning: Steady rain easing late. Afternoon: Cloudy with a cool breeze. Evening: Overcast and humid."
+            },
+            {
+                "date": 20,
+                "weather_summary": "Morning: Cloudy. Afternoon: Warm with sun intervals. Evening: Cloudy and still."
+            },
+            {
+                "date": 21,
+                "weather_summary": "Morning: Overcast. Afternoon: Humid and breezy. Evening: Rain and distant thunder."
+            },
+            {
+                "date": 22,
+                "weather_summary": "Morning: Cloudy. Afternoon: Warm with hazy sun. Evening: Clouds lingering."
+            },
+            {
+                "date": 23,
+                "weather_summary": "Morning: Gray and humid. Afternoon: Breezy and partly sunny. Evening: Overcast and calm."
+            },
+            {
+                "date": 24,
+                "weather_summary": "Morning: Cloudy. Afternoon: Light to moderate rain, gusty at times. Evening: Damp with clouds."
+            },
+            {
+                "date": 25,
+                "weather_summary": "Morning: Cloudy with brief sun. Afternoon: Warm and humid. Evening: Cloudy and still."
+            },
+            {
+                "date": 26,
+                "weather_summary": "Morning: Overcast. Afternoon: Breezy and warm. Evening: Cloudy and humid."
+            },
+            {
+                "date": 27,
+                "weather_summary": "Morning: Cloudy. Afternoon: Brief rain with a westerly breeze. Evening: Cloudy and damp."
+            },
+            {
+                "date": 28,
+                "weather_summary": "Morning: Cloudy. Afternoon: Warm with brief sun. Evening: Humid and overcast."
+            },
+            {
+                "date": 29,
+                "weather_summary": "Morning: Gray with a sea breeze. Afternoon: Cloudy and warm. Evening: Muggy under clouds."
+            },
+            {
+                "date": 30,
+                "weather_summary": "Morning: Mostly cloudy. Afternoon: Humid and breezy. Evening: Widespread rain with thunder."
+            },
+            {
+                "date": 31,
+                "weather_summary": "Morning: Overcast. Afternoon: Warm with occasional sun. Evening: Cloudy and calm."
+            }
+        ]
+    },
+    {
+        "month": "August",
+        "weather_data": [
+            {
+                "date": 1,
+                "weather_summary": "Morning: sunny and humid. Afternoon: hot with a sea breeze. Evening: partly cloudy and warm."
+            },
+            {
+                "date": 2,
+                "weather_summary": "Morning: cloudy and humid. Afternoon: light rain with brief thunder in places. Evening: cloudy with improving conditions."
+            },
+            {
+                "date": 3,
+                "weather_summary": "Morning: sunny and sticky. Afternoon: warm and breezy. Evening: calm with high clouds."
+            },
+            {
+                "date": 4,
+                "weather_summary": "Morning: partly cloudy. Afternoon: sunny spells with a coastal breeze. Evening: mild and dry."
+            },
+            {
+                "date": 5,
+                "weather_summary": "Morning: sunny intervals. Afternoon: brief rain with rumbling thunder. Evening: clearing and humid."
+            },
+            {
+                "date": 6,
+                "weather_summary": "Morning: bright and warm. Afternoon: hot with a steady sea breeze. Evening: partly cloudy."
+            },
+            {
+                "date": 7,
+                "weather_summary": "Morning: hazy sunshine. Afternoon: warm and breezy. Evening: calm and dry."
+            },
+            {
+                "date": 8,
+                "weather_summary": "Morning: mostly cloudy. Afternoon: thunder with heavy rain in parts. Evening: light rain tapering off."
+            },
+            {
+                "date": 9,
+                "weather_summary": "Morning: sunny and humid. Afternoon: breezy and warm. Evening: partly cloudy and calm."
+            },
+            {
+                "date": 10,
+                "weather_summary": "Morning: fair skies. Afternoon: hot with a coastal breeze. Evening: mostly clear."
+            },
+            {
+                "date": 11,
+                "weather_summary": "Morning: partly cloudy. Afternoon: passing light rain. Evening: clearing with lingering clouds."
+            },
+            {
+                "date": 12,
+                "weather_summary": "Morning: sunny and warm. Afternoon: hot, slight haze. Evening: warm and dry."
+            },
+            {
+                "date": 13,
+                "weather_summary": "Morning: cloudy and sticky. Afternoon: rain with thunder in places. Evening: damp and breezy."
+            },
+            {
+                "date": 14,
+                "weather_summary": "Morning: bright start. Afternoon: warm with scattered clouds. Evening: calm and pleasant."
+            },
+            {
+                "date": 15,
+                "weather_summary": "Morning: sunny spells. Afternoon: hazy and hot. Evening: partly cloudy and humid."
+            },
+            {
+                "date": 16,
+                "weather_summary": "Morning: fair and warm. Afternoon: breezy with sunny periods. Evening: mild and dry."
+            },
+            {
+                "date": 17,
+                "weather_summary": "Morning: partly cloudy. Afternoon: gusty rain with thunder inland. Evening: cloudy and humid."
+            },
+            {
+                "date": 18,
+                "weather_summary": "Morning: sunny and bright. Afternoon: warm with a sea breeze. Evening: mostly clear."
+            },
+            {
+                "date": 19,
+                "weather_summary": "Morning: humid and cloudy. Afternoon: light rain at times. Evening: clearing and calm."
+            },
+            {
+                "date": 20,
+                "weather_summary": "Morning: bright and warm. Afternoon: hot but breezy. Evening: fair and dry."
+            },
+            {
+                "date": 21,
+                "weather_summary": "Morning: partly cloudy. Afternoon: sunny and warm. Evening: humid with high clouds."
+            },
+            {
+                "date": 22,
+                "weather_summary": "Morning: sunny intervals. Afternoon: thundery rain in spots. Evening: lingering light rain then clearing."
+            },
+            {
+                "date": 23,
+                "weather_summary": "Morning: fair and humid. Afternoon: warm with a steady breeze. Evening: dry with scattered clouds."
+            },
+            {
+                "date": 24,
+                "weather_summary": "Morning: mostly cloudy. Afternoon: moderate rain with thunder. Evening: cloudy with drizzle."
+            },
+            {
+                "date": 25,
+                "weather_summary": "Morning: sunny and warm. Afternoon: hot with a sea breeze. Evening: mostly clear and humid."
+            },
+            {
+                "date": 26,
+                "weather_summary": "Morning: hazy sun. Afternoon: warm and breezy. Evening: calm and dry."
+            },
+            {
+                "date": 27,
+                "weather_summary": "Morning: partly cloudy. Afternoon: brief light rain. Evening: humid and mostly cloudy."
+            },
+            {
+                "date": 28,
+                "weather_summary": "Morning: bright start. Afternoon: hot with some haze. Evening: dry with a light breeze."
+            },
+            {
+                "date": 29,
+                "weather_summary": "Morning: sunny and humid. Afternoon: breezy along the coast. Evening: clear and warm."
+            },
+            {
+                "date": 30,
+                "weather_summary": "Morning: cloudy and humid. Afternoon: heavy rain with thunder. Evening: easing to light rain, then cloudy."
+            },
+            {
+                "date": 31,
+                "weather_summary": "Morning: sunny intervals. Afternoon: warm with a sea breeze. Evening: calm and dry."
+            }
+        ]
+    },
+    {
+        "month": "September",
+        "weather_data": [
+            {
+                "date": 1,
+                "weather_summary": "Morning: Warm and partly cloudy; Afternoon: Sunny spells, humid; Evening: Light breeze, patchy cloud."
+            },
+            {
+                "date": 2,
+                "weather_summary": "Morning: Cloudy and muggy; Afternoon: Brief light rain with a southwest breeze; Evening: Clearing, warm."
+            },
+            {
+                "date": 3,
+                "weather_summary": "Morning: Fair with hazy sun; Afternoon: Hot and humid; Evening: Mostly clear, calm."
+            },
+            {
+                "date": 4,
+                "weather_summary": "Morning: Cloudy breaks; Afternoon: Sticky heat; Evening: Moderate rain moving inland, easing late."
+            },
+            {
+                "date": 5,
+                "weather_summary": "Morning: Partly cloudy, warm; Afternoon: Bright spells, breezy; Evening: Mostly dry with scattered clouds."
+            },
+            {
+                "date": 6,
+                "weather_summary": "Morning: Coastal drizzle and low cloud; Afternoon: Improving with sunny breaks; Evening: Humid, partly cloudy."
+            },
+            {
+                "date": 7,
+                "weather_summary": "Morning: Sunny intervals; Afternoon: Hot, slight haze; Evening: Dry and warm."
+            },
+            {
+                "date": 8,
+                "weather_summary": "Morning: Cloudy and humid; Afternoon: Moderate rain, brief gusts; Evening: Damp, clouds lingering."
+            },
+            {
+                "date": 9,
+                "weather_summary": "Morning: Warm with high humidity; Afternoon: Mostly sunny, breezy; Evening: Fair with thin cloud."
+            },
+            {
+                "date": 10,
+                "weather_summary": "Morning: Partly cloudy; Afternoon: Very humid; Evening: Localised thunderstorm with brief heavy rain."
+            },
+            {
+                "date": 11,
+                "weather_summary": "Morning: Bright start; Afternoon: Hot, sea breeze; Evening: Dry, mild."
+            },
+            {
+                "date": 12,
+                "weather_summary": "Morning: Cloudy spells; Afternoon: Intermittent light to moderate rain; Evening: Overcast, humid."
+            },
+            {
+                "date": 13,
+                "weather_summary": "Morning: Sunny intervals; Afternoon: Warm with a southwest breeze; Evening: Mostly clear, sticky."
+            },
+            {
+                "date": 14,
+                "weather_summary": "Morning: Cloudy and muggy; Afternoon: Warm, breezy; Evening: Passing rain, easing late."
+            },
+            {
+                "date": 15,
+                "weather_summary": "Morning: Fair with haze; Afternoon: Hot and dry; Evening: Partly cloudy, calm."
+            },
+            {
+                "date": 16,
+                "weather_summary": "Morning: Bright and humid; Afternoon: Sunny spells with a light breeze; Evening: Dry, warm night."
+            },
+            {
+                "date": 17,
+                "weather_summary": "Morning: Cloud build-up; Afternoon: Heavy rain with thunder in spots; Evening: Damp, clouds lingering."
+            },
+            {
+                "date": 18,
+                "weather_summary": "Morning: Partly sunny; Afternoon: Hot, windy at times; Evening: Mostly dry, warm."
+            },
+            {
+                "date": 19,
+                "weather_summary": "Morning: Cloudy and humid; Afternoon: Warm with increasing clouds; Evening: Moderate rain, turning light late."
+            },
+            {
+                "date": 20,
+                "weather_summary": "Morning: Hazy sun; Afternoon: Very humid, breezy; Evening: Dry with scattered clouds."
+            },
+            {
+                "date": 21,
+                "weather_summary": "Morning: Cloudy, sultry; Afternoon: Thundery rain in parts, brief gusts; Evening: Overcast, damp."
+            },
+            {
+                "date": 22,
+                "weather_summary": "Morning: Partly cloudy; Afternoon: Hot and sticky; Evening: Mostly dry, light breeze."
+            },
+            {
+                "date": 23,
+                "weather_summary": "Morning: Humid with cloud build-up; Afternoon: Warm, wind picking up; Evening: Thunderstorm with bursts of heavy rain."
+            },
+            {
+                "date": 24,
+                "weather_summary": "Morning: Bright spells; Afternoon: Hot with haze; Evening: Dry, warm night."
+            },
+            {
+                "date": 25,
+                "weather_summary": "Morning: Cloudy and humid; Afternoon: Heavy rain at times; Evening: Periods of rain with rumbles of thunder."
+            },
+            {
+                "date": 26,
+                "weather_summary": "Morning: Partly sunny; Afternoon: Warm with sea breeze; Evening: Dry, lingering clouds."
+            },
+            {
+                "date": 27,
+                "weather_summary": "Morning: Cloudy start; Afternoon: Muggy with darkening skies; Evening: Thunder and rain, easing late."
+            },
+            {
+                "date": 28,
+                "weather_summary": "Morning: Humid, mostly cloudy; Afternoon: Widespread rain, locally heavy; Evening: Another spell of thundery rain."
+            },
+            {
+                "date": 29,
+                "weather_summary": "Morning: Sunny intervals; Afternoon: Hot and breezy; Evening: Dry with patchy cloud."
+            },
+            {
+                "date": 30,
+                "weather_summary": "Morning: Partly cloudy, warm; Afternoon: Humid with sunny breaks; Evening: Overcast but mostly dry."
+            }
+        ]
+    },
+    {
+        "month": "October",
+        "weather_data": [
+            {
+                "date": 1,
+                "weather_summary": "Morning: Warm and humid with sunny gaps. Afternoon: Clouds building and very muggy. Evening: Intense thunderstorm with frequent lightning and a brief torrential downpour."
+            },
+            {
+                "date": 2,
+                "weather_summary": "Morning: Partly cloudy and sticky. Afternoon: Sudden heavy rain with thunder in places. Evening: Thunder easing with light rain lingering."
+            },
+            {
+                "date": 3,
+                "weather_summary": "Morning: Hazy sunshine. Afternoon: Very hot, towering clouds. Evening: Gusty thunder with spotty rain and lightning."
+            },
+            {
+                "date": 4,
+                "weather_summary": "Morning: Overcast with light drizzle along the coast. Afternoon: Cloudy, humid. Evening: Another round of thunder with moderate rain."
+            },
+            {
+                "date": 5,
+                "weather_summary": "Morning: Bright spells, oppressive humidity. Afternoon: Rapid cloud build-up. Evening: Severe thunderstorm with torrential rain and frequent lightning."
+            },
+            {
+                "date": 6,
+                "weather_summary": "Morning: Sunny and warm. Afternoon: Breezy, partly cloudy. Evening: Mostly dry with passing clouds."
+            },
+            {
+                "date": 7,
+                "weather_summary": "Morning: Cloudy and close. Afternoon: Widespread rain with rumbles of thunder. Evening: Gradual improvement, damp."
+            },
+            {
+                "date": 8,
+                "weather_summary": "Morning: Sunny intervals, sticky. Afternoon: Clouds tower over the city. Evening: Strong thunderstorm with heavy rain and vivid lightning."
+            },
+            {
+                "date": 9,
+                "weather_summary": "Morning: Fair with hazy sun. Afternoon: Warm, breezy. Evening: Dry with patchy cloud."
+            },
+            {
+                "date": 10,
+                "weather_summary": "Morning: Hot and humid. Afternoon: Darkening skies. Evening: Heavy thunderstorm, intense rain for a short time."
+            },
+            {
+                "date": 11,
+                "weather_summary": "Morning: Steady rain with occasional thunder. Afternoon: Persistent rain, ponding on roads. Evening: Thunder continues with periods of heavy rain."
+            },
+            {
+                "date": 12,
+                "weather_summary": "Morning: Bright and sultry. Afternoon: Increasing cloud. Evening: Short burst of rain with thunder nearby."
+            },
+            {
+                "date": 13,
+                "weather_summary": "Morning: Mostly sunny, humid. Afternoon: Warm with a sea breeze. Evening: Partly cloudy and dry."
+            },
+            {
+                "date": 14,
+                "weather_summary": "Morning: Sunny intervals. Afternoon: Oppressive heat and towering clouds. Evening: Violent thunderstorm with very heavy rain and frequent lightning."
+            },
+            {
+                "date": 15,
+                "weather_summary": "Morning: Cloudy start. Afternoon: Thundery rain moving through, locally heavy. Evening: Fresher air with lingering cloud."
+            },
+            {
+                "date": 16,
+                "weather_summary": "Morning: Clear and warm. Afternoon: Partly cloudy, breezy. Evening: Dry and calm."
+            },
+            {
+                "date": 17,
+                "weather_summary": "Morning: Humid with sunny gaps. Afternoon: Storm clouds gather. Evening: Thunderstorm bringing brief heavy rain and gusty winds."
+            },
+            {
+                "date": 18,
+                "weather_summary": "Morning: Intermittent rain and low cloud. Afternoon: Cloudy with light rain at times. Evening: Thunderstorms develop with bursts of heavy rain."
+            },
+            {
+                "date": 19,
+                "weather_summary": "Morning: Bright and muggy. Afternoon: Warm, mostly cloudy. Evening: Dry with distant lightning over the sea."
+            },
+            {
+                "date": 20,
+                "weather_summary": "Morning: Sultry and partly sunny. Afternoon: Intense rain with thunder, some gusty squalls. Evening: Another round of heavy thunder and lightning."
+            },
+            {
+                "date": 21,
+                "weather_summary": "Morning: Mostly sunny. Afternoon: Warm with a gentle breeze. Evening: Dry under patchy cloud."
+            },
+            {
+                "date": 22,
+                "weather_summary": "Morning: Hazy sun, very humid. Afternoon: Increasingly cloudy and unstable. Evening: Strong thunderstorm with heavy rain and frequent lightning."
+            },
+            {
+                "date": 23,
+                "weather_summary": "Morning: Sunny intervals. Afternoon: Hot and sticky, clouds build. Evening: Mostly dry with rumbling thunder nearby."
+            },
+            {
+                "date": 24,
+                "weather_summary": "Morning: Cloudy and humid. Afternoon: Squally rain with thunder, brief street flooding possible. Evening: Lighter rain fading."
+            },
+            {
+                "date": 25,
+                "weather_summary": "Morning: Bright and warm. Afternoon: Partly cloudy with a sea breeze. Evening: Dry, comfortable by coastal standards."
+            },
+            {
+                "date": 26,
+                "weather_summary": "Morning: Sunny spells. Afternoon: Warm, turning cloudy. Evening: Dry with a light breeze."
+            },
+            {
+                "date": 27,
+                "weather_summary": "Morning: Fair with hazy sunshine. Afternoon: Warm and humid, no rain. Evening: Calm and partly cloudy."
+            },
+            {
+                "date": 28,
+                "weather_summary": "Morning: Sunny breaks, very muggy. Afternoon: Dark clouds gather quickly. Evening: Thunderstorm with heavy rain and frequent lightning."
+            },
+            {
+                "date": 29,
+                "weather_summary": "Morning: Mostly sunny and hot. Afternoon: Breezy, clouds drift inland. Evening: Dry with lingering humidity."
+            },
+            {
+                "date": 30,
+                "weather_summary": "Morning: Humid with brief sun. Afternoon: Ominous clouds and rising winds. Evening: Torrential rain with severe thunder and frequent lightning."
+            },
+            {
+                "date": 31,
+                "weather_summary": "Morning: Bright spells and haze. Afternoon: Warm, partly cloudy. Evening: Dry with light coastal breeze."
+            }
+        ]
+    },
+    {
+        "month": "November",
+        "weather_data": [
+            {
+                "date": 1,
+                "weather_summary": "Morning: Cloudy and humid with light rain. Afternoon: Widespread heavy rain with thunder. Evening: Lingering drizzle, breezy."
+            },
+            {
+                "date": 2,
+                "weather_summary": "Morning: Breezy and overcast with passing rain. Afternoon: Cloudy with steady rain. Evening: Overcast with light rain."
+            },
+            {
+                "date": 3,
+                "weather_summary": "Morning: Overcast and humid. Afternoon: Heavy rain and thunder. Evening: Wet and breezy with drizzle."
+            },
+            {
+                "date": 4,
+                "weather_summary": "Morning: Humid with brief sunny spells. Afternoon: Thunder and intense rain. Evening: Light rain, cloudy."
+            },
+            {
+                "date": 5,
+                "weather_summary": "Morning: Sunny intervals, humid. Afternoon: Mostly cloudy and warm. Evening: Calm and partly cloudy."
+            },
+            {
+                "date": 6,
+                "weather_summary": "Morning: Grey skies with drizzle. Afternoon: Steady rain for several hours. Evening: Rain easing with mist."
+            },
+            {
+                "date": 7,
+                "weather_summary": "Morning: Breezy with light rain. Afternoon: Overcast with intermittent rain. Evening: Cloudy and damp."
+            },
+            {
+                "date": 8,
+                "weather_summary": "Morning: Sunny intervals. Afternoon: Hot, humid, and cloudy. Evening: Mostly cloudy and still."
+            },
+            {
+                "date": 9,
+                "weather_summary": "Morning: Cloudy and muggy. Afternoon: Squally rain with thunder. Evening: Overcast with rain tapering off."
+            },
+            {
+                "date": 10,
+                "weather_summary": "Morning: Bright and humid. Afternoon: Clouds build, very warm. Evening: Partly cloudy and calm."
+            },
+            {
+                "date": 11,
+                "weather_summary": "Morning: Cloudy and muggy. Afternoon: Prolonged rain. Evening: Gusty with light rain."
+            },
+            {
+                "date": 12,
+                "weather_summary": "Morning: Hazy sun. Afternoon: Very humid with increasing clouds. Evening: Cloudy and dry."
+            },
+            {
+                "date": 13,
+                "weather_summary": "Morning: Overcast and breezy. Afternoon: Continuous rain. Evening: Drizzle with a cool breeze."
+            },
+            {
+                "date": 14,
+                "weather_summary": "Morning: Sunny breaks, humid. Afternoon: Warm with increasing cloud. Evening: Overcast and dry."
+            },
+            {
+                "date": 15,
+                "weather_summary": "Morning: Cloudy and calm. Afternoon: Thunder with heavy rain. Evening: Light rain and mist."
+            },
+            {
+                "date": 16,
+                "weather_summary": "Morning: Sunny and humid. Afternoon: Breezy with patchy cloud. Evening: Partly cloudy and dry."
+            },
+            {
+                "date": 17,
+                "weather_summary": "Morning: Hazy and warm. Afternoon: Cloudy with sticky heat. Evening: Calm with lingering clouds."
+            },
+            {
+                "date": 18,
+                "weather_summary": "Morning: Cloudy with drizzle. Afternoon: Steady rain and thunder. Evening: Rain lingering, breezy."
+            },
+            {
+                "date": 19,
+                "weather_summary": "Morning: Bright and humid. Afternoon: Cloudy and breezy. Evening: Dry and overcast."
+            },
+            {
+                "date": 20,
+                "weather_summary": "Morning: Gloomy with light rain. Afternoon: Widespread heavy rain for hours. Evening: Rain easing late."
+            },
+            {
+                "date": 21,
+                "weather_summary": "Morning: Sun and clouds. Afternoon: Humid and gusty. Evening: Cloudy and dry."
+            },
+            {
+                "date": 22,
+                "weather_summary": "Morning: Cloudy and humid. Afternoon: Periods of rain. Evening: Damp with light rain."
+            },
+            {
+                "date": 23,
+                "weather_summary": "Morning: Hazy sunshine. Afternoon: Hot, muggy, and cloudy. Evening: Warm, cloudy, and dry."
+            },
+            {
+                "date": 24,
+                "weather_summary": "Morning: Partly sunny and humid. Afternoon: Clouds build with a fresh breeze. Evening: Dry with broken cloud."
+            },
+            {
+                "date": 25,
+                "weather_summary": "Morning: Overcast with drizzle. Afternoon: Thunder and heavy rain. Evening: Wet and breezy."
+            },
+            {
+                "date": 26,
+                "weather_summary": "Morning: Sunny intervals, humid. Afternoon: Cloudy and warm. Evening: Dry and partly cloudy."
+            },
+            {
+                "date": 27,
+                "weather_summary": "Morning: Cloudy breaks, humid. Afternoon: Warm and sticky. Evening: Overcast and dry."
+            },
+            {
+                "date": 28,
+                "weather_summary": "Morning: Cloud with drizzle. Afternoon: Rain, sometimes heavy. Evening: Lingering light rain."
+            },
+            {
+                "date": 29,
+                "weather_summary": "Morning: Mostly sunny and humid. Afternoon: Very warm with clouds. Evening: Cloudy and dry."
+            },
+            {
+                "date": 30,
+                "weather_summary": "Morning: Sunny spells, humid. Afternoon: Clouds and haze. Evening: Calm and dry."
+            }
+        ]
+    },
+    {
+        "month": "December",
+        "weather_data": [
+            {
+                "date": 1,
+                "weather_summary": "Morning: cloudy and humid. Afternoon: rain with thunder at times. Evening: cloudy breaks with a cooler breeze."
+            },
+            {
+                "date": 2,
+                "weather_summary": "Morning: crisp and sunny. Afternoon: warm with patchy cloud. Evening: mostly clear and cooler."
+            },
+            {
+                "date": 3,
+                "weather_summary": "Morning: light rain easing. Afternoon: brighter with sunny spells. Evening: mild with some clouds."
+            },
+            {
+                "date": 4,
+                "weather_summary": "Morning: sunny and crisp. Afternoon: warm, gentle breeze. Evening: clear and slightly cool."
+            },
+            {
+                "date": 5,
+                "weather_summary": "Morning: partly cloudy and sticky. Afternoon: brief rain, then clearing. Evening: drier with a cool breeze."
+            },
+            {
+                "date": 6,
+                "weather_summary": "Morning: sunny and fresh. Afternoon: warm and mostly clear. Evening: calm and cooler."
+            },
+            {
+                "date": 7,
+                "weather_summary": "Morning: hazy sun. Afternoon: warm with increasing cloud. Evening: rain later, turning cooler."
+            },
+            {
+                "date": 8,
+                "weather_summary": "Morning: bright and crisp. Afternoon: warm with light winds. Evening: clear and comfortable."
+            },
+            {
+                "date": 9,
+                "weather_summary": "Morning: light rain early, then brighter. Afternoon: warm and partly cloudy. Evening: mostly clear and cooler."
+            },
+            {
+                "date": 10,
+                "weather_summary": "Morning: sunny and crisp. Afternoon: warm with a few clouds. Evening: calm, dry, and cool."
+            },
+            {
+                "date": 11,
+                "weather_summary": "Morning: humid with sunny breaks. Afternoon: rain with thunder possible. Evening: clearing with a cooler breeze."
+            },
+            {
+                "date": 12,
+                "weather_summary": "Morning: sunny and fresh. Afternoon: warm and dry. Evening: clear and pleasant."
+            },
+            {
+                "date": 13,
+                "weather_summary": "Morning: partly sunny. Afternoon: warm with building cloud. Evening: rain at times, then cooler."
+            },
+            {
+                "date": 14,
+                "weather_summary": "Morning: bright and crisp. Afternoon: warm with a light breeze. Evening: clear and slightly cool."
+            },
+            {
+                "date": 15,
+                "weather_summary": "Morning: sunny start. Afternoon: warm and dry. Evening: calm and cool."
+            },
+            {
+                "date": 16,
+                "weather_summary": "Morning: humid with some sun. Afternoon: rain, easing before dusk. Evening: partly cloudy and cooler."
+            },
+            {
+                "date": 17,
+                "weather_summary": "Morning: crisp and sunny. Afternoon: warm and dry. Evening: clear with a cool breeze."
+            },
+            {
+                "date": 18,
+                "weather_summary": "Morning: sunny and fresh. Afternoon: warm, a few clouds. Evening: calm and cooler."
+            },
+            {
+                "date": 19,
+                "weather_summary": "Morning: clear and crisp. Afternoon: warm and dry. Evening: pleasant and cool."
+            },
+            {
+                "date": 20,
+                "weather_summary": "Morning: sunny with low humidity. Afternoon: warm and breezy. Evening: clear and cool."
+            },
+            {
+                "date": 21,
+                "weather_summary": "Morning: bright and crisp. Afternoon: warm and dry. Evening: calm with a cooler feel."
+            },
+            {
+                "date": 22,
+                "weather_summary": "Morning: partly sunny. Afternoon: brief light rain in places. Evening: clearing and cooler."
+            },
+            {
+                "date": 23,
+                "weather_summary": "Morning: sunny and crisp. Afternoon: warm with light winds. Evening: clear and comfortable."
+            },
+            {
+                "date": 24,
+                "weather_summary": "Morning: crisp, sunny start. Afternoon: warm and dry. Evening: clear and pleasantly cool."
+            },
+            {
+                "date": 25,
+                "weather_summary": "Morning: bright, sunny and festive. Afternoon: warm and dry. Evening: calm with a cool breeze."
+            },
+            {
+                "date": 26,
+                "weather_summary": "Morning: sunny and fresh. Afternoon: warm, gentle breeze. Evening: clear and cool."
+            },
+            {
+                "date": 27,
+                "weather_summary": "Morning: clear and crisp. Afternoon: warm and dry. Evening: calm and pleasant."
+            },
+            {
+                "date": 28,
+                "weather_summary": "Morning: sunny with a few clouds. Afternoon: warm and humid. Evening: brief rain, then cooler."
+            },
+            {
+                "date": 29,
+                "weather_summary": "Morning: bright and crisp. Afternoon: warm and dry. Evening: clear and cool."
+            },
+            {
+                "date": 30,
+                "weather_summary": "Morning: sunny and fresh. Afternoon: warm with a light breeze. Evening: calm and cool."
+            },
+            {
+                "date": 31,
+                "weather_summary": "Morning: clear and crisp. Afternoon: warm and dry. Evening: calm, slightly cooler to midnight."
+            }
+        ]
+    }
+]

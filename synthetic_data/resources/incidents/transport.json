@@ -1,0 +1,2186 @@
+[
+  {
+    "month": "January",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-01-01",
+          "time": "08:05 AM",
+          "reporter_role": "Theatre Matron",
+          "incident_description": "Porter team late to move prepped patient from Surgical Ward 3A to OT; anaesthesia set-up waiting. Request immediate trolley transfer and lift booking.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-03",
+          "time": "07:20 AM",
+          "reporter_role": "Ambulance Dispatcher",
+          "incident_description": "Light rain made ambulance bay slick; crew needs anti-slip mats and two extra hands to load a non-ambulant OPD patient safely.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-01-03",
+          "time": "11:45 AM",
+          "reporter_role": "MO - ETU",
+          "incident_description": "Inter-facility transfer for NSTEMI to NHSL; ambulance oxygen gauge fluctuating—please swap to ready unit with full cylinders now.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-01-04",
+          "time": "02:50 PM",
+          "reporter_role": "Senior Lab Technologist",
+          "incident_description": "Time-sensitive CSF and blood cultures awaiting pickup from Ward 5B; need porter with biohazard cooler to Microbiology immediately.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-06",
+          "time": "09:30 PM",
+          "reporter_role": "ICU Charge Nurse",
+          "incident_description": "Bariatric post-op patient requires transfer from OT recovery to ICU; need bariatric trolley, slide sheet, and at least four porters.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-08",
+          "time": "12:10 PM",
+          "reporter_role": "Blood Bank Officer",
+          "incident_description": "Emergency O negative and FFP to Theatre for ruptured ectopic; send cooler, documentation book, and escort now.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-01-08",
+          "time": "03:40 PM",
+          "reporter_role": "Security Supervisor",
+          "incident_description": "Short rain made main ramp to CT slippery; request transport to reroute and assist wheelchair moves via Ward 2 corridor until dry.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-01-10",
+          "time": "06:55 AM",
+          "reporter_role": "SHO - Nephrology",
+          "incident_description": "Patient for first dialysis at 07:30; no functional wheelchair on Ward 7B. Need immediate transfer to Renal Unit.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-12",
+          "time": "09:15 AM",
+          "reporter_role": "OPD Nursing Officer",
+          "incident_description": "Ambulance bay blocked by private cars; transport to marshal drivers and reposition fleet—non-emergency transfer due in 10 minutes.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-01-12",
+          "time": "08:20 PM",
+          "reporter_role": "Paediatric Registrar",
+          "incident_description": "Neonate on CPAP to be shifted ETU→NICU; require transport incubator, portable O2, and trained porter team.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-01-13",
+          "time": "07:05 PM",
+          "reporter_role": "Radiology MO",
+          "incident_description": "MRI at 07:30 PM; ortho patient in traction needs vacuum mattress and three porters for safe transfer from 4C.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-15",
+          "time": "02:25 PM",
+          "reporter_role": "Ambulance Driver A05",
+          "incident_description": "AC not cooling in A05 under strong sun; request spare ambulance for inter-hospital referral to KDU and schedule repair.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-01-17",
+          "time": "07:40 AM",
+          "reporter_role": "Labour Room Midwife",
+          "incident_description": "Category 1 LSCS—move mother to OT immediately; need trolley, lift priority, and corridor clearance.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-01-17",
+          "time": "05:10 PM",
+          "reporter_role": "Physiotherapist",
+          "incident_description": "Two-person assist required to bring hemiplegic patient to rehab gym; current wheelchair footrest broken—please provide replacement and escort.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-01-19",
+          "time": "06:50 AM",
+          "reporter_role": "Ambulance Dispatcher",
+          "incident_description": "Morning showers pooling at rear gate; ambulance 24 needs alternative exit and escort for STEMI pickup at Moratuwa clinic.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-01-19",
+          "time": "12:35 PM",
+          "reporter_role": "Microbiology Registrar",
+          "incident_description": "TB PCR specimens must reach reference lab within 60 minutes; assign dedicated driver and Category B biohazard cooler.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-19",
+          "time": "07:25 PM",
+          "reporter_role": "Surgical Ward Sister",
+          "incident_description": "Post-appendectomy patient deteriorating; urgent transfer to radiology for ultrasound—porter team delayed 30 minutes.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-21",
+          "time": "10:55 AM",
+          "reporter_role": "Hospital Administrator",
+          "incident_description": "Audit found expired AED pads and missing suction tubing in ambulance A03; pull from roster and restock, then document readiness.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-01-23",
+          "time": "04:45 PM",
+          "reporter_role": "ETU Consultant",
+          "incident_description": "Two trauma referrals en route simultaneously; require second ambulance crew, spine boards, and triage bay prepared.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-01-25",
+          "time": "03:05 PM",
+          "reporter_role": "Blood Bank Nurse",
+          "incident_description": "Platelets for Ward 6 Oncology need hand-carry; send temp-controlled carrier and immediate porter escort.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-27",
+          "time": "07:10 AM",
+          "reporter_role": "MO - Medical Ward",
+          "incident_description": "CT brain 07:30; drowsy patient requires oxygen and head support during move—assign trained porter and monitor.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-28",
+          "time": "02:20 PM",
+          "reporter_role": "Security Supervisor",
+          "incident_description": "Light rain turned ambulance wash bay muddy; gurney wheels clogging. Request transport to shift decontamination to covered area and clean.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-01-28",
+          "time": "07:55 PM",
+          "reporter_role": "Infectious Diseases Nurse",
+          "incident_description": "Suspected dengue with GI bleed to be moved to HDU; need sanitized trolley, spill kit, and priority lift.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-01-30",
+          "time": "09:05 PM",
+          "reporter_role": "On-call Surgeon",
+          "incident_description": "Intubated patient to be shifted OT→ICU; require ventilator-capable transfer trolley and coordinated lift access.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-01-31",
+          "time": "11:30 AM",
+          "reporter_role": "Biomedical Engineer",
+          "incident_description": "Siren intermittently failing on Ambulance A07 during test; remove from duty roster, assign reserve, and log repair.",
+          "urgency": "Medium"
+        }
+      ]
+    }
+  },
+  {
+    "month": "February",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-02-01",
+          "time": "10:15 AM",
+          "reporter_role": "OPD Nursing Officer",
+          "incident_description": "Dizzy patient needs wheelchair transfer from OPD triage to Radiology for X-ray; no porters available at desk. Please send chair and staff.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-02-02",
+          "time": "03:40 PM",
+          "reporter_role": "Ambulance Nurse",
+          "incident_description": "Pre-shift check: Ambulance 02 oxygen regulator gauge stuck at 2 L/min despite closed valve; cannot dispatch until serviced. Request immediate replacement unit.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-03",
+          "time": "08:05 AM",
+          "reporter_role": "ICU Staff Nurse",
+          "incident_description": "Need transport team with portable monitor and lift coordination to move ventilated patient (Bed 5) to CT and back safely.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-03",
+          "time": "04:20 PM",
+          "reporter_role": "Laboratory Manager",
+          "incident_description": "Time-sensitive biopsy specimens for courier to reference lab must leave by 16:45; assigned driver on sick leave. Kindly dispatch alternate ambulance.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-05",
+          "time": "12:10 PM",
+          "reporter_role": "Theatre Matron",
+          "incident_description": "Post-laparotomy patient ready for transfer from OT 3 to Surgical Ward 2B; require clean stretcher with straps and two porters.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-02-06",
+          "time": "11:30 AM",
+          "reporter_role": "Ward Clerk—OPD",
+          "incident_description": "Queue building at OPD entrance; only one functional wheelchair. Request two additional wheelchairs to gate and porter cover.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-02-08",
+          "time": "07:25 PM",
+          "reporter_role": "ETU Medical Officer",
+          "incident_description": "Ambulance bay floor wet after brief rain; loading polytrauma case now. Need transport staff to cordon area and assist safe stretcher transfer.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-08",
+          "time": "02:55 PM",
+          "reporter_role": "Ambulance Coordinator",
+          "incident_description": "Stretcher straps in Ambulance 04 damp and musty from humidity; please replace and sanitize before next run.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-02-12",
+          "time": "09:02 AM",
+          "reporter_role": "Blood Bank Technologist",
+          "incident_description": "Urgent: 2 units PRBC for Theatre 2 (ruptured ectopic) need immediate escorted transfer in validated cooler.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-02-12",
+          "time": "08:50 PM",
+          "reporter_role": "NICU Registrar",
+          "incident_description": "Request careful transfer of incubated neonate from NICU to SCBU due to AC fault; need transport team with neonatal trolley and lift booking.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-13",
+          "time": "01:35 PM",
+          "reporter_role": "MO—ETU",
+          "incident_description": "Non-emergency inter-facility transfer required: chronic dialysis patient to Base Hospital Homagama. Please assign ambulance with oxygen available.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-02-14",
+          "time": "03:18 PM",
+          "reporter_role": "Transport Dispatcher (on-call)",
+          "incident_description": "Windscreen wiper failure on Ambulance 03 during thundershowers; vehicle unsafe. Request backup crew to cover calls and maintenance tow.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-14",
+          "time": "06:40 PM",
+          "reporter_role": "Paediatric Anaesthetist",
+          "incident_description": "Sedated child for MRI now ready; rain has delayed porters. Need immediate assisted transfer from Ward 7 to MRI before sedation wears off.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-16",
+          "time": "11:05 AM",
+          "reporter_role": "Neonatal Nurse",
+          "incident_description": "Pre-planned transfer to Lady Ridgeway: tyre pressure alarm on Ambulance 05. Please switch to standby vehicle and check tyres.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-18",
+          "time": "10:22 AM",
+          "reporter_role": "CT Radiographer",
+          "incident_description": "Bariatric patient (approx. 140 kg) from Cardio Ward needs transfer to CT with hovermat and bariatric stretcher; require 4 transport staff.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-19",
+          "time": "08:10 AM",
+          "reporter_role": "OPD Security Supervisor",
+          "incident_description": "Morning crowd in heat; elderly patients struggling from main gate. Request shuttle of three wheelchairs to gate and a porter rotation.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-02-19",
+          "time": "07:35 PM",
+          "reporter_role": "ICU SHO",
+          "incident_description": "Deceased transfer from ICU Bed 3 to mortuary needed with privacy screens and documentation escort; family waiting.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-02-20",
+          "time": "09:05 AM",
+          "reporter_role": "ETU Charge Nurse",
+          "incident_description": "Corridor between ETU and X-ray is wet after light rain; need transport to reroute and assist stretcher transfer for chest X-ray now.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-20",
+          "time": "02:28 PM",
+          "reporter_role": "Microbiology Registrar",
+          "incident_description": "Urgent CSF and blood cultures from ETU require immediate hand-carry to Micro with cold chain. Please dispatch runner.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-22",
+          "time": "03:12 PM",
+          "reporter_role": "Medical Ward Consultant",
+          "incident_description": "Ambulance AC not cooling; patient with heat exhaustion scheduled for inter-ward transfer. Allocate alternate air-conditioned vehicle.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-24",
+          "time": "05:45 PM",
+          "reporter_role": "Dialysis Unit Nurse",
+          "incident_description": "Two post-dialysis patients hypotensive; need wheelchairs and transport assistance back to Medical Ward 3A promptly.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-25",
+          "time": "09:50 AM",
+          "reporter_role": "Physiotherapy Superintendent",
+          "incident_description": "Please relocate portable ultrasound machine to Ward 4D; requires equipment trolley and lift access coordination.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-02-26",
+          "time": "06:58 PM",
+          "reporter_role": "PICU Consultant",
+          "incident_description": "Rear door latch on Ambulance 01 failed during gusty shower; patient in transit for CT. Send replacement ambulance to bay and urgent on-site fix.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-02-26",
+          "time": "01:17 PM",
+          "reporter_role": "Blood Bank Nurse",
+          "incident_description": "FFP for ICU patient needs immediate transfer with ice packs; routine runner delayed. Request fastest available transport.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-28",
+          "time": "10:00 AM",
+          "reporter_role": "Oncology Ward Sister",
+          "incident_description": "Outreach clinic ambulance double-booked; chemo patient waiting for transfer to radiation unit. Need second crew dispatched.",
+          "urgency": "High"
+        }
+      ]
+    }
+  },
+  {
+    "month": "March",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-03-01",
+          "time": "08:10 AM",
+          "reporter_role": "Staff Nurse - OPD Triage",
+          "incident_description": "Non-ambulant stroke-suspect for urgent CT; need priority porter with monitor-ready trolley to Radiology in 10 mins; Lift 2 is crowded.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-03-02",
+          "time": "03:05 PM",
+          "reporter_role": "Medical Officer - ETU",
+          "incident_description": "Ambulance 04 AC failed mid transfer; septic patient overheating. Request immediate vehicle swap at the bay and crew support with cool packs.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-03",
+          "time": "11:20 AM",
+          "reporter_role": "Sister-in-Charge - ETU",
+          "incident_description": "Private cars blocking ambulance dock. Please send transport supervisor to clear bay and place cones; code blue ambulance due in 5 minutes.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-03-03",
+          "time": "05:45 PM",
+          "reporter_role": "Physiotherapist - Ward 5",
+          "incident_description": "After the thunder shower the ETU ramp is slick; stretcher wheels skidding. Need anti-slip mats and two porters immediately for safe transfer.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-05",
+          "time": "07:35 PM",
+          "reporter_role": "Anaesthetist - OT Complex",
+          "incident_description": "O-negative blood needed in OR 3. Current cooler lacks ice packs. Dispatch transport runner with validated cooler now.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-03-07",
+          "time": "10:25 AM",
+          "reporter_role": "Neonatal Nurse - NICU",
+          "incident_description": "Transport incubator shows 30% battery pre-transfer to CT. Require neonatal transfer trolley with spare battery and trained porter.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-08",
+          "time": "02:40 PM",
+          "reporter_role": "Lab Manager - Microbiology",
+          "incident_description": "Storm building; external courier stuck. Please dispatch hospital vehicle to carry urgent cultures to reference lab with chain-of-custody forms.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-08",
+          "time": "08:05 PM",
+          "reporter_role": "Ambulance Driver - Unit 07",
+          "incident_description": "Wipers streaking and headlight fog after the downpour; visibility unsafe. Request swap to spare ambulance and schedule maintenance tonight.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-10",
+          "time": "04:50 PM",
+          "reporter_role": "EMS Coordinator",
+          "incident_description": "Ambulance 06 TPMS alarm; spare tyre is bald. Need tyre change before night shift coverage begins.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-12",
+          "time": "08:30 AM",
+          "reporter_role": "Radiology Nurse - MRI",
+          "incident_description": "Bariatric patient (165 kg) for MRI; standard trolley too narrow. Request bariatric stretcher team with side rails.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-12",
+          "time": "06:10 PM",
+          "reporter_role": "Theatre Scheduler - Orthopaedics",
+          "incident_description": "Lift 3 offline after rain. Emergency debridement patient stuck in Ward 8. Need alternate route and extra porters with slide board.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-14",
+          "time": "01:05 PM",
+          "reporter_role": "Medical Officer - Surgical Ward 12",
+          "incident_description": "Two transfers to X-ray missed due to porter gap post-lunch. Request dedicated porter cover 1–3 PM and immediate move for #NOF case.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-03-16",
+          "time": "04:25 PM",
+          "reporter_role": "Security Supervisor",
+          "incident_description": "Heavy rain pooling at ambulance bay; vehicles can’t reverse to dock. Please shift loading point to Side Gate B and place marshals.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-16",
+          "time": "07:40 PM",
+          "reporter_role": "Cath Lab Nurse",
+          "incident_description": "Link corridor floor wet; NSTEMI patient needs transfer. Send two porters and non-slip sheets immediately for safe move to Cath Lab.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-03-17",
+          "time": "05:55 AM",
+          "reporter_role": "Night MO - ETU",
+          "incident_description": "Ambulance 12 radio battery dead while off-campus. Need spare radio issued urgently and temporary phone relay set up.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-18",
+          "time": "02:20 PM",
+          "reporter_role": "Ambulance Attendant - Unit 03",
+          "incident_description": "O2 cylinder bracket loose; cylinder shifting on speed breakers. Ground vehicle and send mechanic or provide swap unit now.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-19",
+          "time": "03:35 PM",
+          "reporter_role": "Paramedic - Prehospital Team",
+          "incident_description": "Post-storm power flicker; defib self-test failed in Ambulance 02. Require immediate equipment swap and unit check.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-03-19",
+          "time": "08:25 PM",
+          "reporter_role": "Ward Sister - Ward 7",
+          "incident_description": "Rain-slick ramp to theatre; stretcher slid during attempt. Need transport mats and two staff to escort now.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-21",
+          "time": "06:40 AM",
+          "reporter_role": "Dialysis Unit Coordinator",
+          "incident_description": "Morning shuttle running late; three CKD patients waiting. Arrange second van loop and update driver roster.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-03-22",
+          "time": "01:15 PM",
+          "reporter_role": "Blood Bank MLT",
+          "incident_description": "Crossmatched units for ICU en route; carrier temp logger reads 9°C. Need validated cooler and immediate hand-carry by transport.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-03-22",
+          "time": "09:30 PM",
+          "reporter_role": "Ambulance Driver - Unit 11",
+          "incident_description": "Siren intermittent after rain; unsafe for night calls. Request spare vehicle and raise electrical repair ticket.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-23",
+          "time": "12:10 PM",
+          "reporter_role": "MO - Medical Clinic OPD",
+          "incident_description": "Non-AC transfer van too hot; elderly patients became dizzy. Allocate AC van for clinic runs this session and rotate drivers.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-03-26",
+          "time": "09:15 AM",
+          "reporter_role": "Infection Control Nurse",
+          "incident_description": "Specimen cooler leaked serum in van. Take vehicle offline for biohazard clean and send leak-proof boxes; preserve chain-of-custody.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-29",
+          "time": "03:55 PM",
+          "reporter_role": "Driver - Ambulance 09",
+          "incident_description": "Fuel card missing; unit stranded at CPC pump. Request supervisor authorization and dispatch spare card immediately.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-30",
+          "time": "05:20 PM",
+          "reporter_role": "Orthopaedic Registrar",
+          "incident_description": "Bariatric ambulance tail-lift lost pressure in rain while loading #NOF patient. Transfer aborted; send alternate unit with manual ramp now.",
+          "urgency": "Critical"
+        }
+      ]
+    }
+  },
+  {
+    "month": "April",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-04-01",
+          "time": "09:35 AM",
+          "reporter_role": "Radiology Coordinator",
+          "incident_description": "Porters have not come for CT transfer from Ward 3A; patient is prepped and slot is at 10:00. Request immediate trolley and staff escort.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-02",
+          "time": "07:18 PM",
+          "reporter_role": "Consultant Paediatrician (NICU)",
+          "incident_description": "Neonate needs urgent inter-facility transfer for surgical review. Thunderstorm is slowing city traffic; require ambulance with transport incubator and full crew now.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-04-02",
+          "time": "06:40 PM",
+          "reporter_role": "Security Supervisor (Ambulance Bay)",
+          "incident_description": "Heavy rain has pooled near the ambulance dock; gurney wheels slipping on offload. Need transport team to reposition vehicles and lay anti-slip mats.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-04",
+          "time": "03:22 PM",
+          "reporter_role": "Ambulance Dispatcher",
+          "incident_description": "Radio communication intermittent during thunder. Please activate backup call tree to coordinate two scheduled non-emergency transfers.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-04-04",
+          "time": "04:05 PM",
+          "reporter_role": "ETU Registrar",
+          "incident_description": "Ambulance 12 returned with a loose oxygen cylinder bracket after rough travel in wind. Ground the vehicle and send maintenance.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-05",
+          "time": "02:10 PM",
+          "reporter_role": "Medical Ward Sister",
+          "incident_description": "Patient for echo needs wheelchair escort to Cardiology now; all wheelchairs on this floor are occupied. Please send a chair and porter.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-04-06",
+          "time": "09:27 PM",
+          "reporter_role": "Blood Bank Officer",
+          "incident_description": "O negative units required in OT within 10 minutes; Lift 3 is down after rain leak. Request validated cooler and porter via alternate route.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-04-08",
+          "time": "01:05 PM",
+          "reporter_role": "OPD Matron",
+          "incident_description": "Clinic overflow at triage; wheelchair queue building. Please redeploy chairs from Radiology and assign two porters for continuous shuttle.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-10",
+          "time": "08:14 PM",
+          "reporter_role": "ETU Medical Officer",
+          "incident_description": "RTA call-out requires immediate dispatch; access road is partly flooded. Need 4x4 ambulance and driver familiar with diversion route.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-04-10",
+          "time": "10:30 AM",
+          "reporter_role": "Radiology Receptionist",
+          "incident_description": "Bariatric patient for MRI; current stretcher too narrow. Request bariatric trolley and four staff for safe transfer.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-11",
+          "time": "11:20 AM",
+          "reporter_role": "Microbiology Lab Technologist",
+          "incident_description": "Scheduled 11:00 specimen pickup missed; cultures time-sensitive. Please expedite shuttle from SICU to Micro lab.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-04-12",
+          "time": "02:48 PM",
+          "reporter_role": "Obstetric Theatre MO",
+          "incident_description": "Emergency C-section declared; patient at Labour Room (LR) with stretcher lift halted by storm. Need OT trolley and manual transfer via ramp now.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-04-13",
+          "time": "03:40 PM",
+          "reporter_role": "Fleet Supervisor",
+          "incident_description": "Ambulance 07 due for service; engine temp high in heat and AC weak. Request immediate vehicle swap and schedule maintenance.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-15",
+          "time": "09:02 AM",
+          "reporter_role": "Orthopaedic Ward Nurse",
+          "incident_description": "Wet ramp outside Ward 4B; patient to X-ray cannot ambulate. Need two porters and slide board to prevent slip.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-15",
+          "time": "01:55 PM",
+          "reporter_role": "ICU Registrar",
+          "incident_description": "STAT blood gases and cultures to lab are delayed by rain. Request dedicated transport to complete two runs within 20 minutes.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-04-17",
+          "time": "11:05 AM",
+          "reporter_role": "Dialysis Unit Sister",
+          "incident_description": "Post-dialysis wheelchair backlog; three patients waiting over 30 minutes for return to OPD pickup. Need extra transporters urgently.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-04-18",
+          "time": "07:36 PM",
+          "reporter_role": "Consultant Neonatologist",
+          "incident_description": "NICU baby requires transfer to tertiary centre for ventilation; storm forming. Need neonatal ambulance with incubator, suction, and paramedic immediately.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-04-20",
+          "time": "02:12 PM",
+          "reporter_role": "Theatre Nursing Officer",
+          "incident_description": "Massive transfusion in OT; request continuous shuttle from Blood Bank. Lifts delayed due to thunder—send porter with validated cool box via service stairs.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-04-20",
+          "time": "04:28 PM",
+          "reporter_role": "Ambulance Driver Lead",
+          "incident_description": "Backup ambulance wipers failing in heavy rain; visibility unsafe. Require immediate vehicle changeover or blade replacement at bay.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-22",
+          "time": "07:25 PM",
+          "reporter_role": "Chest Clinic MO",
+          "incident_description": "Sputum specimens ready late; need cold-chain to TB lab across campus during downpour. Current ice packs insufficient—request replacements and driver.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-24",
+          "time": "03:18 PM",
+          "reporter_role": "Physiotherapy Aide",
+          "incident_description": "Near-fall on wet corridor while moving patient from Physio to Ward 5A. Request transport escort for remaining transfers and prompt drying support.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-04-26",
+          "time": "10:42 AM",
+          "reporter_role": "Outpatient Medical Officer",
+          "incident_description": "Two non-emergency ambulance bookings were double-allocated to Unit 14 at 11:00. Need dispatcher to reassign vehicle and inform families.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-04-27",
+          "time": "08:09 PM",
+          "reporter_role": "ETU Matron",
+          "incident_description": "Ambulance returning with stroke patient reports severe waterlogging on standard route. Please authorize alternate high-ground route and hold a second unit on standby.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-29",
+          "time": "06:55 PM",
+          "reporter_role": "ICU Charge Nurse",
+          "incident_description": "Inter-ward transfer on portable ventilator; ambulance ventilator battery alarming low. Need fully charged unit at emergency bay immediately.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-04-29",
+          "time": "08:20 PM",
+          "reporter_role": "OPD Supervisor",
+          "incident_description": "Post-OPD closure and storm, multiple wheelchairs stranded at car park with pooled water. Request night-shift transport to recover, sanitize, and restock to triage.",
+          "urgency": "Medium"
+        }
+      ]
+    }
+  },
+  {
+    "month": "May",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-05-01",
+          "time": "02:15 PM",
+          "reporter_role": "MO - ETU",
+          "incident_description": "Cath lab transfer held up as ambulance bay is waterlogged after the downpour; request covered trolley, anti-skid mats, and two porters immediately.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-01",
+          "time": "07:50 PM",
+          "reporter_role": "Hospital Duty Manager",
+          "incident_description": "Non-emergency ambulance for transfer to Base Hospital Kalutara cannot pass the flooded main road; dispatch 4x4 unit and reroute via alternate road.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-02",
+          "time": "09:10 AM",
+          "reporter_role": "Radiographer - CT",
+          "incident_description": "Ward 12 head CT patient not brought; please send wheelchair with escort now, CT slot holds only 10 minutes.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-05-03",
+          "time": "11:25 AM",
+          "reporter_role": "Blood Bank Technologist",
+          "incident_description": "STAT O-negative units needed in OT; send runner with validated cooler and ensure dry passage as corridors near OT are wet.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-05-03",
+          "time": "05:40 PM",
+          "reporter_role": "Ambulance Driver Supervisor",
+          "incident_description": "Ambulance A4 wiper motor failed in monsoon rain during NICU transfer standby; send backup ambulance and arrange urgent repair.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-05-05",
+          "time": "03:05 PM",
+          "reporter_role": "Physiotherapist - Rehab",
+          "incident_description": "Tilt-in-space wheelchair unavailable for spinal patient to X-ray; need bariatric chair and two porters due to slippery floors after thunder shower.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-06",
+          "time": "08:30 AM",
+          "reporter_role": "Theatre Matron",
+          "incident_description": "Request transfer trolley with working straps and oxygen hanger to move post-op patient back to Ward 7 now.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-06",
+          "time": "01:20 PM",
+          "reporter_role": "EMS Paramedic",
+          "incident_description": "Door seal leak on Ambulance A1 soaked kits in squally rain; require vehicle swap and deep clean/sanitization before next dispatch.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-08",
+          "time": "04:55 PM",
+          "reporter_role": "OPD Nursing Officer",
+          "incident_description": "Specimen boxes are backing up at OPD; kindly run an extra van trip to Microbiology and Histopath with chitty slips signed.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-05-09",
+          "time": "10:40 AM",
+          "reporter_role": "Dialysis Unit Nurse",
+          "incident_description": "Two inpatients due for dialysis still in ward; send alternate stretcher (current brakes jammed) with porter escort urgently.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-11",
+          "time": "12:10 PM",
+          "reporter_role": "Consultant Obstetrician",
+          "incident_description": "Severe pre-eclampsia requires inter-facility transfer; need ALS ambulance with functioning monitors and second driver—roads are waterlogged.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-05-11",
+          "time": "09:05 PM",
+          "reporter_role": "Hospital Duty Manager",
+          "incident_description": "Fuel card for Ambulance A3 failed; authorize cash fueling and rotate a standby vehicle to maintain night ETU cover.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-12",
+          "time": "08:15 AM",
+          "reporter_role": "Ward Sister - Medical",
+          "incident_description": "Please send porter team with oxygen-ready wheelchair to Echo room before 08:30 as lift maintenance may force stair-chair use.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-05-13",
+          "time": "02:35 PM",
+          "reporter_role": "ETU Registrar",
+          "incident_description": "CT transfer for polytrauma needs covered trolley and transport escort via alternate corridor—radiology tunnel is waterlogged after the storm.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-05-13",
+          "time": "06:50 PM",
+          "reporter_role": "Transport Workshop Foreman",
+          "incident_description": "Rear door gas strut on Ambulance A2 is failing and drops in the wind; stand the vehicle down and assign spare until replaced.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-15",
+          "time": "10:05 AM",
+          "reporter_role": "Pathology Registrar",
+          "incident_description": "Frozen section from OT to Histopath requires immediate hand-carry with cooler; lift out of service—send trained runner to sign chain-of-custody.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-05-15",
+          "time": "07:20 PM",
+          "reporter_role": "NICU Sister",
+          "incident_description": "Prepare neonatal transport incubator and escort to Theatre for emergency C-section resus; require warm trolley and elevator priority.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-05-17",
+          "time": "03:30 PM",
+          "reporter_role": "Consultant Physician - Ward 5",
+          "incident_description": "Unstable COPD patient for ICU; dispatch oxygen-equipped stretcher with two porters and clear route—storms have crowded lifts.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-05-19",
+          "time": "11:55 AM",
+          "reporter_role": "Medical Stores Officer",
+          "incident_description": "Urgent blood-gas cartridges needed in ICU and ETU; internal run stalled by rain—send immediate delivery with cold pack.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-21",
+          "time": "01:40 PM",
+          "reporter_role": "Radiology MO",
+          "incident_description": "Please assign a dedicated porter for the next three Ortho MRI patients; multiple weather delays today are derailing the list.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-05-23",
+          "time": "04:10 PM",
+          "reporter_role": "ETU Nursing Officer",
+          "incident_description": "Ambulance offload bay is rain-swept; stretcher linen wet—send dry set and move offload to indoor ramp with transport escort.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-25",
+          "time": "12:30 PM",
+          "reporter_role": "Orthopaedics MO",
+          "incident_description": "Plaster room patient to X-ray lacks suitable wheelchair; please provide chair with footrests and a lifting strap.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-05-28",
+          "time": "02:55 PM",
+          "reporter_role": "Ambulance Paramedic",
+          "incident_description": "Siren/PA intermittently failing after prolonged rain; request immediate check and fit temporary external siren so A1 can stay on road.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-30",
+          "time": "05:35 PM",
+          "reporter_role": "Porter In-Charge",
+          "incident_description": "Need additional two porters and spine board for bariatric transfer from Ward 9 to OT; standard stretcher unsafe.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-31",
+          "time": "09:00 AM",
+          "reporter_role": "Radiology Receptionist",
+          "incident_description": "First three inpatients for ultrasound not yet arrived; request immediate pickups from Wards 2, 5, and 10 and start daily 08:45 porter circuit.",
+          "urgency": "Medium"
+        }
+      ]
+    }
+  },
+  {
+    "month": "June",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-06-01",
+          "time": "07:40 AM",
+          "reporter_role": "ETU Nursing Officer",
+          "incident_description": "Morning downpour flooded the ambulance bay; request reroute and immediate patient offload at OPD canopy—need stretcher team and floor mats.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-01",
+          "time": "05:10 PM",
+          "reporter_role": "CT Suite Nurse",
+          "incident_description": "Ventilated patient due for CT; corridor floor wet after evening shower. Need trained porters with straps and slide sheet for safe transfer.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-02",
+          "time": "02:25 PM",
+          "reporter_role": "Ambulance Crew Lead (Pre-hospital)",
+          "incident_description": "Siren/PA on Ambulance 09 intermittently failing after sudden rain burst; require electrical check and standby unit allocation.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-06-04",
+          "time": "01:15 PM",
+          "reporter_role": "Surgical Ward Sister",
+          "incident_description": "Emergency appendicectomy patient needs immediate move to theatre; lift lobby crowded and damp. Request trolley with oxygen and two porters.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-05",
+          "time": "09:05 AM",
+          "reporter_role": "Blood Bank Technologist",
+          "incident_description": "Two O-negative units needed urgently in NICU; routine courier delayed. Request dedicated runner with validated cooler within 15 minutes.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-06-06",
+          "time": "08:20 PM",
+          "reporter_role": "Admin Officer (Transport)",
+          "incident_description": "Ambulance 07 windscreen wipers failed after brief downpour; unit not roadworthy. Please activate spare vehicle and raise maintenance ticket.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-06-08",
+          "time": "03:05 PM",
+          "reporter_role": "MO OPD",
+          "incident_description": "Chest pain patient to Cath Lab; porters tied up. Need monitored trolley with O2 and priority access to Lift 2.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-08",
+          "time": "09:10 PM",
+          "reporter_role": "Laboratory Manager",
+          "incident_description": "Pneumatic tube offline after lightning; require manual transport of CSF and blood cultures to Microbiology with chain-of-custody.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-10",
+          "time": "11:30 AM",
+          "reporter_role": "Physiotherapy In-Charge",
+          "incident_description": "Bariatric patient (~180 kg) booked for X-ray; standard trolley unsafe. Request bariatric stretcher and six-person transfer team.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-11",
+          "time": "04:45 AM",
+          "reporter_role": "ETU Medical Officer",
+          "incident_description": "Two concurrent transfers: stroke thrombolysis candidate and polytrauma. Need ALS and BLS ambulances dispatched despite early rain delays.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-06-11",
+          "time": "06:20 PM",
+          "reporter_role": "Theatre Matron",
+          "incident_description": "Post-op unstable patient to ICU; transport trolley oxygen empty. Urgently need cylinder swap and trained porter.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-06-12",
+          "time": "12:40 PM",
+          "reporter_role": "Radiology Registrar",
+          "incident_description": "Sedated MRI planned; please send wheelchair with porter who can wait and return patient directly to ward after imaging.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-06-13",
+          "time": "07:55 AM",
+          "reporter_role": "OPD Nursing Officer",
+          "incident_description": "OPD ramp slick from drizzle; two wheelchairs with weak brakes. Need safer chairs and porter escort to prevent slips.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-15",
+          "time": "03:50 PM",
+          "reporter_role": "Ambulance Dispatcher",
+          "incident_description": "Strong coastal winds and brief rain causing GPS dropouts; crew cannot locate rural address. Request radio relay and staging at nearest police post.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-17",
+          "time": "02:05 PM",
+          "reporter_role": "Consultant Paediatrician",
+          "incident_description": "Urgent neonate transfer to SCBU; require incubator ambulance, neonatal team, pre-warmed isolette, and rain covers for equipment.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-06-17",
+          "time": "08:30 PM",
+          "reporter_role": "Haematology Registrar",
+          "incident_description": "Platelets needed in OT earlier than planned; arrange validated cooler and runner for direct handover, with temperature log.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-18",
+          "time": "06:10 AM",
+          "reporter_role": "Fleet Supervisor",
+          "incident_description": "Rear bay of Ambulance 03 damp after heavy pre-dawn rain; door seal leaking. Pull from service, dry/sanitize, and assign backup unit.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-06-18",
+          "time": "07:25 PM",
+          "reporter_role": "Ward Clerk - Medical 4A",
+          "incident_description": "Patient on NIV to CT for CTPA; Lift 3 out. Need monitored transfer with portable O2 via service corridor.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-19",
+          "time": "10:00 AM",
+          "reporter_role": "Dialysis Unit Nurse",
+          "incident_description": "Two dialysis patients awaiting pickup; transport van running late. Request staggered wheelchair moves to avoid missed slots.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-06-20",
+          "time": "01:55 PM",
+          "reporter_role": "Infection Control Nurse",
+          "incident_description": "Ambulance decontamination backlog; high humidity slowing drying. Please use UV cabinet and rotate fleet to keep two units ready.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-06-20",
+          "time": "09:35 PM",
+          "reporter_role": "On-call Surgeon",
+          "incident_description": "Emergency transfer from peripheral hospital for perforated ulcer; need ALS ambulance with suction and two O2 cylinders, ETA adjusted for heavy rain patches.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-06-21",
+          "time": "07:20 AM",
+          "reporter_role": "Pharmacy Pharmacist",
+          "incident_description": "Pharmacy fridge failed; insulin needs urgent cold-chain move to ward refrigerators. Request ice packs and temperature log sign-off.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-24",
+          "time": "02:10 PM",
+          "reporter_role": "CT Radiographer",
+          "incident_description": "Lift intermittently tripping after thunder; spinal injury to CT. Need scoop stretcher team via ramp and corridor traffic hold.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-24",
+          "time": "11:15 PM",
+          "reporter_role": "Ambulance Crew - Night",
+          "incident_description": "Rear tyre sidewall bulge on Ambulance 05 noted after wet run; vehicle unsafe. Request tyre change and replacement unit activation.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-26",
+          "time": "05:40 PM",
+          "reporter_role": "Microbiology Technologist",
+          "incident_description": "Category B specimens require hand-carry to reference lab across wing; need triple packaging, cool packs as indicated, and transport sign-offs.",
+          "urgency": "Medium"
+        }
+      ]
+    }
+  },
+  {
+    "month": "July",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-07-01",
+          "time": "08:15 AM",
+          "reporter_role": "NICU Registrar",
+          "incident_description": "Request two trained porters and neonatal transport trolley to move ventilated preterm from NICU to CT. Secure portable O2 and monitor; priority access to lift needed.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-02",
+          "time": "05:10 PM",
+          "reporter_role": "OPD Nurse",
+          "incident_description": "OPD ramp is wet after drizzle; need wheelchair and porter to escort elderly patient to X‑ray safely. Please arrange return after film.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-07-03",
+          "time": "03:40 PM",
+          "reporter_role": "MO ETU",
+          "incident_description": "Ambulance at side gate held by floodwater; need 4x4 or reroute to main entrance. Patient on oxygen for transfer to NHSL—dispatch support now.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-07-03",
+          "time": "07:25 PM",
+          "reporter_role": "Lab Manager",
+          "incident_description": "Urgent cooler run: CSF and blood cultures from ICU waiting; previous courier delayed by rain. Need transport with ice packs to Central Lab within 15 min.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-05",
+          "time": "10:05 AM",
+          "reporter_role": "Dialysis Unit Nurse",
+          "incident_description": "Wheelchair W13 brake not holding on dialysis slope; unsafe for patient movement. Replace immediately and take faulty unit for repair.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-07-07",
+          "time": "09:30 AM",
+          "reporter_role": "ETU Sister-in-Charge",
+          "incident_description": "Slippery ambulance bay during rain; incoming trauma needs stretcher handover to ETU. Require extra porters and transfer board at bay.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-07",
+          "time": "06:50 PM",
+          "reporter_role": "Ambulance Crew Lead",
+          "incident_description": "Ambulance 06 oxygen cylinder bracket loose post-run; swap vehicle and send unit for immediate fix before night duty.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-09",
+          "time": "02:15 PM",
+          "reporter_role": "Neurology Registrar",
+          "incident_description": "Inter-ward transfer to MRI for acute stroke; service lift intermittent after thunder. Need scoop stretcher and two porters; stair chair on standby.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-09",
+          "time": "08:05 PM",
+          "reporter_role": "On-call Obstetrician",
+          "incident_description": "Request immediate ambulance to transfer PPH to tertiary centre; ensure blood products secured and bypass traffic—storm causing delays.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-07-11",
+          "time": "11:20 AM",
+          "reporter_role": "Physiotherapist",
+          "incident_description": "Morning ortho rehab transfer missed; no porter arrived. Please assign escort with walker and arrange wheelchair return to Ward 12B.",
+          "urgency": "Low"
+        },
+        {
+          "date": "2025-07-12",
+          "time": "07:55 AM",
+          "reporter_role": "Blood Bank Technologist",
+          "incident_description": "Deliver 2 cross‑match O‑negative units to Theatre 1 now; cooler box missing at transport room. Need sealed cooler and runner within 10 minutes.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-07-14",
+          "time": "09:05 AM",
+          "reporter_role": "Theatre Matron",
+          "incident_description": "Shift ventilator and patient from SICU to Theatre 2; require transporters to secure lines and portable O2. Service lift booking requested.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-14",
+          "time": "08:40 PM",
+          "reporter_role": "Radiology Medical Officer",
+          "incident_description": "Post‑rain ramp to Radiology is wet; bed transfer for polytrauma stuck. Need three porters and dry sheet for safe move to CT.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-16",
+          "time": "12:10 PM",
+          "reporter_role": "Infection Control Nurse",
+          "incident_description": "Audit found Ambulance 03 stretcher straps frayed; floor not sanitized after last case. Deep clean and strap replacement required before 2:00 PM.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-07-17",
+          "time": "01:25 PM",
+          "reporter_role": "Paediatrics Medical Officer",
+          "incident_description": "Peds ward microbiology specimens ready; fridge power flickers. Need immediate hand-carry to Micro with chain-of-custody signed.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-17",
+          "time": "09:10 PM",
+          "reporter_role": "Transport Duty Officer",
+          "incident_description": "Ambulance returning in rain—wipers failed. Put spare vehicle on night cover and move faulty unit to workshop now.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-19",
+          "time": "07:10 AM",
+          "reporter_role": "Security Supervisor",
+          "incident_description": "Back ramp partially flooded; dialysis patients arriving. Reroute shuttle van to front gate and send extra wheelchairs for unit intake.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-07-19",
+          "time": "04:35 PM",
+          "reporter_role": "Cardiology Registrar",
+          "incident_description": "STEMI needing inter‑hospital transfer to cath lab; roads wet. Dispatch ALS ambulance, confirm defib readiness and coordinate fastest route.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-07-21",
+          "time": "10:50 AM",
+          "reporter_role": "Orthopaedic Ward Nurse",
+          "incident_description": "Trauma stretcher caster broken in Ward 5; unsafe to move patient to OT. Send replacement stretcher and team for transfer in 20 min.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-22",
+          "time": "03:25 PM",
+          "reporter_role": "Surgical Ward Sister",
+          "incident_description": "Cylinder exchange rounds missed; two surgical transfer trolleys reading near empty. Need immediate swap and check gauges before evening rounds.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-24",
+          "time": "08:40 AM",
+          "reporter_role": "OPD Medical Officer",
+          "incident_description": "Snakebite from rural MOH clinic—urgent pickup. Pack antivenom in cooler and send 4x4 ambulance due to rain and gusts.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-07-24",
+          "time": "05:55 PM",
+          "reporter_role": "Cardiology Nurse",
+          "incident_description": "Patient in tilt‑in‑space chair to Echo; corridors damp. Need two porters and straps for secure escort and return.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-07-26",
+          "time": "07:20 PM",
+          "reporter_role": "Administrative Officer",
+          "incident_description": "Night roster shows no driver assigned to Ambulance 05. Arrange cover immediately and manage key/vehicle handover.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-28",
+          "time": "02:40 PM",
+          "reporter_role": "Oncology Coordinator",
+          "incident_description": "PET‑CT access lift down; oncology patient ready. Send team with stretcher for alternate service corridor route and clear radiology bay.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-30",
+          "time": "08:30 PM",
+          "reporter_role": "Emergency Physician",
+          "incident_description": "Evening storm disrupting radio; ambulance dispatch intermittent. Activate phone fallback and send second unit to cover northern sector.",
+          "urgency": "High"
+        }
+      ]
+    }
+  },
+  {
+    "month": "August",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-08-01",
+          "time": "07:50 AM",
+          "reporter_role": "Ward Nurse, Surgical Ward 3B",
+          "incident_description": "No porters available to move a post-op patient from OT to 3B; request immediate stretcher team with oxygen support.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-02",
+          "time": "06:35 PM",
+          "reporter_role": "Consultant Neurosurgeon",
+          "incident_description": "Stat transfer to NHSL for CT perfusion delayed due to driver roster mix-up; need ambulance with monitor now.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-08-03",
+          "time": "09:10 AM",
+          "reporter_role": "Senior Lab Technologist",
+          "incident_description": "ICU blood gases waiting at bedside; specimen pickup overdue 25 minutes. Request urgent transport runner.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-05",
+          "time": "03:15 PM",
+          "reporter_role": "Radiology Receptionist",
+          "incident_description": "Wheelchair for X-ray has faulty brake; please send replacement chair and porter escort for patient from OPD.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-08-08",
+          "time": "04:40 PM",
+          "reporter_role": "Dialysis Unit Nurse",
+          "incident_description": "Heavy rain has stalled the returning ambulance near Borella. Patient pre-dialysis is waiting; dispatch alternate vehicle.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-08",
+          "time": "05:25 PM",
+          "reporter_role": "MO, NICU",
+          "incident_description": "Wiper failure on Ambulance 12 during the storm; unsafe to proceed. Need backup unit for neonatal transfer immediately.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-08-09",
+          "time": "11:05 AM",
+          "reporter_role": "Radiographer",
+          "incident_description": "Inter-ward transfer to CT arrived with empty oxygen cylinder; request replacement cylinder and trained porter now.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-10",
+          "time": "02:55 PM",
+          "reporter_role": "MO-ETU",
+          "incident_description": "Heat stress case en route; ambulance AC not cooling. Prepare cooled backup unit and ice packs at ambulance bay.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-08-13",
+          "time": "06:20 PM",
+          "reporter_role": "Transport Bay Attendant",
+          "incident_description": "Rainwater made the loading ramp slippery; stretcher wheels skidding. Need absorbent mats and transport staff oversight.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-08-13",
+          "time": "02:05 PM",
+          "reporter_role": "Theatre Matron",
+          "incident_description": "Blood products pickup delayed; access road waterlogged. Request 4x4 or porter relay with insulated box to OT.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-14",
+          "time": "10:30 AM",
+          "reporter_role": "Anaesthesia SHO",
+          "incident_description": "Bariatric patient needs MRI under GA; require wide trolley with proper straps and two senior porters.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-15",
+          "time": "12:15 PM",
+          "reporter_role": "OPD Nursing Officer",
+          "incident_description": "OPD wheelchair stock exhausted; multiple elders waiting. Please redeploy two chairs from wards and assign a porter.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-08-16",
+          "time": "01:45 PM",
+          "reporter_role": "Hospital Administrator",
+          "incident_description": "Ambulance radio channel has heavy static; dispatch missing ETU calls. Switch to backup set and confirm coverage.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-17",
+          "time": "03:50 PM",
+          "reporter_role": "Medical Officer, Medicine",
+          "incident_description": "Transfer to Karapitiya delayed by storm road closures; request alternate route plan and experienced driver.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-17",
+          "time": "08:10 PM",
+          "reporter_role": "Infection Control Nurse",
+          "incident_description": "Stretcher straps returned wet after rain; not fit for sepsis patient. Need sanitized dry set and transport escort.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-18",
+          "time": "09:28 AM",
+          "reporter_role": "Registrar, Neurology",
+          "incident_description": "CSF sample must reach lab within 10 minutes; porter not responding. Request immediate specimen run.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-08-19",
+          "time": "07:05 AM",
+          "reporter_role": "Transport Supervisor",
+          "incident_description": "Dialysis shuttle nearly cancelled due to low diesel; need refuel and notification to affected wards for timing.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-08-20",
+          "time": "10:55 AM",
+          "reporter_role": "Orthopaedic MO",
+          "incident_description": "Traction patient going for X-ray; require scoop stretcher and two trained porters. Current team unfamiliar.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-22",
+          "time": "03:05 PM",
+          "reporter_role": "Blood Bank MO",
+          "incident_description": "O-negative needed in Theatre 2 now; Lift 2 down. Arrange staircase relay with cooler and handover log.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-08-24",
+          "time": "01:20 PM",
+          "reporter_role": "Security Officer, Ambulance Bay",
+          "incident_description": "Ambulance 7 stalled at OPD ramp in rain; blocking access. Need jump-start/tow and immediate deployment of spare.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-24",
+          "time": "09:35 AM",
+          "reporter_role": "Senior Staff Nurse, NICU",
+          "incident_description": "Incubator transport trolley missing one restraint; ultrasound delayed. Request replacement straps from transport store.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-25",
+          "time": "11:40 AM",
+          "reporter_role": "Physiotherapy In-Charge",
+          "incident_description": "Wheelchair van arrived without ramp for spinal patient to X-ray; resend correct vehicle and porter.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-27",
+          "time": "05:15 PM",
+          "reporter_role": "Laboratory Manager",
+          "incident_description": "Specimen cooler returned without ice packs; freezer at bay reportedly off. Restock before evening dispatch runs.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-08-30",
+          "time": "02:25 PM",
+          "reporter_role": "Consultant Cardiologist",
+          "incident_description": "Ambulance stuck at flooded hospital gate; STEMI transfer waiting. Need 4x4/tractor shuttle to main road now.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-08-31",
+          "time": "08:30 AM",
+          "reporter_role": "Fleet Mechanic",
+          "incident_description": "Two ambulances overdue for tyre rotation and stretcher rail lubrication; schedule service to maintain readiness.",
+          "urgency": "Medium"
+        }
+      ]
+    }
+  },
+  {
+    "month": "September",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-09-01",
+          "time": "09:10 AM",
+          "reporter_role": "Radiology Receptionist",
+          "incident_description": "Sedated patient from Ward 6 to MRI waiting; porter team not arrived and sedation window closing. Request immediate transfer with monitor-compatible trolley.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-03",
+          "time": "02:35 PM",
+          "reporter_role": "Ambulance Nurse",
+          "incident_description": "Inter-hospital transfer to Kandy: ambulance AC failing in afternoon heat; patient becoming uncomfortable despite fans. Need backup vehicle or rapid fix before departure.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-04",
+          "time": "06:50 PM",
+          "reporter_role": "ETU Medical Officer",
+          "incident_description": "Rain made the ambulance bay ramp slick; trauma patient on spinal board needs careful handover to X-ray. Require extra porters and non-slip mats now.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-04",
+          "time": "12:05 PM",
+          "reporter_role": "Ward Clerk - Medical 4B",
+          "incident_description": "Scheduled non-emergency transfer to Echo kept waiting 40+ minutes; no wheelchair available. Please send wheelchair and escort.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-09-06",
+          "time": "10:20 AM",
+          "reporter_role": "Senior Lab Technologist - Microbiology",
+          "incident_description": "Specimen runner missed 10:00 pickup from 7A; cultures require within 1 hr. Request immediate collection with secured biohazard box.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-08",
+          "time": "03:40 PM",
+          "reporter_role": "Sister-in-Charge - Maternity",
+          "incident_description": "Moderate rain with gusts causing water pooling at ambulance bay; pram wheels slipping during NICU transfer. Need covered trolley and two porters to assist.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-08",
+          "time": "07:15 AM",
+          "reporter_role": "Transport Supervisor",
+          "incident_description": "Ambulance 03 pre-trip check: oxygen cylinder retaining strap frayed and loose. Vehicle should be held until strap replaced.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-10",
+          "time": "08:25 PM",
+          "reporter_role": "Emergency Physician - ETU",
+          "incident_description": "After brief thunderstorm, siren on Ambulance 05 not functioning; ETU cover reduced. Dispatch standby unit or arrange immediate repair.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-09-11",
+          "time": "01:05 PM",
+          "reporter_role": "Theatre Coordinator",
+          "incident_description": "Bariatric patient from ICU to OT for urgent debridement; standard stretcher unsafe. Request powered stretcher and additional porters.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-09-13",
+          "time": "11:12 AM",
+          "reporter_role": "Blood Bank Sister",
+          "incident_description": "Cath Lab requested 2 units O-negative now; need transport with validated cold box to Lab within 10 min. Kindly prioritise.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-09-14",
+          "time": "07:35 PM",
+          "reporter_role": "Casualty MO",
+          "incident_description": "CT transfer for head injury delayed; corridor near lifts wet after passing rain. Need porter team with slide board and caution cones.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-14",
+          "time": "02:10 PM",
+          "reporter_role": "Renal Unit Nurse",
+          "incident_description": "Dialysis pickups double-booked; two patients waiting at gate for transport to Ward 3. Please coordinate ambulance van to avoid missed meds.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-09-16",
+          "time": "08:40 AM",
+          "reporter_role": "OPD Nursing Officer",
+          "incident_description": "Wheelchair #12 brake not holding on OPD slope; near miss reported. Please swap unit and service brakes.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-09-17",
+          "time": "04:55 PM",
+          "reporter_role": "Ambulance Driver",
+          "incident_description": "Heavy rain flooded Baseline Road; en route transfer to Teaching Hospital delayed. Request alternate route guidance and inform receiving ward.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-17",
+          "time": "08:10 PM",
+          "reporter_role": "Transport Attendant - Ambulance Bay",
+          "incident_description": "Post-dengue case left stretcher and trolley soiled; need full sanitisation and restock (linen, straps) before next call.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-19",
+          "time": "06:05 PM",
+          "reporter_role": "Ward Secretary - 8B",
+          "incident_description": "Evening lab specimens for LFT/CRP not picked; lift backlog due to rain crowds. Send runner to collect from 8B before lab cut-off.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-09-21",
+          "time": "03:25 PM",
+          "reporter_role": "Ambulance Nurse - Night Cover",
+          "incident_description": "Suction unit battery on Ambulance 07 not charging after power flicker during thundery rain. Need battery swap or backup unit before night shift.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-09-21",
+          "time": "09:05 AM",
+          "reporter_role": "OPD Medical Officer",
+          "incident_description": "OPD entrance wet from earlier showers; crowd heavy. Please deploy extra wheelchairs and attendants to triage to prevent falls.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-23",
+          "time": "01:50 PM",
+          "reporter_role": "NICU Registrar",
+          "incident_description": "Portable ventilator mount in neonatal ambulance slightly loose; planned outborn transfer at 3 pm. Require technician/transport to secure mount and verify tie-downs.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-23",
+          "time": "07:45 PM",
+          "reporter_role": "Security Officer - Main Gate",
+          "incident_description": "Thunderstorm brought down a branch partially blocking ambulance entry. Request Transport to coordinate alternate gate access and guide arrivals.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-24",
+          "time": "05:30 PM",
+          "reporter_role": "Theatre Matron",
+          "incident_description": "Post-op transfer backlog: three cases awaiting move to Surgical Ward; porters tied up. Kindly send additional team with monitors.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-25",
+          "time": "01:15 PM",
+          "reporter_role": "OT Nurse - Orthopaedics",
+          "incident_description": "Blood products for ORIF delayed due to heavy rain; need covered trolley and fast track from Blood Bank to OT.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-09-25",
+          "time": "09:30 AM",
+          "reporter_role": "Transport Supervisor",
+          "incident_description": "Ambulance 09 wiper intermittent during pre-run check; unsafe for forecasted heavy rain. Hold vehicle and arrange quick repair or swap.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-27",
+          "time": "06:20 PM",
+          "reporter_role": "Dialysis Unit Nurse",
+          "incident_description": "Return trip patients unsteady on wet ambulance bay ramp after showers. Please place anti-slip mats and provide escorts for two vans arriving now.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-30",
+          "time": "10:55 AM",
+          "reporter_role": "Ambulance Driver - Day Shift",
+          "incident_description": "Fuel card declined at CPC pump after night run; cannot refuel Unit 04. Need approval/spare card to keep ETU standby.",
+          "urgency": "Medium"
+        }
+      ]
+    }
+  },
+  {
+    "month": "October",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-10-01",
+          "time": "08:05 AM",
+          "reporter_role": "Ward Nurse (Medical Ward 4)",
+          "incident_description": "Need a wheelchair with intact brakes to move 78-year-old to Echo; current chair’s rear wheel wobbles. Request transport assistance immediately.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-10-01",
+          "time": "08:52 PM",
+          "reporter_role": "Duty Administrator",
+          "incident_description": "Ambulance bay partially flooded during thunderstorm; stretchers getting stuck. Please relocate staging to OPD side and place sandbags.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-02",
+          "time": "03:10 PM",
+          "reporter_role": "ETU Medical Officer",
+          "incident_description": "Neonatal transfer requested to tertiary NICU; heavy rain has gridlocked routes. Require second ambulance and driver to meet time target.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-10-03",
+          "time": "06:35 PM",
+          "reporter_role": "Dialysis Unit Nurse",
+          "incident_description": "Ambulance 04 cabin AC not cooling during intra-hospital shift; patient became dyspnoeic in heat. Please ground unit and service AC.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-04",
+          "time": "10:15 AM",
+          "reporter_role": "ICU Registrar",
+          "incident_description": "Transfer trolley oxygen at quarter level for MICU-to-CT move. Need cylinder swap and porter support before proceeding.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-05",
+          "time": "07:20 PM",
+          "reporter_role": "Ambulance Driver (A-02)",
+          "incident_description": "After lightning strike, siren and PA on Ambulance 02 are dead; hazards only. Request immediate repair and spare unit for night duty.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-10-05",
+          "time": "09:05 PM",
+          "reporter_role": "Lab Manager",
+          "incident_description": "Specimen run delayed; lift lobby flooded. Need transport porters to hand-carry blood gases from Paeds to Lab with ice packs via stairs.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-07",
+          "time": "01:40 PM",
+          "reporter_role": "Radiology Receptionist",
+          "incident_description": "Two MRI transfers booked back-to-back; only one bariatric wheelchair available. Second patient lost slot. Please provide an additional chair.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-10-08",
+          "time": "07:25 PM",
+          "reporter_role": "Transport Supervisor",
+          "incident_description": "Driver reported hydroplaning near hospital roundabout in storm. Request immediate tyre tread checks and rotations for all ambulances.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-10",
+          "time": "09:18 PM",
+          "reporter_role": "Theatre Sister",
+          "incident_description": "Recovery-to-ICU transfer delayed 25 minutes with Lift 3 stuck. Need transport to activate backup route and send extra porters during lift outages.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-11",
+          "time": "08:30 AM",
+          "reporter_role": "On-Call Administrator",
+          "incident_description": "Fuel card declined at partner station; ambulance returning from inter-hospital run nearly empty. Require backup fueling protocol now.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-11",
+          "time": "11:55 PM",
+          "reporter_role": "ETU Nursing Sister",
+          "incident_description": "Ambulance 05 contaminated with vomitus from dengue patient. Needs deep sanitization and full restock before redeployment.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-12",
+          "time": "04:12 PM",
+          "reporter_role": "Blood Bank Technologist",
+          "incident_description": "OT asked for 4 O-negative urgently; last runner lacked validated cooler. Send transport with approved cold chain box immediately.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-10-14",
+          "time": "05:40 PM",
+          "reporter_role": "Transport Dispatcher",
+          "incident_description": "Thunderstorm caused radio dock failure; several handsets flat. Need spare batteries issued and overnight charging checks.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-14",
+          "time": "11:10 AM",
+          "reporter_role": "OPD Matron",
+          "incident_description": "Wheelchair lift on patient van not deploying at OPD ramp; two plaster patients waiting. Please service or dispatch alternate vehicle.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-15",
+          "time": "03:22 PM",
+          "reporter_role": "Pathology Registrar",
+          "incident_description": "OPD satellite samples missed the 3:00 pm shuttle. Some analytes near stability limits—request immediate ad hoc transport to Lab.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-17",
+          "time": "08:47 PM",
+          "reporter_role": "Ambulance Crew Lead",
+          "incident_description": "Canopy latch on Ambulance 06 loosened in gusty winds; water ingress noted. Secure and inspect before next dispatch.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-18",
+          "time": "10:05 AM",
+          "reporter_role": "Ward Nurse (Ward 3)",
+          "incident_description": "Require two porters and transfer board for 160 kg patient to CT; prior attempt unsafe. Kindly schedule now.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-18",
+          "time": "07:58 PM",
+          "reporter_role": "ICU Medical Officer",
+          "incident_description": "Urgent noradrenaline and heparin infusions needed in MICU; storm slowing runners. Request transport pickup from Pharmacy with cold pouch.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-10-20",
+          "time": "02:35 PM",
+          "reporter_role": "Ambulance Driver (A-07)",
+          "incident_description": "Brake warning and soft pedal during squalls; patient delivered safely. Please ground unit and assign spare immediately.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-10-20",
+          "time": "06:50 PM",
+          "reporter_role": "ETU Consultant",
+          "incident_description": "Multiple syncopal cases from temple event expected. Need extra ambulances, crew recall, and staging at Gate B.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-10-22",
+          "time": "08:20 PM",
+          "reporter_role": "Duty Supervisor",
+          "incident_description": "Lightning disrupted GPS on two ambulances. Switch to manual call-logging and route confirmation by phone until resolved.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-10-24",
+          "time": "02:18 PM",
+          "reporter_role": "Security Officer (Gate A)",
+          "incident_description": "Flooding at ambulance exit; vehicles bottoming out. Request transport to reroute via rear gate and place marshals.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-25",
+          "time": "10:05 AM",
+          "reporter_role": "Radiography Medical Officer",
+          "incident_description": "Bariatric transfer stretcher missing left side rail for MRI patient; unsafe to move. Send compliant stretcher now.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-28",
+          "time": "06:12 PM",
+          "reporter_role": "Blood Bank Nurse",
+          "incident_description": "NBC pickup delayed by thunderstorm; primary ambulance on stroke code. Assign second vehicle to collect packed cells urgently.",
+          "urgency": "Critical"
+        }
+      ]
+    }
+  },
+  {
+    "month": "November",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-11-01",
+          "time": "10:05 AM",
+          "reporter_role": "ETU Medical Officer",
+          "incident_description": "Request urgent inter-facility ambulance for STEMI to tertiary cardiac centre; heavy rain causing diversions—send ALS crew with defib and confirm ETA.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-11-01",
+          "time": "03:40 PM",
+          "reporter_role": "Ambulance Nurse",
+          "incident_description": "Rear wiper on Ambulance 07 failed in downpour; visibility unsafe. Need immediate vehicle swap and unit sent for repair/sanitization.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-03",
+          "time": "02:15 PM",
+          "reporter_role": "Radiology Receptionist",
+          "incident_description": "Neuro Ward stroke patient booked urgent MRI; corridors damp from rain. Please send two porters with stretcher and waterproof cover.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-04",
+          "time": "04:10 PM",
+          "reporter_role": "Laboratory Technologist",
+          "incident_description": "Crossmatch samples to Blood Bank delayed; link corridor waterlogged. Request sealed specimen carrier and porter escort.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-06",
+          "time": "09:05 AM",
+          "reporter_role": "Surgical Ward Nurse",
+          "incident_description": "Post-op patient to ICU on ventilator; lift slow—need transport team with portable oxygen, monitor, and straps.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-11-06",
+          "time": "06:30 PM",
+          "reporter_role": "Ambulance Supervisor",
+          "incident_description": "Ambulance 03 returned with emesis contamination on stretcher and floor; require deep clean and spare stretcher before night shift.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-08",
+          "time": "11:20 AM",
+          "reporter_role": "OPD Nursing Officer",
+          "incident_description": "OPD wheelchair missing both footrests; unsafe for transfer to X-ray. Send replacement chair and a porter.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-11-09",
+          "time": "01:05 PM",
+          "reporter_role": "Paediatric SHO",
+          "incident_description": "Neonate requires transfer to SCBU during thunderstorm; need transport incubator and trained team immediately.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-11-09",
+          "time": "05:50 PM",
+          "reporter_role": "Dialysis Charge Nurse",
+          "incident_description": "Two haemodialysis patients awaiting pickup; ramp slick from rain. Request two wheelchairs with belts and two porters.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-11",
+          "time": "03:28 PM",
+          "reporter_role": "Blood Bank Technologist",
+          "incident_description": "Emergency O-negative units needed in OT; lift stuck. Send transport team to carry cold box via stairs now.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-11-13",
+          "time": "08:10 AM",
+          "reporter_role": "Physiotherapy Unit Therapist",
+          "incident_description": "Bariatric patient (approx. 160 kg) to be moved from Ward 5 to Physio; standard trolley unsafe—send bariatric trolley and three porters.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-13",
+          "time": "07:45 PM",
+          "reporter_role": "Ambulance Driver",
+          "incident_description": "Ambulance 12 brake light not working after rain; request workshop check and assign backup vehicle for night cover.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-15",
+          "time": "01:35 PM",
+          "reporter_role": "ETU Senior Nurse",
+          "incident_description": "Two RTA cases en route; redeploy two ambulances to bay and stage extra stretchers. Rain is slowing offloads.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-11-15",
+          "time": "08:05 PM",
+          "reporter_role": "Orthopaedic Ward Sister",
+          "incident_description": "Patient in skeletal traction for urgent CT; need scoop stretcher and experienced porters for safe log-roll transfer.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-17",
+          "time": "10:50 AM",
+          "reporter_role": "Administrative Officer (Transport)",
+          "incident_description": "Ambulance 05 logbook missing odometer entries for last two runs; cannot dispatch until reconciled—assist drivers to update.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-11-18",
+          "time": "02:25 PM",
+          "reporter_role": "Microbiology Technologist",
+          "incident_description": "CSF sample for urgent PCR to annex lab; rain heavy and slippery. Send porter with sealed carrier and PPE.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-18",
+          "time": "07:15 PM",
+          "reporter_role": "OT Anaesthetist",
+          "incident_description": "Post-anaesthesia patient desaturating while awaiting transfer; need priority corridor clearance and oxygen cylinder with trolley now.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-11-20",
+          "time": "09:40 AM",
+          "reporter_role": "Ambulance Coordinator",
+          "incident_description": "Two ambulances returned with punctures from flooded road debris; arrange tyre change and allocate standby unit to cover ETU.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-20",
+          "time": "05:55 PM",
+          "reporter_role": "Oncology Day Care Nurse",
+          "incident_description": "Wheelchair brake not holding on ramp for febrile neutropenic patient; request safe chair and porter escort to X-ray.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-22",
+          "time": "04:20 PM",
+          "reporter_role": "ICU Senior Nurse",
+          "incident_description": "IABP console required urgently in Cath Lab for unstable patient; send trained team and confirm lift booking.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-11-24",
+          "time": "09:10 AM",
+          "reporter_role": "Nephrology Nurse",
+          "incident_description": "Three morning dialysis patients to be collected from Wards 2, 7, and 11; please send two extra wheelchairs and staggered pickup.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-11-25",
+          "time": "12:05 PM",
+          "reporter_role": "Maternity Registrar",
+          "incident_description": "Postpartum haemorrhage patient to OT urgently; need rapid-response transfer trolley with suction and two porters.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-11-25",
+          "time": "06:40 PM",
+          "reporter_role": "Ambulance Nurse",
+          "incident_description": "Ambulance 02 AC failed during storm; monitor screens fogging. Request immediate vehicle swap and service.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-28",
+          "time": "02:50 PM",
+          "reporter_role": "Haematology Technologist",
+          "incident_description": "Apheresis platelets for Ward 11 need delivery within 30 minutes; rain ongoing—dispatch porter with insulated cold box.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-11-30",
+          "time": "11:35 AM",
+          "reporter_role": "Medical Ward Clerk",
+          "incident_description": "Schedule non-emergency ambulance at 02:00 PM for bed-bound patient to satellite unit for home dialysis training; wheelchair ramp access required.",
+          "urgency": "Low"
+        }
+      ]
+    }
+  },
+  {
+    "month": "December",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-12-01",
+          "time": "02:35 PM",
+          "reporter_role": "MO - ETU",
+          "incident_description": "Request immediate ambulance dispatch with high-clearance vehicle for postpartum hemorrhage transfer from peripheral clinic; roads are waterlogged due to thunder showers.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-12-01",
+          "time": "06:50 PM",
+          "reporter_role": "ETU Sister-in-Charge",
+          "incident_description": "Two porters with stretcher needed at ambulance bay; ramp is wet and patient is bariatric, unsafe for single staff.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-03",
+          "time": "11:10 AM",
+          "reporter_role": "MLT - Microbiology",
+          "incident_description": "Please send motorbike/van courier for CSF sample to Central Lab within 30 minutes; morning showers delayed routine pickup.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-05",
+          "time": "03:05 PM",
+          "reporter_role": "Radiology Registrar",
+          "incident_description": "Stroke code: transfer patient from ETU to CT urgently with oxygen and monitor; porter not arrived and slot is ready.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-12-07",
+          "time": "08:20 AM",
+          "reporter_role": "Ward Sister - Orthopaedics (Ward 3)",
+          "incident_description": "Need tilting wheelchair and two porters to take post-op hip patient to Physio; limited mobility and pain.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-12-07",
+          "time": "08:40 PM",
+          "reporter_role": "Ambulance Driver - Unit 04",
+          "incident_description": "Rear tyre puncture on return from DGH; spare wheel missing; rain starting—request roadside support or replacement ambulance.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-09",
+          "time": "12:32 PM",
+          "reporter_role": "MLT - Blood Bank",
+          "incident_description": "Urgent blood run: 2 units O negative required in OT now for suspected ruptured ectopic; need immediate porter/runner.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-12-11",
+          "time": "02:10 PM",
+          "reporter_role": "Ambulance Coordinator",
+          "incident_description": "Thunderstorms are disrupting radio; please switch inter-facility transfer crews to backup channel and confirm ETAs for two active runs.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-11",
+          "time": "07:25 PM",
+          "reporter_role": "Senior House Officer - ETU",
+          "incident_description": "Ambulance 06 heavily soiled after vomiting case; require full sanitization and restock before night calls.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-12",
+          "time": "09:15 AM",
+          "reporter_role": "ICU Medical Officer",
+          "incident_description": "Transfer ventilated patient to CT; need stretcher team with portable ventilator, oxygen, and monitor checked.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-13",
+          "time": "04:55 PM",
+          "reporter_role": "Medical Officer - Nephrology Ward",
+          "incident_description": "Please reschedule non-emergency transfer to Teaching Hospital Hematology from 6:00 PM to 8:00 PM; dialysis finishing late.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-12-14",
+          "time": "09:08 AM",
+          "reporter_role": "Transport Clerk",
+          "incident_description": "Fuel card for Ambulance 05 rejected at CPC pump; vehicle at quarter tank before scheduled rural clinic transfer.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-12-16",
+          "time": "10:22 AM",
+          "reporter_role": "Theatre Matron",
+          "incident_description": "Lift 2 down—require porter team to move bariatric patient from Ward 8 to OT via service corridor with extra straps.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-16",
+          "time": "04:48 PM",
+          "reporter_role": "OPD Medical Officer",
+          "incident_description": "Rain pooling at OPD front; request transport marshals and extra wheelchairs to divert pickups to rear entrance until dry.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-12-18",
+          "time": "11:03 AM",
+          "reporter_role": "Theatre Sister",
+          "incident_description": "Frozen section x6 awaiting transfer to Pathology; need runner with cold box immediately to meet turnaround time.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-20",
+          "time": "08:17 AM",
+          "reporter_role": "Neonatal Registrar",
+          "incident_description": "Urgent cranial ultrasound: arrange isolette transport for preterm infant from NICU with two trained porters and portable O2.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-12-21",
+          "time": "12:41 PM",
+          "reporter_role": "OPD Senior MO",
+          "incident_description": "Geriatric clinic crowding; please deploy two wheelchairs and one porter to manage patient flow 1-3 PM.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-12-22",
+          "time": "01:26 PM",
+          "reporter_role": "Paediatric SHO",
+          "incident_description": "Ambulance 03 rear AC intermittent; neonatal transfer at 5:00 PM—please swap to serviceable unit before showers.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-24",
+          "time": "10:02 AM",
+          "reporter_role": "Anesthesia SHO - MRI List",
+          "incident_description": "Sedated patient ready for MRI; porter delay risks losing 10:15 slot—need immediate transfer with oxygen nasal prongs.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-25",
+          "time": "09:08 AM",
+          "reporter_role": "Consultant - ETU On-Call",
+          "incident_description": "Community chest pain at church in town; dispatch nearest ambulance with ECG capability and coordinate GPS route.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-12-25",
+          "time": "08:56 PM",
+          "reporter_role": "ICU Sister-in-Charge",
+          "incident_description": "After-hours blood run: 4 platelet units from Blood Bank to ICU; limited lift service—need dedicated runner and lift key.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-26",
+          "time": "03:22 PM",
+          "reporter_role": "Transport Supervisor",
+          "incident_description": "Ambulance 07 overdue for routine service by 500 km; schedule maintenance tonight without affecting cover.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-12-27",
+          "time": "11:47 AM",
+          "reporter_role": "Physiotherapist - Ward 5",
+          "incident_description": "Spinal brace patient requires scoop stretcher transfer to X-ray; family unable to assist, please send team.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-28",
+          "time": "02:19 PM",
+          "reporter_role": "Ambulance Nurse - Unit 02",
+          "incident_description": "Oxygen manifold reading low; request refill run and swap cylinders before evening inter-hospital transfer in humid heat.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-28",
+          "time": "07:12 PM",
+          "reporter_role": "MOH Field Coordinator",
+          "incident_description": "Road to peripheral clinic is waterlogged after shower; send 4x4 ambulance to retrieve outreach team with vaccine cold box.",
+          "urgency": "High"
+        }
+      ]
+    }
+  }
+]

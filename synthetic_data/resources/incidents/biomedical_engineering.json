@@ -1,0 +1,2186 @@
+[
+  {
+    "month": "January",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-01-01",
+          "time": "09:15 AM",
+          "reporter_role": "NICU Sister-in-Charge",
+          "incident_description": "New neonatal infusion pumps delivered to NICU; require acceptance testing, electrical safety check, and calibration before use.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-01-03",
+          "time": "08:20 AM",
+          "reporter_role": "ETU Medical Officer",
+          "incident_description": "Portable suction unit in ETU loses vacuum after 2 minutes; started after morning drizzle, possible moisture ingress in tubing or canister seals.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-03",
+          "time": "03:40 PM",
+          "reporter_role": "Senior Radiographer",
+          "incident_description": "MRI room RF-door interlock intermittently fails and aborted two scans; request urgent inspection of door switch and shielding continuity.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-01-05",
+          "time": "06:10 AM",
+          "reporter_role": "Male Medical Ward Nurse",
+          "incident_description": "Defibrillator self-test showing energy calibration fail; please calibrate and certify before morning rounds.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-01-07",
+          "time": "11:25 AM",
+          "reporter_role": "Theatre Matron",
+          "incident_description": "OT 2 diathermy unit footswitch sticking intermittently; risk of unintended coagulation, needs inspection and function test before afternoon list.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-08",
+          "time": "02:30 PM",
+          "reporter_role": "Laboratory Technologist",
+          "incident_description": "UPS in Pathology Lab beeping with high battery temperature alarm after brief rain; need check on fans, batteries, and load to protect analyzers.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-08",
+          "time": "05:55 PM",
+          "reporter_role": "Radiology Administrative Officer",
+          "incident_description": "DR panel dock shows moisture warning; small roof drip noted near charging bay after short rain. Request drying, inspection, and safety test.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-01-10",
+          "time": "09:05 AM",
+          "reporter_role": "Dialysis Unit In-Charge",
+          "incident_description": "New dialysis machine delivered; needs commissioning with electrical safety test and RO water interface verification before first patient.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-01-10",
+          "time": "01:18 PM",
+          "reporter_role": "MICU SHO",
+          "incident_description": "Ventilator shows flow sensor fault after filter change; please troubleshoot and recalibrate to resume ventilation.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-12",
+          "time": "10:42 AM",
+          "reporter_role": "OPD Nurse",
+          "incident_description": "ECG trolley earth pin loose; patient reported tingling on metal rail. Need leakage test and plug top replacement.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-13",
+          "time": "04:50 PM",
+          "reporter_role": "SCBU Nurse",
+          "incident_description": "Incubator humidity control overshooting; condensation inside hood noted in today’s humid conditions. Please recalibrate sensor and check seals.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-13",
+          "time": "07:20 PM",
+          "reporter_role": "Obstetrics Registrar",
+          "incident_description": "Portable ultrasound probe intermittently disconnects after shifting between clinics during evening rain; suspect connector pins. Needs inspection.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-01-15",
+          "time": "06:35 AM",
+          "reporter_role": "Consultant Anaesthetist",
+          "incident_description": "Theatre 3 anaesthesia gas scavenging monitor not zeroing; likely sensor drift with today’s dry air. Calibrate before morning list.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-17",
+          "time": "08:12 AM",
+          "reporter_role": "CSSD Supervisor",
+          "incident_description": "Autoclave chart recorder not tracing; verify temperature/pressure sensors and recorder before further cycles.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-01-19",
+          "time": "09:28 AM",
+          "reporter_role": "Neuro ICU Nurse",
+          "incident_description": "Bedside monitor SpO2 channel flatlines intermittently since morning drizzle; probable moisture in extension cable. Request replacement/check.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-19",
+          "time": "11:02 AM",
+          "reporter_role": "Theatre Supervisor",
+          "incident_description": "Main theatre isolation transformer alarm for high leakage current after damp morning; urgent insulation and earth continuity testing needed.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-01-20",
+          "time": "02:05 PM",
+          "reporter_role": "Hospital Administrator (Supplies)",
+          "incident_description": "New patient monitors from MSD lack EtCO2 as per spec; request Biomed evaluation and advice on acceptance or return.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-01-21",
+          "time": "03:40 PM",
+          "reporter_role": "Head, Physiotherapy",
+          "incident_description": "TENS units due for annual calibration and safety testing; please schedule preventive maintenance.",
+          "urgency": "Low"
+        },
+        {
+          "date": "2025-01-23",
+          "time": "07:15 AM",
+          "reporter_role": "Blood Bank Medical Officer",
+          "incident_description": "Blood bank refrigerator showing temp fluctuations and alarms overnight; request sensor calibration and condenser coil cleaning.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-25",
+          "time": "10:22 AM",
+          "reporter_role": "Radiographer",
+          "incident_description": "CT injector footswitch unresponsive; contrast list at 1 pm. Need immediate repair or a loaner unit.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-26",
+          "time": "08:47 AM",
+          "reporter_role": "ETU Nursing Officer",
+          "incident_description": "ETU defibrillator pads connector latch broken; require connector repair and advice on compatible pad stock.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-28",
+          "time": "03:05 PM",
+          "reporter_role": "NICU Registrar",
+          "incident_description": "Central oxygen blender alarm for low inlet pressure though pipeline normal; possible internal filter damp due to today’s rain; please inspect.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-28",
+          "time": "06:18 PM",
+          "reporter_role": "Midwife (Labour Room)",
+          "incident_description": "Fetal doppler noisy and cutting out after afternoon rain; suspect cable or probe moisture. Needs check and functional test.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-01-30",
+          "time": "09:56 AM",
+          "reporter_role": "Physiotherapy Technician",
+          "incident_description": "Ultrasound therapy units due for electrical safety testing; previous stickers expired. Request certification.",
+          "urgency": "Low"
+        },
+        {
+          "date": "2025-01-31",
+          "time": "04:33 PM",
+          "reporter_role": "Ward Sister, Surgical Ward 5",
+          "incident_description": "Multiple syringe pumps with noisy plunger drive and uneven rates; please perform PM and calibration before weekend chemo drips.",
+          "urgency": "Medium"
+        }
+      ]
+    }
+  },
+  {
+    "month": "February",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-02-01",
+          "time": "07:40 AM",
+          "reporter_role": "ICU Nurse-in-Charge",
+          "incident_description": "Ventilator at ICU Bed 2 throws 'flow sensor error' on power-up; patient shifted to backup. Please troubleshoot and recalibrate today.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-03",
+          "time": "12:50 PM",
+          "reporter_role": "Consultant Anaesthetist",
+          "incident_description": "Anaesthesia workstation in Theatre 1 showing O2 analyzer drift >5%; need calibration before afternoon list.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-03",
+          "time": "03:30 PM",
+          "reporter_role": "Radiographer",
+          "incident_description": "Portable X-ray unit battery trolley beeping; charger indicator dead, unit not taking charge. Request inspection and battery/charger test.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-02-04",
+          "time": "09:10 AM",
+          "reporter_role": "OPD Medical Officer",
+          "incident_description": "OPD ECG showing heavy mains hum; suspect loose earth/plug issue. Please perform electrical safety test and rectify.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-02-06",
+          "time": "05:05 PM",
+          "reporter_role": "NICU Sister",
+          "incident_description": "Incubator #3 humidity control overshooting to 85% this evening (very humid outside). Kindly check sensor and recalibrate.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-07",
+          "time": "08:25 AM",
+          "reporter_role": "Dialysis Nurse",
+          "incident_description": "Dialyzer #2 conductivity alarm fluctuating though RO reads stable; please verify calibration and temperature probe.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-08",
+          "time": "02:15 PM",
+          "reporter_role": "ETU Medical Officer",
+          "incident_description": "Wall suction at ETU Bay 4 not holding negative pressure; likely regulator diaphragm tear. Need urgent fix during resus.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-02-08",
+          "time": "07:20 PM",
+          "reporter_role": "Radiology Technologist",
+          "incident_description": "MRI room reporting gradient cabinet over-temp after evening drizzle; humidity high. Please check chiller flow and interface alarms before next scan.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-10",
+          "time": "11:35 AM",
+          "reporter_role": "Theatre Sister - OT3",
+          "incident_description": "OT light in Theatre 3 flickers and dims after 10 minutes; driver likely overheating. Please repair before list resumes.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-11",
+          "time": "09:55 AM",
+          "reporter_role": "Laboratory Technologist",
+          "incident_description": "Benchtop centrifuge (Serology) lid interlock not engaging; unit won't start. Request swift repair.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-02-12",
+          "time": "01:20 PM",
+          "reporter_role": "Ward Sister - 5A (Medical)",
+          "incident_description": "PPM due: stickers expired on six syringe pumps (5A). Kindly schedule preventative maintenance this week.",
+          "urgency": "Low"
+        },
+        {
+          "date": "2025-02-13",
+          "time": "10:40 AM",
+          "reporter_role": "Physiotherapy Technologist",
+          "incident_description": "TENS/IF combo unit output irregular; patient felt sudden spikes. Please safety-test and recalibrate channels.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-02-14",
+          "time": "06:10 PM",
+          "reporter_role": "Cath Lab Nurse",
+          "incident_description": "After thundershowers, Cath Lab UPS shifted to bypass and battery alarm active. Request Biomed to test batteries and restore normal mode.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-15",
+          "time": "08:05 AM",
+          "reporter_role": "OPD Pharmacist",
+          "incident_description": "Vaccine fridge showing 10°C; gasket loose and temp drifting with morning heat. Vaccines moved to backup. Please repair and verify calibration.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-17",
+          "time": "07:10 AM",
+          "reporter_role": "CCU Registrar",
+          "incident_description": "Defibrillator in CCU Bed 1 failed self-test; charge not reaching set energy. Likely capacitor fault. Urgent service required.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-02-18",
+          "time": "03:25 PM",
+          "reporter_role": "Sonographer",
+          "incident_description": "Abdominal US probe intermittently disconnects; suspect connector oxidised (sea breeze today). Please clean contacts and test.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-02-19",
+          "time": "04:45 PM",
+          "reporter_role": "House Officer - Ward 7B",
+          "incident_description": "Tingling felt touching patient monitor cart; possible leakage current/earthing issue. Request immediate electrical safety check.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-20",
+          "time": "09:15 AM",
+          "reporter_role": "CSSD Technician",
+          "incident_description": "Autoclave #1 not achieving 134°C, stalls at 129°C; morning rain increased condensate. Sterilization backlog—urgent attention.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-02-20",
+          "time": "01:55 PM",
+          "reporter_role": "MO - Surgical Ward",
+          "incident_description": "Infusion pump on Bed 12 gives intermittent 'occlusion' though line patent; pressure sensor likely out of calibration. Please check.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-02-22",
+          "time": "02:30 PM",
+          "reporter_role": "Procurement Officer",
+          "incident_description": "Request Biomed technical evaluation of three quotations for two portable suction units for ETU—spec compliance and service terms review needed.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-02-23",
+          "time": "11:10 AM",
+          "reporter_role": "Blood Bank Technologist",
+          "incident_description": "Platelet agitator speed unstable and noisy; fear bearing failure affecting agitation rate. Please service today.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-24",
+          "time": "02:40 PM",
+          "reporter_role": "NICU Medical Officer",
+          "incident_description": "Phototherapy unit Bed K irradiance low despite new tubes; kindly measure with radiometer and calibrate or replace ballast.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-26",
+          "time": "06:30 PM",
+          "reporter_role": "Consultant Anaesthetist",
+          "incident_description": "Compressed-air dryer in plant room got wet after gusty shower; theatres receiving low pressure alarms. Need urgent restoration and safety check.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-02-27",
+          "time": "08:30 AM",
+          "reporter_role": "Theatre Assistant - Orthopaedics",
+          "incident_description": "Orthopaedic drill battery pack swollen; charger overheating. Please isolate, replace battery, and test charger.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-28",
+          "time": "10:15 AM",
+          "reporter_role": "Ward Sister - Postnatal",
+          "incident_description": "New infant warmer delivered; request installation, acceptance testing (ES/functional), and brief user orientation today.",
+          "urgency": "Medium"
+        }
+      ]
+    }
+  },
+  {
+    "month": "March",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-03-03",
+          "time": "02:15 PM",
+          "reporter_role": "Radiographer, MRI Suite",
+          "incident_description": "Power dip triggered MRI chiller high-temp alarm; scanner in standby. Please check cooling loop, UPS logs, and restart protocol.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-03",
+          "time": "03:40 PM",
+          "reporter_role": "Staff Nurse, ETU",
+          "incident_description": "Defibrillator failed self-test after flicker; battery shows ‘replace’. Need battery verification and energy output check before night shift.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-03-03",
+          "time": "05:10 PM",
+          "reporter_role": "Endoscopy Nurse",
+          "incident_description": "Endoscopy stack lost power; ELCB tripped and moisture noted near socket. Request insulation/leakage tests and safe restoration.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-08",
+          "time": "11:05 AM",
+          "reporter_role": "NICU Staff Nurse",
+          "incident_description": "Incubator humidity sensor spiking to 95% after morning shower; alarms frequent. Please recalibrate sensor and check humidifier module.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-08",
+          "time": "07:20 PM",
+          "reporter_role": "Radiology Registrar",
+          "incident_description": "Portable X-ray battery charger tripped ELCB post-rain; faint hot smell. Request isolation test on charger and cable before reuse.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-12",
+          "time": "09:10 AM",
+          "reporter_role": "Nurse-in-Charge, Dialysis Unit",
+          "incident_description": "RO plant conductivity fluctuating since last night’s rain; HD sessions delayed. Need probe calibration and prefilter/carbon check.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-12",
+          "time": "12:25 PM",
+          "reporter_role": "Consultant Anaesthetist (OT)",
+          "incident_description": "Smoke evacuator trips mid-case after filter change in humid theatre. Please test PSU/earth leakage and certify for afternoon list.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-03-13",
+          "time": "02:00 PM",
+          "reporter_role": "Hospital Administrator (Procurement)",
+          "incident_description": "Request BME technical evaluation of quotes for two anaesthesia monitors; need compatibility review with existing gas modules and network.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-03-16",
+          "time": "06:50 PM",
+          "reporter_role": "CSSD Supervisor",
+          "incident_description": "After heavy rain, main autoclave shows vacuum leak alarm; won’t reach setpoint. Please inspect door gasket, run leak test, and recalibrate.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-16",
+          "time": "08:35 PM",
+          "reporter_role": "MO, ETU",
+          "incident_description": "Two portable suction machines cutting out; cords warm and filters damp after downpour. Need motor check, hose replacement, and PAT.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-18",
+          "time": "03:10 PM",
+          "reporter_role": "MRI Technologist",
+          "incident_description": "Chiller approach temp rising and system near thermal shutdown. Request coil/condensor cleaning and coolant level check.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-19",
+          "time": "09:15 AM",
+          "reporter_role": "ICU Consultant",
+          "incident_description": "Power fluctuation; one ventilator rebooted despite UPS. Patient bagged briefly. Need UPS load test and internal battery replacement check.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-03-19",
+          "time": "01:40 PM",
+          "reporter_role": "Theatre Sister",
+          "incident_description": "Surgical lights flicker; dimmer unstable. Please inspect driver PSU and isolation transformer in OT panel.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-20",
+          "time": "10:30 AM",
+          "reporter_role": "OPD Matron",
+          "incident_description": "Routine PM overdue on nebulizers and wall suction regulators in OPD; heavy clinic load. Request scheduling and calibration tags this week.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-03-22",
+          "time": "04:55 PM",
+          "reporter_role": "Endoscopy MO",
+          "incident_description": "Washer-disinfector trips ELCB during heat cycle. Need heater element insulation test and earth continuity verification.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-23",
+          "time": "09:05 AM",
+          "reporter_role": "Blood Bank Technologist",
+          "incident_description": "Refrigerated centrifuge overheating mid-run; hot bearing smell on this very hot morning. Please service fan, bearings, and recalibrate RPM.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-23",
+          "time": "02:20 PM",
+          "reporter_role": "Sonographer",
+          "incident_description": "Ultrasound image intermittently drops; rear fan noisy in heat. Request filter cleaning, probe connector reseat, and QA phantom test.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-03-24",
+          "time": "08:15 AM",
+          "reporter_role": "Ward Sister, Medical Ward 3",
+          "incident_description": "ECG trolley plug top earth pin broken; using temporary extension. Replace plug, test earth continuity, and label safe today.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-25",
+          "time": "11:40 AM",
+          "reporter_role": "NICU Registrar",
+          "incident_description": "Phototherapy unit shows low irradiance on meter; one tube darkened. Please replace tubes and verify output at set distance.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-03-26",
+          "time": "07:30 AM",
+          "reporter_role": "OT Nurse",
+          "incident_description": "Electrosurgical unit intermittently alarms ‘return plate’; gel adequate. Check REM circuit, cable, and provide service spare.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-27",
+          "time": "09:50 AM",
+          "reporter_role": "Physiotherapist",
+          "incident_description": "Two TENS units with irregular output; scratchy knobs and frayed leads. Need output calibration, lead replacement, and safety test.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-03-27",
+          "time": "03:35 PM",
+          "reporter_role": "MO, OPD",
+          "incident_description": "Digital BP machine shows ‘Err’; cuff bladder leaking and pump noisy. Request quick repair or swap before evening clinic.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-28",
+          "time": "01:25 PM",
+          "reporter_role": "Radiology Staff Nurse",
+          "incident_description": "CT contrast injector footswitch sticking; risk of unintended run. Please replace switch and verify injection calibration.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-30",
+          "time": "08:10 AM",
+          "reporter_role": "NICU Nurse-in-Charge",
+          "incident_description": "NICU UPS beeping and on bypass, monitors on mains. Need battery test, bypass cause analysis, and insulation checks.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-03-30",
+          "time": "02:45 PM",
+          "reporter_role": "Biochemistry Lab Manager",
+          "incident_description": "Chemistry analyzer leaking at chiller manifold; damp near power strip after humid morning. Please isolate, replace tubing, and safety test.",
+          "urgency": "High"
+        }
+      ]
+    }
+  },
+  {
+    "month": "April",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-04-01",
+          "time": "09:15 AM",
+          "reporter_role": "Supplies Officer",
+          "incident_description": "Six syringe pumps received at store; require installation, calibration, and acceptance testing before issue to ICU.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-04-02",
+          "time": "01:05 PM",
+          "reporter_role": "ETU Nurse",
+          "incident_description": "Defibrillator failed daily self-test; battery shows over-temp warning in the heat. Request functional check and battery analyzer run.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-02",
+          "time": "08:40 PM",
+          "reporter_role": "Senior Radiographer",
+          "incident_description": "Portable X-ray trips MCB during exposure and shows kV drift. Please safety-test and recalibrate.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-04-04",
+          "time": "03:25 PM",
+          "reporter_role": "Consultant Anaesthetist",
+          "incident_description": "ICU ventilator delivering inconsistent VT after brief power fluctuation. Verify flow sensor and alarm limits before next case.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-04-04",
+          "time": "05:10 PM",
+          "reporter_role": "Ward Master - Surgical",
+          "incident_description": "Rain leak dripped onto ward monitor trolley; device powered off. Need drying protocol, insulation resistance, and safety clearance.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-06",
+          "time": "10:20 AM",
+          "reporter_role": "CSSD In-Charge",
+          "incident_description": "Autoclave aborts at 121°C; temperature probe oscillating. Please service and recalibrate today.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-08",
+          "time": "11:35 AM",
+          "reporter_role": "Laboratory Technologist",
+          "incident_description": "Centrifuge vibrating with faint burning smell after the brief downpour. Check bearings, motor brushes, and balance sensor.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-10",
+          "time": "04:30 PM",
+          "reporter_role": "Theatre Sister",
+          "incident_description": "Main Theatre UPS beeping—input fault after lightning; running on battery during case. Need urgent diagnostics and transfer load check.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-04-10",
+          "time": "09:10 PM",
+          "reporter_role": "Radiology MO",
+          "incident_description": "CT chiller alarm: high condenser temp post-storm; scanner in standby. Please inspect chiller/pumps and manage safe restart.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-04-11",
+          "time": "02:45 PM",
+          "reporter_role": "Theatre Admin Officer",
+          "incident_description": "Quarterly PM for anaesthesia machines overdue. Request full preventive maintenance and leak/flow calibration across 5 theatres.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-04-12",
+          "time": "06:20 PM",
+          "reporter_role": "NICU Nurse",
+          "incident_description": "Incubator humidity sensor stuck at 99% after storm; condensation inside hood. Need sensor calibration/replacement and safety check.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-14",
+          "time": "07:50 PM",
+          "reporter_role": "Dialysis Unit Nurse",
+          "incident_description": "RO plant conductivity trending high; pre-filters show pressure drop. Please test and replace cartridges before morning sessions.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-15",
+          "time": "11:05 AM",
+          "reporter_role": "OPD MO",
+          "incident_description": "OPD ECG gives noisy traces; wall socket earth pin loose. Need socket fix and electrical safety test before clinic resumes.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-04-15",
+          "time": "06:35 PM",
+          "reporter_role": "Surgical Registrar",
+          "incident_description": "Minor Theatre suction unit stopped mid-procedure; hot smell after rain-related fluctuation. Require immediate swap and repair.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-16",
+          "time": "10:00 AM",
+          "reporter_role": "Nursing Superintendent",
+          "incident_description": "New ward glucometers need installation, QC with control solutions, and user verification logs before rollout.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-04-18",
+          "time": "11:10 AM",
+          "reporter_role": "Senior Physiotherapist",
+          "incident_description": "Portable ultrasound head overheating; output irregular. Please calibrate and perform leakage/earth safety tests.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-04-18",
+          "time": "07:55 PM",
+          "reporter_role": "NICU Sister-in-Charge",
+          "incident_description": "Lightning spike this evening: two infusion pumps show 'motor stall'. Need urgent inspection and loaners tonight.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-04-20",
+          "time": "08:25 PM",
+          "reporter_role": "Blood Bank MO",
+          "incident_description": "Blood bank fridge fluctuating between 2–8°C post-storm; compressor short-cycling. Verify sensors/alarms and fit data logger.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-04-21",
+          "time": "09:40 AM",
+          "reporter_role": "Procurement Officer",
+          "incident_description": "Request specs and compatibility advice for diathermy pencils and patient plates for Valleylab Force FXc units.",
+          "urgency": "Low"
+        },
+        {
+          "date": "2025-04-22",
+          "time": "02:30 PM",
+          "reporter_role": "Consultant Surgeon",
+          "incident_description": "Main Theatre diathermy footswitch intermittently unresponsive—possible moisture ingress. Check cable/connector and insulation.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-24",
+          "time": "08:10 PM",
+          "reporter_role": "Radiology Consultant",
+          "incident_description": "MRI suite shows condensation near RF door. Need chiller/cold head safety check and dehumidification before list.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-04-25",
+          "time": "09:25 AM",
+          "reporter_role": "CCU Sister",
+          "incident_description": "Twelve new bedside monitors require earth-bond tests and acceptance documentation before handover.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-04-27",
+          "time": "03:40 PM",
+          "reporter_role": "Endoscopy Nurse",
+          "incident_description": "Endoscopy light source flickers; xenon lamp near end of life. Please confirm lamp hours, advise procurement, and replace.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-04-27",
+          "time": "09:20 PM",
+          "reporter_role": "On-call Radiographer",
+          "incident_description": "After intense rain, DR panel battery not charging; dock LED flickers. Clean contacts and test charger/pack.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-29",
+          "time": "05:50 AM",
+          "reporter_role": "Theatre Sister",
+          "incident_description": "Pendant arm earth continuity failed during pre-list check (reading >0.2Ω). Please rectify and certify before cases.",
+          "urgency": "Critical"
+        }
+      ]
+    }
+  },
+  {
+    "month": "May",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-05-01",
+          "time": "02:40 PM",
+          "reporter_role": "ICU Charge Nurse",
+          "incident_description": "ICU UPS switched to battery twice; ventilator and syringe pumps briefly reset. Please check earthing, input stability, and UPS logs.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-01",
+          "time": "05:55 PM",
+          "reporter_role": "Radiology Technologist",
+          "incident_description": "MRI chiller raised a moisture/high RH alarm after heavy rain; intermittent trips observed. Request inspection, dehumidification, and chiller control check.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-03",
+          "time": "08:10 AM",
+          "reporter_role": "Dialysis Unit In-Charge Nurse",
+          "incident_description": "RO plant conductivity spiked to 25 µS/cm after waterlogging near pre-filters. Dialysis on hold—please recalibrate sensor and change pre-filters.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-05-03",
+          "time": "09:25 PM",
+          "reporter_role": "ETU Medical Officer",
+          "incident_description": "Defibrillator not charging post-thunder; charger shows error and faint burnt smell. Need immediate bench test and charger board repair.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-05-04",
+          "time": "11:05 AM",
+          "reporter_role": "Procurement Officer",
+          "incident_description": "New infusion pumps delivered. Kindly perform acceptance testing, leakage current checks, and calibration before issue to wards.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-05-05",
+          "time": "12:30 PM",
+          "reporter_role": "Theatre Sister",
+          "incident_description": "Anaesthesia machine FiO2 drifts by −6% since the storm; likely O2 cell moisture/aging. Please calibrate or replace cell before afternoon list.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-06",
+          "time": "04:15 PM",
+          "reporter_role": "Lab Manager",
+          "incident_description": "Blood bank fridge recorded 7.8°C for 10 minutes during squally winds; compressor short-cycling. Check UPS output, thermostat, and download logger.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-08",
+          "time": "10:20 AM",
+          "reporter_role": "NICU Nurse",
+          "incident_description": "Incubator RH remains ~75% despite 60% setpoint after widespread rain. Request humidity sensor calibration and chamber seal check.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-09",
+          "time": "07:45 AM",
+          "reporter_role": "Radiographer",
+          "incident_description": "Portable X-ray shows generator fault E-17; suspect moisture in HV cable after rains. Need insulation resistance test and drying/service.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-09",
+          "time": "01:50 PM",
+          "reporter_role": "Theatre Technician",
+          "incident_description": "Theatre 1 suction regulator dial stuck at 200 mmHg; gauge cracked. Please replace/regulate before next case starts.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-11",
+          "time": "03:40 PM",
+          "reporter_role": "CCU Registrar",
+          "incident_description": "After the downpour/outage, central monitor not pulling waveforms from Beds 3–6; bedside units OK. Kindly check the biomed network switch/PoE.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-12",
+          "time": "09:35 AM",
+          "reporter_role": "Quality Officer",
+          "incident_description": "Quarterly calibration pending for OPD BP sets and weighing scales; audit this week. Please schedule PM and update calibration stickers.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-05-13",
+          "time": "06:10 AM",
+          "reporter_role": "CSSD Supervisor",
+          "incident_description": "Autoclave failed Bowie-Dick and vacuum leak tests; door gasket worn. Sterilization release at risk—request gasket replacement and re-test.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-13",
+          "time": "02:05 PM",
+          "reporter_role": "MRI Technologist",
+          "incident_description": "RF door not latching flush; noise floor up ~6 dB with today’s humidity. Please realign hinges and replace RF gasket.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-15",
+          "time": "11:50 AM",
+          "reporter_role": "Physiotherapy Unit In-Charge",
+          "incident_description": "Therapeutic ultrasound output ~30% low on meter; patients report less warmth. Request recalibration and transducer check.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-05-17",
+          "time": "02:25 PM",
+          "reporter_role": "ICU Consultant",
+          "incident_description": "Ventilator alarming high peak pressure; expiratory valve sticking after storms. Immediate valve service/replacement required—patient at risk.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-05-17",
+          "time": "08:55 AM",
+          "reporter_role": "Consultant Anaesthetist",
+          "incident_description": "Theatre 2 OT lights flicker since generator changeover; LIM shows 3 mA. Please verify isolation transformer and earth reference.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-19",
+          "time": "07:30 PM",
+          "reporter_role": "ETU Staff Nurse",
+          "incident_description": "Portable suction unit battery dies <3 minutes after full charge; heavy rain all day. Need battery replacement and function test for resus readiness.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-21",
+          "time": "10:05 AM",
+          "reporter_role": "OPD Medical Officer",
+          "incident_description": "OPD glucometers show inconsistent control results (±30 mg/dL). Please run QC, recalibrate, and verify strip lot integrity.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-05-23",
+          "time": "04:45 PM",
+          "reporter_role": "Endoscopy Nurse",
+          "incident_description": "Leak from ceiling wet the stack trolley extension; faint smoke smell. Request PAT/electrical safety test and replacement with medical-grade board.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-25",
+          "time": "12:15 PM",
+          "reporter_role": "Cath Lab Coordinator",
+          "incident_description": "UPS shows ‘battery temp high’ and ‘charger fault’ after intense thunder; cases paused. Need urgent inspection and load test.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-05-27",
+          "time": "09:00 AM",
+          "reporter_role": "Medical Ward Sister",
+          "incident_description": "New patient monitors for Ward 7B need acceptance and electrical safety checks; two units flagged high leakage on prelim test.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-05-28",
+          "time": "06:35 AM",
+          "reporter_role": "NICU Sister-in-Charge",
+          "incident_description": "Radiant warmer heater cycles erratically; skin probe reading jumps in humid, windy conditions. Replace thermistor/probe and recalibrate.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-28",
+          "time": "11:20 AM",
+          "reporter_role": "Theatre Nurse",
+          "incident_description": "Diathermy shows ‘HF neutral fault’ intra-op; pad cable visually intact. Need immediate check of return electrode monitoring circuit.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-05-30",
+          "time": "03:05 PM",
+          "reporter_role": "Hospital Administrator",
+          "incident_description": "Please evaluate quotations for syringe pumps and advise on standard specs, vendor support, and AMC before raising LPO.",
+          "urgency": "Low"
+        }
+      ]
+    }
+  },
+  {
+    "month": "June",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-06-01",
+          "time": "07:40 AM",
+          "reporter_role": "ICU Sister-in-Charge",
+          "incident_description": "PB840 ventilator in ICU Bed 3 shows O2 cell drift and fails auto-cal; please recalibrate/replace sensor and verify alarms.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-01",
+          "time": "01:15 PM",
+          "reporter_role": "Senior Radiographer - MRI",
+          "incident_description": "MRI RF room humidity at 72% by wall hygrometer; slight condensation near waveguide; request dehumidifier service and door sweep seal check.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-06-02",
+          "time": "02:55 PM",
+          "reporter_role": "OPD Medical Officer (MO)",
+          "incident_description": "OPD defib (Mindray) failed self-test with 'Charge Fault'; UPS beeped during sudden rain burst; urgent repair and safety check required.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-06-04",
+          "time": "03:20 PM",
+          "reporter_role": "Consultant Anaesthetist",
+          "incident_description": "Anaesthesia workstation (GE Aisys) O2 flow sensor intermittently erratic post-thunderstorm; recalibration and leak test needed before afternoon list.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-04",
+          "time": "10:05 AM",
+          "reporter_role": "NICU Staff Nurse",
+          "incident_description": "NICU radiant warmer overshooting setpoint by +1.5°C; please calibrate servo probe and verify PID settings.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-06-06",
+          "time": "11:30 AM",
+          "reporter_role": "Dialysis Unit Nurse",
+          "incident_description": "Dialysis RO panel conductivity reading unstable; suspect grounding/moisture after downpour; need immediate inspection before next session.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-08",
+          "time": "02:20 PM",
+          "reporter_role": "MLT - Haematology",
+          "incident_description": "Haematology centrifuge trips imbalance sensor even on balanced loads; request calibration of tachometer and vibration sensor.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-06-08",
+          "time": "06:40 PM",
+          "reporter_role": "Radiographer - Portable X-ray",
+          "incident_description": "Portable X-ray battery pack swollen and warm; please isolate, evaluate charger, and provide replacement battery.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-09",
+          "time": "08:10 PM",
+          "reporter_role": "ETU Nurse",
+          "incident_description": "ETU monitor (Bed 6) SpO2 channel intermittently flat; new sensor tried; likely module fault—request board-level check.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-11",
+          "time": "03:05 PM",
+          "reporter_role": "CSSD In-Charge",
+          "incident_description": "CSSD autoclave failed Bowie–Dick twice; vacuum leak suspected at door gasket; need ASAP service to resume packs.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-11",
+          "time": "11:50 AM",
+          "reporter_role": "Senior Physiotherapist",
+          "incident_description": "Several TENS/IF units in Physio lack valid electrical safety stickers; request leakage-current tests and tagging.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-06-13",
+          "time": "09:25 AM",
+          "reporter_role": "Ward Sister - Medical Unit",
+          "incident_description": "Surgical ward infusion pumps: PM overdue on 5 units; two new pumps delivered today need incoming inspection, calibration, and asset tagging.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-06-15",
+          "time": "04:35 PM",
+          "reporter_role": "ICU Medical Officer",
+          "incident_description": "ICU syringe pump alarming 'High Occlusion' at low rates; occlusion pressure seems out of spec; please recalibrate.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-15",
+          "time": "12:15 PM",
+          "reporter_role": "Theatre Nurse (Main OT)",
+          "incident_description": "Main OT ceiling light intermittently flickers during strong winds; check driver, mounting, and earth bonding before evening list.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-06-17",
+          "time": "02:05 PM",
+          "reporter_role": "Blood Bank Technologist",
+          "incident_description": "Blood bank fridge logged temperature spikes during thunder burst; verify sensor calibration, compressor health, and UPS performance; stock at risk.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-06-17",
+          "time": "09:40 AM",
+          "reporter_role": "Dental Surgeon",
+          "incident_description": "Dental chair gives slight tingling on armrest; urgent electrical safety test and earthing verification needed.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-18",
+          "time": "08:15 AM",
+          "reporter_role": "Senior Radiographer - CT",
+          "incident_description": "CT injector foot pedal non-responsive after early downpour; suspected water ingress at connector; urgent repair to avoid delays.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-18",
+          "time": "05:10 PM",
+          "reporter_role": "Paediatrics Registrar",
+          "incident_description": "NICU blender O2/air selector stiff; flow readings drift; request calibration and service.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-06-20",
+          "time": "10:20 AM",
+          "reporter_role": "Hospital Administrator (Procurement)",
+          "incident_description": "Ventilator tender query: vendor specifies 16A sockets and 800 VA per unit; need BMEU advice on power, plug type, and UPS compatibility before bid closes.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-22",
+          "time": "12:30 PM",
+          "reporter_role": "OPD Nursing Officer",
+          "incident_description": "OPD ECG trolley earth pin broken; chassis not earthed—please replace plug, perform safety test, and tag.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-22",
+          "time": "03:45 PM",
+          "reporter_role": "Physiotherapy Assistant",
+          "incident_description": "Physio gel warmer overheating; thermostat likely stuck—inspect and calibrate to prevent burns.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-06-24",
+          "time": "08:50 AM",
+          "reporter_role": "ICU Sister",
+          "incident_description": "ICU wall suction regulators reading low by ~20 mmHg; request bench calibration and leak check.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-06-24",
+          "time": "01:25 PM",
+          "reporter_role": "Radiology MO",
+          "incident_description": "Fluoroscopy bay UPS beeping on bypass since storm; batteries weak—please test, replace, and load-verify.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-26",
+          "time": "11:05 AM",
+          "reporter_role": "Consultant Ophthalmologist",
+          "incident_description": "Eye theatre phaco handpiece overheating alert at low power; check handpiece calibration, cooling, and footswitch cable.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-28",
+          "time": "02:50 PM",
+          "reporter_role": "OT Technician",
+          "incident_description": "Main OT diathermy shows 'Return Electrode Fault' despite new pads; inspect REM circuit, patient plate cable, and earth bonding—procedure on hold.",
+          "urgency": "Critical"
+        }
+      ]
+    }
+  },
+  {
+    "month": "July",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-07-01",
+          "time": "08:20 AM",
+          "reporter_role": "Staff Nurse - Medical Ward 7",
+          "incident_description": "Portable suction unit losing vacuum intermittently; vacuum drops from -500 to -200 mmHg and gauge flickers. Request check of pump, tubing seals, and safety testing.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-03",
+          "time": "02:15 AM",
+          "reporter_role": "NICU Nurse-in-Charge",
+          "incident_description": "Warmer bed B tripped the RCCB twice; power bar feels warm. Please inspect insulation, replace socket if damp, and perform electrical safety test.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-07-04",
+          "time": "06:40 AM",
+          "reporter_role": "Theatre Sister - OT 2",
+          "incident_description": "New anaesthesia workstation delivered last night; surgery list pending acceptance test and gas leak check. Need installation, calibration, and sign-off before 8:30.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-06",
+          "time": "11:05 AM",
+          "reporter_role": "Senior Radiographer",
+          "incident_description": "DR panel battery not charging; dock shows solid red and panel powers off mid-exam. Please check charger contacts and cell health.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-07-07",
+          "time": "07:10 AM",
+          "reporter_role": "Dialysis Unit Nurse",
+          "incident_description": "Two HD machines displayed 'temp sensor fault' after brief power dip during rain; treatments delayed. Need inspection, electrical safety, and recalibration before next shift.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-07",
+          "time": "03:55 PM",
+          "reporter_role": "OPD Medical Officer",
+          "incident_description": "ECG machine prints very faint traces; thermal head seems misaligned and paper sticks in humid clinic. Please service and recalibrate print density.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-07-09",
+          "time": "12:10 AM",
+          "reporter_role": "ICU Registrar",
+          "incident_description": "Ventilator in Bed 3 alarms 'expiratory leak/flow sensor error' post thunderstorm flicker; backup running. Request immediate check, flow sensor calibration, and battery test.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-07-09",
+          "time": "02:35 PM",
+          "reporter_role": "MLT - Blood Gas Lab",
+          "incident_description": "ABG analyzer chamber temp unstable; UPS alarmed after midday lightning. Need stabilizer/UPS verification and instrument calibration check.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-11",
+          "time": "09:25 AM",
+          "reporter_role": "Physiotherapy Technician",
+          "incident_description": "Ultrasound therapy unit outputs low at 1.0 W/cm2 setting; patients report no warmth. Please calibrate output and inspect applicator cable.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-07-12",
+          "time": "05:30 PM",
+          "reporter_role": "CSSD Supervisor",
+          "incident_description": "Main autoclave leaking steam at door; cycle aborts near 121C. Require gasket replacement, pressure test, and safety interlock check.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-14",
+          "time": "10:18 PM",
+          "reporter_role": "ETU House Officer",
+          "incident_description": "Crash trolley defibrillator failed self-test (battery fault, pads not detected). Needs battery replacement, pad port check, and function verification now.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-07-16",
+          "time": "03:20 PM",
+          "reporter_role": "Matron - Surgical Ward 5",
+          "incident_description": "Preventive maintenance overdue on 8 syringe pumps (stickers expired May). Kindly schedule PM and electrical safety testing this week.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-07-17",
+          "time": "08:05 AM",
+          "reporter_role": "Consultant Radiologist",
+          "incident_description": "CT injector footswitch intermittently dead; suspect cable damage after corridor leak yesterday. Please test continuity and replace footswitch if needed; ensure earthing.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-17",
+          "time": "07:50 PM",
+          "reporter_role": "MRI Technologist",
+          "incident_description": "MRI chiller alarm 'high water temp' and UPS on beeper after rain-related power dips; gradients disabled. Urgent triage with vendor and cooling checks requested.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-07-19",
+          "time": "07:30 AM",
+          "reporter_role": "Consultant Anaesthetist - OT 1",
+          "incident_description": "Capnograph readings erratic; water trap full and sample pump noisy. Need calibration, water trap replacement, and leak test before first case.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-21",
+          "time": "09:40 AM",
+          "reporter_role": "Dental Surgeon - OPD",
+          "incident_description": "Dental chair compressor trips on thermal cutout; moisture trap leaking in humid room. Request service, drain filter replacement, and pressure switch calibration.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-07-21",
+          "time": "08:25 PM",
+          "reporter_role": "Sister-in-Charge - Maternity Ward",
+          "incident_description": "Fetal Doppler audio cuts off; cable frayed near probe entry. Please replace cable/probe and perform electrical safety test tonight.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-23",
+          "time": "01:15 PM",
+          "reporter_role": "OPD Staff Nurse",
+          "incident_description": "Nebulizer compressor output weak (<6 L/min), delaying paediatric cases. Need flow calibration and filter change.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-07-24",
+          "time": "04:50 AM",
+          "reporter_role": "ICU Senior Nurse",
+          "incident_description": "Bed 6 monitor shows 'mains earth leakage' and slight tingle at rail after night rain; headwall outlet damp. Urgent isolation and safety tests required.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-07-24",
+          "time": "11:35 AM",
+          "reporter_role": "Eye Clinic MLT",
+          "incident_description": "Slit lamp illumination flickers; 230V adaptor humming since gusty rain. Please test PSU, replace failing transformer, and verify earthing.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-26",
+          "time": "02:10 PM",
+          "reporter_role": "Procurement Officer",
+          "incident_description": "Request technical evaluation and acceptance testing plan for 15 infusion pumps under new tender; need spec compliance with SLS/IEC before LPO.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-07-29",
+          "time": "06:55 AM",
+          "reporter_role": "ICU Charge Nurse",
+          "incident_description": "Syringe pump gives frequent false occlusion alarms at 1 mL/hr and 3 mL/hr; line is patent. Please recalibrate occlusion sensor and update alarm limits.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-30",
+          "time": "01:05 AM",
+          "reporter_role": "ETU Medical Officer",
+          "incident_description": "Portable X-ray tripped circuit during thunder; burning smell from 13A plug-top. Need immediate PAT, cord/plug replacement, and insulation test.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-07-30",
+          "time": "03:45 PM",
+          "reporter_role": "Paediatric SHO - Ward 9",
+          "incident_description": "Phototherapy unit irradiance down to 6 uW/cm2/nm on meter; infants jaundiced. Replace tubes, clean reflectors, and re-measure before use.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-31",
+          "time": "10:10 AM",
+          "reporter_role": "Dietetics Officer",
+          "incident_description": "Body composition analyzer shows erratic impedance and 'cal error.' Please calibrate, check electrode pads, and verify scale zero.",
+          "urgency": "Medium"
+        }
+      ]
+    }
+  },
+  {
+    "month": "August",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-08-01",
+          "time": "08:15 AM",
+          "reporter_role": "Staff Nurse - Medical Ward 3",
+          "incident_description": "Bedside patient monitor intermittently loses SpO2 reading; cables changed but issue persists. Please check module and recalibrate before ward round.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-02",
+          "time": "02:35 PM",
+          "reporter_role": "Nurse in Charge - NICU",
+          "incident_description": "During brief thunder, NICU UPS kept beeping and some monitors reset. Request battery test and mains conditioning check.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-02",
+          "time": "03:10 PM",
+          "reporter_role": "Consultant Surgeon - Theatre 1",
+          "incident_description": "Diathermy unit shows earth-fault alarm when power increased; likely moisture ingress after afternoon rain. Need immediate safety test and repair.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-08-04",
+          "time": "09:05 AM",
+          "reporter_role": "Supply Officer - Procurement",
+          "incident_description": "New infusion pumps delivered for Paediatrics. Please conduct acceptance testing, asset tagging, and commissioning today if possible.",
+          "urgency": "Low"
+        },
+        {
+          "date": "2025-08-05",
+          "time": "06:40 PM",
+          "reporter_role": "Radiographer - Radiology",
+          "incident_description": "Portable X-ray charger trolley smells hot; fans not running after brief thunder. Kindly inspect charger PSU before night duty.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-07",
+          "time": "11:20 AM",
+          "reporter_role": "Ward Sister - Surgical Ward 2",
+          "incident_description": "Syringe pump shows rate drift by ~2 ml/hr against manual calc. Request calibration and verification report.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-08-08",
+          "time": "01:15 PM",
+          "reporter_role": "CSSD Supervisor",
+          "incident_description": "Autoclave failed vacuum leak test; heavy rain today and condensate seen at trap. Need seal replacement and revalidation.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-08",
+          "time": "07:50 AM",
+          "reporter_role": "MO - ETU",
+          "incident_description": "Defibrillator shows 'check pads' even with new electrodes; shock advisory delayed. Please test ECG input and energy output ASAP.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-08-10",
+          "time": "12:30 PM",
+          "reporter_role": "Consultant Paediatrician",
+          "incident_description": "Infant warmer overshooting to 38°C on set 36.5°C in today’s heat. Kindly calibrate skin probe and control loop.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-11",
+          "time": "10:10 AM",
+          "reporter_role": "OPD Staff Nurse",
+          "incident_description": "ECG machine prints noisy tracings, 'mains interference' even on battery. Request check of leads and internal filtering.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-08-12",
+          "time": "01:25 PM",
+          "reporter_role": "Consultant Anaesthetist",
+          "incident_description": "OT capnograph baseline creeping up; suspect water trap sensor drift. Please recalibrate before afternoon list.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-13",
+          "time": "02:55 PM",
+          "reporter_role": "Dialysis Unit Nurse",
+          "incident_description": "RO conductivity alarm trending high after thunder; dialysis machines pausing frequently. Need sensor check and interlock verification.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-08-13",
+          "time": "04:10 PM",
+          "reporter_role": "Radiology Registrar",
+          "incident_description": "CT contrast injector touchscreen unresponsive post power flicker. Request PSU and controller board diagnosis.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-15",
+          "time": "11:45 AM",
+          "reporter_role": "Cold Chain Pharmacist",
+          "incident_description": "Vaccine fridge logger shows noon spikes; probe may be misplaced or out of calibration. Please verify and re-calibrate.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-08-16",
+          "time": "09:30 AM",
+          "reporter_role": "Theatre Matron",
+          "incident_description": "New transport ventilator (donation) requires acceptance testing, electrical safety checks, and brief user orientation.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-08-17",
+          "time": "05:25 PM",
+          "reporter_role": "NICU Nurse",
+          "incident_description": "Ventilator humidifier chamber leaking; floor damp after gusty rain. Please replace seals and perform earth leakage test.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-17",
+          "time": "08:05 PM",
+          "reporter_role": "House Officer - MICU",
+          "incident_description": "Central station shows 'network down' for Beds 3 & 4 since storm; bedside monitors local only. Kindly check switch/isolator and restore connectivity.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-19",
+          "time": "07:10 AM",
+          "reporter_role": "Theatre Technician - Orthopaedics",
+          "incident_description": "C-arm footswitch intermittently non-responsive; may be moisture ingress. Need check before first case.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-22",
+          "time": "03:20 PM",
+          "reporter_role": "Cardiology Nurse",
+          "incident_description": "Treadmill ECG halted mid-test with 'AC fault' during thundery rain. Please test RCD, line filter, and internal PSU.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-22",
+          "time": "09:50 AM",
+          "reporter_role": "MO - OPD",
+          "incident_description": "Two nebulizer compressors rattling with poor flow; filters grimy. Request service and advise if replacement procurement is preferable.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-08-24",
+          "time": "02:40 PM",
+          "reporter_role": "Blood Bank Technologist",
+          "incident_description": "Platelet incubator temp alarmed during afternoon thunder; airflow weak. Kindly check fan, thermistor, and re-calibrate.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-25",
+          "time": "11:00 AM",
+          "reporter_role": "Senior Sonographer",
+          "incident_description": "New convex probe shows intermittent dropout lines; cable strain relief suspect. Please test and complete acceptance.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-08-27",
+          "time": "03:05 PM",
+          "reporter_role": "Physiotherapist In Charge",
+          "incident_description": "Shortwave diathermy emits burning smell and trips MCB after 10 minutes. Request insulation and capacitor checks; unit quarantined.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-29",
+          "time": "06:15 AM",
+          "reporter_role": "ICU Registrar",
+          "incident_description": "Syringe pump keypad intermittently unresponsive; likely salt-air corrosion with coastal breeze. Please service and swap unit.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-30",
+          "time": "08:40 PM",
+          "reporter_role": "Head of Radiology",
+          "incident_description": "MRI chiller alarming 'low flow' after heavy rain and mains flicker; scan list halted. Request pump/filter check and temperature verification; vendor coordination if needed.",
+          "urgency": "Critical"
+        }
+      ]
+    }
+  },
+  {
+    "month": "September",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-09-01",
+          "time": "07:25 AM",
+          "reporter_role": "Staff Nurse - NICU",
+          "incident_description": "Incubator showing temperature drift and humidity alarm since early morning; likely calibration offset due to muggy start. Please calibrate and verify alarms.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-09-02",
+          "time": "02:10 PM",
+          "reporter_role": "RMO - Medical Ward",
+          "incident_description": "Syringe pump triggers false occlusion alarms at low rates; started after brief rain. Request sensor recalibration and full PM check.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-04",
+          "time": "05:40 PM",
+          "reporter_role": "Radiographer - X-ray",
+          "incident_description": "Portable X-ray charger emitting hot smell; likely overheated with evening moisture. Please inspect, service cooling, and perform earth leakage test.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-04",
+          "time": "08:15 PM",
+          "reporter_role": "ETU Nurse",
+          "incident_description": "Defibrillator self-test failed: battery capacity below limit. Need battery replacement and verification tonight for resus readiness.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-09-06",
+          "time": "09:05 AM",
+          "reporter_role": "OPD Medical Officer",
+          "incident_description": "ECG printer output faint and intermittent; paper feed uneven. Request servicing, calibration, and safety check.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-09-07",
+          "time": "10:50 AM",
+          "reporter_role": "Consultant Anaesthetist",
+          "incident_description": "Anaesthesia workstation showing O2 sensor calibration error at startup. Please calibrate and perform gas leak test before afternoon list.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-08",
+          "time": "03:20 PM",
+          "reporter_role": "Radiology Sister-in-Charge",
+          "incident_description": "CT room UPS beeping and switching to battery during rain; suspect mains fluctuation. Need input filter check, runtime test, and mitigation advice.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-08",
+          "time": "06:30 PM",
+          "reporter_role": "House Officer - Surgical Ward",
+          "incident_description": "Bedside monitor SpO2 values erratic despite cable change. Please verify probe calibration and run full monitor diagnostics.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-09-09",
+          "time": "04:55 AM",
+          "reporter_role": "ICU Nurse",
+          "incident_description": "Ventilator expiratory valve intermittently sticking in high humidity. Unit swapped; request urgent service and calibration.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-09-10",
+          "time": "09:40 PM",
+          "reporter_role": "Ward Clerk - Paediatrics",
+          "incident_description": "Multiple infusion pumps show error E-11 and beeping. Please inspect, clear faults, and perform electrical safety tests.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-10",
+          "time": "10:25 PM",
+          "reporter_role": "Radiologist On-Call",
+          "incident_description": "MRI chiller alarmed 'High Inlet Temp' post-storm; scanner on standby. Need chiller filter check, glycol top-up, and power conditioning review.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-09-11",
+          "time": "11:15 AM",
+          "reporter_role": "Nursing Officer - Gynae Ward",
+          "incident_description": "CTG monitor baseline drifting; intermittent loss of toco trace. Request calibration of ultrasound/toco channels and due PM.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-09-12",
+          "time": "01:05 PM",
+          "reporter_role": "CSSD Supervisor",
+          "incident_description": "Autoclave failing Bowie-Dick; vacuum not reaching spec since intermittent rain. Please conduct leak test, sensor calibration, and cycle validation.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-14",
+          "time": "08:10 AM",
+          "reporter_role": "Dialysis Technician",
+          "incident_description": "Dialysis machine conductivity trending high vs. meter. Need calibration cross-check and temperature probe verification before first session.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-15",
+          "time": "02:35 PM",
+          "reporter_role": "Theatre Sister",
+          "incident_description": "ESU footswitch cable frayed at strain relief; insulation compromised. Please replace and perform leakage/current safety tests.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-17",
+          "time": "03:05 PM",
+          "reporter_role": "Medical Officer - ETU",
+          "incident_description": "During heavy rain, portable suction tripped RCD in Resus Bay. Suspect moisture ingress/earth fault. Require inspection and safety certification.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-09-17",
+          "time": "07:50 PM",
+          "reporter_role": "Ward Matron - NICU",
+          "incident_description": "Phototherapy lamp intensity uneven across field; tubes okay. Request irradiance mapping and ballast/driver check.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-09-18",
+          "time": "09:30 AM",
+          "reporter_role": "Physiotherapist",
+          "incident_description": "Therapeutic ultrasound output fluctuating at 1 MHz setting. Need calibration, probe coupling test, and safety check.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-19",
+          "time": "05:20 PM",
+          "reporter_role": "Endoscopy Nurse",
+          "incident_description": "Endoscopy stack light source fan noisy, unit heating up in humid ward. Please service cooling path and verify thermal cut-out.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-09-20",
+          "time": "11:40 AM",
+          "reporter_role": "Cardiology SHO",
+          "incident_description": "Several Holter recorders with swollen batteries and loose covers in humidity. Request battery replacement and functional verification.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-09-21",
+          "time": "01:10 PM",
+          "reporter_role": "ICU Registrar",
+          "incident_description": "Bedside monitor network bridges down; trends not syncing. Need Biomed to test PoE injectors and restore connectivity.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-21",
+          "time": "06:55 PM",
+          "reporter_role": "ETU Nurse",
+          "incident_description": "Portable ventilator alarm 'O2 supply low' with full cylinder attached. Suspect internal regulator leak; bench test required tonight.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-09-22",
+          "time": "08:50 AM",
+          "reporter_role": "Pharmacy In-Charge",
+          "incident_description": "Drug fridge data logger shows +10°C peaks in hot, sticky weather. Please calibrate, check door seals, and advise on replacement options.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-09-23",
+          "time": "04:25 PM",
+          "reporter_role": "Lab Technologist - Haematology",
+          "incident_description": "Centrifuge lid interlock error with faint burning smell after storm. Unit isolated. Request repair and electrical safety testing.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-24",
+          "time": "07:35 AM",
+          "reporter_role": "Anaesthesia SHO",
+          "incident_description": "Capnograph showing ~3 mmHg offset across cases. Please perform calibration with reference gas and check sampling module.",
+          "urgency": "Medium"
+        }
+      ]
+    }
+  },
+  {
+    "month": "October",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-10-01",
+          "time": "07:50 PM",
+          "reporter_role": "ICU Sister-in-Charge",
+          "incident_description": "After lightning, central monitor rebooted twice and two bedside monitors show noisy ECG. Please check power conditioning and perform electrical safety tests.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-01",
+          "time": "11:10 AM",
+          "reporter_role": "OPD Medical Officer",
+          "incident_description": "New tabletop autoclave from last week not reaching sterilization temp; need calibration and validation before minor procedures this afternoon.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-10-02",
+          "time": "03:20 PM",
+          "reporter_role": "ETU SHO",
+          "incident_description": "Resus defibrillator failed self-test with 'energy calibration error'. Urgent verification and recalibration needed.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-10-03",
+          "time": "09:05 PM",
+          "reporter_role": "General Ward Staff Nurse",
+          "incident_description": "Wall socket near Bed 12 sparked when connecting patient monitor. Request earth-bond and leakage current test; replace outlet if faulty.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-05",
+          "time": "08:35 PM",
+          "reporter_role": "Radiology Registrar",
+          "incident_description": "Portable X-ray battery trolley not charging; charger casing hot and smells of insulation. Please inspect and certify safe use.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-05",
+          "time": "10:10 AM",
+          "reporter_role": "NICU Sister",
+          "incident_description": "Infant warmer shows ±1.5°C drift in servo mode; humidity very high in unit. Please recalibrate temp probe and verify control.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-07",
+          "time": "02:25 PM",
+          "reporter_role": "Theatre Matron",
+          "incident_description": "ESU/diathermy arcing at low settings; suspect return plate or calibration issue. Need functional and safety check before evening OT list.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-08",
+          "time": "06:40 PM",
+          "reporter_role": "Dialysis Unit Nurse",
+          "incident_description": "Power dip with thunder; RO controller keeps rebooting, two dialysis machines show conductivity out of range. Please assess and recalibrate.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-08",
+          "time": "09:15 AM",
+          "reporter_role": "Pharmacy Technician",
+          "incident_description": "New syringe pumps received (10 units). Request acceptance testing, occlusion alarm verification, and accuracy checks before issue.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-10-10",
+          "time": "08:05 PM",
+          "reporter_role": "Consultant Anaesthetist",
+          "incident_description": "OT2 ventilator showing inconsistent tidal volumes; 'flow sensor fault' after evening storm. Need service before morning list.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-10-11",
+          "time": "11:30 AM",
+          "reporter_role": "Blood Bank Technologist",
+          "incident_description": "Fridge 2 fluctuating beyond 2–6°C during persistent rain; controller not holding setpoint. Repair and 24-hour temperature mapping required.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-11",
+          "time": "05:50 PM",
+          "reporter_role": "Administrative Officer",
+          "incident_description": "Basement UPS room damp from all-day rain; one UPS beeping 'battery fault'. Request inspection, insulation resistance test, and load transfer plan.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-12",
+          "time": "07:45 PM",
+          "reporter_role": "ETU Nurse",
+          "incident_description": "Resus suction unit intermittently losing vacuum after brief rain burst; motor casing very warm. Please service/replace.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-13",
+          "time": "08:20 AM",
+          "reporter_role": "Physiotherapy In-Charge",
+          "incident_description": "Therapeutic ultrasound output low compared to reference. Request calibration check and earth-bond test before OPD sessions.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-10-14",
+          "time": "09:55 PM",
+          "reporter_role": "ICU Consultant",
+          "incident_description": "Post-lightning, SpO2 modules on three beds showing frequent dropouts; likely cable/module failure. Need immediate assessment and swap-outs.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-10-14",
+          "time": "11:10 AM",
+          "reporter_role": "CSSD Supervisor",
+          "incident_description": "Bowie–Dick failed twice on steam sterilizer No.1. Please check for air leaks and recalibrate temp/pressure sensors.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-10-15",
+          "time": "07:10 AM",
+          "reporter_role": "Paediatric Ward Nurse",
+          "incident_description": "Two nebulizer compressors weak flow; patients queued for clinic. Request preventive maintenance or replacements.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-10-17",
+          "time": "04:35 PM",
+          "reporter_role": "Surgical Ward Medical Officer",
+          "incident_description": "Bedside monitor over-reading NIBP by ~15 mmHg vs manual. Need calibration and cuff/line leak test.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-10-18",
+          "time": "08:30 PM",
+          "reporter_role": "Radiology Superintendent",
+          "incident_description": "Thunderstorms this evening; MRI chiller showing high temp and 'cooling capacity low'. Immediate check to prevent quench.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-10-20",
+          "time": "09:05 AM",
+          "reporter_role": "OT Sister",
+          "incident_description": "Anaesthesia machine OT3 due for quarterly PM today; can slot between lists. Please service and document leak/flow tests.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-10-20",
+          "time": "03:50 PM",
+          "reporter_role": "Laboratory Scientist",
+          "incident_description": "Haematology centrifuge vibrating at 3000 rpm; suspect rotor imbalance/bearing wear. Service and recalibration required.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-22",
+          "time": "07:25 PM",
+          "reporter_role": "ICU Nurse",
+          "incident_description": "During strong thunderstorm, two syringe pump channels reset mid-infusion; logs show 'power interrupt'. Please test pumps and isolation transformer.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-10-24",
+          "time": "02:15 PM",
+          "reporter_role": "OPD Matron",
+          "incident_description": "ECG machine print faint; thermal head alignment off. Electrical safety tag expired as well. Request service and safety testing.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-10-28",
+          "time": "08:10 PM",
+          "reporter_role": "Procurement Officer",
+          "incident_description": "Request Biomed review of specs and vendor options for portable suction units, given recent storm-related failures in ETU.",
+          "urgency": "Low"
+        },
+        {
+          "date": "2025-10-30",
+          "time": "07:40 PM",
+          "reporter_role": "IT Officer (Clinical Systems)",
+          "incident_description": "ICU patient monitor hub lost link twice. Need Biomed to test PoE switch, check shielded cabling and grounding.",
+          "urgency": "High"
+        }
+      ]
+    }
+  },
+  {
+    "month": "November",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-11-01",
+          "time": "02:15 PM",
+          "reporter_role": "Theatre Sister - Minor Theatre",
+          "incident_description": "Diathermy cart tripped the RCD after heavy rain; water pooling near wall socket. Unit isolated. Request insulation test and earthing check before lists resume.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-11-01",
+          "time": "05:40 PM",
+          "reporter_role": "Staff Nurse - NICU",
+          "incident_description": "One incubator humidity probe reading 95-99% despite setpoint 60% after humid afternoon. Please recalibrate and inspect sensor housing for moisture ingress.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-02",
+          "time": "11:05 AM",
+          "reporter_role": "CSSD Supervisor",
+          "incident_description": "Autoclave A tripped ELCB mid-cycle; dampness noted around base after steady rain. Need electrical safety test and vacuum pump service.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-03",
+          "time": "07:10 PM",
+          "reporter_role": "Senior Radiographer - MRI",
+          "incident_description": "MRI UPS switched to bypass twice during thunder showers. No current alarm but logs show voltage dips; request battery health and load test.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-11-04",
+          "time": "03:25 PM",
+          "reporter_role": "Ward Matron - Medical Ward 8",
+          "incident_description": "Portable X-ray battery charger running hot with electrical smell; extension board feels damp. Please PAT test and replace suspect leads.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-06",
+          "time": "02:45 PM",
+          "reporter_role": "Nurse In-Charge - Dialysis",
+          "incident_description": "RO plant conductivity spiked to 12 uS/cm during afternoon rain. Switched off water supply to machines. Need calibration and pre-filter inspection urgently.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-11-06",
+          "time": "08:05 AM",
+          "reporter_role": "CCU Charge Nurse",
+          "incident_description": "Defibrillator failed self-test: energy low at 200J. Request bench testing, capacitor check, and verification with analyzer today.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-07",
+          "time": "10:20 AM",
+          "reporter_role": "Physiotherapy Therapist",
+          "incident_description": "Ultrasound therapy unit makes crackling noise; output fluctuates. Removed from service. Please inspect power stage and recalibrate.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-11-09",
+          "time": "01:30 PM",
+          "reporter_role": "Senior MLS - Haematology",
+          "incident_description": "Tabletop centrifuge vibrating excessively after brief power cut. Suspect rotor imbalance or bearing wear; need service before evening runs.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-09",
+          "time": "09:10 PM",
+          "reporter_role": "MO - ETU",
+          "incident_description": "Resus bay patient monitor NIBP will not hold pressure; cuff and tubing changed. Likely internal valve leak; request immediate repair.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-11",
+          "time": "12:55 PM",
+          "reporter_role": "Consultant Surgeon",
+          "incident_description": "OT diathermy alarmed 'return electrode high impedance' twice during list. Please check plate cable, contact quality, and recalibrate unit.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-11-12",
+          "time": "09:35 AM",
+          "reporter_role": "Supplies Officer",
+          "incident_description": "Twenty syringe pumps received today. Require acceptance testing, asset tagging, and user orientation prior to ward issue.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-11-13",
+          "time": "06:50 AM",
+          "reporter_role": "ICU Registrar",
+          "incident_description": "Ventilator flagging flow-sensor moisture alarm since early morning humidity. Need sensor drying kit use and calibration verification.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-13",
+          "time": "04:40 PM",
+          "reporter_role": "Radiology Manager",
+          "incident_description": "CR reader overheats with 'temperature high' fault; filters visibly dusty after wet weather. Request internal cleaning and fan check.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-11-14",
+          "time": "10:10 AM",
+          "reporter_role": "Consultant Anaesthetist",
+          "incident_description": "Sevoflurane vaporiser due for annual calibration before OT 3 list. Please verify output concentration and perform leak test.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-15",
+          "time": "03:05 PM",
+          "reporter_role": "Dialysis Medical Officer",
+          "incident_description": "Two dialysis machines show 'mains fluctuation' during thunder. Request check of stabilisers, isolation transformer, and earthing bar.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-17",
+          "time": "08:25 AM",
+          "reporter_role": "Blood Bank Technologist",
+          "incident_description": "Blood bank fridge peaked at 7.2 C overnight; chart recorder erratic. Need probe calibration, door seal inspection, and alarm verification.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-18",
+          "time": "11:15 AM",
+          "reporter_role": "Endoscopy Nurse",
+          "incident_description": "Light source fan not spinning; unit overheats after rainy morning. Lists delayed. Please repair fan and verify light output.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-18",
+          "time": "07:05 AM",
+          "reporter_role": "Staff Nurse - NICU",
+          "incident_description": "Neonatal warmer touchscreen unresponsive after last night's generator changeover; fuses intact. Need board-level assessment.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-11-20",
+          "time": "09:00 AM",
+          "reporter_role": "Hospital Safety Officer",
+          "incident_description": "Rainwater entered OPD minor theatre. Request immediate electrical safety testing for suction unit and diathermy before reopening.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-11-20",
+          "time": "08:30 PM",
+          "reporter_role": "ICU Nurse In-Charge",
+          "incident_description": "Central monitoring station reboots repeatedly after ceiling drip. Bedside monitors OK. Need PSU and backplane inspection and drying.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-22",
+          "time": "02:20 PM",
+          "reporter_role": "OPD Nurse",
+          "incident_description": "Two portable suction units overdue for PM; one only achieves -200 mmHg. Please service and replace bacterial filters.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-11-23",
+          "time": "11:45 AM",
+          "reporter_role": "Deputy Director (Admin)",
+          "incident_description": "Request BME evaluation of quotes for a transport ventilator compatible with BS gas outlets and current circuits. Need recommendation by week end.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-11-25",
+          "time": "04:55 PM",
+          "reporter_role": "CT Radiographer",
+          "incident_description": "CT chiller shows 'low flow' alarm; outdoor strainer clogged with leaves after storm. Cleared surface debris; need full service and glycol check.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-27",
+          "time": "07:40 AM",
+          "reporter_role": "Theatre Technician",
+          "incident_description": "Diathermy return electrode cable insulation cracked causing intermittent alarms in OT 2. Request replacement and safety test.",
+          "urgency": "High"
+        }
+      ]
+    }
+  },
+  {
+    "month": "December",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-12-01",
+          "time": "02:35 PM",
+          "reporter_role": "Ward Sister - NICU",
+          "incident_description": "Brief power dip during afternoon thunder left three NICU monitors running on battery; UPS beeping. Please check UPS load, battery health, and power rails before evening shift.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-01",
+          "time": "08:10 AM",
+          "reporter_role": "Consultant Anaesthetist",
+          "incident_description": "Anaesthesia workstation in OT2 showing erratic flow readings and water in gas line after humid morning; need sensor drying, calibration, and leak test.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-02",
+          "time": "09:05 AM",
+          "reporter_role": "OPD Charge Nurse",
+          "incident_description": "Portable suction units show PM stickers expired in November; request routine maintenance and functional checks before clinic starts.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-12-03",
+          "time": "11:22 AM",
+          "reporter_role": "CSSD Supervisor",
+          "incident_description": "Main autoclave aborts at 126°C during sterilization phase; likely temp sensor or steam valve fault. Need repair and revalidation today.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-12-04",
+          "time": "10:15 AM",
+          "reporter_role": "Hospital Stores Officer",
+          "incident_description": "New syringe pumps (10 units) received; require acceptance testing, electrical safety, and calibration before issuing to wards.",
+          "urgency": "Low"
+        },
+        {
+          "date": "2025-12-05",
+          "time": "03:40 PM",
+          "reporter_role": "Radiographer - OPD X-Ray",
+          "incident_description": "CR reader producing vertical banding artifacts after brief afternoon rain; please inspect scanner optics and calibrate detector.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-07",
+          "time": "07:55 PM",
+          "reporter_role": "Theatre Manager",
+          "incident_description": "After evening rain, UPS room for theatres has moisture near floor conduits; ELCB tripped once. Request earthing resistance check and UPS inspection before first case.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-09",
+          "time": "06:50 AM",
+          "reporter_role": "ETU Nurse",
+          "incident_description": "Defibrillator daily self-test failed; battery internal resistance high and energy delivery not verified. Need battery change and calibration urgently.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-12-10",
+          "time": "02:05 PM",
+          "reporter_role": "Physiotherapy In-Charge",
+          "incident_description": "Two ultrasound therapy units borderline on leakage current during safety check; require PAT re-test and servicing before patient sessions.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-12-11",
+          "time": "03:18 PM",
+          "reporter_role": "MRI Technologist",
+          "incident_description": "MRI chiller alarm and gradient cabinet temp high after power sag during thunder; system in standby. Please stabilize power, check cooling, and liaise with vendor.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-12-11",
+          "time": "09:12 AM",
+          "reporter_role": "Ward Nurse - Medical 3",
+          "incident_description": "Portable suction trolley gives mild tingling on touch in damp corridor; plug top warm. Request electrical safety test and adapter replacement if needed.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-12",
+          "time": "11:00 AM",
+          "reporter_role": "Procurement Officer",
+          "incident_description": "ENT theatre requests operating microscope upgrade; need Biomed spec review (illumination, focal length, ceiling load) before tender.",
+          "urgency": "Low"
+        },
+        {
+          "date": "2025-12-13",
+          "time": "08:25 PM",
+          "reporter_role": "MO Anaesthesia",
+          "incident_description": "Main OT surgical light head flickers intermittently after evening rain; suspect ballast or loose neutral in pendant. Please inspect before morning list.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-14",
+          "time": "07:45 AM",
+          "reporter_role": "Dialysis In-Charge Nurse",
+          "incident_description": "Haemodialysis machine No. 4 shows conductivity drift ±0.6 mS/cm; failed calibration with standard. Request recalibration and sensor cartridge change.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-15",
+          "time": "05:30 AM",
+          "reporter_role": "Ward Sister - NICU",
+          "incident_description": "Incubator in NNU bed 6 overshooting to 38.8°C at set 36.5°C; alarm muted earlier. Require immediate calibration and isolation from use.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-12-16",
+          "time": "02:50 PM",
+          "reporter_role": "Theatre Charge Nurse",
+          "incident_description": "During case in OT1, diathermy caused RCD to trip twice amid afternoon rain; likely moisture ingress at ceiling pendant. Need urgent insulation testing and repair.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-12-16",
+          "time": "09:20 AM",
+          "reporter_role": "ICU Senior Nurse",
+          "incident_description": "Ventilator on Bed 3 delivering tidal volumes below set; suspect blocked flow sensor from humidifier condensate. Please service and verify calibration.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-17",
+          "time": "10:30 AM",
+          "reporter_role": "Blood Bank Technologist",
+          "incident_description": "New blood bank refrigerator installed; requires 24-hour temperature mapping and alarm verification before stocking blood units.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-12-19",
+          "time": "01:05 PM",
+          "reporter_role": "Cardiology Registrar",
+          "incident_description": "OPD ECG prints faint; thermal head appears worn and paper feed uneven. Need head replacement and calibration before clinic.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-12-21",
+          "time": "04:10 PM",
+          "reporter_role": "Quality Officer",
+          "incident_description": "SLMC audit due in January: request annual calibration and electrical safety testing schedule for OT multiparameter monitors.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-12-22",
+          "time": "12:15 PM",
+          "reporter_role": "Ward Nurse - 5B",
+          "incident_description": "Multiple syringe pumps giving false occlusion alarms after brief drizzle; lines patent. Likely door-latch pressure or sensor drift; please check and recalibrate.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-12-23",
+          "time": "09:55 AM",
+          "reporter_role": "Laboratory Technologist",
+          "incident_description": "Benchtop centrifuge vibrating with burning smell at 3000 rpm; rotor imbalance or bearing failure suspected. Request service and speed calibration.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-24",
+          "time": "08:35 AM",
+          "reporter_role": "Sterile Services Manager",
+          "incident_description": "Pre-vac autoclave failed Bowie-Dick this morning; suspected vacuum leak. Need gasket replacement, leak test, and cycle validation urgently.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-12-25",
+          "time": "10:05 AM",
+          "reporter_role": "Physiotherapy In-Charge",
+          "incident_description": "TENS unit delivers sharp sensation at low setting; probable output stage fault and failed calibration. Please isolate and test.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-25",
+          "time": "01:40 PM",
+          "reporter_role": "Orthopaedic Surgeon",
+          "incident_description": "Mobile C-arm image washed out and gain unstable during fracture fixation; need immediate image chain calibration or II replacement.",
+          "urgency": "Critical"
+        }
+      ]
+    }
+  }
+]

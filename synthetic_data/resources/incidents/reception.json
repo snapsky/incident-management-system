@@ -1,0 +1,2186 @@
+[
+  {
+    "month": "January",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-01-01",
+          "time": "08:10 AM",
+          "reporter_role": "OPD Nurse",
+          "incident_description": "New Year crowd formed a mixed queue at the main entrance; patients and visitors lined up together and blocked wheelchair access. Request reception to open a second OPD registration counter and announce token numbers over PA.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-01-03",
+          "time": "09:05 AM",
+          "reporter_role": "Security Supervisor",
+          "incident_description": "Brief morning rain left the foyer mats soaked; two visitors slipped near the help desk. Need reception to place wet-floor signs, direct people to the side entrance, and call housekeeping immediately.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-03",
+          "time": "10:12 AM",
+          "reporter_role": "Call Operator",
+          "incident_description": "Main switchboard failed to transfer external calls to ETU extensions after morning maintenance; emergency calls looped back to reception. Require immediate manual rerouting and directory fix.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-01-04",
+          "time": "02:40 PM",
+          "reporter_role": "Consultant Surgeon",
+          "incident_description": "Surgical review patients were directed to the medical clinic queue; the signage at the lobby arrowed to the wrong wing. Please correct wayfinding and announce the change on PA.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-01-05",
+          "time": "11:25 AM",
+          "reporter_role": "Billing Officer",
+          "incident_description": "Initial insurance verification at reception missed policy numbers for two scheduled day-cases; HIS shows blank insurer fields. Kindly call the insurers and update profiles before admission.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-01-07",
+          "time": "07:55 AM",
+          "reporter_role": "ETU Medical Officer",
+          "incident_description": "Ambulance radioed ahead for a collapse case but ETU triage was not alerted by reception, causing a delay on arrival. Please reinforce the red-flag pre-alert protocol with operators.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-08",
+          "time": "02:35 PM",
+          "reporter_role": "Housekeeping Supervisor",
+          "incident_description": "Short afternoon rain brought in wet footprints; the OPD token queue extended across the damp foyer. Reception needs to redirect the queue and announce use of the drying mats.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-01-08",
+          "time": "03:10 PM",
+          "reporter_role": "Radiology Technologist",
+          "incident_description": "Two outpatients arrived at X-ray with eChannelling references but had not completed registration at reception. Please register and issue OPD cards before sending patients to Radiology.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-01-10",
+          "time": "06:20 PM",
+          "reporter_role": "Ward Clerk - Maternity",
+          "incident_description": "Evening visitor crowd exceeded the two-person rule; several passes were not issued at the desk. Request reception to enforce the pass system and guide overflow to the waiting area.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-01-12",
+          "time": "09:18 AM",
+          "reporter_role": "OPD Medical Officer",
+          "incident_description": "Registration slip carried the wrong age due to NIC DOB entry error; patient was sent to the incorrect fee category. Please correct in HIS and reprint the OPD chit.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-01-13",
+          "time": "02:15 PM",
+          "reporter_role": "Front Desk Executive",
+          "incident_description": "Lobby queue display started flickering in the humid afternoon and patients crowded the counter for updates. Need manual token announcements and desk marshals until the screen stabilizes.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-01-13",
+          "time": "04:05 PM",
+          "reporter_role": "Pharmacy Counter Staff",
+          "incident_description": "OPD cards arrived without new clinic numbers and reception stamps, delaying dispensing. Kindly re-stamp and ensure numbers are written at registration.",
+          "urgency": "Low"
+        },
+        {
+          "date": "2025-01-15",
+          "time": "10:30 AM",
+          "reporter_role": "Physiotherapy Unit In-Charge",
+          "incident_description": "Patients reached Physio without prior registration or payment chits after being waved through by entrance volunteers. Request reception to brief volunteers and direct patients via proper intake.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-01-17",
+          "time": "08:00 AM",
+          "reporter_role": "Call Operator",
+          "incident_description": "Overnight calls were misrouted because the ward names changed (Surgical-2 now Ward 6B) but the extension list wasn’t updated. Please refresh the directory and on-call roster at reception.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-01-19",
+          "time": "08:25 AM",
+          "reporter_role": "Security Officer",
+          "incident_description": "Light rain crowded the entrance canopy and a vendor set up an umbrella stall inside the foyer. Reception needs to check vendor permission and relocate them outside the patient flow.",
+          "urgency": "Low"
+        },
+        {
+          "date": "2025-01-19",
+          "time": "09:42 AM",
+          "reporter_role": "ETU Nurse",
+          "incident_description": "Caller reported an RTA inbound but was kept on hold during line transfer; ETU received the alert three minutes late. Please prioritise emergency lines at switchboard.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-20",
+          "time": "03:30 PM",
+          "reporter_role": "Surgical Ward Nurse",
+          "incident_description": "Relative wandered over an hour searching for Ward 4 due to faded signage; the map handed out at reception was outdated. Request updated printouts and an escort system for first-time visitors.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-01-22",
+          "time": "07:35 AM",
+          "reporter_role": "Clinic Attendant - Medical Clinic",
+          "incident_description": "Only one OPD counter opened at morning rush; tokens were not issued by time slot and the line blocked wheelchair passage. Please open an extra counter and marshal the queue.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-23",
+          "time": "11:10 AM",
+          "reporter_role": "Paediatrics Ward Clerk",
+          "incident_description": "Intercom from reception to Paediatrics is not connecting; external calls cannot be transferred to our duty room. Need manual call patching and a fault report logged by switchboard.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-01-25",
+          "time": "01:45 PM",
+          "reporter_role": "Cashier",
+          "incident_description": "Corporate admission pending because reception has not secured the Letter of Guarantee; patient is waiting in the lounge. Kindly call HR and the insurer to confirm LOG and update HIS.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-27",
+          "time": "08:05 AM",
+          "reporter_role": "Paediatric OPD Nurse",
+          "incident_description": "Misty morning caused condensation on the entrance glass and the vaccine clinic sign was hard to read; guardians crowded the help desk. Request temporary floor arrows and a PA announcement.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-01-28",
+          "time": "05:20 PM",
+          "reporter_role": "House Officer - ETU",
+          "incident_description": "Two walk-ins with chest pain reached the OPD counter but were not fast-tracked to ETU; no triage alert was made by reception. Immediate retraining on red-flag routing is required.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-01-28",
+          "time": "05:50 PM",
+          "reporter_role": "Front Office Supervisor",
+          "incident_description": "Light evening rain revealed a minor leak above the main desk; registration files became damp and staff got crowded. Need the desk shifted temporarily and maintenance informed, with lobby announcements.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-30",
+          "time": "12:10 PM",
+          "reporter_role": "Dialysis Unit Coordinator",
+          "incident_description": "Reception rescheduled two dialysis slots without checking our session timings; patients arrived after the machine cycle. Please align appointment changes with unit capacity and call patients.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-01-31",
+          "time": "09:50 AM",
+          "reporter_role": "Porter Team Leader",
+          "incident_description": "A wallet handed to reception was not entered in the visitor property ledger; the owner is waiting with NIC. Kindly complete the log and release through the standard verification process.",
+          "urgency": "Low"
+        }
+      ]
+    }
+  },
+  {
+    "month": "February",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-02-01",
+          "time": "08:10 AM",
+          "reporter_role": "Ward Clerk - Maternity",
+          "incident_description": "Families followed an old foyer sign and ended up at ICU; front desk signage is outdated. Please redirect visitors and update the floor map at reception.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-02-02",
+          "time": "09:22 AM",
+          "reporter_role": "Blood Bank Technologist",
+          "incident_description": "External donor hotline calls are being routed to OT via switchboard. Reception to correct the extension mapping and announce the proper line.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-03",
+          "time": "02:47 PM",
+          "reporter_role": "ETU Nurse-in-Charge",
+          "incident_description": "Ambulance pre-alert from 1990 Suwa Seriya rang the main line twice but ETU was not patched through. Reception must activate hot-transfer to ETU immediately.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-02-03",
+          "time": "10:05 AM",
+          "reporter_role": "Laboratory Reception Lead",
+          "incident_description": "OPD registration captured a wrong NIC digit; two same-name patients now have swapped labels. Need demographic correction and barcode reprint from front desk.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-02-04",
+          "time": "06:58 AM",
+          "reporter_role": "OPD Medical Officer",
+          "incident_description": "Token dispenser at OPD entrance jammed. Reception to issue manual tokens and call numbers over PA until fixed.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-05",
+          "time": "11:30 AM",
+          "reporter_role": "Admissions Officer",
+          "incident_description": "Agrahara pre-authorization was not initiated at registration for an admission. Please contact insurer and attach approval to the BHT.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-02-07",
+          "time": "03:40 PM",
+          "reporter_role": "Procurement Assistant",
+          "incident_description": "Water filter maintenance vendor arrived without a gate pass. Reception to issue visitor badges and log tools as per entry protocol.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-02-08",
+          "time": "06:25 PM",
+          "reporter_role": "Security Supervisor",
+          "incident_description": "Evening light rain left the foyer floor wet; two visitors slipped near reception. Please arrange mopping, wet-floor signs, and a temporary queue reroute.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-09",
+          "time": "08:55 AM",
+          "reporter_role": "Paediatric Ward Sister",
+          "incident_description": "Tamil-only guardians in the OPD queue can’t find the Paeds clinic. Request Tamil-speaking reception staff and update bilingual direction slips.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-02-10",
+          "time": "07:10 AM",
+          "reporter_role": "Front Office Supervisor",
+          "incident_description": "eChannelling counter login failing; tokens are backing up into the corridor. Switch to manual appointment list and inform consultants through the groups.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-12",
+          "time": "01:18 PM",
+          "reporter_role": "Billing Executive",
+          "incident_description": "Wrong DOB entered at registration for a cardiac OPD patient; insurer portal rejecting. Please amend in HIS and rerun eligibility.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-02-13",
+          "time": "09:05 AM",
+          "reporter_role": "Physiotherapy Registrar",
+          "incident_description": "No wheelchairs staged at the main entrance. Front desk to coordinate orderlies to park two chairs during OPD peak hours.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-02-14",
+          "time": "02:21 PM",
+          "reporter_role": "IT Officer (Front Desk)",
+          "incident_description": "Thundery rain caused a power dip; the self-registration kiosk rebooted and lost today’s queue. Reception to recreate tokens from the pre-booked list.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-14",
+          "time": "04:35 PM",
+          "reporter_role": "Ambulance Coordinator",
+          "incident_description": "Due to rain, attendants crowded under the canopy blocking the ambulance bay. Reception to disperse and redirect via PA and security.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-02-16",
+          "time": "07:02 AM",
+          "reporter_role": "OPD Nursing Officer",
+          "incident_description": "Token slip header still shows yesterday’s date after midnight rollover. Front desk to correct system time and reissue affected tokens.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-02-18",
+          "time": "11:00 AM",
+          "reporter_role": "Administration Officer",
+          "incident_description": "University tour group arrived unlogged. Reception to register 22 visitors, issue badges, and brief on photography restrictions.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-02-19",
+          "time": "10:42 PM",
+          "reporter_role": "On-Call Medical Officer",
+          "incident_description": "Night switchboard didn’t forward to my mobile; two ward consults were missed. Reception to verify and update the after-hours call-forwarding list.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-20",
+          "time": "08:05 AM",
+          "reporter_role": "Facilities Supervisor",
+          "incident_description": "Morning drizzle pushed the taxi queue onto the disability ramp. Front desk to coordinate security to clear the path and manage arrivals.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-20",
+          "time": "01:12 PM",
+          "reporter_role": "Ward Clerk - Surgical",
+          "incident_description": "Admission slip issued with an incorrect BHT number. Need reception to cancel and reassign to prevent chart merging.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-22",
+          "time": "03:18 PM",
+          "reporter_role": "Front Desk Cashier",
+          "incident_description": "Child’s school bag handed in at the counter. Please log in lost-and-found and announce every 30 minutes.",
+          "urgency": "Low"
+        },
+        {
+          "date": "2025-02-23",
+          "time": "10:28 AM",
+          "reporter_role": "Hospital Administration Manager",
+          "incident_description": "TV crew at entrance without Ministry clearance. Reception to hold at desk, inform Admin, and deny filming passes.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-24",
+          "time": "12:09 PM",
+          "reporter_role": "Insurance Desk Officer",
+          "incident_description": "AIA pre-auth form scanned without policy number; claim will bounce. Reception to call guardian, capture details, and update HIS.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-02-26",
+          "time": "05:52 PM",
+          "reporter_role": "Security Shift Leader",
+          "incident_description": "Brief evening rain with gusts caused the automatic sliding door sensor to fault; crowd forming. Reception to open the manual side door and guide flow.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-26",
+          "time": "06:15 PM",
+          "reporter_role": "Switchboard Operator",
+          "incident_description": "After generator test during showers, PBX rebooted and external lines are down. Reception to initiate the manual call tree and share ETU’s mobile on the main line.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-02-27",
+          "time": "04:45 PM",
+          "reporter_role": "OPD Records Officer",
+          "incident_description": "Appointment SMS batch went out with the wrong date for tomorrow’s clinics. Front desk to resend corrected messages and post a foyer notice.",
+          "urgency": "Medium"
+        }
+      ]
+    }
+  },
+  {
+    "month": "March",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-03-01",
+          "time": "07:40 AM",
+          "reporter_role": "OPD Staff Nurse - Triage",
+          "incident_description": "New OPD registration linked to another patient's BHT due to similar names; Reception to correct demographics and unlink before triage.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-03",
+          "time": "04:55 PM",
+          "reporter_role": "Senior House Officer - ETU",
+          "incident_description": "During thunderstorm, ambulance ETA call rang twice without pickup on main switchboard; Reception must alert ETU immediately and monitor backup line.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-03-03",
+          "time": "06:10 PM",
+          "reporter_role": "Security Supervisor - Main Gate",
+          "incident_description": "Rain crowding caused visitors to queue into driveway; please open side entrance and deploy reception staff to redirect clinics.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-03-04",
+          "time": "09:10 AM",
+          "reporter_role": "Consultant Paediatrician",
+          "incident_description": "Channelling counter issued duplicate token 34A to two children; Reception to reconcile order and announce correction to parents.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-03-05",
+          "time": "08:15 AM",
+          "reporter_role": "Admission Coordinator",
+          "incident_description": "Agrahara beneficiary admission lacked initial insurance verification; Reception to obtain card and send pre-auth before bed allocation.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-05",
+          "time": "07:20 PM",
+          "reporter_role": "Duty Manager",
+          "incident_description": "Post-rain lobby mats soaked; slip risk increased. Reception to cordon area and guide visitors through pharmacy corridor until housekeeping replaces.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-03-07",
+          "time": "11:05 AM",
+          "reporter_role": "ICU Registrar",
+          "incident_description": "Switchboard repeatedly routed ICU enquiry to Paediatrics; Reception to update extension list and brief afternoon operator.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-03-08",
+          "time": "03:35 PM",
+          "reporter_role": "Outpatient Services Manager",
+          "incident_description": "Brief downpour closed parking gate; families crowded main doors. Reception to prioritize wheelchairs and create separate paediatric queue.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-10",
+          "time": "12:25 PM",
+          "reporter_role": "Cashier - OPD",
+          "incident_description": "Passport details not captured at registration for foreign spouse; demographics need update before lab billing proceeds.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-03-12",
+          "time": "09:00 AM",
+          "reporter_role": "MO-OPD",
+          "incident_description": "OPD token display frozen during morning rush; Reception to switch to manual calls and maintain queue log.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-12",
+          "time": "05:40 PM",
+          "reporter_role": "ETU Consultant",
+          "incident_description": "Incoming polytrauma alert reached reception first; please patch directly to ETU and time-stamp the call per protocol.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-03-13",
+          "time": "02:50 PM",
+          "reporter_role": "Radiology Charge Nurse",
+          "incident_description": "Diabetic clinic signage missing; patients arriving at radiology. Reception to station volunteer at foyer to direct until signage replaced.",
+          "urgency": "Low"
+        },
+        {
+          "date": "2025-03-15",
+          "time": "07:05 AM",
+          "reporter_role": "Surgical Clinic Coordinator",
+          "incident_description": "Morning clinic lists not printed at reception; need immediate printing and placement at channelling counters before 07:30.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-16",
+          "time": "01:15 PM",
+          "reporter_role": "Medical Records Officer",
+          "incident_description": "Two paediatric follow-ups registered under parents’ BHT numbers; Reception to split visits and assign correct child records.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-03-16",
+          "time": "07:25 PM",
+          "reporter_role": "Pharmacy Supervisor",
+          "incident_description": "Heavy rain and generator hum muffled PA; Reception please use handheld mic near pharmacy and guide queues.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-03-17",
+          "time": "04:30 PM",
+          "reporter_role": "OT Matron",
+          "incident_description": "Unbadged visitors reached OT corridor during peak hours; Reception to reinstate visitor badge issuance and logbook check at foyer.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-19",
+          "time": "03:05 PM",
+          "reporter_role": "Consultant Cardiologist",
+          "incident_description": "Thunderstorm interference; I couldn’t reach the clinic via switchboard. Reception to reconnect and broadcast any delay to waiting patients.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-03-19",
+          "time": "06:50 PM",
+          "reporter_role": "ETU Senior Nurse",
+          "incident_description": "Stroke alert called to reception; ETU not paged for 4 minutes. Immediate refresher on escalation protocol required.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-03-21",
+          "time": "10:55 AM",
+          "reporter_role": "Billing Executive",
+          "incident_description": "Registration terminal printed lab slips with yesterday’s date; Reception to correct system time and reissue slips to affected patients.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-03-22",
+          "time": "05:10 PM",
+          "reporter_role": "Security Officer - Side Entrance",
+          "incident_description": "Sudden rain pushed crowd against glass door; Reception to deploy queue barriers and direct overflow to OPD entrance.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-24",
+          "time": "08:40 AM",
+          "reporter_role": "Medical Clinic Nurse",
+          "incident_description": "Elderly Tamil-only patient confused at inquiries; please arrange Tamil-speaking clerk to escort to medical clinic.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-03-26",
+          "time": "07:55 AM",
+          "reporter_role": "Supply Chain Officer",
+          "incident_description": "Vendor truck blocked patient drop-off during drizzle; Reception to coordinate with security and redirect deliveries to rear gate.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-03-27",
+          "time": "02:20 PM",
+          "reporter_role": "Cath Lab Manager",
+          "incident_description": "Switchboard directory missing new Cath Lab extension; calls misrouted. Reception to update list and brief operators.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-03-29",
+          "time": "09:25 AM",
+          "reporter_role": "Triage Nurse - OPD",
+          "incident_description": "Wristband from registration showed ‘Penicillin allergy’ incorrectly; Reception to correct record and reprint before vitals.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-30",
+          "time": "05:25 PM",
+          "reporter_role": "Paediatric Clinic Sister",
+          "incident_description": "Heavy rain backed families into foyer; vaccine clinic mixed with surgical line. Reception to separate queues and call tokens clearly.",
+          "urgency": "High"
+        }
+      ]
+    }
+  },
+  {
+    "month": "April",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-04-01",
+          "time": "08:10 AM",
+          "reporter_role": "OPD Staff Nurse",
+          "incident_description": "Two surgical clinic patients registered as one due to identical names; OPD card/BHT merged. Reception to split records and reassign tokens before consult starts.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-02",
+          "time": "06:45 PM",
+          "reporter_role": "Duty Administrator",
+          "incident_description": "Lightning this evening causing main switchboard to drop inbound calls; trunks show busy. Request Reception to move to backup mobile and manually route urgent calls to wards.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-02",
+          "time": "10:25 AM",
+          "reporter_role": "Security Officer (Front Entrance)",
+          "incident_description": "Medical supplies vendor waiting without pass; needs verification and direction to CSSD. Reception please authenticate and issue visitor badge.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-04-04",
+          "time": "02:55 PM",
+          "reporter_role": "ETU Medical Officer",
+          "incident_description": "Ambulance from Kelaniya 10 mins out with polytrauma; no pre-alert on system. Reception please activate trauma pre-alert and inform triage/porters.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-04-05",
+          "time": "08:35 AM",
+          "reporter_role": "Clinic Coordinator (Surgical OPD)",
+          "incident_description": "OPD token display frozen; new numbers not showing and crowd building. Reception to reset queue and make manual PA until fixed.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-06",
+          "time": "10:40 PM",
+          "reporter_role": "ICU Duty Nurse",
+          "incident_description": "During storm, relatives' calls are being transferred to ICU direct line. Please apply night routing at switchboard and set brief IVR.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-06",
+          "time": "09:15 AM",
+          "reporter_role": "Radiology Counter Clerk",
+          "incident_description": "Patient for ultrasound sent to CT area due to lobby sign confusion. Request Reception to update directional boards and position a guide.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-04-08",
+          "time": "03:05 PM",
+          "reporter_role": "Volunteer–Visitor Desk",
+          "incident_description": "Brief downpour has visitors crowding foyer and blocking emergency exit. Need Reception to open overflow waiting and announce in Sinhala/Tamil.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-09",
+          "time": "07:50 AM",
+          "reporter_role": "HR Trainee (House Officers)",
+          "incident_description": "New batch of interns arrived; no temporary access cards or extension list update. Reception to issue badges and update directory.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-04-10",
+          "time": "07:20 PM",
+          "reporter_role": "OPD Duty Supervisor",
+          "incident_description": "Power flicker in the storm jammed the token printer. Request Reception switch to manual tokens and inform clinics via PA.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-04-10",
+          "time": "11:05 AM",
+          "reporter_role": "ENT Consultant",
+          "incident_description": "Public calls for Clinic 5 being misrouted; extension on ePBX incorrect. Reception please correct routing and test both Sinhala/Tamil IVR options.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-12",
+          "time": "01:40 PM",
+          "reporter_role": "Billing Officer (Theatre)",
+          "incident_description": "Corporate patient on afternoon list lacks initial pre-auth; insurer unreachable at ward. Reception to complete first-line verification via hotline.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-13",
+          "time": "09:25 AM",
+          "reporter_role": "Senior OPD Nurse",
+          "incident_description": "Touchscreen self-registration kiosk unresponsive in the heat; queue stretching outside. Reception to open an extra counter and issue drinking-water advisory.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-04-14",
+          "time": "02:10 PM",
+          "reporter_role": "Admin Officer (Front Office)",
+          "incident_description": "Avurudu visiting hours altered; callers/visitors unsure. Reception to update recorded greeting and place notices at gates.",
+          "urgency": "Low"
+        },
+        {
+          "date": "2025-04-15",
+          "time": "12:25 PM",
+          "reporter_role": "Chief Security Guard",
+          "incident_description": "Heavy rain causing vehicle pile-up at OPD drop-off; elderly patients stranded. Reception please coordinate wheelchairs and direct to covered entry.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-15",
+          "time": "09:05 AM",
+          "reporter_role": "Paediatric OPD MO",
+          "incident_description": "Child registered under wrong guardian NIC; insurance pre-check failed. Request Reception to amend demographics and reprint OPD card.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-04-17",
+          "time": "08:05 AM",
+          "reporter_role": "Dialysis Unit Nurse",
+          "incident_description": "Three patients claim phone-booked slots not on today's list. Reception to trace call logs and confirm appointments before access is prepared.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-04-18",
+          "time": "06:55 PM",
+          "reporter_role": "Ambulance Service Coordinator",
+          "incident_description": "Suspected stroke transfer ETA 15 mins; no Code Stroke trigger yet. Reception please alert triage and CT immediately.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-04-20",
+          "time": "03:30 PM",
+          "reporter_role": "IT On-Call",
+          "incident_description": "Lightning has taken down one trunk; main number intermittently unreachable. Reception to publicise alternate hotline and route via backups.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-20",
+          "time": "08:40 AM",
+          "reporter_role": "OPD Cashier",
+          "incident_description": "Channeling patients mixing with OPD cash queue; tokens issued incorrectly. Reception to separate flows and brief agents.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-04-22",
+          "time": "07:10 PM",
+          "reporter_role": "Ward Visitor Liaison",
+          "incident_description": "Evening rain has lobby overcrowded before visiting. Need Reception to start timed entry batches and make bilingual PA reminders.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-24",
+          "time": "04:20 PM",
+          "reporter_role": "Pathology Lab Technologist",
+          "incident_description": "External courier arrived at wrong gate with samples. Please Reception guide to Specimen Reception and alert security for handover.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-04-25",
+          "time": "10:15 AM",
+          "reporter_role": "Biomedical Engineer",
+          "incident_description": "Vendor for nebulizers here without prior appointment. Reception to verify credentials and connect to Biomedical office.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-04-27",
+          "time": "09:35 PM",
+          "reporter_role": "Night Nursing Supervisor",
+          "incident_description": "Night PBX profile wrong; calls for ETU landing in Labour Room. Reception please correct and test night routing now.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-29",
+          "time": "01:10 PM",
+          "reporter_role": "Clinics Manager",
+          "incident_description": "Due to widespread storms, two clinics cancelled; many patients already in queue. Reception to call/text lists, reassign tokens, and update boards.",
+          "urgency": "High"
+        }
+      ]
+    }
+  },
+  {
+    "month": "May",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-05-01",
+          "time": "03:15 PM",
+          "reporter_role": "OPD Nurse",
+          "incident_description": "Heavy downpour pushed crowds into the lobby; OPD queue merged with lab sample drop line. Reception needs to direct separate queues and announce token numbers.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-03",
+          "time": "10:22 AM",
+          "reporter_role": "Switchboard Operator",
+          "incident_description": "Intermittent thunder causing line noise; calls to Paediatric Ward are not transferring. Backup mobile list is outdated—reception to update and route manually.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-03",
+          "time": "04:40 PM",
+          "reporter_role": "Security Supervisor",
+          "incident_description": "Flooded drop-off bay led visitors to crowd the main reception doors. Please deploy reception volunteers to manage flow and prioritize wheelchairs.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-05-04",
+          "time": "08:05 AM",
+          "reporter_role": "IT Officer (HIS)",
+          "incident_description": "OPD self-registration kiosks were not powered on; patients queued at Counter 1. Request reception to open Counter 2 early and call out tokens manually.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-05-05",
+          "time": "02:55 PM",
+          "reporter_role": "OPD Nurse",
+          "incident_description": "Lightning tripped the token display above Reception; crowd is confused. Start manual announcements until the screen is reset.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-05",
+          "time": "05:12 PM",
+          "reporter_role": "Surgical Ward Clerk",
+          "incident_description": "Agrahara insurance verification desk is unmanned; two elective admissions are waiting for pre-admission stamps. Reception to arrange a standby clerk.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-05-08",
+          "time": "09:01 AM",
+          "reporter_role": "Switchboard Operator",
+          "incident_description": "1990 Suwaseriya called—polytrauma ETA 12 minutes. ETU extension on the directory is unreachable; reception to overhead-page ETU immediately.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-05-08",
+          "time": "03:47 PM",
+          "reporter_role": "Admin Officer - OPD",
+          "incident_description": "Widespread rain increased direction queries; volunteer desk is empty. Please assign one reception counter solely for wayfinding.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-05-10",
+          "time": "11:06 AM",
+          "reporter_role": "Paediatric Clinic Nurse",
+          "incident_description": "Registration created a duplicate MRN for a child due to an omitted NIC digit. Reception to merge records and reprint the OPD card.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-11",
+          "time": "08:28 AM",
+          "reporter_role": "Security Supervisor",
+          "incident_description": "Gusty winds kept the main doors open and queues spilled into the foyer. Reception to redirect entry via Gate B and manage the line.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-05-11",
+          "time": "06:20 PM",
+          "reporter_role": "Medical Administrator",
+          "incident_description": "Brief storm outage knocked external trunk lines. Switchboard should divert via the on-call mobiles/WhatsApp list until lines stabilize.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-13",
+          "time": "07:55 AM",
+          "reporter_role": "Records Officer",
+          "incident_description": "OPD token printer is jamming in humidity; numbers are faint. Reception to switch to pre-numbered chits and announce sequence.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-05-13",
+          "time": "02:18 PM",
+          "reporter_role": "Physiotherapy Aide",
+          "incident_description": "Waterlogging near main reception is blocking wheelchair movement. Please assign reception staff to escort via the back corridor to lifts.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-14",
+          "time": "09:12 AM",
+          "reporter_role": "MO-OPD",
+          "incident_description": "Tamil-speaking elders at registration; interpreter not on shift. Reception to page a Tamil-speaking staff/volunteer per the list.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-05-15",
+          "time": "10:03 AM",
+          "reporter_role": "ETU Medical Officer",
+          "incident_description": "Ambulance phoned ahead with suspected stroke; operator answered but ETU was not alerted. Implement an immediate 'red call' patch-through from reception.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-05-15",
+          "time": "04:26 PM",
+          "reporter_role": "Ward Clerk - Medical",
+          "incident_description": "During prolonged rain, visitors crowded reception asking for timings; the notice shows an old schedule. Please update and announce the current hours.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-17",
+          "time": "01:11 PM",
+          "reporter_role": "Consultant Surgeon",
+          "incident_description": "Switchboard still forwards calls to last month’s Surgery SHO. Reception to update the on-call directory immediately.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-17",
+          "time": "07:02 PM",
+          "reporter_role": "Call Centre Agent",
+          "incident_description": "Storms causing repeated call drops from outstations. Reception to offer WhatsApp callback option and log messages.",
+          "urgency": "Low"
+        },
+        {
+          "date": "2025-05-20",
+          "time": "09:36 AM",
+          "reporter_role": "Physiotherapy Aide",
+          "incident_description": "Front desk gave wrong directions; a post-op patient climbed stairs to Ward 7 instead of using the lift. Please brief reception staff and fix arrow signage.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-05-21",
+          "time": "08:17 AM",
+          "reporter_role": "Medical Administrator",
+          "incident_description": "Police relayed bus accident details; the operator kept the caller on hold. Reception must patch through immediately to ETU and Duty MO.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-05-21",
+          "time": "12:59 PM",
+          "reporter_role": "Security Supervisor",
+          "incident_description": "Rain-soaked visitors waiting inside; pass printer ink is smearing in humidity. Reception to issue handwritten passes and log NICs.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-25",
+          "time": "09:22 AM",
+          "reporter_role": "ETU Nurse",
+          "incident_description": "Cloudburst led three-wheelers to crowd the porch; ambulance bay partly blocked. Reception to make a PA announcement and coordinate with security to clear the lane.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-25",
+          "time": "05:48 PM",
+          "reporter_role": "Cashier",
+          "incident_description": "After 5:00 PM, cash counter phones are not routed from reception; patients are waiting for bills. Extend switchboard routing to 6:30 PM during the monsoon rush.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-05-26",
+          "time": "11:27 AM",
+          "reporter_role": "Records Officer",
+          "incident_description": "Family requested NIC correction; previous clerk entered the last digit wrong. Reception to update demographics and reprint the OPD card.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-05-28",
+          "time": "03:33 PM",
+          "reporter_role": "Public Health Nurse",
+          "incident_description": "External hotline IVR still advertises the Saturday vaccine clinic that ended. Reception to update the recorded message today.",
+          "urgency": "Medium"
+        }
+      ]
+    }
+  },
+  {
+    "month": "June",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-06-01",
+          "time": "07:35 AM",
+          "reporter_role": "Security Supervisor - Main Gate",
+          "incident_description": "Morning downpour pushed crowds into foyer; floor wet near OPD registration. Request Reception to activate overflow queue at Counter 3, make PA announcement, and call housekeeping for caution boards.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-01",
+          "time": "05:42 PM",
+          "reporter_role": "ETU Medical Officer",
+          "incident_description": "Ambulance en route with polytrauma; please have Reception alert triage and clear wheelchair route from front porch to ETU immediately.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-06-02",
+          "time": "01:15 PM",
+          "reporter_role": "Switchboard Operator",
+          "incident_description": "Sudden rain burst triggered spike in calls about clinic times; need Reception info desk to update recorded message and place extra staff for walk-ins.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-06-04",
+          "time": "10:05 AM",
+          "reporter_role": "OPD Nursing Officer",
+          "incident_description": "With strong winds, visitors missed ENT vs Eye clinic; request Reception to post an usher at OPD junction and redirect to correct rooms.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-06-04",
+          "time": "02:18 PM",
+          "reporter_role": "Insurance Verification Clerk",
+          "incident_description": "Power flicker after thunderstorm jammed token printer; please have Reception issue manual tokens and inform patients of 20-min delay.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-06",
+          "time": "08:25 AM",
+          "reporter_role": "Maternity Clinic Midwife",
+          "incident_description": "Antenatal crowd mixing with Child Immunization line; Reception to separate queues and place Sinhala/Tamil signage at stairwell.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-06-06",
+          "time": "07:50 PM",
+          "reporter_role": "Surgical Ward Clerk",
+          "incident_description": "Evening visitors keep approaching OPD desk for directions after hours; request Reception to enforce visiting-hours tokens and coordinate with security.",
+          "urgency": "Low"
+        },
+        {
+          "date": "2025-06-07",
+          "time": "11:20 AM",
+          "reporter_role": "Consultant Physician",
+          "incident_description": "Clinic roster changed today; several follow-ups queued at general OPD. Reception to correct locator board and make PA announcement.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-06-08",
+          "time": "12:40 PM",
+          "reporter_role": "Radiology Medical Officer",
+          "incident_description": "Heavy rain packed lift lobby; one elderly patient dyspnoeic. Reception to alert triage, deploy wheelchair, and guide X-ray patients via back corridor.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-08",
+          "time": "05:10 PM",
+          "reporter_role": "Switchboard Operator",
+          "incident_description": "Lightning causing line noise; urgent external calls dropping. Reception to route ETU calls via mobile list and maintain manual log.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-10",
+          "time": "09:05 AM",
+          "reporter_role": "Public Health Nurse (OPD)",
+          "incident_description": "Token display blank in breezy lobby; Reception to switch to voice announcements and verify token order with counters.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-06-11",
+          "time": "08:10 AM",
+          "reporter_role": "Laboratory Technician",
+          "incident_description": "Patients arriving at lab without OPD registration; please ask Reception to stamp OPD cards and send to lab only after demographic entry.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-06-11",
+          "time": "06:55 PM",
+          "reporter_role": "ETU Nurse-in-Charge",
+          "incident_description": "Caller reports stroke on the way; Reception/switchboard to keep line open, alert triage, and have stretcher ready at entrance.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-06-13",
+          "time": "07:30 AM",
+          "reporter_role": "Health Information Officer",
+          "incident_description": "Drizzle then downpour; NIC copier by Reception jammed, insurance check stalled. Reception to guide to alternate copier and note NIC numbers manually.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-06-15",
+          "time": "12:25 PM",
+          "reporter_role": "Orthopaedic Clinic Registrar",
+          "incident_description": "Due to wind and brief heavy rain many late arrivals; request Reception to extend clinic registration cut-off by 30 minutes and notify via PA.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-06-15",
+          "time": "03:40 PM",
+          "reporter_role": "OPD Lobby Security Officer",
+          "incident_description": "Visitors clustering at entrance; Reception to issue visitor tokens and enforce one-attendant rule to reduce crowding.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-17",
+          "time": "09:50 AM",
+          "reporter_role": "Paediatric Ward Sister",
+          "incident_description": "During thunder and heavy rain, mother with lethargic child entered via foyer; Reception to alert triage and escort to ETU urgently.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-06-17",
+          "time": "04:20 PM",
+          "reporter_role": "Physiotherapy Unit Clerk",
+          "incident_description": "Cleaning detour up; patients lost en route to Physio. Reception to station volunteer at lift lobby for one hour to guide.",
+          "urgency": "Low"
+        },
+        {
+          "date": "2025-06-18",
+          "time": "08:05 AM",
+          "reporter_role": "Hospital Administrator",
+          "incident_description": "Early downpour delayed staff; OPD counters short-handed. Reception to open backup counter and prioritize elderly/disabled.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-20",
+          "time": "02:55 PM",
+          "reporter_role": "Pharmacy Dispenser",
+          "incident_description": "Patients reaching pharmacy without OPD numbers; Reception to verify registration and reissue missing OPD cards.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-06-22",
+          "time": "10:30 AM",
+          "reporter_role": "Medical Clinic Volunteer",
+          "incident_description": "Humidity causing token tickets to stick, double numbers issued; Reception to switch to manual token sheet and inform counters.",
+          "urgency": "Low"
+        },
+        {
+          "date": "2025-06-24",
+          "time": "08:45 AM",
+          "reporter_role": "ENT Clinic Nurse",
+          "incident_description": "Heavy rain with thunder led to clinic room shift; patients still at old room. Reception to update locator board and send runner to redirect.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-24",
+          "time": "06:35 PM",
+          "reporter_role": "Switchboard Team Lead",
+          "incident_description": "Multiple vendors calling to deliver; Reception to coordinate access time slots and direct them to loading bay, not main foyer.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-06-26",
+          "time": "07:10 AM",
+          "reporter_role": "Transport Coordinator",
+          "incident_description": "Short intense rain drove private drop-offs to ambulance bay; Reception to place volunteer at porch and redirect vehicles to public drop-off.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-28",
+          "time": "01:05 PM",
+          "reporter_role": "Surgical OPD Medical Officer",
+          "incident_description": "Post-downpour crowding at information desk for surgical tokens; Reception to open temporary counter and provide bilingual guidance.",
+          "urgency": "Medium"
+        }
+      ]
+    }
+  },
+  {
+    "month": "July",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-07-01",
+          "time": "07:42 AM",
+          "reporter_role": "OPD Nursing Officer",
+          "incident_description": "OPD queue spilled into the car park because only one registration counter opened. Reception did not activate the token system or deploy the float clerk; please open another counter and guide patients to counters 1–3.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-07-02",
+          "time": "02:18 PM",
+          "reporter_role": "Paediatric SHO",
+          "incident_description": "Parent calls for NICU were repeatedly routed to Surgical Clinic by switchboard. Extension list appears outdated; request immediate correction and operator refresher.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-03",
+          "time": "08:10 AM",
+          "reporter_role": "Security Supervisor",
+          "incident_description": "Heavy morning rain drove crowds into the foyer; floor mats are soaked and slippery. Reception needs to redirect overflow to the OPD verandah and announce queue order to prevent slips.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-03",
+          "time": "05:55 PM",
+          "reporter_role": "Surgical OPD Clinic Clerk",
+          "incident_description": "Patient ‘Perera A.’ was registered twice due to a spelling variance; two HNs created. Reception to merge records and correct demographics before clinic call-up.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-07-05",
+          "time": "11:03 AM",
+          "reporter_role": "Physiotherapy Unit Clerk",
+          "incident_description": "Patients for physio were sent to old Block C. Reception desk script still shows the outdated location; please update directions and the lobby map.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-07-07",
+          "time": "03:22 PM",
+          "reporter_role": "Housekeeping Supervisor",
+          "incident_description": "With steady rain, wet umbrellas are blocking the entrance line. Request reception to announce use of the umbrella rack and adjust queue ropes to keep pathways clear.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-07-08",
+          "time": "09:47 AM",
+          "reporter_role": "Consultant ENT",
+          "incident_description": "Review-only clinic patients were queued at general registration. Reception should fast-track per the pre-printed clinic list; delay now 45 minutes.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-07-09",
+          "time": "06:12 PM",
+          "reporter_role": "Operating Theatre Administrator",
+          "incident_description": "During the afternoon thunderstorm, calls transferred to OT kept dropping at the main switchboard. Please switch to backup routing and alert critical callers before disconnects.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-10",
+          "time": "10:05 AM",
+          "reporter_role": "OPD Medical Officer",
+          "incident_description": "Tamil-speaking patient was registered with the wrong address and phone due to language barrier. Need a Tamil-speaking registrar rostered at reception during peak hours.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-07-11",
+          "time": "12:36 PM",
+          "reporter_role": "Finance Cashier",
+          "incident_description": "Reception is sending Agrahara queries to Cashier. Initial insurance verification should be done at the front desk; our counter is getting blocked.",
+          "urgency": "Low"
+        },
+        {
+          "date": "2025-07-12",
+          "time": "07:58 AM",
+          "reporter_role": "ETU Triage Nurse",
+          "incident_description": "1990 ambulance called ahead; operator took details but triage was not alerted. Ambulance arrived unannounced. Require strict reception-to-ETU escalation adherence.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-07-13",
+          "time": "04:11 PM",
+          "reporter_role": "Obstetrics Ward Clerk",
+          "incident_description": "Reception issued general visitor badges for Antenatal instead of pink ward passes. Security turned visitors back; please correct badge color coding and brief the desk.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-07-14",
+          "time": "01:20 PM",
+          "reporter_role": "Eye Clinic Sister-in-Charge",
+          "incident_description": "Change of venue for Dr. Jayasekara’s clinic was not updated at the enquiry desk. Around 30 patients waited at Room 6; need prompt announcements and redirection.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-15",
+          "time": "08:23 AM",
+          "reporter_role": "Switchboard Operator",
+          "incident_description": "Two active extensions are listed for MOPD; callers are being bounced. Request an updated internal directory and guidance for routing after 4 PM.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-07-16",
+          "time": "05:02 PM",
+          "reporter_role": "Security Officer (Main Gate)",
+          "incident_description": "Pharmaceutical rep arrived without prior appointment; reception did not log the visit or direct him to Procurement. Please enforce vendor sign-in and guidance.",
+          "urgency": "Low"
+        },
+        {
+          "date": "2025-07-17",
+          "time": "09:15 AM",
+          "reporter_role": "ETU Medical Officer",
+          "incident_description": "Reception relayed bus accident casualty info late during rain and thunder. ETU was not prepped; require immediate overhead page and direct line alert from switchboard.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-07-18",
+          "time": "03:37 PM",
+          "reporter_role": "Nursing Officer, Medical Ward 3",
+          "incident_description": "Multiple relatives are calling wards for visiting times. Reception is not handling general enquiries consistently; please provide a standard script or IVR message.",
+          "urgency": "Low"
+        },
+        {
+          "date": "2025-07-20",
+          "time": "02:49 PM",
+          "reporter_role": "Orthopaedic Clinic Clerk",
+          "incident_description": "OPD token printer at reception jammed; number sequence lost and patients bypassed. Request manual token issuance and a written log until fixed.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-21",
+          "time": "07:26 PM",
+          "reporter_role": "On-call Paediatric Registrar",
+          "incident_description": "Parent seeking advice for a neonate was routed to a random ward by operator. After-hours clinical calls must go to ETU/paeds on-call via switchboard priority.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-24",
+          "time": "09:02 AM",
+          "reporter_role": "Maintenance Duty Officer",
+          "incident_description": "Overnight gusts displaced the external OPD arrow sign. Morning visitors queued at Imaging; reception needs a greeter to redirect until signage is reset.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-07-24",
+          "time": "05:44 PM",
+          "reporter_role": "Pharmacy Dispensary In-Charge",
+          "incident_description": "Reception sent patients to pharmacy before registration; prescriptions arrived without HN stickers. Please ensure the desk confirms HN generation first.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-07-26",
+          "time": "11:18 AM",
+          "reporter_role": "IT Support Officer",
+          "incident_description": "After a brief power dip, the lobby queue display showed yesterday’s clinic order. Reception continued to rely on it; please switch to manual announcements when screens desync.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-07-27",
+          "time": "08:55 AM",
+          "reporter_role": "Gynaecology OPD Nurse",
+          "incident_description": "Antenatal mothers were directed to general OPD instead of the CTG room near Labour Ward. Request desk use the updated directions and floor map.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-07-30",
+          "time": "10:31 AM",
+          "reporter_role": "Public Relations Officer",
+          "incident_description": "Rain drove crowds into the foyer; reception shutters were down for lunch and enquiries were unattended. Please implement a staggered lunch roster for continuous coverage.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-07-30",
+          "time": "04:06 PM",
+          "reporter_role": "Theatre Nurse Manager",
+          "incident_description": "With widespread rain and high call volume, the operator kept surgeons on hold for over five minutes. Switchboard must apply the priority line protocol immediately.",
+          "urgency": "High"
+        }
+      ]
+    }
+  },
+  {
+    "month": "August",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-08-01",
+          "time": "08:12 AM",
+          "reporter_role": "OPD Charge Nurse",
+          "incident_description": "Main lobby OPD token display froze; patients clustering and missing turns. Reception to reset the queue, make PA announcements, and call manually until fixed.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-08-02",
+          "time": "10:43 AM",
+          "reporter_role": "Security Supervisor",
+          "incident_description": "Light rain pushed visitors into the foyer; reception desk was unmanned during shift change. Need extra receptionist to direct to clinics and manage overflow seating.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-08-02",
+          "time": "07:26 PM",
+          "reporter_role": "On-call ETU Medical Officer",
+          "incident_description": "Ambulance pre-alert came during evening thunder but switchboard did not patch immediately. Reception to activate red alert protocol and ring ETU backup line.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-08-04",
+          "time": "09:05 AM",
+          "reporter_role": "Clinic Coordinator (Medical Clinic)",
+          "incident_description": "Rheumatology clinic shifted to Room 3A but reception signage still shows 2C. Please update boards and guide arrivals to avoid missed tokens.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-05",
+          "time": "02:18 PM",
+          "reporter_role": "Laboratory Manager",
+          "incident_description": "Duplicate OPD registrations for one patient created two barcodes; samples queued twice. Reception to merge in HHIMS and retain correct BHT.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-07",
+          "time": "11:32 AM",
+          "reporter_role": "Consultant Paediatrician",
+          "incident_description": "Family was directed to surgical OPD instead of paediatric clinic; child missed token. Reception to correct directions and fast-track the case.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-08",
+          "time": "08:55 AM",
+          "reporter_role": "Housekeeping Supervisor",
+          "incident_description": "Heavy rain brought water into the lobby; mats saturated. Reception to pause entry at main door, announce side corridor use, and coordinate mop-up.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-08",
+          "time": "03:41 PM",
+          "reporter_role": "Pharmacy Dispenser",
+          "incident_description": "Patients reaching pharmacy without printed clinic cards due to front desk printer jam. Reception to reprint and stamp cards to clear dispensing queue.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-08-10",
+          "time": "04:22 PM",
+          "reporter_role": "Finance Officer (Cashier)",
+          "incident_description": "Insurance pre-authorization not initiated at admission. Reception to call insurer, upload forms, and note approval number to prevent non-payment.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-12",
+          "time": "07:58 AM",
+          "reporter_role": "Switchboard Operator",
+          "incident_description": "PBX trunk 1 saturated with morning calls; outside callers cannot reach wards. Reception to route via trunk 2 and circulate alternate contact list.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-08-13",
+          "time": "11:14 AM",
+          "reporter_role": "OPD Medical Officer",
+          "incident_description": "NIC entered incorrectly at registration; lab results not linking to the chart. Reception to correct demographics in HHIMS and reissue barcode labels.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-13",
+          "time": "05:07 PM",
+          "reporter_role": "ETU Nurse-in-Charge",
+          "incident_description": "During rain, an ambulance ETA was received on the general line but ETU alert was not triggered. Reception to follow 'Code Red Arrival' paging protocol.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-08-15",
+          "time": "09:47 AM",
+          "reporter_role": "Physiotherapy Unit Clerk",
+          "incident_description": "New referrals told to queue at OPD counter instead of Physio registration in Basement. Reception to brief volunteers and redirect patients properly.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-08-17",
+          "time": "10:29 AM",
+          "reporter_role": "Theatre Porter Supervisor",
+          "incident_description": "Gusty rain forced family groups into the lobby, blocking the trolley route. Reception to manage visitor flow and issue ICU visiting time tokens.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-17",
+          "time": "07:52 PM",
+          "reporter_role": "Medical Registrar (On Call)",
+          "incident_description": "Unable to reach Paediatrics via listed extension; switchboard directory is outdated. Reception to update the extension map and route calls correctly.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-19",
+          "time": "08:21 AM",
+          "reporter_role": "OPD Data Entry Officer",
+          "incident_description": "HHIMS intermittent at front desk; manual registrations piling up. Reception to activate downtime protocol and issue handwritten OPD tokens.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-20",
+          "time": "01:35 PM",
+          "reporter_role": "Radiology Consultant",
+          "incident_description": "Two inpatients sent for ultrasound without registration stickers/receipts. Reception to verify, stamp request forms, and redirect patients properly.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-08-22",
+          "time": "09:02 AM",
+          "reporter_role": "Volunteer Coordinator",
+          "incident_description": "Elderly Tamil-only speaker lost near lobby during thundery rain. Reception to arrange interpreter and escort to cardiology clinic.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-22",
+          "time": "06:18 PM",
+          "reporter_role": "ICU Nurse",
+          "incident_description": "Relatives attempting to visit ICU outside hours causing corridor crowding. Reception to enforce visiting policy and manage pass issuance.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-08-24",
+          "time": "08:06 AM",
+          "reporter_role": "Biomedical Engineering Tech",
+          "incident_description": "After thunder, queue display screens are flickering at the entrance. Reception to switch to manual calling and use PA announcements.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-08-24",
+          "time": "01:11 PM",
+          "reporter_role": "Diabetes Clinic Medical Officer",
+          "incident_description": "Channelling counter issued tokens for a clinic cancelled due to consultant’s weather delay. Reception to inform, rebook, and validate refunds.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-26",
+          "time": "12:22 PM",
+          "reporter_role": "Accounts Clerk",
+          "incident_description": "Paying OPD patient registered under free category; billing rejected. Reception to correct category in HHIMS and reprint invoice.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-08-28",
+          "time": "09:33 AM",
+          "reporter_role": "Ward Clerk - Gynaecology",
+          "incident_description": "Pre-op patient arrived in theatre without BHT created. Reception to generate BHT and attach labels before transfer proceeds.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-30",
+          "time": "07:15 AM",
+          "reporter_role": "Security Officer (Gate)",
+          "incident_description": "Heavy rain led ride-hailing cars to queue at the drop-off, blocking the ambulance bay. Reception to make PA announcements and coordinate clearing.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-08-30",
+          "time": "08:49 PM",
+          "reporter_role": "On-call Anaesthetist",
+          "incident_description": "External referral doctor kept on hold; switchboard failed to patch to ETU. Reception to use emergency override and return the call immediately.",
+          "urgency": "Critical"
+        }
+      ]
+    }
+  },
+  {
+    "month": "September",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-09-01",
+          "time": "08:15 AM",
+          "reporter_role": "OPD Nurse",
+          "incident_description": "OPD token display at Reception froze; queue spilled into the foyer. Front desk issued handwritten tokens and had to guide patients to counters.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-09-03",
+          "time": "10:05 AM",
+          "reporter_role": "Health Records Officer",
+          "incident_description": "NIC scanner at Registration intermittently failed in the humidity; demographic entry slowed and patients were bounced between desks. Reception to switch to manual entry and check the device.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-09-04",
+          "time": "06:50 PM",
+          "reporter_role": "Security Officer",
+          "incident_description": "Evening rain pushed visitors into the atrium; soaked mats and a queue across the doorway created slip risk. Reception needed to redirect foot traffic and place wet-floor cones.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-04",
+          "time": "10:20 AM",
+          "reporter_role": "Clinic Coordinator",
+          "incident_description": "Consultant clinic pre-booked list did not sync with Reception; booked patients were sent back to OPD. Front desk reconciliation is needed before clinics open.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-09-06",
+          "time": "07:32 AM",
+          "reporter_role": "Triage Nurse",
+          "incident_description": "Ambulance pre-alert rang the main line with no pickup for ~3 minutes; a suspected stroke arrived unannounced. Require backup operator cover during breakfast break.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-09-08",
+          "time": "02:05 PM",
+          "reporter_role": "Radiology Clerk",
+          "incident_description": "Imaging payment receipts at Reception would not print; thermal paper was damp from the afternoon rain. X-ray patients waited until rolls were changed.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-09-08",
+          "time": "04:40 PM",
+          "reporter_role": "Switchboard Supervisor",
+          "incident_description": "Storm-related power flicker rebooted the PABX; inbound calls dropped for 8 minutes. Need surge protection and rapid reroute to backup mobiles.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-09",
+          "time": "11:18 AM",
+          "reporter_role": "Cardiology Ward Nurse",
+          "incident_description": "Switchboard kept routing overseas callers to cardiac theatre instead of the cardiology ward. Please update extension labels and provide a quick reference for operators.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-09-10",
+          "time": "08:25 AM",
+          "reporter_role": "Admission Coordinator",
+          "incident_description": "Reception entered an incorrect policy number during initial insurance verification; an elective surgery was nearly billed as self-pay. Need a double-check step before admission stickers are printed.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-10",
+          "time": "07:55 PM",
+          "reporter_role": "ED Medical Officer",
+          "incident_description": "GP called about an incoming anaphylaxis but was put on hold by the operator during the thunderstorm; ED was not patched immediately. Require direct critical-call transfer protocol.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-09-12",
+          "time": "11:10 AM",
+          "reporter_role": "Laboratory Technologist",
+          "incident_description": "Two OPD patients with the same name were registered under one MRN at Reception; lab results attached to the wrong encounter. Immediate record split and OPD notification needed.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-14",
+          "time": "03:30 PM",
+          "reporter_role": "Visitor Assistance Volunteer",
+          "incident_description": "OPD announcements were only in English; Sinhala/Tamil speakers at the front desk missed tokens and counters. Reception should enable trilingual announcements and clearer displays.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-09-16",
+          "time": "09:05 AM",
+          "reporter_role": "Biomedical Engineer",
+          "incident_description": "Vendor delivering oxygen regulators bypassed Reception and entered OT stores without badges; visit not logged at the desk. Need stricter vendor sign-in and escort from Reception.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-17",
+          "time": "01:15 PM",
+          "reporter_role": "Finance Officer",
+          "incident_description": "Heavy rain and generator hum made foyer PA announcements inaudible; patients queued at Cashier instead of Registration. Reception to raise PA volume and station a temporary usher.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-09-17",
+          "time": "05:50 PM",
+          "reporter_role": "OPD Medical Officer",
+          "incident_description": "Flooded car park left NIC cards wet; the registration scanner jammed and intake stalled. Reception to switch to manual intake and provide plastic sleeves at entry.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-19",
+          "time": "06:55 PM",
+          "reporter_role": "Surgical Registrar (On-call)",
+          "incident_description": "After-hours operator used an outdated rota for surgical on-call; consent was delayed. Switchboard must use the current contact list and confirm read-backs.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-21",
+          "time": "10:40 AM",
+          "reporter_role": "ENT Consultant",
+          "incident_description": "Clinic relocated to Block C, but Reception kept directing patients to the old OPD rooms. Update wayfinding at the main desk and on the token display.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-09-21",
+          "time": "03:20 PM",
+          "reporter_role": "Nursing Superintendent",
+          "incident_description": "During a thundery shower and visiting hour, the foyer was packed; Reception issued OPD tokens to visitors. Need separate queues and clear signage for visitors vs patients.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-23",
+          "time": "08:10 PM",
+          "reporter_role": "Ambulance Officer",
+          "incident_description": "Gate lodge intercom to Reception failed in the evening storm; ambulance arrival was not relayed to triage promptly. Require a dedicated emergency mobile at the desk.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-09-25",
+          "time": "11:35 AM",
+          "reporter_role": "Health Information Manager",
+          "incident_description": "eChannelling list printed without MRNs; front desk re-registered follow-ups, creating duplicates. Immediate merges and a known-patient check-in workflow are required.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-25",
+          "time": "07:25 PM",
+          "reporter_role": "ICU Charge Nurse",
+          "incident_description": "Family looking for an ICU patient was directed to HDU by Reception; they became distressed. Need location cards and a verification question before directing.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-09-27",
+          "time": "04:05 PM",
+          "reporter_role": "Pharmacist",
+          "incident_description": "Front desk advised that the OPD cashier was closed and redirected payments to pharmacy; queues overflowed and delayed dispensing. Reception to align closing times and announcements.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-09-28",
+          "time": "09:10 AM",
+          "reporter_role": "Administrative Officer",
+          "incident_description": "Morning rain but no entrance mat or queue barrier at Reception; first-step area was slippery though no fall occurred. Front desk to deploy mats and cones proactively.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-28",
+          "time": "02:50 PM",
+          "reporter_role": "Antenatal Clinic Nurse",
+          "incident_description": "Switchboard was overloaded; a mother seeking directions could not reach Maternity despite three attempts. Need overflow routing or recorded directions in Sinhala/Tamil.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-09-30",
+          "time": "12:20 PM",
+          "reporter_role": "Occupational Health Physician",
+          "incident_description": "Corporate screening group arrived together; Reception lacked a group registration process and tokenised individually, backing up OPD by 45 minutes. Please institute bulk pre-registration at the desk.",
+          "urgency": "Medium"
+        }
+      ]
+    }
+  },
+  {
+    "month": "October",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-10-01",
+          "time": "06:20 PM",
+          "reporter_role": "Switchboard Operator",
+          "incident_description": "During the evening thunderstorm the main PABX kept dropping external calls; I had to redial ETU several times to pass messages. Need reception backup routing list activated.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-01",
+          "time": "07:05 PM",
+          "reporter_role": "ETU Charge Nurse",
+          "incident_description": "Ambulance pre-alert from 1990 was not relayed promptly from reception due to PA failure in the lobby. Request immediate manual runner protocol during storms.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-10-02",
+          "time": "02:15 PM",
+          "reporter_role": "OPD Matron",
+          "incident_description": "Heavy rain caused crowding at the entrance and the OPD token kiosk was unplugged; patients confused about queue order. Reception to shift to manual tokens and guide seniors separately.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-10-03",
+          "time": "10:05 AM",
+          "reporter_role": "Health Information Officer",
+          "incident_description": "OPD registration keyed wrong NIC for a new patient creating a duplicate PHN. Please correct demographics and circulate a quick check SOP to reception counters.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-10-04",
+          "time": "07:40 PM",
+          "reporter_role": "Hospital Administrator",
+          "incident_description": "Main number is intermittently routing to Pharmacy instead of reception after hours. Switchboard to review PABX night service settings.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-05",
+          "time": "08:10 PM",
+          "reporter_role": "MO-ETU",
+          "incident_description": "Severe lightning—pre-alert call for a polytrauma dropped and ETU was not informed until arrival. Reception must use ETU mobile and backup list during outages.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-10-07",
+          "time": "03:10 PM",
+          "reporter_role": "Security Supervisor",
+          "incident_description": "Rainwater tracked into the foyer; no wet floor cones near reception queue and two visitors nearly slipped. Please coordinate housekeeping and redirect foot traffic.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-08",
+          "time": "08:25 PM",
+          "reporter_role": "Paediatric Ward Sister",
+          "incident_description": "Switchboard overloaded during the thunderstorm; calls to Ward 12P not getting through. Need an extra reception staffer to triage urgent ward extensions.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-10",
+          "time": "06:55 PM",
+          "reporter_role": "Orthopaedic Registrar",
+          "incident_description": "Relatives of a trauma patient were sent to the wrong lift bank because signage wasn’t updated at reception during lift maintenance. Please brief desk staff and update wayfinding.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-10-11",
+          "time": "08:35 AM",
+          "reporter_role": "Social Work Officer",
+          "incident_description": "Persistent rain led to long registration lines spilling outdoors; elderly and antenatal patients standing in rain. Reception to open Counter 3 and fast-track vulnerable groups.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-11",
+          "time": "01:20 PM",
+          "reporter_role": "Channelling Centre Supervisor",
+          "incident_description": "Due to flooded roads several consultants are late; hotline keeps ringing out. Reception to post delay notice at main desk and reschedule slots.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-10-13",
+          "time": "09:10 AM",
+          "reporter_role": "Eye Clinic Nurse",
+          "incident_description": "Patients for the Eye OPD are still being directed to the old block. Reception needs to consistently direct them to Annex B, Level 2.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-10-14",
+          "time": "07:45 PM",
+          "reporter_role": "Front-Desk Clerk",
+          "incident_description": "Power dip during the storm knocked out reception printers; manual OPD forms ran out. Need immediate supply and guidance on temporary numbering.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-15",
+          "time": "04:05 PM",
+          "reporter_role": "Secretary to Medical Superintendent",
+          "incident_description": "Visiting hours changed today but lobby crowd was not informed. Please make PA announcements from reception and manage the flow to wards.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-10-17",
+          "time": "07:20 PM",
+          "reporter_role": "Security OIC",
+          "incident_description": "Wind blew down the temporary ETU Entrance board; ambulances diverted to the main porch. Reception to station a staffer to redirect until signage is fixed.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-18",
+          "time": "06:10 PM",
+          "reporter_role": "Biomedical Engineer",
+          "incident_description": "Oxygen cylinder vendor arrived during the evening rain but was not logged at reception, delaying handover to Stores. Please clear the vendor queue and stamp passes.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-10-20",
+          "time": "02:35 PM",
+          "reporter_role": "Duty Manager",
+          "incident_description": "Caller with chest pain was transferred by switchboard to Cardiology OPD instead of ETU. Reception must follow the emergency call script immediately.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-22",
+          "time": "08:10 PM",
+          "reporter_role": "Switchboard Supervisor",
+          "incident_description": "Lightning took down one trunk line; external calls are failing. Need reception to divert main number to DMO mobile and post status at the front desk.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-10-23",
+          "time": "11:30 AM",
+          "reporter_role": "Administrative Officer",
+          "incident_description": "VIP visitor arrived without reception notifying administration as per protocol. Please reinforce the visitor alert SOP at the main desk.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-10-24",
+          "time": "03:25 PM",
+          "reporter_role": "Physiotherapy Unit In-Charge",
+          "incident_description": "Brief flooding at the front ramp; wheelchair users were sent via a route with steps. Reception to guide through the service corridor and inform lift operators.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-25",
+          "time": "09:15 AM",
+          "reporter_role": "OT Scheduler",
+          "incident_description": "Insurance verification for a day-case hernia repair took 45 minutes at information desk; theatre list started late. Reception to prioritize pre-authorized cases.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-27",
+          "time": "01:40 PM",
+          "reporter_role": "OPD Matron",
+          "incident_description": "Waiting area AC down; patients restless. Reception should slow OPD token release and arrange drinking water near the main desk.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-10-28",
+          "time": "08:30 PM",
+          "reporter_role": "Night Nursing Supervisor",
+          "incident_description": "Intercom to wards is noisy during the storm; reception cannot hear extensions clearly. Use the backup call tree and confirm handovers by callback.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-30",
+          "time": "07:05 PM",
+          "reporter_role": "ETU Consultant",
+          "incident_description": "Torrential rain flooded the foyer; reception rerouted foot traffic through the ambulance bay, obstructing ETU access. Need marshals and tape to create a safe alternate path.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-10-31",
+          "time": "10:05 AM",
+          "reporter_role": "Finance Assistant",
+          "incident_description": "Month-end batch closed the main card machine at reception; patients queued for cash. Please switch to the backup terminal and display a notice.",
+          "urgency": "Medium"
+        }
+      ]
+    }
+  },
+  {
+    "month": "November",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-11-01",
+          "time": "08:14 AM",
+          "reporter_role": "Security Supervisor - Main Gate",
+          "incident_description": "Wet lobby mats from morning drizzle made the foyer slippery; please have Reception redirect foot traffic via the side OPD entrance and place clear caution signage.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-11-01",
+          "time": "02:36 PM",
+          "reporter_role": "Triage Nurse - ETU",
+          "incident_description": "During heavy rain a caller reported a breathless patient in a car at the gate; the main board did not alert ETU immediately. Reception must escalate such calls to triage without delay.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-11-02",
+          "time": "11:22 AM",
+          "reporter_role": "OPD Medical Officer",
+          "incident_description": "After a brief power flicker the token display at OPD Reception went blank; request Reception to shift to manual tokens and announce counter numbers to avoid registration delays.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-11-03",
+          "time": "09:05 AM",
+          "reporter_role": "Pharmacy Manager",
+          "incident_description": "A vendor entered without a visitor pass and was moving near the counters; Reception should issue a vendor badge and direct them to the correct collection point.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-11-03",
+          "time": "04:42 PM",
+          "reporter_role": "Switchboard Operator",
+          "incident_description": "Thunderstorms caused line noise and external calls kept bouncing to Surgical Ward; need Reception to manually route critical calls and keep a call log until lines stabilize.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-05",
+          "time": "10:18 AM",
+          "reporter_role": "OPD Staff Nurse",
+          "incident_description": "Announcements for tokens were only in Sinhala; Tamil-speaking patients missed their turns. Reception to use bilingual PA for OPD counters.",
+          "urgency": "Low"
+        },
+        {
+          "date": "2025-11-06",
+          "time": "01:07 PM",
+          "reporter_role": "Finance/Insurance Clerk",
+          "incident_description": "Insurance verification desk was unmanned during lunch due to rain delays; please arrange Reception relief staff and display a temporary notice for queue management.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-11-08",
+          "time": "12:31 PM",
+          "reporter_role": "Triage Nurse - OPD",
+          "incident_description": "OPD and Lab queues merged into one crowd around the front desk at midday; Reception needs to split the lines and direct patients to the correct counters.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-09",
+          "time": "01:12 PM",
+          "reporter_role": "Administrative Officer",
+          "incident_description": "PA system in the foyer failed after the thunder; Reception should switch to the battery megaphone and send WhatsApp text alerts to clinics for token ranges.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-09",
+          "time": "05:57 PM",
+          "reporter_role": "Security Supervisor - Vehicle Bay",
+          "incident_description": "During the evening rain, taxis crowded the covered drop-off and blocked patient access; Reception to make periodic announcements and coordinate the queue.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-11-11",
+          "time": "03:09 PM",
+          "reporter_role": "Lab Receptionist",
+          "incident_description": "A patient’s district code and DOB were entered incorrectly at registration; specimen label didn’t match the MRN. Reception to correct demographics and reprint labels.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-11-13",
+          "time": "08:26 AM",
+          "reporter_role": "Housekeeping Supervisor",
+          "incident_description": "Morning rainwater pooled in the foyer making the regular queue space unusable; Reception should shift registration to the side counter and guide patients accordingly.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-13",
+          "time": "03:51 PM",
+          "reporter_role": "Medical Superintendent",
+          "incident_description": "Peripheral hospital phoned ahead about a suspected stroke but the alert from the main board to ETU was delayed; Reception must use the red-flag protocol immediately.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-11-14",
+          "time": "11:48 AM",
+          "reporter_role": "Radiology Medical Officer",
+          "incident_description": "An elderly visitor got lost between OPD and X-ray; Reception should provide an escort and update the wayfinding directions at the help desk.",
+          "urgency": "Low"
+        },
+        {
+          "date": "2025-11-15",
+          "time": "02:22 PM",
+          "reporter_role": "ETU Charge Nurse",
+          "incident_description": "A walk-in casualty family reported at the front desk but triage was not alerted for several minutes; Reception to activate the emergency call to ETU immediately.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-17",
+          "time": "12:05 PM",
+          "reporter_role": "Clinic Coordinator",
+          "incident_description": "Only one registration counter was open during tea break and the line overflowed into the corridor; Reception should stagger breaks and open an auxiliary counter.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-11-18",
+          "time": "10:12 AM",
+          "reporter_role": "Switchboard Operator",
+          "incident_description": "Internal intercom to wards is down; Reception must patch urgent calls via listed mobiles and maintain a manual call-routing sheet.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-18",
+          "time": "07:08 PM",
+          "reporter_role": "Ward Block Security Officer",
+          "incident_description": "Digital board at Reception showed Sunday visiting hours on a weekday; visitors argued at entrances. Please correct the display and brief visitors.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-11-20",
+          "time": "08:02 AM",
+          "reporter_role": "Public Health Nursing Sister",
+          "incident_description": "A busload of clinic patients arrived early due to schedule changes in heavy rain; Reception to start pre-registration and open extra counters to prevent crowding.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-20",
+          "time": "03:27 PM",
+          "reporter_role": "IT Support Officer",
+          "incident_description": "Leak from the foyer roof dripped onto the token kiosk causing a shutdown; Reception should switch to manual tokens and announce counter calls until repaired.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-11-22",
+          "time": "09:44 AM",
+          "reporter_role": "Quality Improvement Officer",
+          "incident_description": "Main line received many wrong-number calls meant for a private lab listed online; Reception to update the IVR message and redirect queries appropriately.",
+          "urgency": "Low"
+        },
+        {
+          "date": "2025-11-23",
+          "time": "01:33 PM",
+          "reporter_role": "Facilities Engineer",
+          "incident_description": "Foyer AC was out in hot, muggy conditions; the queue became congested. Reception should shift patients to the shaded veranda and manage the line.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-11-25",
+          "time": "09:18 AM",
+          "reporter_role": "MO Paediatrics",
+          "incident_description": "Child’s MRN not found due to registration under a misspelled name and wrong DOB; Reception to merge duplicates and correct demographics before clinic.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-11-25",
+          "time": "06:35 PM",
+          "reporter_role": "On-call Orthopaedic Surgeon",
+          "incident_description": "Family phoned the main board to pre-alert a polytrauma ambulance during the storm; call stayed in queue. Reception must fast-track ETU connection on such alerts.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-11-27",
+          "time": "10:56 AM",
+          "reporter_role": "Private Wing Manager",
+          "incident_description": "Two foreign visitors asking about private admissions were given OPD tokens; Reception should direct such inquiries to the private wing desk and provide fee info.",
+          "urgency": "Low"
+        }
+      ]
+    }
+  },
+  {
+    "month": "December",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-12-01",
+          "time": "08:15 AM",
+          "reporter_role": "Security Supervisor",
+          "incident_description": "Heavy rain soaked the entrance mats; two visitors nearly slipped. Reception to place wet-floor signs and call housekeeping to mop the lobby.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-01",
+          "time": "02:40 PM",
+          "reporter_role": "Switchboard Operator",
+          "incident_description": "Thunderstorm causing intermittent trunk line drops; an ambulance pre-alert failed. Switchboard to route via backup mobiles and notify ETU immediately.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-12-02",
+          "time": "09:05 AM",
+          "reporter_role": "OPD Registration Clerk",
+          "incident_description": "OPD token display froze while queue extended outside. Reception to reset the display and open the overflow seating area.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-12-04",
+          "time": "10:25 AM",
+          "reporter_role": "Hospital Administrator (On Duty)",
+          "incident_description": "Radiology has shifted to Block B, but lobby signage still points to old corridor. Reception to post temporary arrows and brief front-desk staff.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-12-05",
+          "time": "08:50 AM",
+          "reporter_role": "Front Desk Executive",
+          "incident_description": "NIC card scanner at registration is not reading—humidity causing repeated errors. Reception to switch to manual log and arrange vendor check.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-12-07",
+          "time": "07:20 AM",
+          "reporter_role": "Nursing Officer - OPD Triage",
+          "incident_description": "Early bus group for diabetic clinic arrived together; counters not open yet. Reception to open an extra counter and alert triage for flow.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-07",
+          "time": "06:35 PM",
+          "reporter_role": "Security Officer - Main Lobby",
+          "incident_description": "Evening rain pushed crowds into the lobby; queues merged near lifts. Reception to direct visitors to correct wards and coordinate security barriers.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-09",
+          "time": "11:10 AM",
+          "reporter_role": "Lab Technologist",
+          "incident_description": "External lab courier is waiting at front desk with samples; lab not called. Reception to ring Lab Ext. 210 and log handover.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-12-11",
+          "time": "03:05 PM",
+          "reporter_role": "Switchboard Operator",
+          "incident_description": "Afternoon storm causing multiple dropped external calls to clinics. Reception to activate the backup contact list and route via staff mobiles.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-11",
+          "time": "09:30 AM",
+          "reporter_role": "Medical Records Officer",
+          "incident_description": "Registration rejecting old‑format NICs with the letter suffix. Reception to guide staff on old vs 12‑digit formats and request IT to adjust validation.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-12-12",
+          "time": "10:12 AM",
+          "reporter_role": "Security Officer - Gate",
+          "incident_description": "Male at Gate 1 reporting chest pain en route to ETU. Reception to dispatch a wheelchair/porter and pre-alert ETU.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-12-13",
+          "time": "07:25 PM",
+          "reporter_role": "Housekeeping Team Lead",
+          "incident_description": "Ceiling drip near main desk after evening rain; forms box getting wet. Reception to shift the counter forward and place caution signs while maintenance arrives.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-12-13",
+          "time": "01:40 PM",
+          "reporter_role": "Clinic Coordinator - ENT",
+          "incident_description": "eChannelling list doesn’t match hospital registry; several duplicate bookings for ENT clinic. Reception to reconcile names and renumber tokens.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-12-15",
+          "time": "02:10 PM",
+          "reporter_role": "Visitor Services Volunteer Coordinator",
+          "incident_description": "Visitor badge printer ribbon nearly finished; prints are faint. Reception to replace ribbon before 4–6 pm visiting.",
+          "urgency": "Low"
+        },
+        {
+          "date": "2025-12-16",
+          "time": "04:05 PM",
+          "reporter_role": "ETU Charge Nurse",
+          "incident_description": "Ambulance pre-alert through reception landline was distorted during rain. Reception to confirm via mobile and alert ETU without delay.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-12-16",
+          "time": "08:35 AM",
+          "reporter_role": "Security Officer - Gate",
+          "incident_description": "Supplier with oxygen cylinders waiting at entrance unsure of route. Reception to guide to Main Stores and inform Biomedical Unit.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-12-18",
+          "time": "11:50 AM",
+          "reporter_role": "Hospital Administrator (On Duty)",
+          "incident_description": "Lobby information board shows old year-end clinic times. Reception to update timings and make a short PA announcement.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-12-22",
+          "time": "10:05 AM",
+          "reporter_role": "OPD Registration Clerk",
+          "incident_description": "Two Tamil-speaking elders at desk; no Tamil-speaking receptionist on shift. Reception to arrange interpreter support and direct them to Medical Clinic counter.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-12-23",
+          "time": "09:15 AM",
+          "reporter_role": "Front Desk Executive",
+          "incident_description": "Patient’s clinic book handed in last night; owner not traced. Reception to check the lost-and-found log and call OPD Records.",
+          "urgency": "Low"
+        },
+        {
+          "date": "2025-12-25",
+          "time": "09:40 AM",
+          "reporter_role": "Consultant’s PA - Medicine",
+          "incident_description": "Volunteer choir set up across the token queue; patients are confused. Reception to reroute the line and brief the group.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-12-25",
+          "time": "07:10 PM",
+          "reporter_role": "Switchboard Supervisor",
+          "incident_description": "Unusually high holiday call volume about visiting hours; lines congested. Reception to enable recorded message and add a relief operator.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-28",
+          "time": "02:55 PM",
+          "reporter_role": "OPD Registration Supervisor",
+          "incident_description": "Token printer jammed; paper curled due to humidity. Reception to clear the jam and switch to manual token slips.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-28",
+          "time": "06:20 PM",
+          "reporter_role": "Security Supervisor",
+          "incident_description": "Rain tracked in from ambulance bay making floor slick near helpdesk. Reception to cordon area and call housekeeping.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-29",
+          "time": "03:30 PM",
+          "reporter_role": "Ward Clerk - Ward 5B",
+          "incident_description": "Phone directory lists wrong extensions for Wards 5B and 6A; callers misrouted. Reception to update the switchboard directory and circulate.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-12-30",
+          "time": "08:10 AM",
+          "reporter_role": "Switchboard Operator",
+          "incident_description": "Voicemail inbox on main line is full from last night; callers can’t leave messages. Reception to clear messages and test routing.",
+          "urgency": "Medium"
+        }
+      ]
+    }
+  }
+]

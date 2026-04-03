@@ -1,0 +1,50 @@
+[
+  {
+    "month": "January",
+    "summery": "One of the pleasantest months in Colombo. It is relatively dry and 'cool' by local standards. It marks the tail end of the North-East monsoon, featuring clear blue skies and lower humidity. Average rainy days: 5."
+  },
+  {
+    "month": "February",
+    "summery": "Historically the driest month of the year. Temperatures begin to rise slightly, but the lack of rain and clear sunshine make it a peak time for outdoor activities. Average rainy days: 5."
+  },
+  {
+    "month": "March",
+    "summery": "A transition month (Inter-monsoon) where heat and humidity start to build up significantly. Expect afternoon or evening thunderstorms as the heat creates convectional rain. Average rainy days: 9."
+  },
+  {
+    "month": "April",
+    "summery": "Often the hottest month of the year, coinciding with the Sinhala and Tamil New Year. The air is heavy and humid, with frequent pre-monsoon thunderstorms in the evenings. Average rainy days: 14."
+  },
+  {
+    "month": "May",
+    "summery": "The arrival of the South-West Monsoon (Yala). This is typically the wettest month, characterized by heavy, persistent downpours and strong sea breezes. Average rainy days: 16."
+  },
+  {
+    "month": "June",
+    "summery": "The South-West Monsoon continues. While the rain is frequent, it often comes in short, heavy bursts followed by overcast skies. It remains very windy along the coast. Average rainy days: 16."
+  },
+  {
+    "month": "July",
+    "summery": "A slight dip in rainfall compared to May/June, but still part of the monsoon season. Skies are often cloudy, providing a break from the direct tropical sun. Average rainy days: 12."
+  },
+  {
+    "month": "August",
+    "summery": "Often sees a 'monsoon break' with surprisingly pleasant weather and less rain than the preceding months, though brief showers are still common. Average rainy days: 11."
+  },
+  {
+    "month": "September",
+    "summery": "Rainfall begins to pick up again as the South-West Monsoon makes its final push. Expect more frequent thundershowers towards the end of the month. Average rainy days: 14."
+  },
+  {
+    "month": "October",
+    "summery": "The second Inter-monsoon period. This month is notorious for unpredictable and very heavy evening thunderstorms and high lightning activity. Average rainy days: 17."
+  },
+  {
+    "month": "November",
+    "summery": "Very wet as the North-East monsoon begins to influence the island. Rainfall is often widespread and can last for several hours at a time. Average rainy days: 15."
+  },
+  {
+    "month": "December",
+    "summery": "The weather begins to settle. Rain decreases as the month progresses, making way for the 'Christmas weather'—cooler nights and crisp, sunny mornings. Average rainy days: 10."
+  }
+]

@@ -1,0 +1,2186 @@
+[
+  {
+    "month": "January",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-01-01",
+          "time": "08:25 AM",
+          "reporter_role": "OPD Nursing Officer",
+          "incident_description": "Patient vomited on chair and floor in OPD waiting area; request biohazard clean-up, chair wipe-down, and disinfection around ticket counter.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-03",
+          "time": "07:15 AM",
+          "reporter_role": "Security Supervisor",
+          "incident_description": "Light morning rain soaked foyer mats and left water pooling near main entrance; please mop, replace with dry mats, and place wet-floor signs.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-03",
+          "time": "11:40 AM",
+          "reporter_role": "Infection Control Nurse",
+          "incident_description": "Yellow clinical waste bags from Ward 7 were left in the black-bin bay; need re-segregation and disinfection of the bay surface immediately.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-05",
+          "time": "02:10 PM",
+          "reporter_role": "Ward Sister - Surgical",
+          "incident_description": "Laundry delivered bedsheets with faint iodine stains and still damp; please rewash and supply clean dry sets for evening admissions.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-01-06",
+          "time": "05:55 PM",
+          "reporter_role": "Medical Officer - Isolation Unit",
+          "incident_description": "Suspected dengue patient discharged from Isolation Cubicle 3; request terminal cleaning with curtain change per protocol before next admission.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-08",
+          "time": "03:20 PM",
+          "reporter_role": "Paediatrics Registrar",
+          "incident_description": "Short spell of rain brought mud into Paediatric corridor from the garden side; floors sticky in patches—please deep mop and clean skirting.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-01-08",
+          "time": "09:35 AM",
+          "reporter_role": "Pharmacy Intern - OPD",
+          "incident_description": "Glass bottle of syrup shattered near OPD pharmacy counter; need safe glass removal and disinfection of the sticky spill.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-10",
+          "time": "10:05 AM",
+          "reporter_role": "Ward Nurse - Medical",
+          "incident_description": "Sharps box near Bed 12 at fill line and no spare in store; please provide replacement and arrange prompt collection of sealed container.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-11",
+          "time": "06:50 AM",
+          "reporter_role": "Matron - Surgical Complex",
+          "incident_description": "Persistent foul odour from surgical ward sluice room; request deep clean including drain trap and wall tiles before OT list starts.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-13",
+          "time": "07:05 PM",
+          "reporter_role": "Theatre Sister",
+          "incident_description": "Evening batch of OT scrub suits smells musty after brief rain; kindly rewash and fast-track drying of 20 sets for night cases.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-13",
+          "time": "01:30 PM",
+          "reporter_role": "Infection Control Nurse",
+          "incident_description": "COVID isolation Room A vacated; terminal clean needed with high-touch disinfection and curtain change before reuse.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-01-15",
+          "time": "03:45 AM",
+          "reporter_role": "ICU Senior Nurse",
+          "incident_description": "Blood spill on floor near ICU Bed 3 during line insertion; please attend immediately with biohazard protocol and change mop heads after use.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-01-17",
+          "time": "12:20 PM",
+          "reporter_role": "Anaesthetist - OT",
+          "incident_description": "Povidone-iodine spilled along OT corridor; floor tacky and slippery—need thorough clean before next patient transfer.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-19",
+          "time": "08:10 AM",
+          "reporter_role": "Radiology Receptionist",
+          "incident_description": "Drizzle from umbrellas left wet patch at CT entrance; request immediate mopping and placement of caution signage.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-19",
+          "time": "02:55 PM",
+          "reporter_role": "Waste Management Officer",
+          "incident_description": "OPD general waste trolley had two yellow clinical bags mixed in; please re-segregate and disinfect trolley handle surfaces.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-01-19",
+          "time": "06:20 PM",
+          "reporter_role": "Facilities Admin Officer",
+          "incident_description": "Entry mats at ETU remain damp and smell after morning showers; request replacement with dry mats and floor disinfection.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-01-21",
+          "time": "09:00 AM",
+          "reporter_role": "Physiotherapy Unit In-Charge",
+          "incident_description": "Pigeon droppings on ramp rail and wheelchair bay; kindly clean and disinfect, and liaise with pest control through your team.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-01-22",
+          "time": "04:15 AM",
+          "reporter_role": "Nursing Officer - SCBU",
+          "incident_description": "Nappy and clinical bins not cleared at 02:00 as per schedule; odour building in SCBU—please collect with double-bagging.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-24",
+          "time": "11:05 AM",
+          "reporter_role": "CSSD Technician",
+          "incident_description": "Mop heads stored wet in corridor closet; risk of contamination—please launder/replace and sanitize the storage buckets and area.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-01-26",
+          "time": "01:40 PM",
+          "reporter_role": "Medical Officer - Ward 3",
+          "incident_description": "Pantry sink overflowed with food debris; water spreading across floor—need immediate clean-up, disinfection, and wet-floor signage (maintenance ticket raised).",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-28",
+          "time": "01:20 PM",
+          "reporter_role": "OPD Medical Records Clerk",
+          "incident_description": "Light rain led to muddy shoe prints across registration hall; require continuous mopping until footfall reduces.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-01-28",
+          "time": "06:35 PM",
+          "reporter_role": "Laundry Supervisor",
+          "incident_description": "Due to evening humidity and showers, dryer cycle left sheets slightly damp; please run extra drying and prioritize 30 bed sets for night shift.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-30",
+          "time": "07:25 PM",
+          "reporter_role": "Public Health Inspector (Hospital)",
+          "incident_description": "Waste holding room has strong odour after delayed pickup; request interim surface disinfection, ensure bin lids sealed, and improve airflow.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-01-31",
+          "time": "10:50 AM",
+          "reporter_role": "Respiratory Ward Consultant",
+          "incident_description": "TB isolation Room 2 vacated; please carry out terminal clean including exhaust grill wipe, mattress decontamination, and curtain change.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-01-31",
+          "time": "01:05 PM",
+          "reporter_role": "Canteen Supervisor",
+          "incident_description": "Coconut gravy and rice spilled near staff dining line; greasy patch is a slip hazard—need degreasing and warning signage.",
+          "urgency": "High"
+        }
+      ]
+    }
+  },
+  {
+    "month": "February",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-02-01",
+          "time": "06:40 AM",
+          "reporter_role": "ETU Staff Nurse",
+          "incident_description": "Post-resus bay has blood splatter on floor and trolley legs; request biohazard clean with 0.5% chlorine before OPD crowd arrives.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-02",
+          "time": "01:15 PM",
+          "reporter_role": "Paediatric Ward Sister-in-Charge",
+          "incident_description": "Batch of cot sheets from laundry arrived slightly damp with a musty smell in today’s humidity; please rewash/dry and issue replacements.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-02-04",
+          "time": "09:05 AM",
+          "reporter_role": "OPD Administrative Officer",
+          "incident_description": "OPD waiting hall seats and skirting dusty from morning footfall; please wipe surfaces and wet mop the floor.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-02-06",
+          "time": "07:10 PM",
+          "reporter_role": "Infection Control Nurse",
+          "incident_description": "Airborne isolation Room 2 discharged MDR‑TB patient; need terminal clean including high-touch points and exhaust grille tonight.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-08",
+          "time": "02:05 PM",
+          "reporter_role": "SICU Staff Nurse",
+          "incident_description": "AC condensation dripping near Bed 3 has made the area slippery; dry, disinfect and place caution sign.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-08",
+          "time": "07:30 PM",
+          "reporter_role": "Security Supervisor - OPD",
+          "incident_description": "Light evening rain tracked into OPD foyer; floor wet and slick with bystanders walking through—urgent mopping and signage needed.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-02-09",
+          "time": "11:25 AM",
+          "reporter_role": "Senior Lab Technologist",
+          "incident_description": "Yellow clinical waste bags from Microbiology hold area not collected since morning; nearing overflow, please remove and replace liners.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-10",
+          "time": "08:40 PM",
+          "reporter_role": "Ward Attendant - Medical Ward 7",
+          "incident_description": "Tea urn leaked in the pantry; sticky floor attracting ants—request thorough clean and disinfect.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-02-12",
+          "time": "12:20 PM",
+          "reporter_role": "Theatre Matron",
+          "incident_description": "Between cases in Theatre 2, bone cement dust and debris on floor; require rapid scrub per OT protocol before next patient.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-13",
+          "time": "03:10 PM",
+          "reporter_role": "Sister - Ward 3",
+          "incident_description": "Food waste found in clinical (yellow) bin; please replace the bag and place clear segregation signage at bin area.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-02-14",
+          "time": "04:15 PM",
+          "reporter_role": "Sister-in-Charge - Surgical Ward 5",
+          "incident_description": "After the thundery rain, water leaked at theatre link corridor; floor hazardous—immediate mopping and wet-floor boards requested.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-02-14",
+          "time": "07:50 PM",
+          "reporter_role": "Theatre Assistant (Evening Shift)",
+          "incident_description": "OT gowns received this evening have visible stains on cuffs; please reprocess and issue a clean set urgently.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-15",
+          "time": "09:30 AM",
+          "reporter_role": "NICU Sister",
+          "incident_description": "SCBU isolation cubicle vacated; request terminal clean including incubator exterior, walls and touch points before 11:00.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-16",
+          "time": "10:05 AM",
+          "reporter_role": "Medical Records Officer",
+          "incident_description": "Fine dust on records room shelving and file tops; need detailed wipe-down to prevent contamination of documents.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-02-17",
+          "time": "05:55 PM",
+          "reporter_role": "Staff Nurse - Ward 9B",
+          "incident_description": "Sharps container in sluice room has reached the fill line; please replace container and collect the full one.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-18",
+          "time": "03:25 PM",
+          "reporter_role": "Administrative Officer - OPD",
+          "incident_description": "OPD–X-ray link corridor has sand and dust tracked in; one patient slipped earlier—sweep, wet mop and place mats.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-20",
+          "time": "08:10 AM",
+          "reporter_role": "Security Supervisor - Main Entrance",
+          "incident_description": "After morning drizzle, muddy footprints at main lobby entrance; need immediate mopping and additional floor mats.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-02-20",
+          "time": "01:45 PM",
+          "reporter_role": "Sister - Ward 2",
+          "incident_description": "Clinical waste holding room smelling strong in afternoon heat; please arrange prompt removal and washdown of the area.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-21",
+          "time": "02:30 PM",
+          "reporter_role": "Midwife - Labour Room",
+          "incident_description": "Running short of clean baby wraps and sheets; kindly expedite laundry supply to labour room.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-23",
+          "time": "11:10 AM",
+          "reporter_role": "Physiotherapist",
+          "incident_description": "Rehab gym floor has powdery dust; gait training ongoing—request wet mopping now.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-24",
+          "time": "06:05 PM",
+          "reporter_role": "Ward Master - Male Surgical",
+          "incident_description": "Toilets in male surgical smell despite morning clean; please do deep clean with disinfectant and restock supplies.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-02-25",
+          "time": "09:45 AM",
+          "reporter_role": "Ward Clerk - Ward 4",
+          "incident_description": "Linen return short by 10 bedsheets from yesterday’s issue; kindly reconcile and supply replacements.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-02-26",
+          "time": "05:35 PM",
+          "reporter_role": "OPD Medical Officer",
+          "incident_description": "Gusty breeze blew dry leaves and grit across OPD walkway after brief rain; need sweeping, mopping and caution signs.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-26",
+          "time": "08:20 PM",
+          "reporter_role": "Canteen Supervisor",
+          "incident_description": "Greasy water spill near canteen corridor to ward lifts; immediate degreasing and wet-floor signage required.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-02-28",
+          "time": "10:55 AM",
+          "reporter_role": "OPD Treatment Room Nurse",
+          "incident_description": "Alcohol hand-rub dispenser leaked onto injection room floor; area slippery—please clean and check surrounding splash zones.",
+          "urgency": "High"
+        }
+      ]
+    }
+  },
+  {
+    "month": "March",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-03-01",
+          "time": "09:10 AM",
+          "reporter_role": "Stores Officer (Linen)",
+          "incident_description": "Linen store feels damp due to humidity; several sheets clammy. Request re-drying and shelf wipe-down.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-03-03",
+          "time": "02:45 PM",
+          "reporter_role": "OPD Receptionist",
+          "incident_description": "Heavy rain tracked mud inside OPD entrance; floor slippery. Need immediate mopping and wet-floor signs.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-03",
+          "time": "07:20 PM",
+          "reporter_role": "Surgical Ward Nurse",
+          "incident_description": "Rain seeped into corridor by Ward 6; bin liners wet and labels smudged. Replace liners and sanitize area.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-03-04",
+          "time": "11:05 AM",
+          "reporter_role": "Infection Control Nurse",
+          "incident_description": "Dengue-suspect room vacated. Please do terminal clean with chlorine as per IC protocol.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-05",
+          "time": "08:30 AM",
+          "reporter_role": "ICU Sister-in-Charge",
+          "incident_description": "Red bag waste mixed with black bag in ICU sluice room. Immediate re-segregation and area disinfection needed.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-03-05",
+          "time": "06:50 PM",
+          "reporter_role": "Pharmacy In-Charge",
+          "incident_description": "Lobby at OPD pharmacy damp from umbrellas after showers. Request continuous mopping and mats.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-03-07",
+          "time": "03:15 PM",
+          "reporter_role": "Paediatric Staff Nurse",
+          "incident_description": "ORS spill in paeds play corner; floor sticky and ants starting. Need quick clean and surface wipe.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-03-08",
+          "time": "01:10 PM",
+          "reporter_role": "SCBU Nurse",
+          "incident_description": "Short of clean infant gowns; laundry delayed after humid spell. Please expedite SCBU batch.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-08",
+          "time": "05:40 PM",
+          "reporter_role": "Security Supervisor",
+          "incident_description": "Stairwell B puddle after brief storm; no caution board. Need mop-up and signage immediately.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-10",
+          "time": "10:25 AM",
+          "reporter_role": "MO OPD",
+          "incident_description": "OPD toilets require deep clean and restocking; strong odour noted during morning clinic.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-03-12",
+          "time": "12:40 PM",
+          "reporter_role": "Ward Sister - Isolation",
+          "incident_description": "MRSA-contact room discharged. Request chlorine terminal cleaning and curtain change.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-12",
+          "time": "08:05 PM",
+          "reporter_role": "ETU Triage Nurse",
+          "incident_description": "Small blood spill in ETU triage corridor. Need spill kit clean-up and area disinfection now.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-03-13",
+          "time": "11:35 AM",
+          "reporter_role": "Radiography Technologist",
+          "incident_description": "Radiology waiting bins overflowing from morning rush; request collection and seat wipe-down.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-03-15",
+          "time": "06:20 AM",
+          "reporter_role": "OT Sister",
+          "incident_description": "Theatre cloth gowns returned slightly damp. Please re-dry and press before first list.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-16",
+          "time": "04:55 PM",
+          "reporter_role": "Medical Registrar",
+          "incident_description": "Leak at Medical Ward stair landing after storm; floor slick. Need urgent mop and cordon.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-03-16",
+          "time": "09:30 PM",
+          "reporter_role": "Pulmonology Medical Officer",
+          "incident_description": "TB isolation bed vacated. Request terminal clean with approved disinfectant and UV cycle.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-17",
+          "time": "02:05 PM",
+          "reporter_role": "Ward Sister - 3rd Floor",
+          "incident_description": "Yellow bags left in corridor >2 hours. Please remove immediately and sanitize floor area.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-19",
+          "time": "03:35 PM",
+          "reporter_role": "OPD Registration Clerk",
+          "incident_description": "Drip from OPD roof near token counter after storm; floor wet. Need absorbent mats and mopping.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-19",
+          "time": "05:15 PM",
+          "reporter_role": "ETU Duty Medical Officer",
+          "incident_description": "Wind blew leaves and litter into ambulance bay. Request sweeping and bio-waste bin check.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-03-21",
+          "time": "09:50 AM",
+          "reporter_role": "Paediatric MO",
+          "incident_description": "Preparing isolation bed for suspected dengue. Need bleach clean and mosquito net laundering.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-22",
+          "time": "11:40 AM",
+          "reporter_role": "Staff Nurse - Medical Ward",
+          "incident_description": "Soiled linen cart parked near nurses’ station; odour noticeable. Please remove and wipe floor.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-03-22",
+          "time": "04:10 PM",
+          "reporter_role": "Hospital Administrator",
+          "incident_description": "Post-rain muddy footprints along main corridor; two near-slips. Urgent dry mopping and signage.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-03-23",
+          "time": "07:25 AM",
+          "reporter_role": "Midwife (Postnatal)",
+          "incident_description": "Postnatal ward short of clean bedsheets after night discharges. Request priority laundry drop.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-25",
+          "time": "12:15 PM",
+          "reporter_role": "Minor Theatre Medical Officer",
+          "incident_description": "Yellow bins in minor theatre nearly full; please collect and replace liners before afternoon list.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-26",
+          "time": "08:10 AM",
+          "reporter_role": "Front Desk Executive",
+          "incident_description": "Entrance mats soaked from light morning rain. Need dry replacements and routine mopping.",
+          "urgency": "Medium"
+        }
+      ]
+    }
+  },
+  {
+    "month": "April",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-04-01",
+          "time": "08:15 AM",
+          "reporter_role": "OPD Nursing Officer",
+          "incident_description": "Blood drip after cannulation spilled on OPD Injection Room floor; need biohazard clean and chlorine wipe per SOP.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-02",
+          "time": "06:20 PM",
+          "reporter_role": "Security Supervisor",
+          "incident_description": "Main entrance mats soaked from rain; patients tracking water. Request immediate dry mopping and replacement dry mats.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-02",
+          "time": "07:50 PM",
+          "reporter_role": "Medical Ward Sister",
+          "incident_description": "Evening thunderstorm caused a corridor leak near Ward 3; floor slippery. Please mop and place caution boards urgently.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-03",
+          "time": "11:05 AM",
+          "reporter_role": "Laundry Supervisor",
+          "incident_description": "Batch of bed sheets returned slightly damp due to humidity. Please re-dry and hot-wash for odour control.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-04-04",
+          "time": "03:10 PM",
+          "reporter_role": "OPD Medical Officer",
+          "incident_description": "OPD foyer muddy after downpour; need thorough mopping and surface disinfection of seating area.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-04-05",
+          "time": "09:30 AM",
+          "reporter_role": "Infection Control Nurse",
+          "incident_description": "Side room 5 (suspected TB) vacated; require terminal clean with approved disinfectant before new admission.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-06",
+          "time": "10:40 PM",
+          "reporter_role": "MICU Nursing Officer",
+          "incident_description": "Sluice room floor in MICU flooded after storm; foul water present. Need chlorination and deep clean now.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-04-07",
+          "time": "01:25 PM",
+          "reporter_role": "Physiotherapy Therapist",
+          "incident_description": "Gym mats sweaty between sessions; mid-day wipe-down missed. Request immediate disinfection.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-04-08",
+          "time": "02:15 PM",
+          "reporter_role": "Ambulance Bay In-Charge",
+          "incident_description": "Brief downpour left mud on ambulance ramp; stretchers carrying dirt into ETU. Need pressure wash and disinfection.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-09",
+          "time": "07:50 AM",
+          "reporter_role": "Paediatric Ward Clerk",
+          "incident_description": "Soiled linen bags colour mix-up noted (red with yellow). Please re-segregate and remind pickup staff.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-04-10",
+          "time": "08:05 PM",
+          "reporter_role": "OT Charge Nurse",
+          "incident_description": "Blood spill trail from OT 2 to recovery due to trolley wheel; require immediate biohazard clean and signage.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-04-10",
+          "time": "09:10 PM",
+          "reporter_role": "CSSD Manager",
+          "incident_description": "After heavy rain the basement corridor near CSSD is damp; deploy dehumidifiers and dry mopping to prevent mould.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-04-11",
+          "time": "06:40 AM",
+          "reporter_role": "Labour Room Midwife",
+          "incident_description": "Amniotic fluid spill outside LR scrub area; need chlorine cleaning before morning list.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-12",
+          "time": "04:45 PM",
+          "reporter_role": "Administrative Officer",
+          "incident_description": "Storm brought leaves and debris into OPD courtyard; bins overflowing. Request sweeping and waste removal.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-04-12",
+          "time": "08:30 PM",
+          "reporter_role": "Paediatric Ward Sister",
+          "incident_description": "Mould patches on ceiling corners; humidity high. Please clean with antifungal agent and wipe vents.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-04-13",
+          "time": "10:10 AM",
+          "reporter_role": "Radiology Technologist",
+          "incident_description": "USG room couch stained after gel and contrast spill; sanitize bed and change roll papers promptly.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-04-14",
+          "time": "07:15 PM",
+          "reporter_role": "ETU Medical Officer",
+          "incident_description": "Short thunder shower made ETU ambulance entry slick; need continuous mopping and wet-floor boards.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-15",
+          "time": "02:50 PM",
+          "reporter_role": "Laboratory Technologist",
+          "incident_description": "Yellow biomedical waste bags piling in lab sluice; scheduled pickup missed and nearing overflow.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-16",
+          "time": "05:35 AM",
+          "reporter_role": "Surgical Ward Nursing Officer",
+          "incident_description": "Two beds soiled with stool after night shift; request mattress deep clean and urgent linen change to laundry.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-18",
+          "time": "09:20 PM",
+          "reporter_role": "House Officer - Medical",
+          "incident_description": "Isolation Room 2 (VRE positive) discharged after evening storm; need terminal clean tonight as per contact precautions.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-20",
+          "time": "03:40 PM",
+          "reporter_role": "OPD Public Health Inspector",
+          "incident_description": "Food waste bins by canteen overflowing; flies observed. Request immediate removal and area disinfection.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-22",
+          "time": "07:55 PM",
+          "reporter_role": "Security Supervisor",
+          "incident_description": "Thunderstorm seepage at rear stairwell; steps wet and muddy. Need mopping, caution signs, and fresh mats.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-23",
+          "time": "11:50 AM",
+          "reporter_role": "Matron",
+          "incident_description": "Ward 6 cleaning cart missing 0.5% chlorine and clean mops; please replenish to meet IPC round requirements.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-04-24",
+          "time": "06:10 PM",
+          "reporter_role": "Biomedical Waste Coordinator",
+          "incident_description": "Yellow bag with body fluid leak from NICU tore in transit; need spill cleanup, re-bagging, and trolley disinfection.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-04-27",
+          "time": "10:05 PM",
+          "reporter_role": "Laundry Manager",
+          "incident_description": "Late storm spiked humidity in drying room; theatre gowns not drying, slight musty smell. Request rewash and overnight drying.",
+          "urgency": "Medium"
+        }
+      ]
+    }
+  },
+  {
+    "month": "May",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-05-01",
+          "time": "08:10 AM",
+          "reporter_role": "Staff Nurse - OPD",
+          "incident_description": "OPD foyer floor wet from early rain; two near-slips observed. Request continuous mopping, wet-floor cones, and fresh coir mats at the main entrance.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-01",
+          "time": "05:20 PM",
+          "reporter_role": "Nursing Officer - Paediatric Ward",
+          "incident_description": "Curtains along the window bays feel damp and musty after the downpour. Please remove and send for hot wash; wipe sills with hypochlorite.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-05-03",
+          "time": "02:35 PM",
+          "reporter_role": "Ward Sister - Female Medical Ward 3",
+          "incident_description": "Torrential rain tracked red mud into corridor from verandah. Need auto-scrubber pass and disinfection; place caution signs.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-04",
+          "time": "11:05 AM",
+          "reporter_role": "Senior House Officer - Surgery (Minor OT)",
+          "incident_description": "Yellow clinical waste bag in Minor OT is over 3/4 full and unsealed. Replace immediately and refresh colour-coding labels.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-05-05",
+          "time": "09:40 PM",
+          "reporter_role": "JMO - ETU",
+          "incident_description": "Post-resus blood spill at ETU Bed 6. Require biohazard clean per protocol with chlorine-based disinfectant and proper PPE.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-05-06",
+          "time": "06:50 AM",
+          "reporter_role": "ICU In-Charge Nurse",
+          "incident_description": "Clean linen shortage at ICU due to delayed laundry. Need 12 draw sheets and 10 pillow covers before morning rounds.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-07",
+          "time": "03:15 PM",
+          "reporter_role": "Medical Officer - Dermatology OPD",
+          "incident_description": "Isolation room for scabies patient is vacated. Request terminal clean, mattress steam, and curtain change before next case.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-08",
+          "time": "10:25 AM",
+          "reporter_role": "Front Desk Supervisor - Main Block",
+          "incident_description": "Lift lobby floors getting wet from dripping umbrellas during showers. Please deploy absorbent mats and assign spot-mopping.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-05-09",
+          "time": "01:30 PM",
+          "reporter_role": "Infection Control Nurse",
+          "incident_description": "Yellow bin lids in Ward 2 sticky with residue; mild odour noted. Swap out bins, wipe down area, and replace liners.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-05-10",
+          "time": "07:55 AM",
+          "reporter_role": "Theatre Matron",
+          "incident_description": "Sterile OT drapes were mixed with general linen on the return trolley. Segregate immediately and rewash on sterile cycle.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-12",
+          "time": "04:45 PM",
+          "reporter_role": "Administrative Officer - Support Services",
+          "incident_description": "Clinical waste holding room floor requires deep clean and deodorizing; drain smell reported. Schedule after-hours.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-05-13",
+          "time": "11:20 AM",
+          "reporter_role": "OPD Coordinator",
+          "incident_description": "With rain and crowding, OPD toilets are muddy and wet. Increase cleaning rounds to every 30 minutes and restock tissue.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-14",
+          "time": "01:10 PM",
+          "reporter_role": "Dietetic Assistant - Ward Pantry",
+          "incident_description": "Curry spilled near the pantry sink; ants already forming a trail. Request prompt clean and food-safe surface disinfection.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-05-15",
+          "time": "05:55 PM",
+          "reporter_role": "Nursing Officer - Surgical Ward 2",
+          "incident_description": "Soiled linen bags left in corridor awaiting lift. Please remove to dirty utility and sanitize the floor where bags rested.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-16",
+          "time": "09:05 AM",
+          "reporter_role": "Deputy Matron - Medical Ward 5",
+          "incident_description": "Part of the linen delivery is damp with a musty smell. Rewash on hot cycle and ensure complete drying before reissue.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-05-17",
+          "time": "08:30 PM",
+          "reporter_role": "Registrar - Medicine",
+          "incident_description": "Dengue isolation cubicle vacated. Request terminal clean with 0.1% chlorine, including bed rails, curtains, and monitor leads.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-05-18",
+          "time": "02:50 PM",
+          "reporter_role": "Pharmacist - OPD",
+          "incident_description": "Used swabs and small vials found in black bin. Housekeeping to swap bins to yellow/red and add bilingual segregation labels.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-05-19",
+          "time": "09:40 AM",
+          "reporter_role": "Play Therapist - Paediatrics",
+          "incident_description": "Mud tracked into the play area after morning rain. Need floor scrub and child-safe disinfection before the 10:30 session.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-20",
+          "time": "03:35 PM",
+          "reporter_role": "Theatre Nurse - OT",
+          "incident_description": "Returned gowns show visible stains; QA stamp missing. Please reprocess and verify before next list.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-05-21",
+          "time": "07:20 PM",
+          "reporter_role": "Ward Sister - Gynae Ward",
+          "incident_description": "Several bed curtains smell damp after today’s rain. Kindly remove, launder, and hang clean spares tonight.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-05-22",
+          "time": "06:30 AM",
+          "reporter_role": "Security Supervisor",
+          "incident_description": "Stairwell A has cobwebs and dusty handrails. Request high-dusting and wipe-down before visiting hours.",
+          "urgency": "Low"
+        },
+        {
+          "date": "2025-05-23",
+          "time": "12:25 PM",
+          "reporter_role": "Consultant Paediatrician",
+          "incident_description": "Lift lobby puddles persisting with rain; parents nearly slipped. Need mats, cones, and frequent mopping till showers ease.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-25",
+          "time": "08:55 PM",
+          "reporter_role": "Midwife - Labour Room",
+          "incident_description": "Low on bedspreads and baby blankets; laundry pickups delayed by downpour. Request emergency supply from backup stock.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-28",
+          "time": "07:45 AM",
+          "reporter_role": "Ambulance Officer",
+          "incident_description": "Ambulance bay has muddy slush blown in by overnight wind and rain. Please pressure-wash and disinfect to stop tracking into ETU.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-05-30",
+          "time": "10:15 AM",
+          "reporter_role": "Staff Nurse - OPD",
+          "incident_description": "Patient vomit in corridor near pharmacy; area cordoned. Require immediate biohazard clean and odour control.",
+          "urgency": "High"
+        }
+      ]
+    }
+  },
+  {
+    "month": "June",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-06-01",
+          "time": "08:05 AM",
+          "reporter_role": "Staff Nurse - OPD",
+          "incident_description": "Heavy morning downpour soaked the entrance mats; muddy water tracked into OPD foyer creating slip risk. Request immediate mopping and wet-floor cones.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-01",
+          "time": "07:10 PM",
+          "reporter_role": "Radiology Registrar",
+          "incident_description": "After the evening burst of rain, water seepage along the CT corridor has left a long slick strip. Need drying, absorbent barriers, and caution signage.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-02",
+          "time": "12:20 PM",
+          "reporter_role": "Nursing Officer - ICU",
+          "incident_description": "High humidity causing condensation under ICU lobby AC; small puddle forming at doorway. Please dry and monitor.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-02",
+          "time": "05:45 PM",
+          "reporter_role": "Security Supervisor",
+          "incident_description": "Ambulance bay entrance pooled with rainwater and mud after sudden shower. Require wet vacuuming and replacement of soaked mats.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-04",
+          "time": "03:30 PM",
+          "reporter_role": "Ward Sister - Medical Ward 2",
+          "incident_description": "Thunderstorm leak on stair between 2nd–3rd floors; steps wet and slippery. Need urgent mopping and cordoning.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-05",
+          "time": "10:15 AM",
+          "reporter_role": "OPD Medical Officer",
+          "incident_description": "Gusty wind blew dust and leaves into OPD waiting chairs and counters. Please sweep and disinfect before next token batch.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-06-06",
+          "time": "09:50 AM",
+          "reporter_role": "Laundry Supervisor",
+          "incident_description": "Due to humidity, dryers underperforming; surgical sheets delivered damp. Require rewash and urgent replacement to theatre complex.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-06",
+          "time": "06:05 PM",
+          "reporter_role": "Staff Midwife - Labour Room",
+          "incident_description": "Brief downpour left puddle at staff entrance to Labour Room; area slippery. Need mopping and cones now.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-08",
+          "time": "01:40 PM",
+          "reporter_role": "ETU Consultant",
+          "incident_description": "Heavy rain tracked into ETU triage; floor muddy near resus bay. Immediate deep clean needed to keep area safe.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-06-08",
+          "time": "07:35 PM",
+          "reporter_role": "Infection Control Nurse",
+          "incident_description": "Dengue isolation room 5 discharged. Please perform terminal cleaning with 0.5% chlorine and surface sterilization as per SOP.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-11",
+          "time": "11:25 AM",
+          "reporter_role": "Theatre Matron",
+          "incident_description": "Yellow biomedical waste bin outside OT is overfilled; bags touching lid. Arrange immediate removal and disinfection of bay.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-06-12",
+          "time": "08:30 AM",
+          "reporter_role": "Medical Officer - Surgical OPD",
+          "incident_description": "Windows left open for breeze; dust on sills, registration counter, and weighing scale. Need thorough dusting and wipe-down.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-06-13",
+          "time": "09:05 AM",
+          "reporter_role": "Pharmacist In-Charge",
+          "incident_description": "Dripping umbrellas from morning drizzle left wet patches at pharmacy queue line. Please mop and place extra mats.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-06-14",
+          "time": "02:55 PM",
+          "reporter_role": "Nursing Officer - Paediatric Ward",
+          "incident_description": "Soiled gauze and tubing found in black bag; segregation error. Rebag to yellow and sanitize waste area floor.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-06-15",
+          "time": "12:05 PM",
+          "reporter_role": "Consultant Anaesthetist",
+          "incident_description": "After brief heavy rain, mud streaks on pre-op corridor floor. Need rapid mop and disinfect before next patient transfer.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-15",
+          "time": "04:10 PM",
+          "reporter_role": "Ward Clerk - Orthopaedic Ward",
+          "incident_description": "Fresh sheets from laundry arrived with visible stains on two bundles. Request immediate replacement and batch check.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-06-17",
+          "time": "08:15 AM",
+          "reporter_role": "OPD Supervisor",
+          "incident_description": "Morning crowd entered during rain; foyer mats saturated and floor slippery. Need continuous mopping and additional matting.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-17",
+          "time": "09:55 PM",
+          "reporter_role": "Security Officer - Ground Floor",
+          "incident_description": "Water dripping near electrical room corridor; housekeeping needed to contain with buckets, dry floor, and mark hazard until maintenance attends.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-06-18",
+          "time": "06:35 AM",
+          "reporter_role": "Stores Manager - Linen",
+          "incident_description": "Musty smell and damp patches in linen store after early downpour. Request airing, dehumidifier use, and disinfectant wipe of shelves.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-18",
+          "time": "08:20 PM",
+          "reporter_role": "Lab Technologist - Haematology",
+          "incident_description": "Broken EDTA tube spilled blood in lab corridor; initial containment done. Need full biohazard cleanup and proper waste disposal.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-06-20",
+          "time": "03:05 PM",
+          "reporter_role": "Mortuary Attendant",
+          "incident_description": "Passing rain washed silt/leaves into clinical waste holding area; access to cages obstructed. Please clear and disinfect path.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-06-22",
+          "time": "05:50 PM",
+          "reporter_role": "Ward In-Charge - Isolation (TB-2)",
+          "incident_description": "TB-2 patient discharged. Kindly arrange terminal cleaning with hypochlorite and high-touch surface sterilization before new admission.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-24",
+          "time": "09:10 AM",
+          "reporter_role": "Paediatric OPD Nurse",
+          "incident_description": "Child slipped on wet stair near Paed OPD after heavy rain. Immediate drying, cones, and non-slip mats required.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-06-24",
+          "time": "03:40 PM",
+          "reporter_role": "Ward Sister - Maternity",
+          "incident_description": "Laundry delivered damp pillowcases with slight odour during busy shift. Request rewash and urgent replacement stock.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-28",
+          "time": "12:55 PM",
+          "reporter_role": "Medical Officer - Dialysis Unit",
+          "incident_description": "Post-noon downpour left steady drip onto dialysis walkway; need cordon, buckets, and frequent mopping to maintain wheelchair access.",
+          "urgency": "High"
+        }
+      ]
+    }
+  },
+  {
+    "month": "July",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-07-01",
+          "time": "07:15 AM",
+          "reporter_role": "OPD Triage Nurse",
+          "incident_description": "High humidity caused condensation; triage bay floor damp and slick. Request dry mopping and wet-floor signs ASAP.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-07-03",
+          "time": "09:10 AM",
+          "reporter_role": "Security Supervisor",
+          "incident_description": "Heavy rain tracked into OPD entrance; mats are waterlogged and floor is slippery. Need dry mats and continuous mopping immediately.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-07-03",
+          "time": "05:40 PM",
+          "reporter_role": "Medical Officer - ETU",
+          "incident_description": "Resus corridor wet after trolley brought in rainwater. Please mop, disinfect, and place warning signs.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-05",
+          "time": "06:20 AM",
+          "reporter_role": "Sister-in-Charge - Paediatric Ward",
+          "incident_description": "Short on cot sheets; last laundry batch returned slightly damp with musty odour. Need dry replacements and rewash.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-07",
+          "time": "10:05 AM",
+          "reporter_role": "Hospital Administrator (On Duty)",
+          "incident_description": "Main lobby entrance rugs saturated due to steady rain; slip risk for visitors. Kindly replace with dry rugs and assign roving mopping.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-07",
+          "time": "08:15 PM",
+          "reporter_role": "ETU Nursing Officer",
+          "incident_description": "Muddy footprints mixed with body fluid near ETU triage. Immediate disinfectant cleaning and bin liner change required.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-08",
+          "time": "03:30 PM",
+          "reporter_role": "Infection Control Nurse",
+          "incident_description": "Terminal clean needed for Isolation Room 2 post C. diff discharge. Use sporicidal protocol and change curtains.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-07-09",
+          "time": "11:25 AM",
+          "reporter_role": "Ward Clerk - Male Surgical",
+          "incident_description": "Clinic rush left toilets heavily soiled; tissue and soap finished; yellow-bin liners missing. Need deep clean and restock.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-09",
+          "time": "07:50 PM",
+          "reporter_role": "Consultant Physician - Medical Ward",
+          "incident_description": "Evening thunderstorm left windowsills damp; corridor smells musty. Please wipe down and run floor dryer.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-07-11",
+          "time": "02:10 PM",
+          "reporter_role": "Matron - OPD",
+          "incident_description": "Infectious waste (yellow bag) mixed into black-bin at plaster room. Urgent re-segregation and bin sanitization needed.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-12",
+          "time": "08:05 AM",
+          "reporter_role": "Physiotherapy Unit Assistant",
+          "incident_description": "Stairwell from PT to OPD wet from dripping umbrellas. Require absorbent mats, mopping, and warning signs.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-07-14",
+          "time": "04:40 PM",
+          "reporter_role": "Ward Master - Gynaecology",
+          "incident_description": "Humidity issue: gowns and pillowcases returned from laundry still damp. Please re-dry/rewash before night shift.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-07-15",
+          "time": "10:55 AM",
+          "reporter_role": "OPD Receptionist",
+          "incident_description": "OPD public toilets not serviced after morning crowd; floors sticky, bins overflowing, no handwash. Attend urgently.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-17",
+          "time": "06:50 AM",
+          "reporter_role": "ICU Charge Nurse",
+          "incident_description": "ICU anteroom floor tacky from disinfectant residue. Request rinse and neutral cleaner before rounds.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-07-17",
+          "time": "03:15 PM",
+          "reporter_role": "Medical Officer - Isolation Ward",
+          "incident_description": "Yellow bags not collected per schedule; two nearly full outside Room 5. Need pickup and fresh liners.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-19",
+          "time": "09:00 AM",
+          "reporter_role": "Outpatient Clinic Nurse",
+          "incident_description": "Steady rain; puddles forming along clinic corridor as patients enter. Need continuous mopping and cones placed.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-19",
+          "time": "01:35 PM",
+          "reporter_role": "Theatre In-Charge Nurse",
+          "incident_description": "Sluice room clinical waste collection missed; containers near capacity. Please clear and sanitize area immediately.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-21",
+          "time": "02:55 PM",
+          "reporter_role": "SCBU Nurse",
+          "incident_description": "Stool spill under neonatal warmer. Immediate chlorine clean per neonatal protocol and linen change needed.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-07-22",
+          "time": "11:20 AM",
+          "reporter_role": "Canteen Supervisor",
+          "incident_description": "Ant trail at tray return after juice spill. Request thorough clean of floor and skirting, and disinfection.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-07-24",
+          "time": "05:05 PM",
+          "reporter_role": "Transport Officer",
+          "incident_description": "Laundry trolleys left in open passage during rain; contents damp. Please rewash and use covered transport.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-07-25",
+          "time": "07:40 AM",
+          "reporter_role": "Recovery Room Nurse - Minor OT",
+          "incident_description": "Color-coded bins placed but no liners available. Kindly provide yellow and black liners before list starts.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-27",
+          "time": "08:45 PM",
+          "reporter_role": "JMO - Medical Ward",
+          "incident_description": "Strong mop-water odour and slightly greasy floor; likely incorrect dilution. Please re-mop using correct mix.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-07-29",
+          "time": "06:10 AM",
+          "reporter_role": "Night Matron",
+          "incident_description": "Ward linen stock low; several sheets torn. Need urgent replenishment from laundry for morning admissions.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-30",
+          "time": "08:25 AM",
+          "reporter_role": "OPD Nurse-in-Charge",
+          "incident_description": "Widespread rain made OPD foyer dangerously slick; signs not yet placed. Require dry mats and continuous mopping now.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-07-30",
+          "time": "09:55 PM",
+          "reporter_role": "Security Officer",
+          "incident_description": "Basement corridor wet from rain carried in by stretchers. Please squeegee, mop, and place cones overnight.",
+          "urgency": "High"
+        }
+      ]
+    }
+  },
+  {
+    "month": "August",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-08-01",
+          "time": "08:20 AM",
+          "reporter_role": "Staff Nurse - OPD",
+          "incident_description": "Sticky residue near pharmacy queue from a spilled glucose drink; ants visible. Request mopping with disinfectant and pest deterrent.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-08-02",
+          "time": "02:40 PM",
+          "reporter_role": "Security Supervisor - Main Entrance",
+          "incident_description": "Light rain brought wet footprints into OPD lobby; tiles are slippery. Need continuous mopping and caution boards.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-02",
+          "time": "06:15 PM",
+          "reporter_role": "Nursing Sister - Ward 7",
+          "incident_description": "Two yellow clinical waste bags left in the sluice uncollected since noon; odour building. Please remove and sanitize area.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-03",
+          "time": "09:10 PM",
+          "reporter_role": "Medical Officer - ICU",
+          "incident_description": "Fresh linen delivered to ICU beds 3–5 feels damp with a musty smell. Request rewash/dry and immediate replacement.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-08-05",
+          "time": "04:05 PM",
+          "reporter_role": "Staff Nurse - Paediatric Ward",
+          "incident_description": "Rainwater tracked in from veranda; corridor outside Ward 3 has puddles. Please dry and disinfect; slip risk for parents.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-06",
+          "time": "11:25 AM",
+          "reporter_role": "Infection Control Nurse",
+          "incident_description": "Isolation Room 2 (dengue) discharged at 10:50. Terminal cleaning with 0.5% chlorine needed before next admission.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-08-07",
+          "time": "07:35 AM",
+          "reporter_role": "Dietetic Services Supervisor",
+          "incident_description": "Cockroach sighted near waste holding point by kitchen passage. Request deep clean and disinfection of the area.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-08",
+          "time": "03:30 PM",
+          "reporter_role": "Healthcare Assistant - Orthopaedic Ward",
+          "incident_description": "Entrance mat soaked after thunder shower; floor is slick. Need dry mats, mopping, and cones.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-08",
+          "time": "05:50 PM",
+          "reporter_role": "Theatre Sister",
+          "incident_description": "Mis-segregation at OT scrub area: infectious dressings placed in general waste bin. Re-segregation and bin change required; clean spillover zone.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-10",
+          "time": "07:55 AM",
+          "reporter_role": "Nursing Sister - ICU",
+          "incident_description": "Soiled linen hampers full from night shift; collection missed. Please clear before morning rounds to prevent cross-contamination.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-11",
+          "time": "09:40 AM",
+          "reporter_role": "Administrative Officer - Facilities",
+          "incident_description": "Post-drizzle, Stairwell B has muddy prints on treads and landing. Kindly scrub and place caution signs.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-08-13",
+          "time": "06:20 PM",
+          "reporter_role": "Ward Doctor - Female Surgical",
+          "incident_description": "Drip from bathroom ceiling caused pooling near door; floor needs frequent mopping and area cordoned until maintenance attends.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-14",
+          "time": "01:15 PM",
+          "reporter_role": "Quality Assurance Officer",
+          "incident_description": "Persistent odour in waste holding room Level 1. Request scheduled deodorization and wall/floor wipe-down.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-08-15",
+          "time": "10:10 AM",
+          "reporter_role": "Medical Officer - OPD",
+          "incident_description": "Fine dust on OPD counters and chairs after overnight works. Need thorough wipe and HEPA vacuum before clinic opens.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-08-16",
+          "time": "08:05 AM",
+          "reporter_role": "Ward Clerk - Maternity",
+          "incident_description": "Clean bedsheets running short; last batch not returned from laundry store. Please issue from buffer stock immediately.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-17",
+          "time": "03:55 PM",
+          "reporter_role": "Medical Officer - ETU",
+          "incident_description": "Gusty rain blew onto ETU ramp; surface wet and sandy. Keep mopping crew and cones till showers pass.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-19",
+          "time": "12:30 PM",
+          "reporter_role": "Lab Technologist - Haematology",
+          "incident_description": "Leaking biohazard bag on trolley left droplets in Lift 2 lobby. Need containment, chlorine wipe, and floor disinfection urgently.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-08-20",
+          "time": "02:10 PM",
+          "reporter_role": "Theatre Registrar",
+          "incident_description": "Chlorhexidine solution spilled outside Minor Theatre 2. Require chemical spill clean with PPE and caution signage.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-22",
+          "time": "09:25 AM",
+          "reporter_role": "Laundry Supervisor",
+          "incident_description": "Due to overnight humidity, towels from dryer batch 1 are still damp. Need re-drying and quick turnaround for clinics.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-08-22",
+          "time": "08:40 PM",
+          "reporter_role": "Infection Control Nurse",
+          "incident_description": "ATP swab failed on bed rails in Isolation 1 post-clean. Please reclean immediately and repeat swab before admission.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-08-24",
+          "time": "04:45 PM",
+          "reporter_role": "Maintenance Coordinator",
+          "incident_description": "Backflow from janitor closet drain sent grey water into Ward 5 corridor. Need water extraction and disinfection while repairs pending.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-25",
+          "time": "11:15 AM",
+          "reporter_role": "OPD Registration Clerk",
+          "incident_description": "Public toilets near ticket counter smell strongly; bins overflowing after morning rush. Please service and restock.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-08-27",
+          "time": "06:05 PM",
+          "reporter_role": "Pathology Resident",
+          "incident_description": "Torn clinical waste liner from Lab left a blood-stained trail toward Lift 3. Biohazard cleanup required along the route.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-08-30",
+          "time": "02:55 PM",
+          "reporter_role": "Front Office Executive",
+          "incident_description": "Heavy rain brought crowd with wet umbrellas; foyer is puddling. Require continuous squeegee work, dry mats, and cones.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-31",
+          "time": "07:20 PM",
+          "reporter_role": "Physiotherapist",
+          "incident_description": "Waiting area by car park littered with snack boxes; ants under chairs. Request sweeping and disinfectant wipe-down.",
+          "urgency": "Low"
+        }
+      ]
+    }
+  },
+  {
+    "month": "September",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-09-01",
+          "time": "08:10 AM",
+          "reporter_role": "Infection Control Nurse",
+          "incident_description": "Isolation Room 3 (Ward 5) discharged at 07:30; terminal clean with 1,000 ppm chlorine not started. Next suspected dengue patient waiting.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-09-03",
+          "time": "02:35 PM",
+          "reporter_role": "Paediatric Ward Sister",
+          "incident_description": "Red clinical waste bags mixed with black general waste in Ward 8 utility room; one red bag overfilled and torn. Please re-bag, segregate, and sanitize per MoH guidelines.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-04",
+          "time": "05:20 PM",
+          "reporter_role": "Theatre Matron",
+          "incident_description": "OT-2 turnover delayed; blood spill under anaesthetic trolley not fully mopped. Immediate bleach clean and waste removal required.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-09-06",
+          "time": "09:05 AM",
+          "reporter_role": "Nursing Officer, Medical Ward",
+          "incident_description": "Sluice room floor contaminated after bedpan washer overflow. Need rapid disinfection, drying, and caution signage.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-08",
+          "time": "09:40 AM",
+          "reporter_role": "Security Supervisor",
+          "incident_description": "Main OPD entrance mats soaked; several near-slips reported. Replace with dry mats, mop area, and place wet floor signs.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-08",
+          "time": "06:15 PM",
+          "reporter_role": "MO, Geriatric Ward",
+          "incident_description": "Curtains and window sills damp after afternoon rain; musty odour in Ward 12 bays. Request curtain change and disinfectant wipe-down.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-09-10",
+          "time": "08:55 PM",
+          "reporter_role": "ETU Charge Nurse",
+          "incident_description": "Thunderstorm tracked muddy water into ambulance bay; ETU triage floor wet and dirty. Need immediate mopping and hypochlorite clean.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-10",
+          "time": "03:10 PM",
+          "reporter_role": "Ward Clerk, Gynae",
+          "incident_description": "Today’s linen batch feels damp; a few bedsheets smell musty in Ward 7. Please re-dry/press and replace affected sets.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-09-12",
+          "time": "11:25 AM",
+          "reporter_role": "OPD Pharmacist",
+          "incident_description": "Ant trail in OPD dispensary pantry after sugary spill. Need thorough clean under cabinets and surface disinfection.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-09-13",
+          "time": "07:30 PM",
+          "reporter_role": "Physiotherapist",
+          "incident_description": "Lift B soiled with vomitus after patient transfer; strong odour. Request biohazard clean and temporary closure until done.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-15",
+          "time": "08:05 PM",
+          "reporter_role": "Dialysis Unit Coordinator",
+          "incident_description": "Please carry out scheduled deep clean of dialysis bays and chairs post-session, including drain area sanitization.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-09-16",
+          "time": "10:50 AM",
+          "reporter_role": "Admin Officer (Facilities)",
+          "incident_description": "Clinical waste holding room has strong odour; bins not rinsed after emptying. Wash bins, disinfect floor, and ensure lids closed.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-09-17",
+          "time": "04:40 PM",
+          "reporter_role": "OPD Nurse-in-Charge",
+          "incident_description": "OPD corridor dripping during heavy rain; water pooling near ticket counter. Continuous mopping and caution signs needed.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-17",
+          "time": "07:05 PM",
+          "reporter_role": "Maternity Ward MO",
+          "incident_description": "Back corridor muddy after storm through side door. Please wet mop and disinfect before night rounds.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-09-19",
+          "time": "02:15 PM",
+          "reporter_role": "Infection Control Officer",
+          "incident_description": "Isolation cubicle cleaning log missing chlorine ppm entries for last two cycles. Ensure 1,000 ppm prep and documentation today.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-09-21",
+          "time": "05:30 PM",
+          "reporter_role": "Pharmacy Stores Supervisor",
+          "incident_description": "Rainwater blown under loading bay shutter; floor and pallets wet. Need water removal, disinfection, and drying before stock move.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-22",
+          "time": "11:10 AM",
+          "reporter_role": "Nursing Officer, Surgical Ward",
+          "incident_description": "Clean theatre gowns delivered slightly damp. Please re-dry/iron and replace before afternoon list.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-09-23",
+          "time": "08:20 PM",
+          "reporter_role": "Waste Management Focal Nurse",
+          "incident_description": "Basement clinical waste room with water ingress; red-bag bins in puddles. Pump out water and disinfect floors and pallets.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-23",
+          "time": "09:05 PM",
+          "reporter_role": "Security Officer",
+          "incident_description": "East stairwell between OPD and Lab slippery from tracked rainwater; no signage. Request mopping and cones immediately.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-24",
+          "time": "03:55 PM",
+          "reporter_role": "Burn Unit Consultant",
+          "incident_description": "Bedspace 4 requires curtain change and high-level disinfection after MRSA-positive transfer. Please prioritise before next admission.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-25",
+          "time": "03:35 PM",
+          "reporter_role": "Catering Manager",
+          "incident_description": "Service corridor outside kitchen with foul water from gully overflow. Immediate clean-up, disinfectant wash, and odour control needed.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-25",
+          "time": "07:45 PM",
+          "reporter_role": "RMO, Medical Ward",
+          "incident_description": "Staircase by Ward 5 still wet after evening rains; relatives using it. Please dry, place signs, and recheck within the hour.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-27",
+          "time": "08:05 PM",
+          "reporter_role": "OPD Manager",
+          "incident_description": "Covered walkway to ETU has wet leaves and mud patches. Need sweeping, mopping, and anti-slip mats repositioned.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-09-28",
+          "time": "02:20 PM",
+          "reporter_role": "Isolation Ward Sister",
+          "incident_description": "COVID isolation anteroom floor contaminated from leaking sample box. Require full biohazard clean with 1,000 ppm and terminal wipe-down.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-30",
+          "time": "08:40 PM",
+          "reporter_role": "SCBU Nursing Officer",
+          "incident_description": "Monthly terminal clean of SCBU pending; dust noted above radiant warmers. Need team now as night admissions expected.",
+          "urgency": "High"
+        }
+      ]
+    }
+  },
+  {
+    "month": "October",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-10-01",
+          "time": "08:05 AM",
+          "reporter_role": "OPD Front Desk Executive",
+          "incident_description": "OPD lobby floor is sticky from morning humidity and AC drip; needs dry mopping and fresh mats with wet-floor signs.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-10-01",
+          "time": "07:48 PM",
+          "reporter_role": "Radiology Receptionist",
+          "incident_description": "After the downpour, rainwater and mud tracked into Radiology corridor; pooling near X-ray 2; urgent mopping and caution boards.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-02",
+          "time": "03:26 PM",
+          "reporter_role": "RMO (On-call) - ETU",
+          "incident_description": "Ambulance bay mud washed into ETU triage; patients slipping; require wet-vac and disinfectant mop now.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-03",
+          "time": "01:12 PM",
+          "reporter_role": "Staff Nurse - Surgical Dressing Room",
+          "incident_description": "Strong odour from used dressing bins; please collect biomedical waste and sanitize the room.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-05",
+          "time": "05:42 PM",
+          "reporter_role": "Sister-in-Charge - Ward 7",
+          "incident_description": "Water running down Stairwell C after storm; steps slick; deploy wet-vac and cones immediately.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-05",
+          "time": "09:02 PM",
+          "reporter_role": "Hospital Security Officer",
+          "incident_description": "Main entrance mats are saturated; lobby floor slippery with crowds; need extra mops, blower, and replacement mats.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-07",
+          "time": "02:14 PM",
+          "reporter_role": "Infection Control Nurse (ICN)",
+          "incident_description": "Soaked yellow clinical-waste bag torn on trolley outside Ward 4 utility; urgent safe re-bagging and area disinfection per protocol.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-10-08",
+          "time": "07:32 PM",
+          "reporter_role": "Lift Operator - Block B",
+          "incident_description": "Block B lift lobby has pooled rainwater; lift users at risk; please dry, disinfect, and place signs.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-10",
+          "time": "09:18 PM",
+          "reporter_role": "Medical Officer - Fever Unit",
+          "incident_description": "Isolation Room D3 (post-dengue discharge) requires terminal cleaning before next admission per ICN checklist.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-11",
+          "time": "10:06 AM",
+          "reporter_role": "Sister - Maternity Ward",
+          "incident_description": "Soiled linen hampers overflowing; rain delay reported; request immediate pickup with covered trolleys.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-10-12",
+          "time": "06:37 PM",
+          "reporter_role": "OPD Attendant",
+          "incident_description": "OPD foyer has muddy footprints after brief shower; please mop, double-mat the entrance, and put signs.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-10-13",
+          "time": "08:51 AM",
+          "reporter_role": "Sister-in-Charge - Isolation A2",
+          "incident_description": "Airborne Isolation A2 vacated (TB suspect moved); need terminal clean including high-touch points and exhaust grills per IC protocol.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-10-14",
+          "time": "06:27 PM",
+          "reporter_role": "Staff Nurse - Female Medical Ward",
+          "incident_description": "Windows leaked during storm; water under beds 12–16; mop and disinfect bed wheels and skirting urgently.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-14",
+          "time": "08:07 PM",
+          "reporter_role": "Physiotherapy Unit In-Charge",
+          "incident_description": "Physio entrance tracked in sand/leaves with storm gusts; sweep and disinfect before morning sessions.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-10-15",
+          "time": "03:41 PM",
+          "reporter_role": "Surgical SHO",
+          "incident_description": "Surgical Ward 2: blood-stained gauze found in black bin; need segregation correction, bin swap, and area wipe; brief the ward attendant.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-17",
+          "time": "07:16 PM",
+          "reporter_role": "ICU Nurse (Night)",
+          "incident_description": "ICU anteroom floor damp from condensation after storm; request immediate dry mopping and hypochlorite wipe of handles.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-18",
+          "time": "11:27 AM",
+          "reporter_role": "Laundry Supervisor",
+          "incident_description": "Laundry receiving congested; damp soiled linen stacked near clean zone; separate immediately and sanitize floor/racks.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-10-20",
+          "time": "02:56 PM",
+          "reporter_role": "ETU Charge Nurse",
+          "incident_description": "ETU ramp is water-sheeted during squalls; one near-slip at resus door; deploy scrubber, cones, and extra mats.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-10-20",
+          "time": "09:11 PM",
+          "reporter_role": "Records Officer - Basement",
+          "incident_description": "Basement Records Room smells musty; damp patches after evening storm; need mildew wipe, blower/dehumidifier, and carpet drying.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-10-22",
+          "time": "07:42 PM",
+          "reporter_role": "OPD MO In-Charge",
+          "incident_description": "OPD public toilets flooded due to backflow during storm; close, clean, disinfect, and reopen swiftly.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-24",
+          "time": "02:22 PM",
+          "reporter_role": "Sister-in-Charge - Labour Room",
+          "incident_description": "Labour Room biomedical-waste bins nearing capacity before evening OT list; urgent collection and yellow bag replacement needed.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-27",
+          "time": "09:36 AM",
+          "reporter_role": "NICU Sister",
+          "incident_description": "NICU overhead light casings and monitor arms dusty; request high-dusting with ladder and sterile covers after noon round.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-10-28",
+          "time": "06:52 PM",
+          "reporter_role": "CSSD Manager",
+          "incident_description": "CSSD corridor wet from theatre trolleys returning in rain; please disinfect and dry; replace soaked floor mats.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-30",
+          "time": "05:26 PM",
+          "reporter_role": "Radiology MO",
+          "incident_description": "Radiology ground-floor corridor has active ceiling drip in storm; contain with buckets, cordon, wet-vac, and disinfect.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-30",
+          "time": "08:31 PM",
+          "reporter_role": "Bed Manager",
+          "incident_description": "Ward 5 received damp bed sheets from laundry after power blips; please recall, rewash/dry, and QA before reissue.",
+          "urgency": "Critical"
+        }
+      ]
+    }
+  },
+  {
+    "month": "November",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-11-01",
+          "time": "02:15 PM",
+          "reporter_role": "OPD Nurse-in-Charge",
+          "incident_description": "Monsoon rain tracked into OPD registration; floor is slick despite mats. Need continuous mopping, coir mats, and wet-floor signs immediately.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-11-01",
+          "time": "08:05 AM",
+          "reporter_role": "Surgical Ward Sister-in-Charge",
+          "incident_description": "Linen cupboard smells musty; several sheets feel damp after last night’s humidity. Please supply dry stock and check laundry drying room.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-02",
+          "time": "07:30 PM",
+          "reporter_role": "Minor Theatre Staff Nurse",
+          "incident_description": "Yellow infectious-waste bag overfilled and leaking onto sluice room floor. Request 0.5% hypochlorite clean-up and fresh liner/bin replacement.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-11-03",
+          "time": "11:45 AM",
+          "reporter_role": "Medical Officer, Dengue Ward",
+          "incident_description": "Patient discharged from Isolation Cubicle 3. Please perform terminal cleaning and disinfection before next admission.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-03",
+          "time": "04:20 PM",
+          "reporter_role": "Ward Clerk, Medical Ward 2",
+          "incident_description": "Rainwater dripping into corridor near nurses’ station. Kindly cordon off, place buckets, and keep mopping until maintenance attends.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-04",
+          "time": "03:50 PM",
+          "reporter_role": "ICU Senior Staff Nurse",
+          "incident_description": "Small blood spill under Bed 5 contained by staff. Need housekeeping to decontaminate floor per spill SOP and remove contaminated materials.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-06",
+          "time": "06:10 AM",
+          "reporter_role": "Labour Room Midwife",
+          "incident_description": "Soiled-linen trolley overflowing in LR passage. Please collect and replace bags urgently to prevent cross-contamination.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-06",
+          "time": "01:55 PM",
+          "reporter_role": "Radiology Receptionist",
+          "incident_description": "Rain brought mud into X-ray waiting area; floor dirty and slippery. Need scrubber-dryer pass and extra coir mats.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-08",
+          "time": "10:25 AM",
+          "reporter_role": "Administrative Officer",
+          "incident_description": "Hot, humid conditions causing strong odour in waste holding room. Request extra collection round and floor disinfection.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-09",
+          "time": "12:35 PM",
+          "reporter_role": "ETU Charge Nurse",
+          "incident_description": "Entrance mats soaked during squally rain; a few near-slips noted. Replace mats and maintain continuous mopping and signage.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-11-09",
+          "time": "05:40 PM",
+          "reporter_role": "Pharmacy Manager",
+          "incident_description": "Rainwater seeped into back corridor; cartons wet. Please remove water, disinfect floor, and clear damp general waste.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-11",
+          "time": "09:50 AM",
+          "reporter_role": "OPD Medical Officer",
+          "incident_description": "Dressing room infectious-waste bin full; sealed sharps box ready for pickup. Kindly replace bins and collect per schedule.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-12",
+          "time": "02:10 PM",
+          "reporter_role": "Paediatric Ward Sister",
+          "incident_description": "Returned linen slightly damp with detergent odour; two mothers complained of itching. Please re-wash and ensure proper drying.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-11-13",
+          "time": "07:20 AM",
+          "reporter_role": "Security Supervisor",
+          "incident_description": "Blown rain left puddles on Stairwell A (G to 1st). Need urgent mopping and caution signs on both landings.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-13",
+          "time": "08:05 PM",
+          "reporter_role": "Dengue Ward Medical Officer",
+          "incident_description": "Isolation Room 2 requires terminal clean after bed transfer. Wipe high-touch points, mop with hypochlorite, and change curtains.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-15",
+          "time": "03:30 PM",
+          "reporter_role": "Hospital Administrator",
+          "incident_description": "Heavy rain causing foul smell at waste holding bay; fluid noted around yellow bags. Immediate disinfectant washdown and lid checks requested.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-11-15",
+          "time": "07:15 PM",
+          "reporter_role": "Surgical Ward Senior Nurse",
+          "incident_description": "Soiled-linen trolley left in corridor; bags not tagged by ward code. Please tag and transfer to laundry now.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-17",
+          "time": "11:05 AM",
+          "reporter_role": "OPD Medical Officer",
+          "incident_description": "Public toilet near pharmacy has a vomit spill. Need spill kit response with chlorine clean and restocking of supplies.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-18",
+          "time": "01:10 PM",
+          "reporter_role": "Minor OT In‑charge Nurse",
+          "incident_description": "Post-thunderstorm condensation left theatre floor streaky. Require immediate deep clean before next case per OT protocol.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-11-18",
+          "time": "06:25 PM",
+          "reporter_role": "Infection Control Nurse",
+          "incident_description": "Biomedical waste staging area overcrowded; two sharps boxes stacked. Please organize urgent collection to incinerator and clean the bay.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-20",
+          "time": "09:00 AM",
+          "reporter_role": "Ward 7 Sister",
+          "incident_description": "Leak at pantry created pooling near electrical sockets. Barricade area, place drip trays, and keep floor dry until repairs.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-11-20",
+          "time": "04:55 PM",
+          "reporter_role": "Front Office Supervisor",
+          "incident_description": "Main entrance muddy after hours of rain. Need continuous wet mopping, extra coir mats, and trilingual caution signs.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-21",
+          "time": "10:40 AM",
+          "reporter_role": "ICU‑B Consultant",
+          "incident_description": "Dust on overhead ledges after HVAC work. Request high-level dusting and disinfectant wipe-down after rounds.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-11-22",
+          "time": "02:30 PM",
+          "reporter_role": "Ward 3 Medical Officer",
+          "incident_description": "Food waste placed into yellow infectious bag by mistake. Please replace bag, correct segregation, and brief ward attendants.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-11-25",
+          "time": "11:50 AM",
+          "reporter_role": "Facilities Coordinator",
+          "incident_description": "Lift lobby flooded from umbrellas during heavy rain. Need rapid water extraction, blower-drying, and safety cones.",
+          "urgency": "Critical"
+        }
+      ]
+    }
+  },
+  {
+    "month": "December",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-12-01",
+          "time": "09:15 AM",
+          "reporter_role": "OPD Nursing Officer",
+          "incident_description": "OPD entrance mats are waterlogged after morning rain; puddles forming. Please swap to dry mats, mop area, and place caution signs.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-01",
+          "time": "03:40 PM",
+          "reporter_role": "Security Supervisor",
+          "incident_description": "Mud tracked into main lobby near cashier during thunder shower; high slip risk. Request immediate mopping and signage.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-02",
+          "time": "07:20 AM",
+          "reporter_role": "Ward Clerk - Surgical Ward 3",
+          "incident_description": "Shortage of clean draw sheets after night shifts; laundry delivery pending. Please prioritize linen supply to Ward 3.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-12-03",
+          "time": "11:05 AM",
+          "reporter_role": "Physiotherapist",
+          "incident_description": "Rehab gym floor feels sticky after disinfectant spill. Needs thorough clean before afternoon sessions to avoid falls.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-04",
+          "time": "05:30 PM",
+          "reporter_role": "Sister-in-Charge - Isolation Unit",
+          "incident_description": "Patient discharged from Isolation Room 2 (MDR risk). Require terminal cleaning with chlorine per ICN protocol before next admission.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-06",
+          "time": "10:12 AM",
+          "reporter_role": "Theatre Attendant",
+          "incident_description": "Soiled linen bag tore on transfer; trolley and corridor patch contaminated. Need red bag replacements and immediate biohazard clean.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-12-07",
+          "time": "08:55 PM",
+          "reporter_role": "ETU Medical Officer",
+          "incident_description": "Evening rain left ETU ambulance bay slippery. Please mop urgently and place wet floor signs as stretchers are moving through.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-09",
+          "time": "07:35 AM",
+          "reporter_role": "Nursing Officer - Ward 7",
+          "incident_description": "Muddy footprints on Stairwell 2 after early showers. Quick clean needed before shift change rush.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-12-11",
+          "time": "02:10 PM",
+          "reporter_role": "Admin Officer - Facilities Desk",
+          "incident_description": "Water dripping in OPD pharmacy corridor after thunder shower. Request containment, mopping, and caution boards till engineering arrives.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-11",
+          "time": "06:22 PM",
+          "reporter_role": "ETU Charge Nurse",
+          "incident_description": "Yellow clinical waste bins overfilled; sharps mistakenly in general bin during surge. Need urgent segregation and pickup.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-12-12",
+          "time": "09:48 PM",
+          "reporter_role": "Anaesthetist",
+          "incident_description": "Post-emergency C-section theatre has blood spills on floor and scrub area. Require terminal clean before next case.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-12-13",
+          "time": "04:25 PM",
+          "reporter_role": "CSSD Supervisor",
+          "incident_description": "Returned linen stock feels damp; humidity increased with evening rain. Please re-dry or rewash and check store ventilation.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-13",
+          "time": "11:30 AM",
+          "reporter_role": "OPD Attendant",
+          "incident_description": "OPD public toilets heavily soiled; handwash empty. Need deep clean and restock before afternoon clinic.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-15",
+          "time": "01:05 PM",
+          "reporter_role": "Paediatric Consultant",
+          "incident_description": "Isolation cubicle vomitus on floor; soiled linen bag full. Request biohazard clean with 0.5% chlorine and immediate linen change.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-16",
+          "time": "03:10 PM",
+          "reporter_role": "Sister-in-Charge - Paediatric Ward",
+          "incident_description": "Rainwater tracked on veranda and play area during visiting hours. Need continuous mopping and wet floor signage.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-16",
+          "time": "05:42 PM",
+          "reporter_role": "Infection Control Nurse",
+          "incident_description": "Temporary biomedical waste bay shows mixed general and yellow bags after downpour. Please re-segregate, relabel, and move to central store.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-18",
+          "time": "08:20 AM",
+          "reporter_role": "Theatre Matron",
+          "incident_description": "Two OR gowns returned from laundry with visible stains. Request rewash and check wash cycle logs.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-12-20",
+          "time": "07:50 PM",
+          "reporter_role": "HDU Staff Nurse",
+          "incident_description": "Dust accumulation on ceiling vents and light fittings over beds 3-4. Please schedule high-dusting after hours.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-12-21",
+          "time": "02:18 PM",
+          "reporter_role": "Ward Clerk - Medical Ward 5",
+          "incident_description": "Full linen skip left in corridor outside Ward 5, obstructing trolley movement. Remove and sanitize floor area.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-12-22",
+          "time": "06:40 AM",
+          "reporter_role": "OPD Nurse",
+          "incident_description": "OPD ramp muddy after early drizzle. Need machine scrub or thorough mopping before queues form.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-24",
+          "time": "10:55 AM",
+          "reporter_role": "Labour Room Midwife",
+          "incident_description": "Between cases, blood splashes on floor and backsplash at scrub sink. Immediate clean and fresh sterile drapes requested.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-12-25",
+          "time": "07:05 PM",
+          "reporter_role": "Security Supervisor",
+          "incident_description": "Surgical waiting area has food waste from visitors; ants noted. Request prompt cleaning and placement of extra bins.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-12-27",
+          "time": "09:02 AM",
+          "reporter_role": "Medical Ward Matron",
+          "incident_description": "Chlorine solution buckets dated 24-12 still in use. Discard and prepare fresh 0.1% and 0.5% with proper labels.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-28",
+          "time": "01:33 PM",
+          "reporter_role": "Ward Nurse - Renal Unit",
+          "incident_description": "Bedsheets returned slightly damp due to humidity; patient uncomfortable. Need urgent re-dry and mattress airing.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-30",
+          "time": "04:47 PM",
+          "reporter_role": "Laboratory Technologist",
+          "incident_description": "Small blood spill noted in staff lift after sample transfer. Please cordon off, disinfect, and replace contaminated floor mat.",
+          "urgency": "High"
+        }
+      ]
+    }
+  }
+]

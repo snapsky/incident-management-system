@@ -1,0 +1,2186 @@
+[
+  {
+    "month": "January",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-01-01",
+          "time": "07:10 AM",
+          "reporter_role": "Staff Nurse - Paediatric Ward",
+          "incident_description": "Diet slip notes G6PD + seafood allergy for bed 12, but lunch tray arrived with dried sprats curry. Please recall and replace; update allergy flag on the diet ticket.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-03",
+          "time": "06:40 AM",
+          "reporter_role": "Stores Clerk - Main Kitchen",
+          "incident_description": "After the brief morning rain, two red rice sacks near the loading bay feel damp at the base. Request inspection, segregation, and moisture log entry before use.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-01-05",
+          "time": "10:05 AM",
+          "reporter_role": "Medical Officer - OPD",
+          "incident_description": "Post-OGTT patient was given sweetened tea from the ward trolley. Kindly supply unsweetened tea and review diabetic beverage default for OPD holds.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-01-07",
+          "time": "12:20 PM",
+          "reporter_role": "Cafeteria Supervisor",
+          "incident_description": "Vegetarian dhal and fish curry labels were swapped during lunch rush; two staff complained. Need immediate relabel, announce correction, and reinforce color-code SOP.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-01-08",
+          "time": "04:50 AM",
+          "reporter_role": "Kitchen Manager",
+          "incident_description": "Raw chicken tray stored above cut veg, drip risk noted. Quarantine affected veg and sanitize racks.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-08",
+          "time": "07:25 AM",
+          "reporter_role": "Ward Sister - ENT",
+          "incident_description": "Patient on NBM except meds still received full breakfast (string hoppers + kiri hodi). Please pull back ENT trays and recheck the morning diet list printout.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-10",
+          "time": "02:15 PM",
+          "reporter_role": "Consultant Nephrologist",
+          "incident_description": "Nepro vanilla is out of stock; three HD patients require evening feeds. Arrange alternative renal formula and update procurement ETA today.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-11",
+          "time": "11:35 AM",
+          "reporter_role": "Receiving Officer - Dairy",
+          "incident_description": "Morning milk delivery recorded at 12°C due to sunny offload delay. Please decide on rejection or rapid chill with documented deviation.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-01-12",
+          "time": "08:10 AM",
+          "reporter_role": "Ward Sister - Haematology",
+          "incident_description": "Neutropenic diet trays had fresh coriander garnish. Kindly replace with plain, no raw herbs, and brief the cook on neutropenic restrictions.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-13",
+          "time": "05:30 PM",
+          "reporter_role": "Cafeteria Team Lead",
+          "incident_description": "After the brief evening rain, a drip started over the bakery display; pastry boxes became damp. Need immediate discard of affected items and cordon area.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-13",
+          "time": "09:05 AM",
+          "reporter_role": "Medical Officer - Obstetrics (Postnatal)",
+          "incident_description": "Mother on vegetarian diet requested no onion/garlic per religious vow, but lunch list shows standard veg curry. Please issue a ‘satvik’ variant from today.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-01-15",
+          "time": "01:10 PM",
+          "reporter_role": "Cafeteria Manager",
+          "incident_description": "Halal certification signage not displayed at the chicken counter and utensils were mixed. Require dedicated ladles, signage, and service staff briefing.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-17",
+          "time": "10:40 AM",
+          "reporter_role": "Nursing Officer - NICU",
+          "incident_description": "Hot staff lunch packs were placed on the formula prep bench. Request immediate deep clean and reminder to keep NICU milk area food-free.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-18",
+          "time": "03:25 PM",
+          "reporter_role": "Stores Supervisor - Dry Goods",
+          "incident_description": "Tuna tins expiring next week found at back of shelf, not FIFO. Please adjust menu to rotate stock or arrange return before lapse.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-01-19",
+          "time": "07:00 AM",
+          "reporter_role": "Staff Nurse - Stroke Unit",
+          "incident_description": "Low-salt breakfast arrived with regular parippu; two hypertensive patients flagged. Kindly recall the batch and send renal/low-sodium replacements.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-01-19",
+          "time": "06:20 AM",
+          "reporter_role": "Cold Room Attendant",
+          "incident_description": "Walk-in chiller temp rose to 9°C due to frequent door openings; raw fish trays affected. Need discard decision and temp recovery plan.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-01-19",
+          "time": "12:15 PM",
+          "reporter_role": "Cafeteria Duty Supervisor",
+          "incident_description": "High clinic crowd; vegetarian counter sold out by 12:05 PM. Request rapid batch of red rice + pumpkin curry and adjust forecast for Tuesdays.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-01-21",
+          "time": "06:55 AM",
+          "reporter_role": "Ward Sister - Paediatrics",
+          "incident_description": "Child on vegetarian diet was served egg curry. Please correct diet card coding and send veg protein alternative (soya or dhal).",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-23",
+          "time": "06:35 AM",
+          "reporter_role": "Anaesthesia RMO - OT Holding",
+          "incident_description": "NBM patient given a cup of plain tea from the snack trolley while waiting for theatre. Request route change for trolley and bold ‘NBM Zone’ signage.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-25",
+          "time": "11:50 AM",
+          "reporter_role": "Speech and Language Therapist",
+          "incident_description": "Dysphagia orders for Ward 6 require IDDSI Level 2, but lunch jellies arrived Level 3. Please reissue fluids at correct thickness and update prep guide.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-27",
+          "time": "07:45 AM",
+          "reporter_role": "Supply Assistant - Receiving",
+          "incident_description": "Morning mist led to condensation; gotukola bundles arrived wilted and slimy at the cores. Need partial rejection and switch to mallung with cabbage.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-01-28",
+          "time": "02:40 PM",
+          "reporter_role": "Catering Porter",
+          "incident_description": "Wet ramp from afternoon rain caused soup urn to slip during Ward 3 delivery; minor spill. Request anti-slip mats on trolley route and replace spilled portions.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-01-28",
+          "time": "08:05 PM",
+          "reporter_role": "Stores Assistant - Dry Area",
+          "incident_description": "Turmeric and chilli powder in open bins clumped with a slight musty smell. Please quality-check, discard if needed, and seal containers.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-30",
+          "time": "01:05 PM",
+          "reporter_role": "Quality Officer - Food Services",
+          "incident_description": "Salad bar had cut papaya left out beyond 2 hours during warm lunch. Please discard exposed trays and reinforce time/temperature controls.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-31",
+          "time": "09:20 AM",
+          "reporter_role": "Kitchen Supervisor",
+          "incident_description": "Coconut milk stock is short for lunch service; several patients have nut allergies recorded. Request menu switch to dhal-based gravy and confirm allergen-safe prep.",
+          "urgency": "Medium"
+        }
+      ]
+    }
+  },
+  {
+    "month": "February",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-02-01",
+          "time": "07:25 AM",
+          "reporter_role": "Medical Officer - Paediatrics",
+          "incident_description": "Paediatric bed 12 (lactose-intolerant) did not receive the prescribed lactose-free formula with breakfast; only regular milk is on the ward. Please dispatch correct feed and update the tray list.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-03",
+          "time": "03:40 PM",
+          "reporter_role": "Nursing Officer - Ward 16 Medicine",
+          "incident_description": "Afternoon snack bread packets arrived with damp outer wrapping after brief rain; request replacement and review transport covers for patient snacks.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-02-04",
+          "time": "11:10 AM",
+          "reporter_role": "Hospital Administrative Officer",
+          "incident_description": "At the staff cafeteria, Halal-certified items were not clearly labelled or segregated. Please institute proper signage and service line separation.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-02-05",
+          "time": "08:05 AM",
+          "reporter_role": "Nursing Sister - Renal Unit",
+          "incident_description": "Two CKD patients on renal low-sodium/low-potassium diets received regular parippu and a banana; trays appear swapped. Need immediate correction and review of diet tickets.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-05",
+          "time": "02:20 PM",
+          "reporter_role": "Stores Officer - Dietary",
+          "incident_description": "Only 12 tins of renal formula remain; average use is 10 per day. Please raise urgent LPO and check pending deliveries.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-02-07",
+          "time": "06:50 AM",
+          "reporter_role": "Clinical Dietitian - Stroke Unit",
+          "incident_description": "Diet tickets requested puree (IDDSI 4) but minced and moist (IDDSI 5) was delivered for three patients. Risk of aspiration if not corrected.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-08",
+          "time": "12:10 PM",
+          "reporter_role": "Food Service Supervisor (Patient Meals)",
+          "incident_description": "Blast chiller logged 8-9 C for cut fruit during lunch prep; today is very humid and doors were opened frequently. Hold service for those items and apply corrective cooling.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-08",
+          "time": "07:15 PM",
+          "reporter_role": "Stores Assistant - Receiving Bay",
+          "incident_description": "Two 25 kg flour sacks show moisture staining at the base. Quarantined for QA check and supplier advice.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-02-10",
+          "time": "01:05 PM",
+          "reporter_role": "Cafeteria Shift Supervisor",
+          "incident_description": "Rice and curry ran out by 12:45 PM; only string hoppers remained at the counter. Please review lunch production forecast and staff meal counts.",
+          "urgency": "Low"
+        },
+        {
+          "date": "2025-02-11",
+          "time": "09:30 AM",
+          "reporter_role": "Clinical Dietitian",
+          "incident_description": "Near-miss: Tray for Ward 5 included sprats fry though the diet card flags fish allergy. Item removed before service, but utensil and line segregation need reinforcement.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-12",
+          "time": "06:40 AM",
+          "reporter_role": "Kitchen Manager",
+          "incident_description": "Morning milk chiller reading 9 C; door gasket is torn. All dairy held for temperature check and disposition; request urgent repair.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-12",
+          "time": "01:50 PM",
+          "reporter_role": "Procurement Assistant - Dietary",
+          "incident_description": "Due to the heat, wards requested extra lime juice and ORS; stock of ORS sachets and limes is low. Please approve supplemental purchase today.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-02-14",
+          "time": "10:55 AM",
+          "reporter_role": "Food Safety Officer",
+          "incident_description": "A drip was noted over dry store shelf C; sugar and salt packets are clumping. Stock shifted; need dehumidifier and rack inspection.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-02-14",
+          "time": "12:35 PM",
+          "reporter_role": "Nursing Officer - Renal Unit",
+          "incident_description": "Supplier delay due to rain led to last-minute poultry substitution for planned seer fish. Renal ward menu was not updated; please coordinate substitutions with wards.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-02-14",
+          "time": "04:10 PM",
+          "reporter_role": "Kitchen Steward",
+          "incident_description": "Wet floor near the kitchen back door caused a trolley skid; 14 covered trays toppled and may be contaminated. Require immediate remake and delivery delay notice.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-15",
+          "time": "06:15 AM",
+          "reporter_role": "Theatre Sister",
+          "incident_description": "NPO patient (Ward 7, first on theatre list) received a breakfast tray due to an outdated diet census. Pull back urgently and correct dispatch lists.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-17",
+          "time": "09:05 AM",
+          "reporter_role": "Ward Clerk - Cardiology",
+          "incident_description": "Cardiology tally requested 8 low-salt meals but 12 were delivered; 4 returned unopened. Please audit ticketing to prevent waste.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-02-19",
+          "time": "05:45 PM",
+          "reporter_role": "Infection Control Nurse",
+          "incident_description": "Dishwasher final rinse logged 70-72 C during dinner wash; target is 82 C. Implement manual sanitization and arrange immediate repair.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-20",
+          "time": "09:20 AM",
+          "reporter_role": "Supply Chain Coordinator - Dietary",
+          "incident_description": "Morning drizzle leaked through the loading bay awning; one 50 kg samba rice bag is wet at the base. Bag isolated; request supplier guidance and cover repair.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-02-22",
+          "time": "11:25 AM",
+          "reporter_role": "Diet Aide - Ward 12",
+          "incident_description": "Patient requested vegetarian with no onion/garlic; tray contained leeks tempered. Please adjust recipe and tag the special diet clearly.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-02-24",
+          "time": "10:15 AM",
+          "reporter_role": "OPD Nurse",
+          "incident_description": "OPD nutrition corner received yoghurt cups without date/time labels and no cold-chain log on the tote. Relabelling and transport SOP refresher needed.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-02-25",
+          "time": "02:05 PM",
+          "reporter_role": "Quality Improvement Officer",
+          "incident_description": "Diet tickets use LS/NS codes in small font; near mix-up reported on Ward 9. Request higher-contrast print and colour bands on tickets.",
+          "urgency": "Low"
+        },
+        {
+          "date": "2025-02-26",
+          "time": "07:10 AM",
+          "reporter_role": "Night Supervisor - Dietary Services",
+          "incident_description": "Overnight power fluctuation recorded; walk-in freezer peaked at -5 C for 50 minutes. Need product safety assessment and discard decision per policy.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-26",
+          "time": "06:30 PM",
+          "reporter_role": "Cafeteria Manager",
+          "incident_description": "Evening gusts caused exhaust backdraft; dust settled on the hopper station. Discarded exposed items; please review canopy and air curtain settings.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-02-28",
+          "time": "08:50 AM",
+          "reporter_role": "Consultant Endocrinologist",
+          "incident_description": "Diabetic patient in Ward 18 received regular jelly at breakfast; sugar-free jelly not available on the tray line. Replace and check dessert stock for diabetic diets.",
+          "urgency": "High"
+        }
+      ]
+    }
+  },
+  {
+    "month": "March",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-03-01",
+          "time": "10:15 AM",
+          "reporter_role": "Kitchen Supervisor",
+          "incident_description": "Walk-in chiller reading 7.6°C since 09:40; high ambient humidity this morning. Perishable milk and yogurt inside need temp recovery plan.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-03",
+          "time": "01:25 PM",
+          "reporter_role": "Stores Keeper - Dry Goods",
+          "incident_description": "Water seeped under the dry-store door; bases of three rice sacks are wet. Request quarantine and supplier claim.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-03",
+          "time": "12:55 PM",
+          "reporter_role": "Ward Sister - Orthopaedics",
+          "incident_description": "Lunch trays reached 35 minutes late due to rain; two diabetic patients received regular rice from ward fallback. Need immediate replacement with diabetic portions.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-03-04",
+          "time": "04:40 PM",
+          "reporter_role": "Cafeteria Manager",
+          "incident_description": "Chicken short-eats at staff canteen lacked visible Halal certification; Muslim staff objected. Need vendor verification and signage.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-03-05",
+          "time": "06:55 PM",
+          "reporter_role": "Staff Nurse - Cardiac Ward",
+          "incident_description": "Low-salt diet soup tasted noticeably salty; BP-restricted patients returned portions. Please check recipe and batch salinity.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-07",
+          "time": "09:10 AM",
+          "reporter_role": "Senior Dietitian - Paediatric Renal",
+          "incident_description": "Low-potassium formula sachets stockout; only two packets left for Ward 9B. Urgent substitution protocol or emergency procurement.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-08",
+          "time": "02:35 PM",
+          "reporter_role": "Food Safety Officer",
+          "incident_description": "Brief power dip blast chiller stopped mid-cycle for cooked fish. Core temps remained above 10°C for 25 min; HACCP corrective action needed.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-03-08",
+          "time": "05:20 PM",
+          "reporter_role": "Kitchen Sanitation Lead",
+          "incident_description": "Flies near waste hatch by dishwash area; current fly screens not sealing. Risk to hygiene around plating line.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-10",
+          "time": "12:10 PM",
+          "reporter_role": "Ward Clerk - 6B Medical",
+          "incident_description": "On Poya day, a vegetarian-designated patient was served fish curry. Please ensure cultural diet flags print on tray cards.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-03-11",
+          "time": "06:15 AM",
+          "reporter_role": "Anaesthetics MO - Pre-op",
+          "incident_description": "Patient listed NPO from midnight was sent a tray with kiri bath and tea at 06:00. Diet order on system shows 'fasting'; request stop-gap check before breakfast dispatch.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-12",
+          "time": "08:25 AM",
+          "reporter_role": "Cafeteria Cashier",
+          "incident_description": "Tea and coffee tasted earthy after last night’s rain; kitchen filter candles look due for change. Please switch to boiled-filtered service till resolved.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-12",
+          "time": "11:05 AM",
+          "reporter_role": "Staff Nurse - Paediatrics",
+          "incident_description": "Tray for child with documented peanut allergy included unlabeled pol sambol prepared near peanut sambol. Intercepted before serving; need strict segregation and labels.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-03-13",
+          "time": "03:45 PM",
+          "reporter_role": "Nutrition Assistant - Stroke Unit",
+          "incident_description": "Dysphagia thickener tins (lot expiring 20/03) still in main store; wards may not use in time. Request FIFO enforcement and reallocation to high-use wards.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-03-15",
+          "time": "07:40 AM",
+          "reporter_role": "Staff Nurse - OPD Admissions",
+          "incident_description": "Newly-admitted diabetic patient got sweetened tea with breakfast. Please ensure 'no-sugar beverages' default for DM flags at admission.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-16",
+          "time": "12:20 PM",
+          "reporter_role": "Senior Dietitian - Renal",
+          "incident_description": "Due to midday rain, fish supplier delayed; kitchen substituted vegetable curry in renal lunches without notifying diet office, altering protein targets.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-03-16",
+          "time": "07:10 PM",
+          "reporter_role": "Kitchen Supervisor",
+          "incident_description": "Condensation drip observed from evaporator in walk-in chiller after storm; two marinated chicken trays were uncovered beneath. Potential contamination—need discard and maintenance coordination.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-18",
+          "time": "01:05 PM",
+          "reporter_role": "Cafeteria Manager",
+          "incident_description": "Staff canteen ran out of rice and parippu by 01:00 PM; service contract requires supply till 02:30 PM. Forecasting and batch scheduling need correction.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-03-19",
+          "time": "12:15 PM",
+          "reporter_role": "Catering Manager",
+          "incident_description": "Gusty wind with storm blew dust through vegetable prep louvres; coriander and chopped greens contaminated. Batch should be discarded; request screens or temporary covers.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-19",
+          "time": "03:30 PM",
+          "reporter_role": "PHI Liaison - Food Safety",
+          "incident_description": "Grab-and-go yoghurt cups found at 27–28°C during spot check; chiller overloaded in afternoon heat. Immediate disposal and load limit needed.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-21",
+          "time": "09:50 PM",
+          "reporter_role": "ICU Registrar",
+          "incident_description": "Enteral feed bag labeled 'standard' delivered to CICU; order is 'renal' low-electrolyte. Error detected before hang—need double-verification at formula room.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-03-22",
+          "time": "03:10 PM",
+          "reporter_role": "Stores Keeper - Receiving",
+          "incident_description": "Afternoon burst of rain soaked bread crates during offloading; several loaves damp. Request return to supplier and covered receiving area usage.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-03-22",
+          "time": "05:45 PM",
+          "reporter_role": "Food Safety Officer",
+          "incident_description": "Cafeteria display chiller holding cut fruit at 11–12°C in humid conditions; condenser clogged. Remove items and service unit before reopening.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-24",
+          "time": "01:35 PM",
+          "reporter_role": "Ward Sister - Surgical",
+          "incident_description": "Low-sodium soups vary widely in taste across days; patients either refuse or complain blandness. Please standardize recipe and document grams of salt per batch.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-03-26",
+          "time": "07:20 AM",
+          "reporter_role": "Meal Dispatch Coordinator",
+          "incident_description": "Service corridor wet; breakfast trolleys rerouted and arrived 20–25 min late to Maternity. Need contingency timing and heated cart check.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-03-30",
+          "time": "06:40 PM",
+          "reporter_role": "Food Safety Officer",
+          "incident_description": "Power outage pushed cold-room temp to 8.4°C for ~20 min; raw fish and dairy affected. Initiate discard per policy and document product loss.",
+          "urgency": "Critical"
+        }
+      ]
+    }
+  },
+  {
+    "month": "April",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-04-01",
+          "time": "07:10 AM",
+          "reporter_role": "Staff Nurse - Male Medical Ward",
+          "incident_description": "Breakfast curd cups reached the ward warm in this morning’s heat; cold trolley packs didn’t hold temperature. Request review of cold-chain for early trays.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-04-02",
+          "time": "11:25 AM",
+          "reporter_role": "Infection Control Nurse - OPD",
+          "incident_description": "Multiple flies observed at the OPD cafeteria salad bar; sneeze guard not fully closed. Immediate sanitation and service hold recommended.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-02",
+          "time": "08:35 PM",
+          "reporter_role": "Catering Supervisor - Dietary",
+          "incident_description": "Evening thunderstorm caused a brief power dip; deli chiller rose to 12°C for ~25 min with sliced chicken inside. Need discard decision and temperature log review.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-04-04",
+          "time": "03:40 PM",
+          "reporter_role": "Stores Keeper - Dry Rations",
+          "incident_description": "Two 50 kg rice sacks got wet during the afternoon downpour near loading bay; stitching damp and slight odor noted. Request quarantine and supplier claim.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-04-06",
+          "time": "12:10 PM",
+          "reporter_role": "Ward Sister - Surgical 3B",
+          "incident_description": "Patient on clear-liquid diet received thick parippu soup with solids. Please correct therapeutic diet and audit tray ticketing.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-06",
+          "time": "09:05 PM",
+          "reporter_role": "Kitchen Supervisor",
+          "incident_description": "Post-storm roof drip over vegetable prep bench; sanitize area and discard cut salad prepared during the leak.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-08",
+          "time": "04:50 AM",
+          "reporter_role": "Medical Officer - Ward 8B",
+          "incident_description": "Suhur tray for fasting Muslim patient not delivered; Halal items and timing list not followed. Please activate Ramadan/fasting schedule.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-04-09",
+          "time": "10:15 AM",
+          "reporter_role": "Dialysis Unit Nursing Officer",
+          "incident_description": "Low stock of renal-specific oral supplement (vanilla) in unit pantry; only one tin left for today’s HD patients. Request urgent replenishment.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-10",
+          "time": "06:45 PM",
+          "reporter_role": "Staff Nurse - Ward 5A",
+          "incident_description": "Peanut sambol spoon used to serve vegetarian tray for a patient with peanut allergy; caught before serving. Need strict utensil segregation and allergen flagging.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-04-10",
+          "time": "01:20 PM",
+          "reporter_role": "Cafeteria Manager",
+          "incident_description": "Lunch biryani on hotline measured 50–54°C; hot cabinet not holding due to ambient heat. Urgent corrective action required.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-12",
+          "time": "09:30 AM",
+          "reporter_role": "Clinical Dietitian",
+          "incident_description": "Eight tins of fibre-enriched enteral formula in the dietary store have past expiry dates. Please quarantine and adjust stock rotation (FEFO).",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-13",
+          "time": "03:10 PM",
+          "reporter_role": "HR Welfare Officer (Avurudu Committee)",
+          "incident_description": "Kokis for staff event fried in same oil as fish cutlets; allergen cross-contact not labelled at the cafeteria counter.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-04-15",
+          "time": "02:55 PM",
+          "reporter_role": "Infection Control Nurse",
+          "incident_description": "Dishwasher final rinse not reaching sanitizing temperature after today’s rain-induced low water pressure. Hold patient tray crockery until verified.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-15",
+          "time": "07:20 PM",
+          "reporter_role": "Consultant Physician - Medical Unit",
+          "incident_description": "Warfarin patient served gotukola mallum with dinner; high vitamin K conflicts with anticoagulation. Need renal/cardiac/anticoagulant diet guardrails revised.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-17",
+          "time": "08:55 AM",
+          "reporter_role": "Stores Assistant - Produce",
+          "incident_description": "High humidity causing rapid banana over-ripening; ~6 kg likely wastage. Request dehumidifier use or adjusted ripening/issue schedule.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-04-18",
+          "time": "01:15 PM",
+          "reporter_role": "Speech & Language Therapist - Stroke Unit",
+          "incident_description": "Patient on Level 4 pureed diet received grainy dhal and string hopper mash; unsafe for dysphagia. Please review texture standards and blender maintenance.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-18",
+          "time": "04:05 PM",
+          "reporter_role": "Administrative Officer - Medical Administration",
+          "incident_description": "Tea and short eats for CME session arrived 30 minutes late after the thunderstorm; items were soggy. Need contingency for wet-weather catering.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-04-20",
+          "time": "07:50 PM",
+          "reporter_role": "Cold Room Attendant - Dietary",
+          "incident_description": "Generator switchover during lightning caused walk-in chiller to hit 10°C for ~45 min with raw poultry inside. Require immediate product safety decision and incident CAPA.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-04-21",
+          "time": "08:05 AM",
+          "reporter_role": "Ward Sister - 7A",
+          "incident_description": "Buddhist monk patient received chicken broth jelly instead of vegetarian clear soup. Please enforce religious preference flagging on the diet card.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-23",
+          "time": "09:05 AM",
+          "reporter_role": "Paediatric Registrar",
+          "incident_description": "Child with lactose intolerance was served regular milk tea at breakfast instead of lactose-free. Please correct beverage list and ward pantry labels.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-24",
+          "time": "05:30 PM",
+          "reporter_role": "Stores Officer - Dietary",
+          "incident_description": "After today’s rain, flour and sugar bins near the dry store door show clumping; weevils seen in one atta bin. Request pest control and batch disposal as needed.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-26",
+          "time": "12:25 PM",
+          "reporter_role": "Hospital Administrator",
+          "incident_description": "Cafeteria salad bar lacks allergen labels for cashew and sesame items. Immediate compliant labelling and staff briefing required.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-04-27",
+          "time": "02:35 PM",
+          "reporter_role": "Staff Nurse - Male Medical Ward",
+          "incident_description": "Ice machine output very low in the afternoon heat; cold fluids for febrile patients delayed. Please arrange supplemental ice and service check.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-04-29",
+          "time": "07:10 AM",
+          "reporter_role": "NOIC - Endocrine Clinic",
+          "incident_description": "Diabetic trays are delaed by 45 minutes; insulin-timed meals missed. Need delivery reroute plan for heavy rain days.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-30",
+          "time": "11:40 AM",
+          "reporter_role": "Dietetic Intern",
+          "incident_description": "Tins of high-protein supplement received dented with incomplete batch trace on GRN. Please hold stock and coordinate with Procurement for replacement.",
+          "urgency": "Medium"
+        }
+      ]
+    }
+  },
+  {
+    "month": "May",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-05-01",
+          "time": "07:10 AM",
+          "reporter_role": "Ward Nurse - Medical 3A",
+          "incident_description": "Diabetic breakfast tray arrived with sweetened milk tea and banana for patient on 1600 kcal diabetic diet. Please replace and correct the diet card.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-05-01",
+          "time": "02:45 PM",
+          "reporter_role": "Stores Assistant - Kitchen",
+          "incident_description": "During heavy downpour, water seeped into dry store; bases of two 25 kg rice sacks are damp. Request inspection, segregation, and rack placement.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-02",
+          "time": "09:30 AM",
+          "reporter_role": "Cafeteria Manager",
+          "incident_description": "Bain-marie holding chicken curry dropped to 55°C with drafts from rain-soaked entrance. Need reheat or hold from sale and temperature log update.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-03",
+          "time": "05:50 AM",
+          "reporter_role": "Dietetic Intern",
+          "incident_description": "Tube-feed fridge reading 12°C after night storm. Yogurt and renal supplements stored inside; request discard per SOP and urgent replacements.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-05-03",
+          "time": "01:20 PM",
+          "reporter_role": "Procurement Officer",
+          "incident_description": "Vendor delayed by local flooding; leafy greens not delivered. Please confirm menu substitutions for lunch/dinner and notify wards.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-05-05",
+          "time": "06:25 PM",
+          "reporter_role": "Ward Nurse - Cardiac 5C",
+          "incident_description": "Low-sodium dinner included dried-fish mallung. Patient on 2 g Na diet; request immediate replacement and recipe salt review.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-05-06",
+          "time": "10:15 AM",
+          "reporter_role": "Kitchen Supervisor",
+          "incident_description": "Squally winds blew dust into loading bay; open bread crates were exposed during unloading. Need product replacement and area sanitizing.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-07",
+          "time": "12:05 PM",
+          "reporter_role": "OPD Medical Officer",
+          "incident_description": "Cafeteria biriyani not labeled halal today; supplier certificate not displayed. Please verify status, label correctly, or remove from service.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-08",
+          "time": "03:35 PM",
+          "reporter_role": "Sister-in-Charge - Paediatrics",
+          "incident_description": "Child with lactose intolerance received normal milk at tea. Already sipped. Replace with lactose-free and flag allergy on tray card.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-09",
+          "time": "06:40 AM",
+          "reporter_role": "Ward Nurse - Stroke Unit",
+          "incident_description": "Breakfast arrived as soft solids instead of pureed (IDDSI 4). Aspiration risk. Please resend correct texture and check line controls.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-05-09",
+          "time": "04:50 PM",
+          "reporter_role": "Cafeteria Cashier",
+          "incident_description": "Juice cooler off ~30 min, now 9°C. Packed juices and cut fruit inside; need hold/discard decision and log entry.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-11",
+          "time": "01:55 PM",
+          "reporter_role": "Quality Officer",
+          "incident_description": "Hair strand reported in vegetarian curry to Ward 7A. Request batch trace, staff hygiene check, and immediate tray replacements.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-13",
+          "time": "07:25 AM",
+          "reporter_role": "House Officer - Renal",
+          "incident_description": "Renal breakfast tray included papaya for haemodialysis patient. Please adjust renal menu and update ward restriction list.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-13",
+          "time": "05:10 PM",
+          "reporter_role": "Stores Keeper - Cold Room",
+          "incident_description": "Condenser icing; cold room temp fluctuated 4–10°C. Need immediate product temperature checks and transfer of high-risk items.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-05-15",
+          "time": "11:40 AM",
+          "reporter_role": "Clinical Dietitian",
+          "incident_description": "Liquidized diets too thin; new thickener not gelling as per spec. Patients on NGT at risk of low intake. Please QA and issue alternate brand.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-05-17",
+          "time": "06:10 AM",
+          "reporter_role": "Theatre Sister",
+          "incident_description": "Pre-op carbohydrate drinks for 08:00 OT list not delivered. Storms earlier may have delayed. Require urgent dispatch to OT reception.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-17",
+          "time": "07:50 PM",
+          "reporter_role": "Kitchen Assistant",
+          "incident_description": "Leak near veg prep boards and prepped veg splashed. Recommend discard of affected items and full sanitization.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-05-19",
+          "time": "02:30 PM",
+          "reporter_role": "Ward Clerk - Gynaecology",
+          "incident_description": "Patient identifies as strict vegetarian (Buddhist) but received fish curry at lunch. Please replace meal and correct preference log.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-05-20",
+          "time": "08:55 AM",
+          "reporter_role": "Procurement Officer",
+          "incident_description": "Received 30 tins Ensure vanilla expiring next month. Risk of wastage with current census. Request approval to return or reallocate to clinics.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-05-21",
+          "time": "07:00 AM",
+          "reporter_role": "Ward Nurse - Endocrine",
+          "incident_description": "Two diabetic trays arrived without carb counts on labels; insulin dosing delayed. Please resend labels and update diet sheet.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-21",
+          "time": "05:35 PM",
+          "reporter_role": "Cafeteria Manager",
+          "incident_description": "Rain increased crowd; short eats ran out. Staff queueing into corridor. Request catering backup or alternate hot item release.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-05-23",
+          "time": "03:10 PM",
+          "reporter_role": "Infection Control Nurse",
+          "incident_description": "Diet prep area had no paper towels; staff seen drying hands on aprons during rush. Immediate restock and food-handler retraining needed.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-25",
+          "time": "07:20 AM",
+          "reporter_role": "Ward Nurse - Postnatal",
+          "incident_description": "Breakfast kiri bath served with lunu miris; mother on reflux-friendly bland diet post-delivery. Please adjust and update ward list.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-05-28",
+          "time": "09:05 AM",
+          "reporter_role": "Stores Assistant - Receiving",
+          "incident_description": "Fresh chicken delivery probed at 9°C after prolonged rain transit. Request reject/rapid-cook decision as per HACCP and supplier notification.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-28",
+          "time": "01:15 PM",
+          "reporter_role": "Dietetic Supervisor",
+          "incident_description": "Four cartons of Nepro found burst; outer cartons water-damaged from rain. Please quarantine lot and arrange urgent replacement for renal wards.",
+          "urgency": "High"
+        }
+      ]
+    }
+  },
+  {
+    "month": "June",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-06-01",
+          "time": "05:40 AM",
+          "reporter_role": "Staff Nurse - Paediatric Ward",
+          "incident_description": "Breakfast trays arrived 40 minutes late after morning downpour; insulin timing affected for two kids.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-01",
+          "time": "07:15 AM",
+          "reporter_role": "Stores Officer - Kitchen",
+          "incident_description": "Bottom rice sacks damp; need inspection and segregation.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-02",
+          "time": "02:25 PM",
+          "reporter_role": "Catering Supervisor",
+          "incident_description": "Walk-in chiller at 9°C after humid spell; cooked fish trays placed for cooling; initiate corrective action.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-06-04",
+          "time": "11:05 AM",
+          "reporter_role": "Infection Control Nurse",
+          "incident_description": "Plating area floor wet after thunderstorm; staff moving without shoe covers; urgent clean and SOP reminder.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-06",
+          "time": "06:50 AM",
+          "reporter_role": "Ward Matron - Stroke Unit",
+          "incident_description": "No commercial thickener for breakfast; dysphagia patients pending safe fluids.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-07",
+          "time": "08:20 AM",
+          "reporter_role": "SHO - Nephrology",
+          "incident_description": "Renal diet included soup and papadam; exceeds sodium/fluid limits ordered.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-08",
+          "time": "12:10 PM",
+          "reporter_role": "Senior House Officer - Medicine",
+          "incident_description": "Bain-marie showed 52°C post-lightning; ward curries lukewarm.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-06-08",
+          "time": "01:40 PM",
+          "reporter_role": "Staff Nurse - Ward 6",
+          "incident_description": "Fish-allergic patient received katta sambol with Maldive fish (umbalakada); swapped late.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-06-10",
+          "time": "05:55 PM",
+          "reporter_role": "Transport Orderly",
+          "incident_description": "Strong wind along link corridor blew off soup lids on diet trolley; trays possibly contaminated.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-11",
+          "time": "07:05 AM",
+          "reporter_role": "ICU Charge Nurse",
+          "incident_description": "Tea for diabetic ICU patients served with sugar despite 'no sugar' tags.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-11",
+          "time": "08:50 PM",
+          "reporter_role": "Hospital PHI",
+          "incident_description": "Cockroaches observed near dishwash drain after rain; request deep clean and sealing.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-12",
+          "time": "01:30 PM",
+          "reporter_role": "Administrative Officer",
+          "incident_description": "Cafeteria salad bar has peanuts in mallung but no allergen label.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-13",
+          "time": "09:10 AM",
+          "reporter_role": "OPD Medical Officer",
+          "incident_description": "Curd cups at OPD counter warm; one foil bulging; cold chain likely broken.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-15",
+          "time": "06:20 PM",
+          "reporter_role": "Recovery Nurse - OT",
+          "incident_description": "Post-op NPO patient received evening tray; update not reflected to kitchen.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-17",
+          "time": "07:40 AM",
+          "reporter_role": "Catering Manager",
+          "incident_description": "Bread delivery cartons soaked in morning squall; request replacements and covered offloading.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-06-17",
+          "time": "10:25 AM",
+          "reporter_role": "Ward Clerk - Isolation",
+          "incident_description": "Diet trolley wraps wet; ink on special-diet labels smeared; risk of misdelivery.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-18",
+          "time": "05:30 AM",
+          "reporter_role": "Kitchen Supervisor",
+          "incident_description": "Drain backflow near veg prep after downpour; foul water close to food areas.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-06-18",
+          "time": "07:55 AM",
+          "reporter_role": "Senior Cook",
+          "incident_description": "LPG regulator leaking on Line 2; meal production slowed; need spare now.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-20",
+          "time": "12:05 PM",
+          "reporter_role": "OPD Sister-in-Charge",
+          "incident_description": "Lunch packs for clinic patients 25 minutes late due to rain; please adjust dispatching.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-06-21",
+          "time": "09:00 AM",
+          "reporter_role": "Nurse - Ward 3A",
+          "incident_description": "Tamil vegetarian patient served egg; diet card only in Sinhala; need corrected labels/translation.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-06-23",
+          "time": "06:40 AM",
+          "reporter_role": "Clinical Dietitian",
+          "incident_description": "PEG feed blenderisation coarse; equipment blade dull; choking risk for Level-4 diets.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-24",
+          "time": "02:15 PM",
+          "reporter_role": "Stores Officer - Food Services",
+          "incident_description": "Ceiling drip over cold room shelf; chickpea and milk powder cartons damp; quarantine stock.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-24",
+          "time": "05:10 PM",
+          "reporter_role": "Physiotherapist",
+          "incident_description": "Cafeteria foyer wet from rain; no mats/signage; near-slip observed.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-06-26",
+          "time": "12:45 PM",
+          "reporter_role": "Catering QA Officer",
+          "incident_description": "No hot-holding temperature logs for staff cafeteria lunch service today.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-06-28",
+          "time": "03:20 PM",
+          "reporter_role": "Nursing Officer - Cardiology",
+          "incident_description": "Low-salt tray came with katta sambol and pickle; too salty for hypertensive patient.",
+          "urgency": "High"
+        }
+      ]
+    }
+  },
+  {
+    "month": "July",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-07-01",
+          "time": "06:20 AM",
+          "reporter_role": "Night Catering Supervisor",
+          "incident_description": "Walk-in chiller peaked at 9°C for ~25 minutes during pre-dawn loading; door sweating in high humidity. Need product assessment and discard of high-risk items.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-03",
+          "time": "08:05 AM",
+          "reporter_role": "Stores Assistant",
+          "incident_description": "Egg and yoghurt cartons wet at loading bay. Request segregation, inspection, and receiving SOP adjustment for wet weather.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-03",
+          "time": "12:25 PM",
+          "reporter_role": "Renal Unit Sister",
+          "incident_description": "Low-potassium lunch trays were 20 minutes late; dialysis schedule affected. Need hot-box backup and staggered delivery plan during storms.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-07-04",
+          "time": "01:10 PM",
+          "reporter_role": "Medical Ward 3 Staff Nurse",
+          "incident_description": "Diabetic tray had regular sago pudding with sugar syrup. Please review labelling controls for therapeutic diets on the tray line.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-06",
+          "time": "09:45 AM",
+          "reporter_role": "F&B Manager",
+          "incident_description": "Ant trail observed near jaggery/sugar bins in dry store; lids not fully sealed. Request immediate deep clean and pest-control follow-up.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-07",
+          "time": "06:55 PM",
+          "reporter_role": "Catering Supervisor (Evening)",
+          "incident_description": "Dish machine final rinse logging 70–72°C; cannot assure sanitization for supper trays. Activate manual sanitizing protocol and call maintenance.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-07",
+          "time": "01:15 PM",
+          "reporter_role": "Infection Control Nurse",
+          "incident_description": "Cafeteria chicken curry at lunch measured 48°C on bain-marie. Reheat done; please document corrective action and verify holding temps.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-08",
+          "time": "11:05 AM",
+          "reporter_role": "Paediatric Ward Dietitian",
+          "incident_description": "Tray for child with severe peanut allergy included pol sambol from grinder used earlier for peanuts. Intercepted; enforce allergen controls and utensil color-coding.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-07-09",
+          "time": "02:40 PM",
+          "reporter_role": "ICU Nurse-in-Charge",
+          "incident_description": "Power flicker; ward nourishment fridge reset to 15°C. Opened enteral feeds for two patients warmed. Need replacements and discard guidance.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-09",
+          "time": "06:10 PM",
+          "reporter_role": "Cafeteria Cashier",
+          "incident_description": "Rice ran out by 6 PM; supplier delayed due to flooded access road. Request buffer stock policy for monsoon days.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-07-11",
+          "time": "12:05 PM",
+          "reporter_role": "HR Officer",
+          "incident_description": "Halal certification signage missing at cafeteria during menu change. Muslim staff requesting source confirmation for chicken curry; please restore labels.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-07-13",
+          "time": "08:30 AM",
+          "reporter_role": "Speech & Language Therapist",
+          "incident_description": "Dysphagia Level 2 patient (Ward 7) received dhal curry and tea at nectar-thick instead of honey-thick. Risk of aspiration; retrain on IDDSI levels.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-14",
+          "time": "12:40 PM",
+          "reporter_role": "Cardiology Ward Sister",
+          "incident_description": "Low-sodium diet patient received ambul thiyal (salted fish). Wrong diet ticket attached; investigate tray-line verification.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-16",
+          "time": "09:10 AM",
+          "reporter_role": "Renal Dietitian",
+          "incident_description": "Nepro sachets out of stock; kitchen substituted standard milk powder for dialysis snack without approval. Urgent procurement and substitution policy needed.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-17",
+          "time": "05:55 AM",
+          "reporter_role": "Night Stores Clerk",
+          "incident_description": "Walk-in freezer heavy frost; temp at -10°C after wet deliveries with doors open. Request defrost plan and product temperature checks.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-17",
+          "time": "12:05 PM",
+          "reporter_role": "Surgical Ward House Officer",
+          "incident_description": "Lunch cart slipped on wet ramp; two trays opened and mixed. Meals replaced late. Need non-slip mats and covered transfer during rain.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-07-19",
+          "time": "07:20 AM",
+          "reporter_role": "Stores Supervisor",
+          "incident_description": "Leak over Dry Store A dripping onto samba rice sacks; bases damp. Quarantined stock; request replacement and engineering follow-up.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-19",
+          "time": "12:25 PM",
+          "reporter_role": "OPD Nurse",
+          "incident_description": "Cafeteria queue backed into OPD triage. Please add extra cashier and pre-plated rice packs for peak wet hours.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-07-20",
+          "time": "05:50 PM",
+          "reporter_role": "Endocrine Clinic MO",
+          "incident_description": "Evening snack tea served sweetened to two diabetic clinic patients. Diet code D not reflected on beverage sheet; update production list.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-07-22",
+          "time": "10:35 AM",
+          "reporter_role": "Ward Clerk, Paediatric Ward",
+          "incident_description": "Found six yoghurt cups expired yesterday in ward pantry supply. FIFO not followed. Request replacement and audit of rotation.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-07-24",
+          "time": "12:10 PM",
+          "reporter_role": "Catering QA Officer",
+          "incident_description": "Parippu vadai batch undercooked (core 60°C) during lunch rush. Held and re-fired. Please check fryer calibration and record corrective action.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-24",
+          "time": "03:20 PM",
+          "reporter_role": "Vegetable Prep Lead",
+          "incident_description": "After rain, crates from dock arrived muddy; veg wash area overloaded. Need extra clean crates and boot-wash to prevent soil entering prep room.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-07-26",
+          "time": "08:15 AM",
+          "reporter_role": "Facilities Catering Liaison",
+          "incident_description": "Brown biofilm noted on cafeteria ice machine chute; filter change overdue. Halt ice for patient beverages; request deep clean and filter replacement.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-28",
+          "time": "01:00 PM",
+          "reporter_role": "Oncology Ward Sister",
+          "incident_description": "Patient observing Poya requested vegetarian; soup sent was chicken-stock based. Please flag religious vegetarian requests on tickets clearly.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-07-30",
+          "time": "06:35 AM",
+          "reporter_role": "Morning Production Chef",
+          "incident_description": "Main puree blender motor failed; cannot prepare IDDSI Level 4 breakfast textures. Need backup unit and urgent service; mashing is not adequate.",
+          "urgency": "High"
+        }
+      ]
+    }
+  },
+  {
+    "month": "August",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-08-01",
+          "time": "07:20 AM",
+          "reporter_role": "Ward Nursing Officer – Renal Unit",
+          "incident_description": "Breakfast tray for Bed 12 (CKD) included banana and dhal with added salt despite 2 g sodium, low-potassium order placed last night; please replace and review menu card update workflow.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-02",
+          "time": "02:30 PM",
+          "reporter_role": "Kitchen Supervisor",
+          "incident_description": "Walk‑in dairy chiller reading rose to 9°C; pasteurised milk and curd inside—need immediate temperature recovery and product assessment.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-08-03",
+          "time": "08:10 AM",
+          "reporter_role": "OPD Charge Nurse",
+          "incident_description": "Diabetic day-case meals arrived with sweetened kiri tea packets; request unsweetened replacements and check default beverage setting on OPD trays.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-05",
+          "time": "04:05 PM",
+          "reporter_role": "Stores Officer (Food)",
+          "incident_description": "Require batch inspection and likely rejection as per hygiene SOP.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-06",
+          "time": "12:25 PM",
+          "reporter_role": "Food Safety Officer",
+          "incident_description": "Cafeteria salad bar well is holding at 12°C during lunch rush; cold chain breach—need ice replenishment and unit service.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-08",
+          "time": "11:40 AM",
+          "reporter_role": "Stores Supervisor – Dry Goods",
+          "incident_description": "Heavy rain caused seepage along Store A wall; two rice sacks and one flour bag damp at base—quarantine stock and assess racks.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-08",
+          "time": "06:10 PM",
+          "reporter_role": "Paediatric Ward Sister",
+          "incident_description": "Supper trays reached Ward 6 only at 6:40 PM due to service lift outage; please arrange alternate delivery route and communicate revised timing.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-08-09",
+          "time": "01:15 PM",
+          "reporter_role": "Cafeteria Cashier",
+          "incident_description": "Halal certificate not displayed at chicken counter today; Muslim staff asked for assurance—please place signage and segregate utensils.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-08-10",
+          "time": "12:10 PM",
+          "reporter_role": "Ward Sister – Cardiology",
+          "incident_description": "Low‑sodium lunch soup on Beds 3 and 5 tasted salty; suspect standard stock used—kindly resend compliant portions and audit recipe card.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-11",
+          "time": "09:35 AM",
+          "reporter_role": "ICU Dietitian",
+          "incident_description": "Polymeric enteral formula (vanilla) expires in 72 hours; ICU needs 12 units for weekend, store shows 10—urgent top‑up or approved substitute required.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-13",
+          "time": "07:55 AM",
+          "reporter_role": "Medical Officer – Medical Ward 2",
+          "incident_description": "Ants seen in parippu at breakfast line; trays pulled—request immediate halt, source check, and safe replacement.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-08-13",
+          "time": "02:20 PM",
+          "reporter_role": "Kitchen Supervisor",
+          "incident_description": "Condensation from hood dripping onto hot holding line during rainy spell; risk of contamination—need drip trays and service.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-14",
+          "time": "01:05 PM",
+          "reporter_role": "Renal Unit MO",
+          "incident_description": "Vegetarian renal patient (Bed 7) received paneer curry with tomato gravy not aligned to low‑potassium plan; please substitute and flag on diet sheet.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-08-15",
+          "time": "11:50 AM",
+          "reporter_role": "Catering Equipment Technician (F&B)",
+          "incident_description": "Walk‑in chiller door gasket warped; temp trending 7°C by noon in today’s heat—request urgent gasket replacement and interim loading limits.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-17",
+          "time": "03:10 PM",
+          "reporter_role": "Infection Control Nurse",
+          "incident_description": "Gusty rain washed food‑waste liquids from overflowed bin across cafeteria service alley; odour and vector risk—please sanitise area and adjust waste schedule.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-17",
+          "time": "07:05 PM",
+          "reporter_role": "Surgical Registrar – Post‑Op",
+          "incident_description": "Patient on puree Level 2 dysphagia diet received normal rice and fish at dinner; resend correct texture and check ticketing on theatre step‑down beds.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-18",
+          "time": "10:20 AM",
+          "reporter_role": "OPD Nursing Officer",
+          "incident_description": "ORS bottles sold out at OPD kiosk before clinic peak; request restock and adjust forecast for Tuesday diabetic/HTN clinic crowd.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-08-19",
+          "time": "12:30 PM",
+          "reporter_role": "Paediatric Ward Sister",
+          "incident_description": "Celiac child (Bed 3) got chapati on lunch tray; gluten‑free order on chart—please replace and reinforce GF segregation.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-21",
+          "time": "08:40 AM",
+          "reporter_role": "Paediatric Dietitian",
+          "incident_description": "Nut‑free snack pack issued to Ward 7B contained biscuit with groundnut trace warning; severe peanut allergy noted—immediate replacement and supplier review needed.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-08-22",
+          "time": "03:05 PM",
+          "reporter_role": "Food Safety Officer",
+          "incident_description": "Thunderstorm caused power dip; blast chiller failed to pull chicken curry below 5°C—batch at 18°C after 90 min; initiate discard protocol.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-08-22",
+          "time": "05:25 PM",
+          "reporter_role": "Stores Officer – Produce",
+          "incident_description": "Spinach crates wet—need drainage check and evaluate spoilage.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-08-24",
+          "time": "06:30 PM",
+          "reporter_role": "Ward Nursing Officer – 5B",
+          "incident_description": "Halal label missing on patient dinner tray; family refused service—please resend with certification and update meal ticket.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-25",
+          "time": "12:45 PM",
+          "reporter_role": "House Officer – Surgery",
+          "incident_description": "Two Male Surgical beds with same surname got swapped diets; renal tray went to normal diet patient—request corrected meals and ID check at dispatch.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-27",
+          "time": "09:10 AM",
+          "reporter_role": "NICU Nurse-in-Charge",
+          "incident_description": "Yoghurt cups arrived to NICU pantry warm to touch (no ice packs in carrier); please replace and enforce cold‑chain for special care units.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-28",
+          "time": "01:55 PM",
+          "reporter_role": "NCD Clinic Nurse",
+          "incident_description": "Cafeteria pol sambol very salty and spicy during HTN clinic; please provide low‑salt option on clinic days and display sodium info.",
+          "urgency": "Medium"
+        }
+      ]
+    }
+  },
+  {
+    "month": "September",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-09-01",
+          "time": "07:20 AM",
+          "reporter_role": "Ward Nurse, Surgical 3B",
+          "incident_description": "Breakfast tray for a diabetic patient arrived with a sugar packet and sweetened milk tea instead of diet tea. Please replace and review tray checks.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-02",
+          "time": "03:15 PM",
+          "reporter_role": "Stores Clerk, Dietary",
+          "incident_description": "Vegetable delivery arrived damp after brief rain; pre-cut pumpkin packs probed at 11–12°C. Need decision to accept or reject and adjust supplier log.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-04",
+          "time": "08:10 PM",
+          "reporter_role": "Kitchen Steward",
+          "incident_description": "During evening rain, a roof drip developed above the hot line; water splashing near the parippu well. Risk of contamination and slips.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-07",
+          "time": "11:35 AM",
+          "reporter_role": "Clinical Dietitian, Medical Ward",
+          "incident_description": "Renal (low K) patient sent a banana with lunch. Kindly replace and reinforce renal restrictions with plating team.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-08",
+          "time": "06:50 AM",
+          "reporter_role": "Catering Supervisor",
+          "incident_description": "Rainwater tracked into the loading bay made the cold room entry slick; no floor mats. Staff nearly slipped while shifting milk crates.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-09-08",
+          "time": "10:05 AM",
+          "reporter_role": "Infection Control Nurse",
+          "incident_description": "Raw fish cartons stored above cooked dhal trays due to rain delay; observed drip marks on shelf. Immediate segregation and discard needed.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-09-09",
+          "time": "01:10 PM",
+          "reporter_role": "Medical Officer, Paediatrics",
+          "incident_description": "Child with severe egg allergy received custard from canteen via voucher; no allergen label on display. Please fix labelling and stop sale to paeds visitors until corrected.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-09-10",
+          "time": "08:55 PM",
+          "reporter_role": "Night Duty Kitchen Manager",
+          "incident_description": "Power dip, walk-in freezer rose to −7°C; door seal sweating. Need product temp checks, rapid recovery plan, and log entry.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-12",
+          "time": "02:40 PM",
+          "reporter_role": "Nutrition Assistant",
+          "incident_description": "Twelve liquid diet cups in ward pantry not labeled with patient names/time of preparation. Risk of mix-up for post-op clears.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-14",
+          "time": "12:05 PM",
+          "reporter_role": "Consultant Endocrinologist",
+          "incident_description": "Carbohydrate counts on diabetic lunch trays are off; rice portions appear larger than the diet sheet. Please standardize scoops.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-15",
+          "time": "05:50 PM",
+          "reporter_role": "Cafeteria Cashier",
+          "incident_description": "Drinks chiller reading 12°C in hot afternoon; bottled yoghurt feels warm. Request to pull stock and check equipment.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-17",
+          "time": "07:05 AM",
+          "reporter_role": "Ward Sister, ENT",
+          "incident_description": "Patient on pureed diet received soft solids (string hoppers with coconut sambol). Choking risk—send correct texture and review ticketing.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-09-17",
+          "time": "03:30 PM",
+          "reporter_role": "Stores Officer, Dietary",
+          "incident_description": "Ordered rice stock still at the store . please clear it out",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-09-18",
+          "time": "09:20 AM",
+          "reporter_role": "Theatre Nurse, Main OT",
+          "incident_description": "NPO patient for afternoon list was served tea and biscuits from the morning trolley. Please update NPO hold list and stop meals to that bed.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-09-19",
+          "time": "06:15 PM",
+          "reporter_role": "Dietitian, Renal Unit",
+          "incident_description": "Low-sodium bread is out of stock; wards are substituting regular bread. Need urgent supply or approved alternative.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-21",
+          "time": "01:25 PM",
+          "reporter_role": "Food Safety Officer",
+          "incident_description": "Cafeteria ceiling leak dripping over the salad bar during thundery rain. Shut the section and discard exposed items.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-09-21",
+          "time": "07:40 PM",
+          "reporter_role": "Security Supervisor",
+          "incident_description": "Supplier truck stuck due to waterlogging; night supper chicken may run short. Please approve menu substitution and notify wards.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-09-22",
+          "time": "08:30 AM",
+          "reporter_role": "MO, OPD",
+          "incident_description": "Muslim patient reported no visible Halal certification on the beef curry used for therapeutic tray. Kindly verify batch and replace.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-23",
+          "time": "05:20 PM",
+          "reporter_role": "Cafeteria Shift Lead",
+          "incident_description": "Brief power cut lowered hot cabinet to 40–45°C for ~25 minutes; samosas/cutlets in danger zone. Need discard decision and reheating protocol.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-23",
+          "time": "07:55 PM",
+          "reporter_role": "ICU Ward Nurse",
+          "incident_description": "Renal-specific enteral formula stock finished; only standard formula on hand. Request emergency issue or dietitian-approved substitution.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-09-25",
+          "time": "09:10 AM",
+          "reporter_role": "Kitchen Steward",
+          "incident_description": "Back dock water pooling with heavy rain; vegetable crates placed on floor got splashed. Need raised pallets and crate sanitizing.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-25",
+          "time": "02:50 PM",
+          "reporter_role": "Clinical Dietitian, Paediatrics",
+          "incident_description": "Cafeteria chocolate muffins lack peanut allergen warning; paeds carers often purchase them. Please label and restrict sale near ward.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-27",
+          "time": "08:15 PM",
+          "reporter_role": "Night Duty Nurse, Maternity",
+          "incident_description": "Patient on lactose-free diet was served normal milk tea at supper. Kindly resend appropriate beverage and fix diet tag.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-09-28",
+          "time": "10:40 AM",
+          "reporter_role": "Infection Control Nurse",
+          "incident_description": "With widespread rain, drain backflow splashed near vegetable prep sink. Area requires deep sanitization and discard of prepped greens.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-09-30",
+          "time": "11:05 AM",
+          "reporter_role": "Procurement Assistant, Dietary",
+          "incident_description": "Incoming chicken mince cartons lack Halal stamp documentation; planned for staff curry. Hold or return and adjust menu.",
+          "urgency": "High"
+        }
+      ]
+    }
+  },
+  {
+    "month": "October",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-10-01",
+          "time": "06:45 AM",
+          "reporter_role": "Staff Nurse (Medical Ward 3)",
+          "incident_description": "Diabetic soft breakfast tray arrived with two sugar sachets and sweet banana; please correct diet packing and remove added sugars.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-10-01",
+          "time": "08:10 PM",
+          "reporter_role": "Kitchen Supervisor",
+          "incident_description": "Evening thunderstorm caused a power dip; walk-in chiller hit 10°C for ~20 minutes—need decision on discarding pre-portioned chicken for late trays.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-03",
+          "time": "02:20 PM",
+          "reporter_role": "Clinical Dietitian",
+          "incident_description": "Renal (low potassium) patient was served jackfruit curry from the standard veg set; request immediate replacement and review of renal tagging.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-04",
+          "time": "09:05 AM",
+          "reporter_role": "Infection Control Nurse",
+          "incident_description": "Dry store feels damp after morning drizzle; two flour sacks near the wall show moisture stains—please quarantine and inspect for spoilage.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-10-05",
+          "time": "12:15 PM",
+          "reporter_role": "Procurement Officer",
+          "incident_description": "Supplier delayed by flooded Galle Road; low-sodium bread will stock out before dinner unless alternate bakery engaged.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-05",
+          "time": "07:50 PM",
+          "reporter_role": "Paediatric Registrar",
+          "incident_description": "Child with documented nut allergy received vanilla custard topped with cashew—urgent replacement and kitchen allergen control review needed.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-10-06",
+          "time": "05:40 AM",
+          "reporter_role": "Night Duty Nurse (ICU)",
+          "incident_description": "Order changed to fiber-free jejunal feed at 02:00; 05:30 tray still had standard fiber formula—please send correct feed immediately.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-08",
+          "time": "11:25 AM",
+          "reporter_role": "Cafeteria Manager",
+          "incident_description": "Drips falling into gravy pans—section should be closed until safe.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-08",
+          "time": "05:55 PM",
+          "reporter_role": "Kitchen Steward",
+          "incident_description": "Dishwasher final rinse not reaching 82°C; after lightning the heater breaker may have tripped—sanitization compromised.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-09",
+          "time": "01:10 PM",
+          "reporter_role": "Ward Sister (Orthopaedic)",
+          "incident_description": "Two vegetarian patients received fish cutlets on lunch trays; request pure veg replacements and verification of diet codes.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-10-10",
+          "time": "06:20 PM",
+          "reporter_role": "Consultant Endocrinologist",
+          "incident_description": "Patient marked NPO for DKA management was sent a full rice tray at 6 pm; urgent halt on further meals to this patient.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-11",
+          "time": "07:30 AM",
+          "reporter_role": "Kitchen Stores Clerk",
+          "incident_description": "Rainwater at loading bay; several 25 kg rice sacks stored on floor got wet at the base—need rebagging or disposal per SOP.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-10-11",
+          "time": "08:40 PM",
+          "reporter_role": "Resident MO (Surgical)",
+          "incident_description": "Post-op patient on clear liquids received thick dhal soup; please send clear broth/jeevani promptly.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-12",
+          "time": "02:55 PM",
+          "reporter_role": "Dietetic Intern",
+          "incident_description": "ICU tube-feed stock (peptide formula) below par; only four tins left—request emergency issue or supplier contact before night feeds.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-14",
+          "time": "12:05 PM",
+          "reporter_role": "Food Safety Officer",
+          "incident_description": "After power cut, blast chiller at 12°C; batch-cooked fish not cooled within 2 hours—seek authorization to discard and log incident.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-10-14",
+          "time": "06:40 PM",
+          "reporter_role": "Ward Nurse (Oncology)",
+          "incident_description": "Neutropenic diet tray included raw salad; please replace with fully cooked veg and review menu controls.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-15",
+          "time": "07:10 AM",
+          "reporter_role": "OPD Nurse-in-Charge",
+          "incident_description": "Halal requirement documented for two OPD boarders; breakfast beef curry served without halal label—send certified alternative.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-10-17",
+          "time": "05:20 PM",
+          "reporter_role": "Transport Orderly (Food Lift)",
+          "incident_description": "Dinner trays delayed to Wards 5–7—need extra insulated carriers and revised delivery route.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-10-18",
+          "time": "10:35 AM",
+          "reporter_role": "Senior Dietitian",
+          "incident_description": "Ward 10 pantry has yogurt cups expired on 02 Oct; request immediate removal and stock rotation training for ward pantries.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-20",
+          "time": "12:40 PM",
+          "reporter_role": "Cafeteria Cashier",
+          "incident_description": "POS outage during squall led to long queue; hot hold times for string hoppers and curries exceeded—advise on discards and service recovery.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-10-20",
+          "time": "07:05 PM",
+          "reporter_role": "ICU MO",
+          "incident_description": "Sodium-restricted, thickened fluids ordered; dinner tray arrived without thickener sachets—patient at aspiration risk.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-22",
+          "time": "08:25 PM",
+          "reporter_role": "Nursing Officer (Psychiatry)",
+          "incident_description": "Pureed diet tray had solid papaya cubes; please resend correctly pureed meal for dysphagia patient.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-24",
+          "time": "01:30 PM",
+          "reporter_role": "Housekeeping Supervisor (Cafeteria)",
+          "incident_description": "Cafeteria service line floor slippery from tracked rain; no wet-floor signage at tray return—request immediate controls from food service area team.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-10-24",
+          "time": "06:15 PM",
+          "reporter_role": "Procurement Assistant",
+          "incident_description": "Fresh milk delivered at 12°C after street flooding delays; recommend rejecting consignment and adjusting evening tea service.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-30",
+          "time": "08:50 PM",
+          "reporter_role": "Night Supervisor (Nursing)",
+          "incident_description": "Pantry fridges alarmed; paediatric ONS bottles now at 11°C—need replacement stock and guidance on disposal.",
+          "urgency": "Critical"
+        }
+      ]
+    }
+  },
+  {
+    "month": "November",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-11-01",
+          "time": "02:15 PM",
+          "reporter_role": "Cold Room Attendant (Dietary Services)",
+          "incident_description": "Walk-in chiller spiked to 9°C after multiple power flickers during the storm; raw chicken and fish inside. Need immediate temp recovery and decision on discard per HACCP.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-11-01",
+          "time": "03:40 PM",
+          "reporter_role": "Dietary Stores Keeper",
+          "incident_description": "Rainwater seeped under loading-bay shutter; bottom layer of samba rice sacks damp. Please isolate, check for mould, and improve palletisation.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-02",
+          "time": "07:25 AM",
+          "reporter_role": "Sister-in-Charge, Nephrology Ward",
+          "incident_description": "Breakfast tray for BHT 0423 (CKD-V) came with bananas and kiri pani; patient is on strict potassium restriction. Request correct renal tray and review coding.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-03",
+          "time": "01:05 PM",
+          "reporter_role": "Staff Nurse, Paediatrics",
+          "incident_description": "Flooded road delayed soft-diet lunch; arrived lukewarm (<50°C). Please resend in insulated carriers ASAP.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-04",
+          "time": "12:10 PM",
+          "reporter_role": "Cafeteria Supervisor",
+          "incident_description": "Leak over cafeteria bain-marie during intense rain; drips near hot line. Service should pause and contaminated items be replaced.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-06",
+          "time": "10:20 AM",
+          "reporter_role": "Procurement Liaison Dietitian",
+          "incident_description": "Marine fish received late in steady rain; temp 12–14°C with off-odour. Reject batch and confirm alternate protein for dinner.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-06",
+          "time": "06:35 AM",
+          "reporter_role": "Senior Cook",
+          "incident_description": "Main kitchen blender overheated and tripped mid-breakfast; pureed textures for Stroke Unit pending. Need backup unit and service call.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-07",
+          "time": "08:10 AM",
+          "reporter_role": "OPD Medical Officer",
+          "incident_description": "OPD diabetic patient was served sweet milk tea from trolley. Please provide sugar-free option and clearer flask labels.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-11-09",
+          "time": "10:45 AM",
+          "reporter_role": "Assistant Catering Manager",
+          "incident_description": "LPG bank-2 nearly empty; cylinder truck delayed in squally rain. Risk to lunch production—initiate rationing and priority cooking plan.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-09",
+          "time": "11:30 AM",
+          "reporter_role": "Ward Master, Male Surgical",
+          "incident_description": "Halal verification label missing on roast chicken trays for Muslim patients. Ward is holding service until documentation or swap provided.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-11-11",
+          "time": "09:15 AM",
+          "reporter_role": "Food Safety Officer (Dietary)",
+          "incident_description": "Post rain condensation above pastry prep; droplets forming over ready-to-eat items. Discard exposed food and reduce humidity.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-13",
+          "time": "04:50 PM",
+          "reporter_role": "Cafeteria Attendant",
+          "incident_description": "Tea boiler gave a mild shock walls/floor damp after continuous rain. Please isolate unit immediately and arrange repair.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-11-15",
+          "time": "07:55 AM",
+          "reporter_role": "ICU SHO",
+          "incident_description": "Diet slip updated to NPO/TPN for BHT 0115, but full liquid breakfast sent. Kindly halt tray and amend ICU diet list urgently.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-15",
+          "time": "08:40 AM",
+          "reporter_role": "Staff Nurse, Medical Ward",
+          "incident_description": "Severe peanut allergy patient received chickpea sambol made in mixer previously used for peanut paste. Cross-contact risk—need safe replacement and allergen controls.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-11-16",
+          "time": "11:05 AM",
+          "reporter_role": "Consultant Paediatrician",
+          "incident_description": "Lactose-free milk out of stock; three GI cases pending feeds. Please source immediate substitute and inform ward.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-17",
+          "time": "06:50 AM",
+          "reporter_role": "Midwife (Maternity Ward)",
+          "incident_description": "Breakfast trays included boiled egg for mothers flagged egg-free due to hyperemesis. Kindly resend with kandha and update list.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-11-18",
+          "time": "09:40 AM",
+          "reporter_role": "Infection Control Nurse",
+          "incident_description": "Receiving area floor wet from rain tracked in; veg crates set on pooled water. Need pallets, mopping, and produce sanitisation.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-11-18",
+          "time": "01:20 PM",
+          "reporter_role": "Medical Officer, Oncology",
+          "incident_description": "Neutropenic diet breach: cold dessert with fresh garnish sent to BHT 0211. Replace with sealed pasteurised option and review list.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-20",
+          "time": "12:25 PM",
+          "reporter_role": "Catering Manager",
+          "incident_description": "Power cut during lunch; hot-holding stayed at 48–52°C for ~50 minutes. Policy requires discard and re-prep of affected trays.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-11-20",
+          "time": "02:10 PM",
+          "reporter_role": "Stores Supervisor (Dietary)",
+          "incident_description": "Rodent droppings found behind parippu sacks after flooding. Quarantine compromised lots and arrange urgent pest control and deep clean.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-22",
+          "time": "11:00 AM",
+          "reporter_role": "Diet Aide (Plating Line)",
+          "incident_description": "Fish curry splashed onto two vegetarian trays during plating; both already sent to Ward 6. Need immediate replacements and splash guard.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-11-23",
+          "time": "09:05 AM",
+          "reporter_role": "Kitchen Porter",
+          "incident_description": "Walk-in freezer has heavy frost; door not sealing and ice on floor causing slips. Request defrost, gasket repair, and area cordon.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-11-25",
+          "time": "12:40 PM",
+          "reporter_role": "Cafeteria Supervisor",
+          "incident_description": "Rice-cooker steam venting onto cut-fruit counter; condensate dripping onto papaya. Need to relocate fruit and separate hot line.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-11-25",
+          "time": "05:15 PM",
+          "reporter_role": "Senior Dietitian (Neonatal)",
+          "incident_description": "Delivery of preterm formula and UHT milk missed due to flooded road; NICU fortification stock will run out tonight. Request emergency borrowing or fast-track purchase.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-27",
+          "time": "10:30 AM",
+          "reporter_role": "Dietary Storekeeper",
+          "incident_description": "Renal formula tins (18) expiring 03 Dec; wards not informed. Please redistribute to Nephrology/ICU immediately and adjust ordering.",
+          "urgency": "Medium"
+        }
+      ]
+    }
+  },
+  {
+    "month": "December",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-12-01",
+          "time": "02:35 PM",
+          "reporter_role": "Stores Assistant – Dietary",
+          "incident_description": "Afternoon thunderstorm caused gutter overflow; seepage into dry store made two bottom rice sacks damp. Request disposal assessment and check roof/drain near dry goods.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-01",
+          "time": "01:10 PM",
+          "reporter_role": "Ward Sister, Medical Ward 5",
+          "incident_description": "Lunch trays arrived 25 minutes late after rain left OPD corridor slippery and trolley had to detour. Need an extra insulated trolley and non-slip mats during wet weather.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-12-02",
+          "time": "12:25 PM",
+          "reporter_role": "Cafeteria Manager",
+          "incident_description": "Cafeteria ran out of curd and fruit by 12:20 despite clear weather; par levels underestimated for staff rush. Please adjust forecast and reorder.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-12-03",
+          "time": "08:05 AM",
+          "reporter_role": "Food Safety Officer",
+          "incident_description": "Salad chiller logged 11°C after a humid, rainy morning; condensate noted on shelves. All ready-to-eat salads quarantined pending temperature recovery and QA check.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-04",
+          "time": "12:05 PM",
+          "reporter_role": "Staff Nurse – Nephrology (Ward 14B)",
+          "incident_description": "Renal diet patient received dhal with added salt and tomato (not K+ restricted). Tray returned; request immediate review of diet ticket and cook’s sheet.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-05",
+          "time": "09:15 AM",
+          "reporter_role": "Kitchen Helper – Pantry",
+          "incident_description": "Ant trail observed inside sugar bin; lid not sealed after morning tea round. Request pest control notification and replacement of contaminated sugar.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-12-06",
+          "time": "10:40 AM",
+          "reporter_role": "Dietary Supervisor",
+          "incident_description": "Puree station blender jar cracked during prep; minced/pureed diets due at 11:30. Need spare jar issued and damaged unit removed.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-12-07",
+          "time": "06:20 PM",
+          "reporter_role": "Porter – OT Corridor",
+          "incident_description": "Hot meal trolley skidded and two rice trays spilled near theatre. Require immediate resupply and area sanitisation by dietary staff.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-08",
+          "time": "01:00 PM",
+          "reporter_role": "OPD Nurse",
+          "incident_description": "Cafeteria chicken curry not clearly marked Halal/non-Halal at lunch. Please add signage and separate ladles to maintain compliance.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-12-09",
+          "time": "07:30 AM",
+          "reporter_role": "Stores Clerk (Produce)",
+          "incident_description": "Leafy greens wilting in vegetable room; humidity felt high after early light rain. Request rotation and exhaust fan check to protect salad quality.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-12-10",
+          "time": "03:10 PM",
+          "reporter_role": "Clinical Dietitian – ICU",
+          "incident_description": "Renal-specific enteral formula down to 12 tins with two ICU patients dependent; supplier lead time reportedly 3 days. Please expedite procurement and arrange interim stock.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-11",
+          "time": "12:45 PM",
+          "reporter_role": "Catering Supervisor",
+          "incident_description": "Thunderstorm tripped bain-marie; gravies on the line measured 52–55°C. Hold service for those items and reheat per SOP.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-11",
+          "time": "02:20 PM",
+          "reporter_role": "Cafeteria Cashier",
+          "incident_description": "Leak over salad bar during heavy rain; droplets on sneeze guard. Discard exposed dishes and cover station until safe; request urgent clean-up and liaison for repair.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-12",
+          "time": "11:55 AM",
+          "reporter_role": "Ward Nurse – Cardiology",
+          "incident_description": "Low-salt dhal and regular dhal labels swapped on the tray line. Caught prior to serving; need relabel and quick huddle with serving staff.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-13",
+          "time": "07:10 PM",
+          "reporter_role": "Kitchen Supervisor",
+          "incident_description": "LPG pressure dropped and chapati line slowed; dinner to wards delayed 20 minutes. Request spare cylinder staging near hot line.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-12-14",
+          "time": "12:15 PM",
+          "reporter_role": "Medical Officer – Ward 7",
+          "incident_description": "Vegetarian patient received fish curry despite preference noted. Please update ward list and segregate ladles to prevent cross-service.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-12-16",
+          "time": "03:30 PM",
+          "reporter_role": "Stores Assistant – Main Stores",
+          "incident_description": "Afternoon rain blew into loading bay; milk powder cartons became damp at base. Need integrity check and move to raised pallets.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-12-18",
+          "time": "11:10 AM",
+          "reporter_role": "Infection Control Nurse",
+          "incident_description": "Crushed peanuts prepped beside coconut sambol; same tray briefly used for renal meals. High allergen cross-contact risk—discard affected items and deep-clean area.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-12-19",
+          "time": "08:20 AM",
+          "reporter_role": "Cold Room Attendant",
+          "incident_description": "Chest freezer door not sealing; heavy frost and temp at −10°C. Frozen fish at risk—relocate stock and schedule immediate defrost/repair.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-21",
+          "time": "09:05 AM",
+          "reporter_role": "Supply QA – Dietary",
+          "incident_description": "Fresh fish delivery arrived at 9°C; probe verified. Rejecting consignment and requesting menu switch to lentil/egg protein.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-23",
+          "time": "11:40 AM",
+          "reporter_role": "Cafeteria Manager",
+          "incident_description": "Short-eats and buns sold out by 11:30 due to holiday rush; queue extended into corridor. Need extra batch and second cashier to manage flow.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-12-24",
+          "time": "10:05 PM",
+          "reporter_role": "Night Duty Nurse – Ward 3",
+          "incident_description": "10:00 PM diabetic snack round missed; two insulin patients flagged risk. Request night snack checklist and sign-off from dietary porter.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-12-25",
+          "time": "12:10 PM",
+          "reporter_role": "Senior Dietitian",
+          "incident_description": "Celiac patient in Ward 12 was given wheat bread instead of gluten-free; nurse intercepted before intake. Urgent segregation and red alert on diet tickets.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-12-25",
+          "time": "01:15 PM",
+          "reporter_role": "Administration Officer",
+          "incident_description": "Festive lunch crowd exhausted rice by 1:00 PM; staff queue outside canteen. Please release backup rice cooker and tighten portion control.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-12-28",
+          "time": "02:55 PM",
+          "reporter_role": "Food Safety Officer",
+          "incident_description": "Humid afternoon and large delivery caused walk-in chiller to hold 8–9°C for 35 minutes. Hold high-risk items and review loading/SOP to speed temp recovery.",
+          "urgency": "High"
+        }
+      ]
+    }
+  }
+]

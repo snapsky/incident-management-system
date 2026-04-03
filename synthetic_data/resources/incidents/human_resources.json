@@ -1,0 +1,2186 @@
+[
+  {
+    "month": "January",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-01-01",
+          "time": "07:40 AM",
+          "reporter_role": "Nursing Officer-in-Charge, Surgical Ward",
+          "incident_description": "Public holiday OT for our ward isn’t appearing in HRMIS; 6 nurses may miss payment. Please open the 1 Jan roster and accept manual OT entries today.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-02",
+          "time": "08:25 AM",
+          "reporter_role": "Medical Officer, OPD",
+          "incident_description": "Two new HOs reported but no IDs/biometric access yet; they can’t log into OPD system or drug charting. Kindly expedite onboarding.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-03",
+          "time": "09:10 AM",
+          "reporter_role": "Consultant Physician, Interview Panel Member",
+          "incident_description": "Morning showers delayed two nurse candidates; panel marked them absent. Request HR to reschedule per recruitment policy.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-01-04",
+          "time": "06:35 AM",
+          "reporter_role": "Anaesthesia SHO, Main Theatre",
+          "incident_description": "Locum anaesthetist’s SLMC card shows expiry 31 Dec. Please verify renewal and stand down the booking if not current.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-01-05",
+          "time": "08:00 AM",
+          "reporter_role": "Nursing Sister, OPD",
+          "incident_description": "Induction for new attendants was cancelled due to hall double-booking. Need HR to reschedule today and include safety/harassment briefing before duty.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-05",
+          "time": "02:45 PM",
+          "reporter_role": "Pharmacy In-Charge",
+          "incident_description": "Night shift allowance for three staff missing from December payroll. Please correct and confirm adjustment.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-01-06",
+          "time": "07:55 AM",
+          "reporter_role": "OPD Supervisor",
+          "incident_description": "Biometric unit was moved during repaint; 06:30–07:30 punches not captured. Request HR to regularize attendance for affected staff.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-01-08",
+          "time": "04:20 PM",
+          "reporter_role": "ETU Nursing Officer",
+          "incident_description": "Short rain delayed BLS recert attendees; HR list marked five as absent. Please grant waiver and schedule a makeup session.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-01-09",
+          "time": "10:05 AM",
+          "reporter_role": "Laboratory Manager",
+          "incident_description": "Background check for new MLT shows NIC mismatch with submitted transcripts. Hold badge until HR verifies credentials.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-09",
+          "time": "05:10 PM",
+          "reporter_role": "Matron, Female Surgical",
+          "incident_description": "Junior nurse reports repeated inappropriate comments by ward clerk. Request HR to initiate formal grievance and assign mediator.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-10",
+          "time": "11:30 AM",
+          "reporter_role": "Staff Nurse, Gynae Ward",
+          "incident_description": "Returned from maternity leave; no breastfeeding break schedule issued. Need HR to formalize timing per policy.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-01-12",
+          "time": "03:15 PM",
+          "reporter_role": "Finance Officer, Payroll",
+          "incident_description": "ETF for two HCAs bounced due to EPF number mismatch. Kindly correct HR master data before final payroll run.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-13",
+          "time": "02:05 PM",
+          "reporter_role": "Attendance Clerk, OPD",
+          "incident_description": "Humid afternoon caused fingerprint misreads; many duplicate OUT logs. Please cleanse records and issue guidance on alternate sign-in.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-01-13",
+          "time": "06:40 PM",
+          "reporter_role": "Consultant Radiologist",
+          "incident_description": "Radiographer candidate delayed by evening rain; panel closed. Request HR to reschedule to avoid disadvantage.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-01-14",
+          "time": "09:25 AM",
+          "reporter_role": "NOIC, ICU",
+          "incident_description": "Five consecutive night duties assigned to same two nurses; staff raised fairness grievance. Need HR-led roster review and mediation.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-01-15",
+          "time": "08:50 AM",
+          "reporter_role": "Medical Education Unit Coordinator",
+          "incident_description": "Several MOs haven’t submitted CPD credits; SLMC renewal due next month. Please arrange catch-up CME and update records.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-01-17",
+          "time": "07:20 AM",
+          "reporter_role": "Theatre Attendant Supervisor",
+          "incident_description": "Uniform allowance for six attendants still pending. Kindly release and confirm measurements for new issue.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-01-18",
+          "time": "04:05 PM",
+          "reporter_role": "Deputy Director (Admin)",
+          "incident_description": "2025 performance appraisal forms for nursing cadre not circulated; timelines at risk. HR to issue forms and brief appraisers.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-19",
+          "time": "08:10 AM",
+          "reporter_role": "Transport Coordinator",
+          "incident_description": "Morning drizzle delayed staff buses; 11 OPD staff marked late/absent. Please apply grace as per policy and amend times.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-01-19",
+          "time": "03:30 PM",
+          "reporter_role": "Laundry Supervisor",
+          "incident_description": "Two attendants complain of verbal abuse by shift supervisor. Request HR inquiry and counseling intervention.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-20",
+          "time": "09:40 AM",
+          "reporter_role": "Medical Officer, Paediatrics",
+          "incident_description": "Agency nurse contracts end this week; renewal letters pending. Risk of weekend gaps—please extend or arrange locums.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-22",
+          "time": "11:10 AM",
+          "reporter_role": "Senior Registrar, Medicine",
+          "incident_description": "Probation confirmations for three new MOs pending >6 months; they can’t apply for PGIM rotations. Kindly expedite letters.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-23",
+          "time": "07:05 AM",
+          "reporter_role": "Security Supervisor",
+          "incident_description": "New HCA batch without photo IDs—entry disputes at gates and ETU. Please issue ID cards and update access list.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-01-25",
+          "time": "10:55 AM",
+          "reporter_role": "Nursing Sister, Vaccine Clinic",
+          "incident_description": "Two community volunteers placed at registration lack police clearance/reference checks. Pause deployment until HR completes vetting.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-01-27",
+          "time": "08:35 AM",
+          "reporter_role": "Ward Clerk, ENT",
+          "incident_description": "February duty roster posted with <24 hrs notice; staff can’t arrange swaps. Request HR to enforce 7-day notice and retrain NOICs.",
+          "urgency": "Medium"
+        }
+      ]
+    }
+  },
+  {
+    "month": "February",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-02-01",
+          "time": "09:15 AM",
+          "reporter_role": "Ward Sister - Surgical Ward",
+          "incident_description": "Three new HOs reported today but no ID cards or HR onboarding done; they cannot access drug cupboards or request labs. Please expedite badges and system access.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-02",
+          "time": "04:40 PM",
+          "reporter_role": "Pharmacy Manager",
+          "incident_description": "Locum pharmacist for OPD evening shift hasn’t received contract letter; cannot be placed on duty roster. Need urgent issuance to avoid service gap.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-03",
+          "time": "08:05 AM",
+          "reporter_role": "Consultant Anaesthetist",
+          "incident_description": "Personnel file shows expired SLMC certificate for visiting anaesthetist scheduled for theatre today. Please verify renewal immediately or provide approved substitute.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-02-03",
+          "time": "06:20 PM",
+          "reporter_role": "Nursing Officer - ETU",
+          "incident_description": "Biometric scanner kept rejecting staff after the warm, humid evening; several ETU nurses marked absent. Request manual attendance acceptance and sync fix.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-02-05",
+          "time": "11:30 AM",
+          "reporter_role": "Medical Records Supervisor",
+          "incident_description": "Two new OPD cashiers joined without formal induction on patient privacy and cash handling. Kindly arrange HR orientation this week.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-02-07",
+          "time": "02:55 PM",
+          "reporter_role": "Dietetic Unit In-Charge",
+          "incident_description": "Contract kitchen assistants worked beyond legal hours during lunch rush; no overtime forms processed. Need HR guidance and payroll correction as per labor law.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-08",
+          "time": "03:10 PM",
+          "reporter_role": "Biomedical Engineer",
+          "incident_description": "Multiple new attendants handling oxygen cylinders without recent safety training. Please coordinate a mandatory refresher session.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-02-08",
+          "time": "08:35 PM",
+          "reporter_role": "Security Supervisor",
+          "incident_description": "Light rain soaked gate staff; dispute arose about taking unscheduled drying breaks. Request HR mediation and a clear bad-weather break policy.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-02-10",
+          "time": "10:05 AM",
+          "reporter_role": "Finance Officer - Payroll",
+          "incident_description": "Ward 12 night shift nursing allowance missing for January due to HRIS roster not updated. Kindly validate and process arrears.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-11",
+          "time": "07:50 AM",
+          "reporter_role": "House Officer - Medicine",
+          "incident_description": "HRMS lists me as ‘Intern’ though my appointment is HO; on-call meal allowance rejected. Please correct grade and update entitlements.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-02-12",
+          "time": "12:40 PM",
+          "reporter_role": "OPD Medical Officer",
+          "incident_description": "Very hot midday conditions; OPD staff complaining of headaches. Request HR to implement short scheduled hydration breaks without pay loss.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-02-12",
+          "time": "04:15 PM",
+          "reporter_role": "Nursing Tutor",
+          "incident_description": "BLS certificates for four newly posted nurses expire end of month; renewal session not booked. Please arrange training at the skills lab urgently.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-14",
+          "time": "09:05 AM",
+          "reporter_role": "Clinic Reception Lead",
+          "incident_description": "Background checks for two temporary registration clerks still pending; they handle patient identity data. Request urgent police clearance verification.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-14",
+          "time": "06:10 PM",
+          "reporter_role": "Transport Coordinator",
+          "incident_description": "Thundery evening rain delayed staff buses; several attendants auto-marked absent. Please apply weather-related grace and adjust attendance.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-02-15",
+          "time": "01:25 PM",
+          "reporter_role": "Consultant Paediatrician",
+          "incident_description": "New registrar from PGIM started but no hospital ID yet; access blocked to SCBU. Kindly expedite ID and SLMC verification copy.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-17",
+          "time": "08:30 AM",
+          "reporter_role": "Theatre Matron",
+          "incident_description": "Weekend locum scrub nurse contract renewal not issued; elective list at risk of cancellation. Request immediate processing.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-02-20",
+          "time": "07:20 AM",
+          "reporter_role": "Maintenance Supervisor",
+          "incident_description": "Morning drizzle left workers’ fingers wet; biometric clock-in failed for several casuals. Need HR to accept manual attendance for payroll.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-02-20",
+          "time": "03:50 PM",
+          "reporter_role": "Physiotherapy Unit Head",
+          "incident_description": "Two physio assistants disputing weekend duty swaps; no signed HR-approved swap protocol. Request mediation and formal process.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-02-22",
+          "time": "11:10 AM",
+          "reporter_role": "Infection Control Nurse",
+          "incident_description": "Sharps safety refresher overdue for new interns and attendants; last session was 18 months ago. Please organize mandatory training.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-02-23",
+          "time": "05:05 PM",
+          "reporter_role": "OPD Cashier",
+          "incident_description": "EPF/ETF numbers still not appearing on my payslip and bank details not updated since joining. Kindly rectify before next payroll.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-24",
+          "time": "01:05 PM",
+          "reporter_role": "Ward Clerk - Gynaecology",
+          "incident_description": "Maternity leave for Staff Nurse Jayasuriya approved, but reliever not recruited; March roster cannot be finalized. Please arrange a reliever.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-25",
+          "time": "08:55 AM",
+          "reporter_role": "Radiology Consultant",
+          "incident_description": "Foreign-trained radiographer awaiting credential verification; cannot assign independent shifts until SLMC registration and equivalency confirmed.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-02-26",
+          "time": "09:40 AM",
+          "reporter_role": "Laboratory Manager",
+          "incident_description": "Two MLS trainees started without HR onboarding checklist or safety briefing. Request immediate orientation scheduling.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-02-26",
+          "time": "07:25 PM",
+          "reporter_role": "Emergency Unit MO",
+          "incident_description": "Brief evening rain left staff uniforms wet; dispute with nursing sister over issuing spare scrubs. Please clarify uniform policy and mediate.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-02-28",
+          "time": "04:30 PM",
+          "reporter_role": "Hospital Administrator",
+          "incident_description": "Twelve minor staff contracts expire at month-end; renewal notes not yet issued. Need HR to process extensions to avoid service breaks.",
+          "urgency": "High"
+        }
+      ]
+    }
+  },
+  {
+    "month": "March",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-03-01",
+          "time": "08:15 AM",
+          "reporter_role": "Ward Clerk - Male Surgical",
+          "incident_description": "Two newly recruited attendants reported for duty without appointment letters or EPF/ETF numbers; payroll and rostering on hold. Request HR to issue letters and enroll them today.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-03-03",
+          "time": "11:20 AM",
+          "reporter_role": "Secretary to Nursing Superintendent",
+          "incident_description": "Shortlisted staff nurse missed 10:00 interview due to sudden downpour and flooded bus route. Please treat as weather-affected and reschedule, not a no-show.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-03-03",
+          "time": "04:05 PM",
+          "reporter_role": "RMO Office Administrator",
+          "incident_description": "Credential audit flagged an on-duty radiographer with license expired on 28 Feb; rostered tonight. Need HR to verify renewal and stand down if not cleared.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-03-05",
+          "time": "02:40 PM",
+          "reporter_role": "Training Coordinator",
+          "incident_description": "Induction session in non-AC hall halted as two trainees became dizzy in the afternoon heat. Please move tomorrow’s batch to an AC venue and adjust attendance.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-03-08",
+          "time": "03:30 PM",
+          "reporter_role": "ICU Sister-in-Charge",
+          "incident_description": "BLS re-certification cancelled after lightning alert and heavy shower. Twelve ICU nurses need new dates this week to avoid competency lapses.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-08",
+          "time": "05:55 PM",
+          "reporter_role": "Pharmacy Dispenser",
+          "incident_description": "Supervisor shouted and refused my pre-approved casual leave for a family clinic visit; requesting HR mediation per grievance procedure.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-09",
+          "time": "06:50 AM",
+          "reporter_role": "Health Care Assistant - Ward 3",
+          "incident_description": "Duty roster gives me six consecutive night shifts, contrary to policy. Please review allocation and counsel the Sister-in-Charge.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-03-11",
+          "time": "10:10 AM",
+          "reporter_role": "Payroll Officer - Finance",
+          "incident_description": "Three new lab technologists lack EPF/ETF registration details in HRIS; March salary processing will fail. Need numbers and appointment letters urgently.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-12",
+          "time": "08:25 AM",
+          "reporter_role": "Sister-in-Charge - Obstetrics",
+          "incident_description": "Nurse starting maternity leave earlier due to complications; please confirm entitlement and revised start date as per latest MOH circular.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-03-12",
+          "time": "06:35 PM",
+          "reporter_role": "Staff Nurse - OT",
+          "incident_description": "Repeated verbal bullying by Theatre Manager during afternoon list; request formal inquiry and a neutral mediator.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-15",
+          "time": "09:05 AM",
+          "reporter_role": "OPD Medical Records Supervisor",
+          "incident_description": "Performance appraisal forms from OPD doctors pending; increments will be delayed. Please extend deadline and brief HODs.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-03-16",
+          "time": "01:50 PM",
+          "reporter_role": "Matron - General Ward",
+          "incident_description": "Thunder and heavy rain disrupted the Safe Patient Handling training; half the staff couldn’t travel. Request an additional session or online alternative.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-03-16",
+          "time": "05:20 PM",
+          "reporter_role": "PA to Medical Director",
+          "incident_description": "Background check documents for incoming ICU MO delayed by courier after downpour. Start date is 18th; need provisional clearance protocol.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-18",
+          "time": "11:30 AM",
+          "reporter_role": "ETU Consultant",
+          "incident_description": "Ongoing heat in staff room; request temporary relaxation of uniform policy and extra hydration break guidance until AC repair is complete.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-03-19",
+          "time": "12:45 PM",
+          "reporter_role": "Security Supervisor",
+          "incident_description": "Night guard involved in altercation with a visitor; request HR to initiate disciplinary process and arrange statements.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-19",
+          "time": "03:15 PM",
+          "reporter_role": "Nursing Superintendent",
+          "incident_description": "SLNC renewals for two ward nurses still pending; licenses expire on 21st. Afternoon storm slowed courier. Need urgent HR verification to keep them on roster.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-03-22",
+          "time": "07:40 AM",
+          "reporter_role": "Senior MO - OPD",
+          "incident_description": "Flash rain blocked Galle Road; six OPD staff reached late. Please convert attendance to on-duty under adverse weather policy and adjust roster.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-03-22",
+          "time": "04:25 PM",
+          "reporter_role": "Infection Control Nurse",
+          "incident_description": "Today’s CPD talk cancelled as lecturer was stranded by the rain. Kindly issue new date and ensure CPD points are carried over.",
+          "urgency": "Low"
+        },
+        {
+          "date": "2025-03-23",
+          "time": "02:05 PM",
+          "reporter_role": "Laundry Attendant",
+          "incident_description": "Supervisor denies weekly day off for the third week; request HR intervention to ensure roster complies with labour law.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-03-25",
+          "time": "09:55 AM",
+          "reporter_role": "Nurse-in-Charge - ICU",
+          "incident_description": "Night-shift allowance not posted for 1–15 March for five nurses. Please audit attendance and process arrears before month-end.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-26",
+          "time": "08:35 AM",
+          "reporter_role": "Administrative Officer - OPD",
+          "incident_description": "Five new attendants due to join Monday; pre-employment medicals not scheduled. Need HR to fast-track and confirm joining letters.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-03-28",
+          "time": "10:45 AM",
+          "reporter_role": "Registrar - Medicine",
+          "incident_description": "Paternity leave request submitted two weeks ago; no written approval yet. Baby due next week—please confirm dates and relief cover.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-03-29",
+          "time": "01:10 PM",
+          "reporter_role": "Intern House Officer",
+          "incident_description": "Inappropriate comments from a consultant during ward round; seeking confidential HR-facilitated mediation and guidance on formal complaint.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-03-30",
+          "time": "09:25 AM",
+          "reporter_role": "Facilities Manager",
+          "incident_description": "Two porter candidates missed today’s trade test due to heavy rain; request rescheduling without penalty and update of shortlist validity.",
+          "urgency": "Low"
+        },
+        {
+          "date": "2025-03-30",
+          "time": "02:00 PM",
+          "reporter_role": "Medical Administration Executive",
+          "incident_description": "SLMC registration number mismatch in HRIS for a consultant; malpractice cover renewal being rejected. Please correct records and confirm to MD today.",
+          "urgency": "High"
+        }
+      ]
+    }
+  },
+  {
+    "month": "April",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-04-01",
+          "time": "08:10 AM",
+          "reporter_role": "Ward Clerk - Medical Ward 3A",
+          "incident_description": "Morning humidity made the fingerprint reader reject multiple staff; five nurses missed punches. Request manual correction and guidance on backup register use.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-04-02",
+          "time": "09:10 AM",
+          "reporter_role": "Consultant Paediatrician",
+          "incident_description": "New MO shortlisted for NICU; SLMC temporary registration not verified, delaying onboarding. Please complete credential check today to cover weekend rota.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-02",
+          "time": "08:45 PM",
+          "reporter_role": "Nursing Supervisor - ETU",
+          "incident_description": "Thunderstorm knocked out network; biometric terminals failed at shift change. Need HR to validate 11 staff clock-out and protect OT payments.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-04",
+          "time": "03:20 PM",
+          "reporter_role": "Theatre Matron",
+          "incident_description": "Afternoon downpour delayed recruits; OT technician orientation was canceled. HR to reschedule, issue IDs, and clarify pay from start date.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-04-06",
+          "time": "07:50 PM",
+          "reporter_role": "Nurse Educator",
+          "incident_description": "Late storm halted BLS re-cert today; eight ICU nurses expire this week. Request urgent grace period and rebooked sessions.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-04-08",
+          "time": "08:05 AM",
+          "reporter_role": "OPD Admin Officer",
+          "incident_description": "Several Avurudu casual leave approvals were verbal only and not in HRMIS. Please regularize before duty roster locks.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-04-08",
+          "time": "04:10 PM",
+          "reporter_role": "Transport Desk Coordinator",
+          "incident_description": "Brief downpour delayed staff buses; three night-shift nurses stuck at Slave Island stop. Kindly waive late penalties and arrange backup van per policy.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-10",
+          "time": "10:40 AM",
+          "reporter_role": "Medical Records Clerk",
+          "incident_description": "March night-shift allowance missing for four clerks despite approved OT sheets. Please correct before payroll cut-off.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-10",
+          "time": "07:25 PM",
+          "reporter_role": "Consultant Surgeon",
+          "incident_description": "Visiting fellow starts tomorrow; appointment letter lacks EPF/ETF clauses and probation terms. Need corrected contract before clinical duties.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-12",
+          "time": "12:15 PM",
+          "reporter_role": "Nursing Officer In-Charge - Ward 7B",
+          "incident_description": "Two new nurses started without health clearance and hepatitis-B titer files. Please complete credentialing file check.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-13",
+          "time": "09:00 AM",
+          "reporter_role": "Chief Pharmacist",
+          "incident_description": "Festival advance for eight pharmacy staff not disbursed though approved last week. Request immediate release.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-04-13",
+          "time": "02:35 PM",
+          "reporter_role": "OPD Medical Officer",
+          "incident_description": "Roster has me on continuous duty 13th–14th Avurudu without weekly rest. Seek HR review for labor law compliance.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-13",
+          "time": "05:10 PM",
+          "reporter_role": "Logistics Attendant",
+          "incident_description": "Uniform supplier closed for New Year; three probationers have no scrubs. Please permit temporary issue from HR stores.",
+          "urgency": "Low"
+        },
+        {
+          "date": "2025-04-14",
+          "time": "08:30 AM",
+          "reporter_role": "ETU Staff Nurse",
+          "incident_description": "Two healthcare assistants absent claiming festival leave with no HRMIS request. Need guidance on marking as unauthorized and activating standby list.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-14",
+          "time": "03:50 PM",
+          "reporter_role": "Ward Sister - Maternity",
+          "incident_description": "With the heat today, staff asking for extra rest/tea breaks under well-being circular. Kindly issue clarification to all units.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-04-14",
+          "time": "08:20 PM",
+          "reporter_role": "Night Duty Coordinator",
+          "incident_description": "After the evening thundershower, Route 255 staff bus was diverted; three nurses arrived 40 minutes late. Please mark weather-excused to avoid deductions.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-04-16",
+          "time": "11:05 AM",
+          "reporter_role": "Training Coordinator",
+          "incident_description": "LMS did not sync attendance for today’s Respectful Workplace session; 40 staff need CPD credits logged.",
+          "urgency": "Low"
+        },
+        {
+          "date": "2025-04-18",
+          "time": "06:40 PM",
+          "reporter_role": "Anaesthesia Registrar",
+          "incident_description": "Two MOs’ ACLS cards expired yesterday; theatre list impacted. Request urgent renewal booking and temporary privileging note.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-04-19",
+          "time": "09:25 AM",
+          "reporter_role": "Payroll Officer",
+          "incident_description": "Acting allowance for ICU in-charge not reflecting; grade change letter missing in service record. Please update before salary run.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-20",
+          "time": "08:10 AM",
+          "reporter_role": "Clinic Supervisor - OPD",
+          "incident_description": "High humidity fogged the biometric at OPD entrance; repeated failures at sign-in. Request activation of manual attendance sheet for today.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-20",
+          "time": "05:55 PM",
+          "reporter_role": "Nurse Educator",
+          "incident_description": "Evening in-service on pressure injury prevention canceled due to lightning alert. Please reschedule and ensure no-show penalties are waived.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-04-22",
+          "time": "07:30 PM",
+          "reporter_role": "Housekeeping Supervisor",
+          "incident_description": "Agency cleaners worked 4 extra hours this week without signed extension letters. Need HR-compliant documentation immediately.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-24",
+          "time": "02:20 PM",
+          "reporter_role": "Consultant Obstetrician",
+          "incident_description": "Formal complaint: registrar used derogatory language toward midwives during handover. Request HR inquiry and mediation.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-27",
+          "time": "09:15 AM",
+          "reporter_role": "Staff Nurse - Dialysis",
+          "incident_description": "Annual increment letter still pending though my appraisal closed in Feb. Kindly issue so salary step updates in May.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-04-29",
+          "time": "03:05 PM",
+          "reporter_role": "Radiology Medical Officer",
+          "incident_description": "SLMC renewal receipt uploaded last week, but HRMIS still shows 'pending'; contrast lists blocked. Please clear credential status urgently.",
+          "urgency": "High"
+        }
+      ]
+    }
+  },
+  {
+    "month": "May",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-05-01",
+          "time": "07:55 AM",
+          "reporter_role": "Sister-in-Charge, Surgical Ward",
+          "incident_description": "Orientation for four new HCA recruits could not proceed as afternoon buses stopped due to flooding; please reschedule and mark today as on-duty travel disruption.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-05-03",
+          "time": "08:10 AM",
+          "reporter_role": "MOIC, Medicine",
+          "incident_description": "Two new interns not visible on SLMC verification list; ward cannot include them on call until HR confirms credentials.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-03",
+          "time": "10:45 AM",
+          "reporter_role": "Administrative Officer – Wards",
+          "incident_description": "Police clearances for three healthcare assistants delayed as station was closed after flooding; request conditional appointment letters to cover weekend shifts.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-03",
+          "time": "04:20 PM",
+          "reporter_role": "OPD Supervisor",
+          "incident_description": "Biometric showed 'absent' for six OPD staff who arrived late due to torrential rain; please correct attendance and avoid no‑pay deductions.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-05-05",
+          "time": "09:05 PM",
+          "reporter_role": "Sister-in-Charge, Operating Theatre",
+          "incident_description": "Team stayed past 21:00 due to thunderstorm and no transport; request apply weather standby allowance and process OT claims.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-05-06",
+          "time": "11:30 AM",
+          "reporter_role": "Radiology Manager",
+          "incident_description": "Induction session for two radiographers was canceled after power flickers in heavy rain; need revised onboarding date and extend temporary IDs.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-05-08",
+          "time": "06:50 AM",
+          "reporter_role": "Consultant Anaesthetist",
+          "incident_description": "Locum anaesthetist scheduled for OT has no SLMC verification file in HR; list cannot start without confirmation.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-05-08",
+          "time": "03:15 PM",
+          "reporter_role": "ETU Charge Nurse",
+          "incident_description": "Verbal harassment complaint between MO and registration clerk over duty swap; request HR mediation and written guidance on swap approvals.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-09",
+          "time": "07:40 AM",
+          "reporter_role": "Medical Staff Representative (GMOA)",
+          "incident_description": "Given ongoing rain, request a 15‑minute grace window on attendance for this week and rollback of late marks already flagged.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-05-10",
+          "time": "02:05 PM",
+          "reporter_role": "Medical Administration Officer",
+          "incident_description": "Appointment letter issued to new MO states 'Senior House Officer' grade; needs immediate corrigendum to correct pay scale and designation.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-11",
+          "time": "07:10 AM",
+          "reporter_role": "Theatre Matron",
+          "incident_description": "Scrub nurse’s SLNC license lapsed on 10/05; cannot post to OT until HR confirms renewal receipt.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-05-11",
+          "time": "12:25 PM",
+          "reporter_role": "ICU Nurse Educator",
+          "incident_description": "BLS refresher for ICU batch postponed due to morning downpour; CPD deadline end‑May—please schedule an extra session next week.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-05-13",
+          "time": "06:20 AM",
+          "reporter_role": "Attendant Supervisor",
+          "incident_description": "Staff hostel waterlogging kept five attendants from night duty; request mark on‑duty for disaster and arrange temporary quarters through HR.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-13",
+          "time": "02:40 PM",
+          "reporter_role": "OPD Manager",
+          "incident_description": "OPD cashier appraisal forms pending; increments will be held if not submitted—please extend deadline two days due to weather disruptions.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-05-14",
+          "time": "11:05 AM",
+          "reporter_role": "Accounts – Payroll",
+          "incident_description": "New ward orderly’s EPF/ETF numbers mismatch with NIC; payroll cannot create employee master until HR verifies.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-15",
+          "time": "08:25 AM",
+          "reporter_role": "Consultant Physician, Medicine",
+          "incident_description": "Provisional SLMC registration for new intern not uploaded yet; restrict prescribing rights until HR completes credentialing.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-15",
+          "time": "10:50 PM",
+          "reporter_role": "Theatre Coordinator",
+          "incident_description": "Prolonged rain stranded evening OT staff; clarify eligibility for night duty allowance versus travel compensation and process claims.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-05-17",
+          "time": "09:35 AM",
+          "reporter_role": "Nursing Superintendent",
+          "incident_description": "Two probationary nurses absent during squall line; request HR guidance on marking disaster leave vs. no‑pay for this roster.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-05-18",
+          "time": "04:05 PM",
+          "reporter_role": "Safety & Training Coordinator",
+          "incident_description": "Attendance sheet for fire‑safety drill shows overwriting; please initiate preliminary inquiry for possible falsification and reschedule session.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-19",
+          "time": "01:30 PM",
+          "reporter_role": "Chief Pharmacist",
+          "incident_description": "Pharmacy staff reports discriminatory remark by supervisor; request formal inquiry and interim roster separation.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-21",
+          "time": "07:15 AM",
+          "reporter_role": "MOIC, Maternal and Child Health",
+          "incident_description": "Midwives couldn’t reach outreach clinic due to flooded roads; please treat as on‑duty and adjust leave ledgers accordingly.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-05-23",
+          "time": "05:55 PM",
+          "reporter_role": "Paediatrics Unit Coordinator",
+          "incident_description": "Locum paediatrician’s police clearance expired; renewal delayed after heavy rain; can HR issue temporary extension letter for weekend cover?",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-25",
+          "time": "08:05 AM",
+          "reporter_role": "ETU Medical Officer",
+          "incident_description": "ACLS/BLS recertification session canceled by thunder this morning; several ETU cards expire 31/05—request urgent makeup class.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-27",
+          "time": "03:25 PM",
+          "reporter_role": "Deputy Director – Administration",
+          "incident_description": "Conflict over Vesak Poya replacement day allocations between Surgery and Medicine teams; request HR‑led mediation before June roster.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-28",
+          "time": "09:10 AM",
+          "reporter_role": "Timekeeping Supervisor",
+          "incident_description": "Due to prolonged rain, 27 staff clocked in late; payroll auto‑deducted; please approve disaster grace period and reverse this cycle’s deductions.",
+          "urgency": "Medium"
+        }
+      ]
+    }
+  },
+  {
+    "month": "June",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-06-01",
+          "time": "06:45 AM",
+          "reporter_role": "Nursing Officer-in-Charge, Medical Ward",
+          "incident_description": "Heavy morning downpour delayed several nurses; please apply attendance grace and remove ‘late’ marks for the 7:00 AM shift as per monsoon contingency.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-06-03",
+          "time": "07:20 AM",
+          "reporter_role": "OPD Coordinator",
+          "incident_description": "Locum MO scheduled for 8:00 AM OPD; SLMC renewal copy not on file. Kindly verify credentials before allowing duty.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-04",
+          "time": "02:10 PM",
+          "reporter_role": "Clinical Training Coordinator",
+          "incident_description": "Thunderstorm flooded the seminar room; interns’ mandatory BLS refresher was cancelled. Request reschedule and LMS attendance update.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-06-06",
+          "time": "11:05 AM",
+          "reporter_role": "Chief Pharmacist",
+          "incident_description": "Police clearance for new Pharmacy Assistant pending three weeks; onboarding stuck. Please expedite background check.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-06-07",
+          "time": "09:30 AM",
+          "reporter_role": "Matron, NICU",
+          "incident_description": "HCA maternity leave starts next week; portal still shows ‘pending’. Need approval confirmation and reliever posting.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-08",
+          "time": "04:25 PM",
+          "reporter_role": "Physiotherapy Unit Lead",
+          "incident_description": "Short heavy rain and lightning disrupted commutes; three staff missed today’s CPD e-modules. Please extend deadline.",
+          "urgency": "Low"
+        },
+        {
+          "date": "2025-06-09",
+          "time": "10:15 AM",
+          "reporter_role": "Intern House Officer, Medicine",
+          "incident_description": "Formal grievance: senior registrar used demeaning language during morning handover. Request HR inquiry per harassment policy.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-11",
+          "time": "08:50 AM",
+          "reporter_role": "Nurses’ Union Representative",
+          "incident_description": "Intermittent heavy spells led to extra travel costs. Kindly clarify rain-day transport reimbursement under the CBA.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-06-12",
+          "time": "03:10 PM",
+          "reporter_role": "Head Physiotherapist",
+          "incident_description": "Two physiotherapists’ SLaHPC licenses expire this month. Please verify renewals to avoid last-minute roster gaps.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-13",
+          "time": "07:05 AM",
+          "reporter_role": "Ward Clerk, Surgical",
+          "incident_description": "During the morning downpour, the biometric reader at Ward 6 failed; several staff marked ‘absent’. Request manual correction and register activation.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-06-14",
+          "time": "01:40 PM",
+          "reporter_role": "Consultant Neonatologist",
+          "incident_description": "Unable to attend today’s NICU nurse interviews due to emergency rounds. Please reschedule and reissue candidate notices.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-06-16",
+          "time": "12:25 PM",
+          "reporter_role": "Theatre Manager",
+          "incident_description": "Two anesthesia MOs have overlapping annual leave. Request HR mediation to stagger leave per policy to maintain theatre cover.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-17",
+          "time": "09:10 PM",
+          "reporter_role": "Night Superintendent of Nursing",
+          "incident_description": "Post-thunder downpour, two night-duty nurses were stranded. Please activate monsoon accommodation/transport allowance tonight.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-18",
+          "time": "08:35 AM",
+          "reporter_role": "Laundry Supervisor",
+          "incident_description": "Attendant slipped on a damp corridor while reporting to duty in the rain. Need guidance on injury-on-duty claim and MC submission.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-19",
+          "time": "02:50 PM",
+          "reporter_role": "Laboratory Manager",
+          "incident_description": "Locum technologist’s contract ends on 30th; renewal letter not issued. STAT workload rising—please expedite extension.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-06-21",
+          "time": "05:55 PM",
+          "reporter_role": "OPD Cashier Lead",
+          "incident_description": "Staff ID 427 clocked repeated late marks due to school drop-offs. Request counseling session before formal discipline.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-06-22",
+          "time": "07:45 PM",
+          "reporter_role": "Canteen Supervisor",
+          "incident_description": "With rain-related absences, two staff worked 12+ hours without proper breaks. Please enforce rest periods and process OT per labor regulations.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-23",
+          "time": "09:05 AM",
+          "reporter_role": "PGIM Trainee Registrar, Paediatrics",
+          "incident_description": "Allowance withheld; HRIS shows incomplete PGIM logbook. I emailed scans last week—please verify and release payment.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-06-24",
+          "time": "06:20 AM",
+          "reporter_role": "MOIC, ETU",
+          "incident_description": "Pre-dawn heavy rain halted the staff bus on the coastal route. Request emergency taxis and rain-day allowance to maintain ETU coverage.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-06-25",
+          "time": "11:40 AM",
+          "reporter_role": "Nurse-in-Charge, ETU",
+          "incident_description": "Night shift allowance for May is incorrect after roster swap. Please audit and rectify before payroll cutoff.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-26",
+          "time": "03:55 PM",
+          "reporter_role": "Nephrology Nurse Educator",
+          "incident_description": "Onboarding packs (ID, email) for three new dialysis nurses still pending; orientation starts tomorrow 8:00 AM.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-27",
+          "time": "02:05 PM",
+          "reporter_role": "Medical Records Officer",
+          "incident_description": "Transfer order issued without relocation briefing; staff member is refusing. Please mediate and arrange policy counseling.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-06-28",
+          "time": "08:10 AM",
+          "reporter_role": "OHS & Training Officer",
+          "incident_description": "Heavy coastal downpour affected attendance at the mandatory fire-safety drill. Request weekend makeup session and HRIS attendance update.",
+          "urgency": "Low"
+        },
+        {
+          "date": "2025-06-29",
+          "time": "09:30 AM",
+          "reporter_role": "Finance Assistant (Payroll)",
+          "incident_description": "New admin executive shows EPF/ETF number mismatch with NIC. Please verify employee details before monthly submission.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-30",
+          "time": "04:45 PM",
+          "reporter_role": "Consultant Surgeon",
+          "incident_description": "Exit clearance still pending (HR forms, on-call phone handover). Please fast-track to release final salary by month-end.",
+          "urgency": "Medium"
+        }
+      ]
+    }
+  },
+  {
+    "month": "July",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-07-01",
+          "time": "09:15 AM",
+          "reporter_role": "Finance Officer, Payroll",
+          "incident_description": "Newly joined OPD cashier’s onboarding is incomplete—EPF/ETF numbers not generated in HRIS. Payroll cut-off is Friday; request HR to finalize records to avoid unpaid wages.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-07-02",
+          "time": "11:40 AM",
+          "reporter_role": "Nursing Tutor, School of Nursing",
+          "incident_description": "Trainee nurse reports repeated hostile remarks from a senior during ward teaching. Request formal HR mediation and guidance on the dignity-at-work policy.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-03",
+          "time": "07:55 AM",
+          "reporter_role": "Matron, Medical Wards",
+          "incident_description": "Heavy rain and flooded bus routes delayed multiple morning-shift nurses. Please authorize grace period and adjust attendance to prevent unfair ‘late’ penalties.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-07-03",
+          "time": "05:20 PM",
+          "reporter_role": "OPD Registration Clerk",
+          "incident_description": "Humidity after the downpour caused fingerprint scanner misreads; five staff were auto-marked absent. Request HR to accept manual logs and correct duty hours.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-05",
+          "time": "08:10 PM",
+          "reporter_role": "Senior Medical Officer, ETU",
+          "incident_description": "Locum MO rostered tonight; SLMC provisional registration copy not found in the credential file. Need urgent verification/clearance before allowing independent duty.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-07-07",
+          "time": "01:30 PM",
+          "reporter_role": "Nursing Superintendent",
+          "incident_description": "BLS recertification cohort from Ward 12 could not arrive due to steady rain and road closures. Please reschedule and extend expiring cards to keep them compliant.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-07",
+          "time": "06:05 PM",
+          "reporter_role": "Ward Sister, Surgical Ward 3",
+          "incident_description": "Night-shift nurses used tuk transport because of rain; current allowance policy is unclear for emergency shifts. Request HR guidance and approval for reimbursements.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-07-08",
+          "time": "10:25 AM",
+          "reporter_role": "Obstetrics Registrar",
+          "incident_description": "Staff nurse requesting maternity leave transferred from Provincial Hospital last month. Need HR to merge service record and confirm correct leave entitlement dates.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-07-09",
+          "time": "09:05 PM",
+          "reporter_role": "Security Supervisor",
+          "incident_description": "Post-thunderstorm parking dispute—guard alleges verbal abuse by lab porter. Formal grievance lodged; please initiate HR inquiry and mediation with witness notes.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-09",
+          "time": "03:15 PM",
+          "reporter_role": "Consultant Physician, Ward 5",
+          "incident_description": "CPD credits for three MOs from last CME are missing in the HRIS. Request update before mid-year appraisal to avoid adverse performance remarks.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-07-10",
+          "time": "02:50 PM",
+          "reporter_role": "Pharmacy Manager",
+          "incident_description": "Concern of potential nepotism in pharmacy assistant recruitment—two shortlisted candidates are related to a panel member. Request independent observer and audit of scoring.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-12",
+          "time": "11:10 AM",
+          "reporter_role": "Ward Medical Officer, Gyn & Obs",
+          "incident_description": "Two midwives submitted backdated sick notes covering the rainy roster gap. Please review certificates and attendance policy; request HR investigation.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-07-14",
+          "time": "08:45 AM",
+          "reporter_role": "Registrar, Anaesthetics",
+          "incident_description": "HR Training room double-booked; airway workshop lost its morning slot. Kindly arrange an extra session and issue duty-cover letters for those who missed.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-07-14",
+          "time": "04:35 PM",
+          "reporter_role": "In-Charge, Dialysis Unit",
+          "incident_description": "Overtime and hazard allowance for dialysis technicians not reflected for last two weeks. Request HR to reconcile timesheets and release payments before month-end.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-15",
+          "time": "10:00 AM",
+          "reporter_role": "Head, Physiotherapy",
+          "incident_description": "Probation confirmation for junior physiotherapist pending despite satisfactory appraisal. Increment is due this cycle; please finalize the confirmation letter.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-07-17",
+          "time": "07:20 PM",
+          "reporter_role": "ETU Duty Officer",
+          "incident_description": "After rain-related delays, two ambulance drivers exceeded weekly duty-hour limits. Need HR guidance on labour law compliance and compensatory off allocation.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-17",
+          "time": "09:10 PM",
+          "reporter_role": "House Officer, Surgery",
+          "incident_description": "HO reports bullying by a registrar during night rounds. Request formal HR-led inquiry and temporary rota adjustment to ensure a safe learning environment.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-18",
+          "time": "03:40 PM",
+          "reporter_role": "Consultant Radiologist",
+          "incident_description": "Multiple radiographers applied for leave during Esala Perahera week; service coverage at risk. Please enforce leave caps by cadre and assist with staggered approvals.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-07-19",
+          "time": "06:50 AM",
+          "reporter_role": "NOIC, Medical Ward",
+          "incident_description": "Steady rain left several nurses stranded after night duty. Request HR to allocate temporary hostel rooms and approve short-notice stay per policy.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-19",
+          "time": "12:55 PM",
+          "reporter_role": "Administrative Officer, Mortuary",
+          "incident_description": "Biometric terminal failed during morning rain; in/out times missing for attendants. Kindly accept the manual log and issue a memo on fallback attendance.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-07-20",
+          "time": "09:30 AM",
+          "reporter_role": "Recruitment Coordinator",
+          "incident_description": "Background check for shortlisted Biomedical Engineer flagged undisclosed prior disciplinary action. Please review with referees and advise if offer should be held.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-23",
+          "time": "02:05 PM",
+          "reporter_role": "Theatre Manager",
+          "incident_description": "Audit shows inconsistent on-call meal allowance claims in OT teams. Request HR to issue a unified rate circular and retroactively correct last two months.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-07-24",
+          "time": "08:25 AM",
+          "reporter_role": "Staff Nurse, OPD",
+          "incident_description": "Nurse slipped at the main entrance during morning drizzle; on medical leave for a week. Please process injury-on-duty paperwork and Agrahara claim forms.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-07-24",
+          "time": "05:45 PM",
+          "reporter_role": "Nurse Educator, Training Unit",
+          "incident_description": "Gusty rain delayed afternoon BLS recert; crew finished after rostered hours. Request HR approval to mark training overtime and adjust next-shift duty.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-07-27",
+          "time": "11:55 AM",
+          "reporter_role": "Consultant Paediatrician",
+          "incident_description": "Repeated difficulty obtaining Tamil interpretation for OPD Paediatrics. Please expedite recruitment of bilingual health care assistants as per approved cadre.",
+          "urgency": "Medium"
+        }
+      ]
+    }
+  },
+  {
+    "month": "August",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-08-01",
+          "time": "07:45 AM",
+          "reporter_role": "OPD Nursing Officer (In-Charge)",
+          "incident_description": "Morning humidity caused repeated failures on the OPD biometric device; several early-shift nurses could not clock in. Please regularize attendance and advise an alternate sign-in for today.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-08-03",
+          "time": "11:10 AM",
+          "reporter_role": "Medical Coordinator",
+          "incident_description": "Junior MO joined Ward 7 today but police clearance and SLMC provisional registration are missing in his file. Request urgent credential verification before independent duty.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-05",
+          "time": "03:20 PM",
+          "reporter_role": "Education Nurse (CPD Unit)",
+          "incident_description": "Afternoon thundershower disrupted the in-service session; 12 staff were delayed and marked absent. Please reschedule and record as official training, not casual leave.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-08-06",
+          "time": "09:05 AM",
+          "reporter_role": "Theatre Matron",
+          "incident_description": "Overtime allocation dispute between two theatre attendants for July; both allege unfair distribution by the ward clerk. Request HR mediation and policy review.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-06",
+          "time": "02:30 PM",
+          "reporter_role": "Radiology Manager",
+          "incident_description": "Onboarding of a new radiographer is stalled; NIC copy and agency background check are pending. Imaging rota is short—please expedite pre-employment verification.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-08",
+          "time": "06:55 AM",
+          "reporter_role": "OPD Admin Officer",
+          "incident_description": "Heavy morning rain delayed staff from Ja-Ela/Kandana; eight counters are unmanned due to late arrivals. Kindly apply wet-weather grace and adjust roster.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-08-08",
+          "time": "04:15 PM",
+          "reporter_role": "Training Coordinator",
+          "incident_description": "Intern induction shifted to Zoom due to afternoon thunder and damp near the auditorium. Please mark attendance as compliant and circulate the revised checklist.",
+          "urgency": "Low"
+        },
+        {
+          "date": "2025-08-10",
+          "time": "10:25 AM",
+          "reporter_role": "Ward 5 Sister",
+          "incident_description": "Risk allowance for dengue-duty nurses (July) not reflected for five staff. Kindly rectify payroll and process arrears in the next cycle.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-12",
+          "time": "08:40 AM",
+          "reporter_role": "Anaesthesia Consultant",
+          "incident_description": "Locum anaesthetist’s SLMC renewal expires on 15 Aug; cannot roster him for weekend lists without proof. Need immediate credential confirmation.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-08-12",
+          "time": "01:05 PM",
+          "reporter_role": "OPD Nursing Officer",
+          "incident_description": "Maternity leave application (20 weeks) for an OPD Nursing Officer submitted. Request approval and backfill via bank nurses from 26 Aug.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-08-13",
+          "time": "05:10 PM",
+          "reporter_role": "CPD Facilitator",
+          "incident_description": "Evening rain delayed arrivals for BLS re-certification; several marked absent. Please allow a make-up session and adjust attendance.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-08-15",
+          "time": "09:55 AM",
+          "reporter_role": "Housekeeping Supervisor",
+          "incident_description": "Formal grievance: Surgical Ward supervisor allegedly used abusive language regarding duty swaps. Request HR inquiry and counseling intervention.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-17",
+          "time": "07:20 AM",
+          "reporter_role": "Nursing Superintendent",
+          "incident_description": "Gusty rain affected staff transport; handovers were delayed. Please activate monsoon contingency for taxi reimbursements and shift-swap protocol.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-08-17",
+          "time": "12:15 PM",
+          "reporter_role": "IT Helpdesk Lead",
+          "incident_description": "Annex biometric scanner had moisture ingress; 19 missed punches recorded. Kindly authorize manual regularization and an interim paper sign-in.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-08-19",
+          "time": "03:35 PM",
+          "reporter_role": "Chief Pharmacist",
+          "incident_description": "Two pharmacists swapped shifts informally to attend classes, causing an OPD coverage gap. Request HR guidance on corrective action and study-leave process.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-08-21",
+          "time": "02:00 PM",
+          "reporter_role": "ICU Consultant",
+          "incident_description": "Quarterly appraisals for four ICU HOs pending; forms not submitted. Please extend deadline by one week and share the updated template.",
+          "urgency": "Low"
+        },
+        {
+          "date": "2025-08-22",
+          "time": "08:10 AM",
+          "reporter_role": "Security Supervisor",
+          "incident_description": "Overnight guards covered 16-hour stretches due to rain-related absences, likely breaching labor limits. Request HR review, OT cap enforcement, and relief deployment.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-22",
+          "time": "03:25 PM",
+          "reporter_role": "Ward Clerk (Surgical)",
+          "incident_description": "Orientation for new minor staff needs a venue change due to damp auditorium. Kindly confirm new date/time and ensure mandatory modules are covered.",
+          "urgency": "Low"
+        },
+        {
+          "date": "2025-08-24",
+          "time": "11:05 AM",
+          "reporter_role": "Nurse Counselor",
+          "incident_description": "Request EAP counseling for a maternity ward nurse distressed after roster changes; prefers Sinhala-speaking counselor. Please schedule soon.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-08-26",
+          "time": "09:30 AM",
+          "reporter_role": "Outsourced Services Coordinator",
+          "incident_description": "Background checks for three outsourced cleaners incomplete; one NIC mismatch noted. Please hold ID issuance and access until cleared.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-08-27",
+          "time": "04:45 PM",
+          "reporter_role": "Physiotherapy Unit Head",
+          "incident_description": "EPF number for new junior physio rejected in payroll; digits transposed on appointment letter. Please correct and ensure ETF enrollment.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-08-29",
+          "time": "10:15 AM",
+          "reporter_role": "Medical Registrar (Medicine)",
+          "incident_description": "Perceived inequity in study-leave approvals for PGIM exams between units. Request transparent criteria and retroactive regularization of two days.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-08-30",
+          "time": "07:05 AM",
+          "reporter_role": "OPD Manager",
+          "incident_description": "Heavy rain disrupted the staff van; 11 registration clerks arrived >30 mins late. Please apply grace, reassign counters, and avoid no-pay deductions.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-30",
+          "time": "08:50 PM",
+          "reporter_role": "CPD e-Learning Coordinator",
+          "incident_description": "Mandatory fire-safety module exam on LMS failed during the thunderstorm. Request deadline extension and an extra sitting next week.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-08-31",
+          "time": "09:10 AM",
+          "reporter_role": "Medical Director’s PA",
+          "incident_description": "Credential files for two consultants lack current SLMC specialist verification letters; Ministry quality inspection next week. Kindly obtain and file urgently.",
+          "urgency": "High"
+        }
+      ]
+    }
+  },
+  {
+    "month": "September",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-09-02",
+          "time": "11:05 AM",
+          "reporter_role": "OPD Shift Supervisor",
+          "incident_description": "Biometric marked the morning OPD cashier as Absent after a 25‑minute late arrival due to the brief rain and bus delays. Request HR to correct attendance and process 30 minutes OT for the cover staff.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-09-02",
+          "time": "03:40 PM",
+          "reporter_role": "Ward Matron - Surgical",
+          "incident_description": "Three shortlisted nursing candidates reported they cannot reach on time due to the muggy morning and light showers. Kindly reschedule today’s walk‑in interviews and notify the panel.",
+          "urgency": "Low"
+        },
+        {
+          "date": "2025-09-04",
+          "time": "08:10 PM",
+          "reporter_role": "MOIC - ETU",
+          "incident_description": "A new locum MO reported for ETU duty with an unverified SLMC number. Please conduct immediate credential verification before assigning further shifts.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-06",
+          "time": "09:30 AM",
+          "reporter_role": "Administrative Officer - Support Services",
+          "incident_description": "Two newly recruited attendants were rostered without police clearance letters and medical fitness files. Request HR to halt deployment and complete onboarding documentation.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-09-07",
+          "time": "07:55 AM",
+          "reporter_role": "Nursing Officer - Paediatrics",
+          "incident_description": "Duty roster changes appear preferential, causing repeated night duties for juniors. Need HR mediation and guidance on fair roster policy.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-09-08",
+          "time": "02:20 PM",
+          "reporter_role": "Union Representative - Minor Staff",
+          "incident_description": "Short squalls and gusts delayed over a dozen minor staff from clocking in. Please activate disaster leniency clause and avoid late‑mark penalties for today.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-08",
+          "time": "05:35 PM",
+          "reporter_role": "HR Assistant - Recruitment",
+          "incident_description": "Radiographer campus outreach was called off due to afternoon rain and transport disruption. Request approval to shift to a virtual info session and re‑issue invites.",
+          "urgency": "Low"
+        },
+        {
+          "date": "2025-09-10",
+          "time": "04:50 PM",
+          "reporter_role": "ICU Nurse In-Charge",
+          "incident_description": "Six ICU nurses have BLS/ACLS expiring this week; evening thunderstorms may disrupt the external session. Please organize an on‑site refresher or alternative slot.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-11",
+          "time": "10:22 AM",
+          "reporter_role": "House Officer - Medicine",
+          "incident_description": "Reporting repeated verbal intimidation by a senior during ward rounds. Request confidential HR mediation and guidance on grievance procedure.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-12",
+          "time": "08:15 AM",
+          "reporter_role": "Pharmacy Manager",
+          "incident_description": "Intermittent rain caused night shift handover to close early; biometric logs show mismatched times. Please audit and reconcile with the manual register.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-09-15",
+          "time": "12:05 PM",
+          "reporter_role": "Consultant Anaesthetist",
+          "incident_description": "Two overseas anaesthetists are awaiting temporary SLMC registration and work visa endorsements. Request HR to expedite credentialing to stabilize OT lists.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-17",
+          "time": "06:35 AM",
+          "reporter_role": "Resident Medical Officer",
+          "incident_description": "Heavy rain overnight delayed several relievers; incomplete handover in Medical A. Kindly apply attendance leniency and approve emergency transport allowance.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-17",
+          "time": "02:45 PM",
+          "reporter_role": "Training Coordinator - Nursing",
+          "incident_description": "Today’s anti‑harassment training was canceled due to thunder and poor turnout. Please set a new mandatory date and roll over the attendance list.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-09-18",
+          "time": "03:05 PM",
+          "reporter_role": "Security Supervisor",
+          "incident_description": "Guards at the OPD gate report heat stress during the hot, windy afternoon. Request HR to formalize hydration breaks and issue caps as PPE.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-09-19",
+          "time": "09:40 AM",
+          "reporter_role": "Laboratory Superintendent",
+          "incident_description": "Probation for three junior MLTs ends on 30 Sept; appraisal panel not yet scheduled. Need HR to convene the board and finalize confirmations.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-09-20",
+          "time": "11:20 AM",
+          "reporter_role": "Accounts Officer - Payroll",
+          "incident_description": "One attendant’s promotion letter didn’t update EPF/ETF numbers; payslip shows old grade. Please correct benefits and issue an amended slip.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-09-21",
+          "time": "08:05 AM",
+          "reporter_role": "MOIC - OPD",
+          "incident_description": "Two interns requested immediate no‑pay leave as their hometowns are flooded after thundery rain. Kindly process leave and activate the reliever pool.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-21",
+          "time": "02:15 PM",
+          "reporter_role": "Physiotherapy Unit Head",
+          "incident_description": "Interview panel members are rain‑bound; candidates are waiting. Please approve switching to Zoom using the hospital boardroom and notify all.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-09-22",
+          "time": "07:50 AM",
+          "reporter_role": "Senior MLT",
+          "incident_description": "Shift swap dispute between two technicians escalated during morning briefing. Request HR mediation and a clear written swap protocol.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-09-23",
+          "time": "09:05 AM",
+          "reporter_role": "Medical Administration Officer",
+          "incident_description": "SLMC registry shows one resident’s APC expired. Need urgent verification and HR guidance on immediate duty restriction until resolved.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-09-23",
+          "time": "03:10 PM",
+          "reporter_role": "Facilities Coordinator",
+          "incident_description": "Induction for new minor staff clashed with the evening thunderstorm; power dips affected the hall. Please move to the backup venue and adjust attendance marking.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-09-25",
+          "time": "06:55 PM",
+          "reporter_role": "Laundry Supervisor",
+          "incident_description": "Continuous rain caused damp loads and a linen backlog. Request HR approval for extended shifts and call‑out allowance for tonight.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-09-27",
+          "time": "10:18 AM",
+          "reporter_role": "PDN Office Clerk",
+          "incident_description": "A nursing officer’s maternity leave is not reflected in the roster; ward has assigned nights next week. Kindly rectify and arrange compliant cover.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-28",
+          "time": "01:25 PM",
+          "reporter_role": "OPD Ticket Counter In-Charge",
+          "incident_description": "Patient’s relative alleged a ward clerk demanded money for a referral. Request HR to initiate a formal disciplinary inquiry per policy.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-29",
+          "time": "04:05 PM",
+          "reporter_role": "Safety Officer",
+          "incident_description": "Mandatory fire drill attendance shows several consultants absent without exemption. Please enforce makeup session with CME credit and notify HR files.",
+          "urgency": "Medium"
+        }
+      ]
+    }
+  },
+  {
+    "month": "October",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-10-01",
+          "time": "09:12 PM",
+          "reporter_role": "Security Supervisor",
+          "incident_description": "Lightning during the evening storm caused a power dip and the biometric reader at Gate 2 reset; attendance logs between 07:15–08:30 PM are missing. Request HR validation of manual sign-in sheets so staff aren’t penalised.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-01",
+          "time": "04:10 PM",
+          "reporter_role": "Nursing Matron",
+          "incident_description": "Orientation for seven new nursing officers was halted due to thunder alerts and water pooling near the lecture hall. HR to reschedule and ensure mandatory induction is captured this week.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-10-02",
+          "time": "08:40 AM",
+          "reporter_role": "Ward Manager – Medical Ward",
+          "incident_description": "Sudden downpour flooded the bus stand; six staff arrived 30–60 minutes late. Please confirm HR grace-period policy and adjust no‑pay/overtime entries for today’s roster.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-10-04",
+          "time": "10:20 AM",
+          "reporter_role": "Radiology In-Charge",
+          "incident_description": "Locum radiographer reported without police clearance; only NIC copy provided. Request urgent credential verification before assigning to CT suite.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-05",
+          "time": "11:15 AM",
+          "reporter_role": "Clinical Educator",
+          "incident_description": "Last night’s lightning knocked the LMS offline; BLS refresher attendance for 24 nurses wasn’t recorded. HR support needed to reconcile completion to avoid non‑compliance.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-10-05",
+          "time": "03:50 PM",
+          "reporter_role": "Maintenance Supervisor",
+          "incident_description": "New temporary technician reports EPF/ETF numbers not set up though he started last week. Please confirm onboarding paperwork and ensure contributions before payroll cut‑off.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-07",
+          "time": "02:35 PM",
+          "reporter_role": "Ward Sister – Surgical",
+          "incident_description": "Two junior nurses allege intimidation by a senior over off‑duty swaps. Request HR mediation and guidance on proper roster change procedure.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-08",
+          "time": "01:10 PM",
+          "reporter_role": "OT Coordinator",
+          "incident_description": "Anaesthesia locum for tomorrow’s list has an SLMC card showing last month’s expiry; only an email of renewal submitted. HR/Medical Staff Office to verify before granting theatre access.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-10-08",
+          "time": "08:20 PM",
+          "reporter_role": "Duty Manager",
+          "incident_description": "Strong storm delayed staff transport; ETU night shift short by three. Need HR to authorise emergency stayback payments and activate locum call list.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-10",
+          "time": "09:30 AM",
+          "reporter_role": "OPD Registration Clerk",
+          "incident_description": "Due to last night’s thunder, several staff used manual sign‑in and the attendance incentive was auto‑deducted. Request HR to regularise and prevent no‑pay errors.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-10-11",
+          "time": "06:50 AM",
+          "reporter_role": "Paediatric Ward Matron",
+          "incident_description": "Persistent rain led to eight absences and two early departures. Please activate the HR locum pool and approve double‑back as per policy.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-11",
+          "time": "01:45 PM",
+          "reporter_role": "Administrative Officer",
+          "incident_description": "Clerical staff worked past 8:00 PM due to transport disruptions. Need HR guidance on overtime ceilings and meal allowance per labour law.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-10-13",
+          "time": "04:25 PM",
+          "reporter_role": "Medical Administration Officer",
+          "incident_description": "Today’s MO‑OPD recruitment interviews proceeded without the external observer listed in the panel TOR. HR to advise on validity and whether we must reconvene.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-10-14",
+          "time": "09:10 AM",
+          "reporter_role": "Front Office Supervisor",
+          "incident_description": "E‑Leave portal remains down after last night’s violent storm; 37 paper leave forms pending. HR needed to input approvals before payroll freeze.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-14",
+          "time": "11:55 AM",
+          "reporter_role": "Consultant Physician",
+          "incident_description": "House officer requests study leave for PGIM exam next week. Need HR confirmation of eligibility and cover plan for medical ward rounds.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-10-15",
+          "time": "07:40 PM",
+          "reporter_role": "Junior Ward Clerk",
+          "incident_description": "Reported verbal harassment by a porter over document handling during evening shift. Request initiation of formal grievance and safe‑duty placement.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-17",
+          "time": "07:05 AM",
+          "reporter_role": "Security Supervisor",
+          "incident_description": "Humidity and brief rain caused repeated fingerprint misreads at Staff Entrance B; 12 nurses missed punches. Please authorise manual attendance for this shift.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-10-18",
+          "time": "05:25 PM",
+          "reporter_role": "OT Nurse In‑Charge",
+          "incident_description": "Dispute between two theatre nurses over night‑list allocation escalating on the floor. HR mediation requested before duty commences.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-20",
+          "time": "08:30 AM",
+          "reporter_role": "Fleet Manager",
+          "incident_description": "Pre‑employment background check for ambulance driver shows a pending traffic case. HR to assess fitness for duty and withhold ID/roster until cleared.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-20",
+          "time": "02:10 PM",
+          "reporter_role": "Training Coordinator",
+          "incident_description": "Induction for minor staff cancelled due to water seepage in Training Room 2 during squalls. Request HR to reschedule and track completion of safety modules this week.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-10-22",
+          "time": "03:05 PM",
+          "reporter_role": "ETU Medical Officer",
+          "incident_description": "On‑call allowance distribution appears unequal between ETU teams for September. Please audit with HR and correct before payslips are released.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-10-24",
+          "time": "07:20 AM",
+          "reporter_role": "Union Representative",
+          "incident_description": "Overnight squally rain left key approach roads flooded; several members were marked absent no‑pay. Request HR circular on disaster‑related attendance and reversal of deductions.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-28",
+          "time": "08:55 AM",
+          "reporter_role": "Chief Pharmacist",
+          "incident_description": "New pharmacy intern has only provisional registration expiring next week. HR/credentialing to verify extension with the council and adjust roster if not renewed.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-30",
+          "time": "10:40 AM",
+          "reporter_role": "Safety Officer",
+          "incident_description": "Projector damaged by lightning; mandatory fire safety briefing for October cancelled. Need HR to arrange alternative sessions to maintain training compliance for JCI prep.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-10-30",
+          "time": "01:35 PM",
+          "reporter_role": "Obstetrics Ward Manager",
+          "incident_description": "Dispute on applying revised maternity leave to a nurse starting on 05 Nov; two conflicting circulars are in circulation. HR decision and roster adjustments required.",
+          "urgency": "High"
+        }
+      ]
+    }
+  },
+  {
+    "month": "November",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-11-01",
+          "time": "02:10 PM",
+          "reporter_role": "Radiology Unit Administrative Officer",
+          "incident_description": "This afternoon’s radiographer interview panel could not convene after the thunderstorm; two external panelists were stranded. Request HR to reschedule and issue revised call letters.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-11-02",
+          "time": "07:35 AM",
+          "reporter_role": "OPD Nursing Sister (In-Charge)",
+          "incident_description": "OPD biometric reader fogged during rain; six nurses couldn’t clock in. Please accept manual register for AM shift and correct attendance.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-11-02",
+          "time": "09:10 PM",
+          "reporter_role": "Duty Administrator - Night",
+          "incident_description": "Night-shift nurses request hospital van due to flooded routes and steady rain; two reported unsafe walk from Kiribathgoda stop. HR to arrange temporary shuttle tonight.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-03",
+          "time": "08:20 AM",
+          "reporter_role": "Senior Paediatric Registrar",
+          "incident_description": "Locum paediatrician’s SLMC renewal not yet verified; courier delayed by storms. He has started rounds. Need HR to suspend duty until verification clears.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-11-05",
+          "time": "06:45 AM",
+          "reporter_role": "Theatre Sister - Main OT",
+          "incident_description": "Dispute over duty allocation in Main OT; porter refusing sterile trolley runs citing roster. Request HR mediation before morning list begins.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-07",
+          "time": "10:05 AM",
+          "reporter_role": "Nursing Officer - Medical Ward (Roster Coordinator)",
+          "incident_description": "Two housekeeping attendants approved casual leave on same days during dengue clean-up drive; ward short-staffed. HR to review approvals and provide backfill.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-11-09",
+          "time": "11:00 AM",
+          "reporter_role": "Clinical Educator - Nursing",
+          "incident_description": "BLS refresher at D-Block cancelled as hall roof leaked in yesterday’s storm. HR Training to reschedule and preserve CPD credits.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-11-09",
+          "time": "04:30 PM",
+          "reporter_role": "ETU Consultant",
+          "incident_description": "ETU staff crossed monthly OT cap after squally-rain surge. Need HR to regularize OT and post allowances before cut-off.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-11",
+          "time": "03:15 PM",
+          "reporter_role": "Finance Officer - Payroll",
+          "incident_description": "Newly confirmed lab technologist’s ETF not reflected in October payroll. Please audit and back-post contributions.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-13",
+          "time": "09:25 AM",
+          "reporter_role": "Senior House Officer - Medical Unit",
+          "incident_description": "Multiple nurses report repeated verbal abuse by Medical Unit consultant during rounds. Request formal grievance process and mediated meeting per policy.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-13",
+          "time": "02:40 PM",
+          "reporter_role": "ICU Nurse Educator",
+          "incident_description": "ICU nurses’ CME from 05 Nov not logged in NTS; promotion requirements affected. HR Training to update records with attendance sheets.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-11-15",
+          "time": "05:55 AM",
+          "reporter_role": "Ambulance Supervisor",
+          "incident_description": "On-call ambulance drivers worked 16+ hours covering flood transfers. Please enforce rest intervals and adjust rota per labour law.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-17",
+          "time": "01:20 PM",
+          "reporter_role": "Matron - Maternity",
+          "incident_description": "Midwife’s maternity leave was processed as sick leave; November payslip shows LOP risk. Kindly rectify leave code and arrears.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-18",
+          "time": "10:50 AM",
+          "reporter_role": "Chief Pharmacist",
+          "incident_description": "Background check for new pharmacy tech shows NIC/name mismatch; originals arrived rain-soaked and stamp unreadable. HR to reverify before scheduling shifts.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-18",
+          "time": "04:05 PM",
+          "reporter_role": "Nursing Superintendent's Office",
+          "incident_description": "Mandatory fire-safety drill postponed due to steady rain and thunder. HR to publish a new date and ensure full attendance.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-11-20",
+          "time": "08:10 AM",
+          "reporter_role": "Intern Representative - Medicine",
+          "incident_description": "Two interns completed 36-hour continuous duty covering rain-related absences. Request HR to review rota and cap duty hours.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-20",
+          "time": "12:30 PM",
+          "reporter_role": "MO In Charge - ETU",
+          "incident_description": "October night shift allowance for ETU MOs not paid. Please correct payroll and notify staff.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-20",
+          "time": "06:25 PM",
+          "reporter_role": "Ward Clerk - Surgery",
+          "incident_description": "Supervisor demanded ‘tea money’ to approve my casual leave. Request confidential HR inquiry under misconduct policy.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-11-22",
+          "time": "09:00 AM",
+          "reporter_role": "School of Nursing Tutor (Attached to Hospital)",
+          "incident_description": "New nursing students began postings without ID badges; access to OT and ICU blocked. HR to expedite badges and system access.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-24",
+          "time": "01:05 PM",
+          "reporter_role": "Accounts Clerk - Procurement",
+          "incident_description": "I report repeated unwelcome remarks by a senior storekeeper near Records. Request formal sexual harassment process and safeguards.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-11-25",
+          "time": "11:20 AM",
+          "reporter_role": "Theatre Matron",
+          "incident_description": "Retiring Theatre Sister’s leave encashment excludes 12 carried-over days. Please audit per policy before gratuity release.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-25",
+          "time": "03:35 PM",
+          "reporter_role": "Charge Nurse - ENT",
+          "incident_description": "CPD attendance sheets became illegible in heavy rain while moving between blocks. HR to reconstruct from ward logs.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-11-27",
+          "time": "07:40 AM",
+          "reporter_role": "Head of Anaesthesia",
+          "incident_description": "Locum anaesthetist’s contract expired on 25 Nov; still covering lists. Need immediate renewal or stand-down for compliance.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-11-28",
+          "time": "02:15 PM",
+          "reporter_role": "House Officer - Surgery",
+          "incident_description": "Due to drizzle-day crowding at HR, several HOs were enrolled with wrong department code. Roster mapping and OT lines are incorrect; please fix.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-11-30",
+          "time": "03:50 AM",
+          "reporter_role": "Security Supervisor - Night",
+          "incident_description": "Main Gate night guard found asleep at 03:20 hrs; second occurrence this month. Request HR to schedule disciplinary inquiry.",
+          "urgency": "High"
+        }
+      ]
+    }
+  },
+  {
+    "month": "December",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-12-01",
+          "time": "07:15 AM",
+          "reporter_role": "Ward Nursing Officer - Medical Ward",
+          "incident_description": "Heavy morning rain flooded the staff gate; eight nurses clocked late. Request a 30‑minute grace period and attendance adjustment for the AM shift.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-12-01",
+          "time": "02:40 PM",
+          "reporter_role": "Rehabilitation Unit Coordinator",
+          "incident_description": "Physiotherapist interviews were disrupted by afternoon thunder showers; two shortlisted candidates were stranded. Please reschedule and notify panel per recruitment policy.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-12-02",
+          "time": "11:05 AM",
+          "reporter_role": "OPD Cashier",
+          "incident_description": "Roster swap dispute escalated into shouting at the counter. Request HR mediation and a written guideline on swap approvals.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-03",
+          "time": "08:55 PM",
+          "reporter_role": "RMO - Casualty",
+          "incident_description": "Locum MO on duty had no current SLMC renewal in the file. Please verify credentials and suspend further locum shifts until cleared.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-12-04",
+          "time": "10:20 AM",
+          "reporter_role": "Transport Supervisor",
+          "incident_description": "November OT for ambulance drivers during the dengue transfers is missing from payroll. Kindly audit and process arrears before mid‑month.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-05",
+          "time": "09:30 AM",
+          "reporter_role": "Nursing Tutor - Training School",
+          "incident_description": "Orientation hall was over capacity; 12 new nurses missed HR onboarding modules. Request a makeup session and update of training records.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-12-07",
+          "time": "03:10 PM",
+          "reporter_role": "Administrative Officer - Security",
+          "incident_description": "Vendor guards at Gate 3 reported without police clearance letters. HR to enforce credential checks and restrict duty until documents are verified.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-07",
+          "time": "10:45 PM",
+          "reporter_role": "Ward Sister - Surgical",
+          "incident_description": "Two nurses reported inappropriate remarks by a Senior MO during night round. Request immediate HR‑led inquiry under the harassment policy.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-12-09",
+          "time": "09:05 AM",
+          "reporter_role": "Consultant Radiologist",
+          "incident_description": "Light rain delayed a shortlisted radiographer by 12 minutes; panel declined to proceed. Please review fairness and set a weather grace rule.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-12-10",
+          "time": "04:25 PM",
+          "reporter_role": "Chief Pharmacist",
+          "incident_description": "Probation review for a pharmacy technician lapsed due to HOD leave. Request formal extension to avoid automatic confirmation.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-12-11",
+          "time": "07:40 AM",
+          "reporter_role": "Nursing Supervisor - OPD",
+          "incident_description": "Morning thunder showers delayed the staff shuttle; many clock‑ins were late. Please mark attendance as weather‑excused for today.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-12-12",
+          "time": "01:15 PM",
+          "reporter_role": "Medical Education Unit Coordinator",
+          "incident_description": "BLS certificates for three MOs expired last week. Kindly schedule immediate recertification and update compliance records.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-13",
+          "time": "06:10 PM",
+          "reporter_role": "Housekeeping Supervisor",
+          "incident_description": "Evening rain slowed staff arrivals; casuals are disputing weekend rates citing a new circular. Need HR clarification and revised letters.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-14",
+          "time": "08:20 AM",
+          "reporter_role": "Ward Matron - Maternity",
+          "incident_description": "Staff Nurse due for confinement next week; maternity leave approval still pending. Please expedite sanction and arrange temporary replacement.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-15",
+          "time": "11:35 AM",
+          "reporter_role": "Accounts Clerk - Payroll",
+          "incident_description": "New Lab Technologist EPF number mismatches ETF record; bank rejected salary credit. HR to correct master data and issue amendment.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-16",
+          "time": "01:50 PM",
+          "reporter_role": "Pediatric Ward Sister",
+          "incident_description": "Rain caused sudden school closures; multiple nurses requested short‑notice Childcare Leave. Need HR guidance on compassionate/no‑pay allocation today.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-12-17",
+          "time": "02:05 PM",
+          "reporter_role": "Medical Registrar",
+          "incident_description": "Study leave approvals for upcoming PGIM exams appear uneven across units. Request transparent criteria and an appeal process.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-12-18",
+          "time": "09:10 AM",
+          "reporter_role": "HOD - Anaesthesia",
+          "incident_description": "Consultant applicant claims an overseas fellowship; referees not confirming. HR to verify credentials before issuing the appointment letter.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-19",
+          "time": "07:55 PM",
+          "reporter_role": "Hostel Warden",
+          "incident_description": "Nursing quarters overcrowded; some interns occupying without allocation. Request HR‑assisted reallocation and updated hostel roster.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-12-22",
+          "time": "08:10 PM",
+          "reporter_role": "Laboratory Manager",
+          "incident_description": "OT claims from the dengue surge week remain pending; today’s light showers delayed courier submissions. Please process before month‑end.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-12-23",
+          "time": "10:40 AM",
+          "reporter_role": "Medical Coordinator - OPD",
+          "incident_description": "January intern MO batch arrives soon; ID cards and appointment letters are not ready. Request expedited onboarding kits before 01 Jan.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-24",
+          "time": "09:25 AM",
+          "reporter_role": "Theatre Sister",
+          "incident_description": "Perceived favoritism in roster allocations; repeated denial of off‑days. Request HR grievance hearing and neutral roster audit.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-28",
+          "time": "03:30 PM",
+          "reporter_role": "Training Nurse",
+          "incident_description": "Afternoon humidity reduced attendance for CME. Please reschedule to a morning slot and capture attendance for CPD compliance.",
+          "urgency": "Low"
+        },
+        {
+          "date": "2025-12-29",
+          "time": "12:05 PM",
+          "reporter_role": "Nursing Superintendent",
+          "incident_description": "Promoted Senior Staff Nurse placed on the wrong salary step in December payroll. HR to correct scale and pay arrears.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-31",
+          "time": "11:15 AM",
+          "reporter_role": "Hospital Administrator",
+          "incident_description": "Several HODs have not filed 2024 performance appraisals. Request deadline extension and a short refresher on the new form.",
+          "urgency": "Medium"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,2186 @@
+[
+  {
+    "month": "January",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-01-01",
+          "time": "07:10 AM",
+          "reporter_role": "OPD Nursing Officer",
+          "incident_description": "Large crowd surged at OPD entrance when tokens opened; please deploy security to manage queue, verify NICs, and keep doors clear.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-01-03",
+          "time": "08:25 AM",
+          "reporter_role": "Front Desk Executive",
+          "incident_description": "Light rain brought water into the main foyer; visitors were slipping; need security to cordon area and redirect foot traffic.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-01-03",
+          "time": "07:40 PM",
+          "reporter_role": "Paediatric Ward Clerk",
+          "incident_description": "Parent reports phone missing from waiting area; request security to review CCTV near Play Corner and check exit logs.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-01-05",
+          "time": "12:15 PM",
+          "reporter_role": "Hospital Administrator",
+          "incident_description": "Two touts by Main Gate directing OPD patients to private labs; please remove and document with gate book.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-01-07",
+          "time": "08:05 PM",
+          "reporter_role": "Surgical Ward Sister-in-Charge",
+          "incident_description": "Relative refused to leave after visiting hours and became loud; require security to de-escalate and clear the bay.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-08",
+          "time": "10:30 AM",
+          "reporter_role": "Stores Officer",
+          "incident_description": "Unknown male with backpack accessed CSSD corridor without pass; need security to intercept and verify ID, and secure the door.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-08",
+          "time": "03:20 PM",
+          "reporter_role": "ETU Medical Officer",
+          "incident_description": "Short rain caused crowd to shelter at ambulance bay, blocking arrival path; request immediate security clearing and traffic control.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-10",
+          "time": "11:05 AM",
+          "reporter_role": "Neonatal Unit Registrar",
+          "incident_description": "Visitor filming through NICU viewing window despite signage; security required to stop recording and check visitor pass.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-12",
+          "time": "10:50 PM",
+          "reporter_role": "Staff Nurse (Theatre)",
+          "incident_description": "Request after-hours security escort to quarters; stray dogs and loiterers near Back Gate 2 tonight.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-01-13",
+          "time": "09:15 AM",
+          "reporter_role": "Cardiology Clinic Coordinator",
+          "incident_description": "Unattended parcel found under clinic staircase; please activate security protocol, isolate area, and screen with CCTV review.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-13",
+          "time": "07:30 PM",
+          "reporter_role": "Pharmacy Dispenser (OPD)",
+          "incident_description": "Queue dispute escalated during rain; two parties pushing at OPD pharmacy shutter; security needed for crowd control.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-15",
+          "time": "01:10 PM",
+          "reporter_role": "Biomedical Technician",
+          "incident_description": "Man in civilian clothes tried moving an oxygen cylinder from corridor claiming 'urgent use'; security to stop removal and verify authorisation.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-17",
+          "time": "09:55 AM",
+          "reporter_role": "Psychiatry OPD Medical Officer",
+          "incident_description": "Patient became verbally aggressive and threatened staff over token issue; require security presence to de-escalate.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-19",
+          "time": "09:10 AM",
+          "reporter_role": "Front Lobby Receptionist",
+          "incident_description": "Light rain tracked into lobby making floor slick; need security to place cones, manage entry flow, and prevent falls.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-01-19",
+          "time": "10:05 AM",
+          "reporter_role": "Ambulance Coordinator",
+          "incident_description": "Three-wheelers (tuk-tuks) parked under canopy to avoid rain are blocking emergency ingress; immediate security clearance required.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-20",
+          "time": "08:40 AM",
+          "reporter_role": "Pharmacy Manager",
+          "incident_description": "Audit shows missing tramadol vials from controlled cupboard; please seal area, check access logbook, and review CCTV.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-20",
+          "time": "06:22 PM",
+          "reporter_role": "SCBU Consultant Paediatrician",
+          "incident_description": "Infant tag alarm triggered (Code Pink) at SCBU entry; require full security response to lock exits and verify all bracelets; likely strap dislodgement.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-01-22",
+          "time": "12:20 AM",
+          "reporter_role": "ETU House Officer",
+          "incident_description": "Post-duty escort requested to staff car park; group of youths loitering near Gate 3.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-01-23",
+          "time": "12:05 PM",
+          "reporter_role": "Transport Officer",
+          "incident_description": "Wind swung main gate barrier arm and struck a staff car mirror; need security to control gate, record details, and guide traffic.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-01-23",
+          "time": "02:45 PM",
+          "reporter_role": "Blood Bank Nurse",
+          "incident_description": "Token confusion among walk-in donors turned into verbal clash; security requested to mediate and maintain order.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-01-25",
+          "time": "05:50 PM",
+          "reporter_role": "ICU Ward Master",
+          "incident_description": "Visitor tailgated through access-controlled ICU door during shift change; security to identify via CCTV and enforce pass checks.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-27",
+          "time": "09:20 AM",
+          "reporter_role": "OPD Medical Officer",
+          "incident_description": "Unlicensed vendor selling herbal oils in OPD queue; please remove and note in occurrence book.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-01-28",
+          "time": "04:10 PM",
+          "reporter_role": "Theatre Matron",
+          "incident_description": "Afternoon rain drew crowd to rear corridor by theatres; passage getting wet and slippery; security needed to cordon and redirect.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-01-28",
+          "time": "07:05 PM",
+          "reporter_role": "Canteen Supervisor",
+          "incident_description": "Attempted handbag snatch reported near canteen seating; suspect ran toward Rear Gate 1; alert security posts and review cameras.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-30",
+          "time": "11:40 PM",
+          "reporter_role": "Mortuary Attendant",
+          "incident_description": "Intoxicated individual found loitering near mortuary after hours; request immediate security removal and ID check.",
+          "urgency": "High"
+        }
+      ]
+    }
+  },
+  {
+    "month": "February",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-02-02",
+          "time": "02:35 PM",
+          "reporter_role": "Facilities Supervisor",
+          "incident_description": "Unauthorized vendor entered via Service Gate 2 with a cool box, claiming to supply staff. Please dispatch Security to remove and record details; check CCTV for entry time.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-02-03",
+          "time": "03:20 PM",
+          "reporter_role": "OPD Matron",
+          "incident_description": "Brief rain led to crowding at OPD sliding doors; turnstile jammed and people tried to push through. Need immediate Security crowd control and temporary barriers.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-03",
+          "time": "07:45 PM",
+          "reporter_role": "Radiographer",
+          "incident_description": "Heated argument between two patient relatives outside X-ray room; shouting and shoving observed. Request Security to de-escalate and separate parties.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-05",
+          "time": "06:10 PM",
+          "reporter_role": "Nursing Officer - Female Medical Ward",
+          "incident_description": "Patient’s mobile phone reported missing during visiting hours. Please review corridor CCTV and assist with visitor exit checks as per theft protocol.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-02-06",
+          "time": "09:30 PM",
+          "reporter_role": "Pharmacist-in-Charge",
+          "incident_description": "Humidity causing fogged CCTV dome at rear pharmacy store; back door found slightly ajar. Need urgent Security patrol and sealing of the entry.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-08",
+          "time": "05:25 PM",
+          "reporter_role": "EMS Coordinator",
+          "incident_description": "Light rain pushed crowds under OPD canopy; several three-wheelers parked in the ambulance bay. Security required to clear access for incoming cases.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-08",
+          "time": "08:50 PM",
+          "reporter_role": "Surgical Registrar",
+          "incident_description": "Intoxicated visitor arguing with nursing staff in Surgical corridor; strong smell of alcohol and refusal to leave. Request Security to escort out and document.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-09",
+          "time": "11:15 AM",
+          "reporter_role": "Transport Officer",
+          "incident_description": "Children from visitors running between ambulances in Car Park B; near-miss reported. Need Security to control access and advise guardians.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-02-11",
+          "time": "10:18 AM",
+          "reporter_role": "NICU Staff Nurse",
+          "incident_description": "Attempted tailgating at NICU staff entrance by unidentified male; badge mismatch triggered alarm. Initiated Code Pink pre-alert—Security respond immediately.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-02-12",
+          "time": "01:05 PM",
+          "reporter_role": "ICU Sister",
+          "incident_description": "Relative refusing to leave ICU after visiting hours, arguing with staff and blocking doorway. Security needed to enforce visiting policy and clear the area.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-14",
+          "time": "02:40 PM",
+          "reporter_role": "OPD Duty MO",
+          "incident_description": "Following a thundershower, the OPD turnstile malfunctioned and multiple visitors attempted tailgating. Request Security to manage entry and manual ticket checks.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-02-14",
+          "time": "04:55 PM",
+          "reporter_role": "Paediatric OPD Registrar",
+          "incident_description": "Agitated father shouting at triage desk; afternoon heat and queue delays worsening behavior. Please send Security to de-escalate and relocate him outside.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-15",
+          "time": "11:20 PM",
+          "reporter_role": "Nursing Officer - Labour Room",
+          "incident_description": "Request after-hours Security escort for two staff to Quarters Car Park; pathway lights near Maternity Block are off.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-02-16",
+          "time": "09:10 AM",
+          "reporter_role": "Biomedical Engineer",
+          "incident_description": "Unknown person loitering near the oxygen manifold enclosure claiming to be a contractor but without ID. Need immediate Security verification and removal.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-18",
+          "time": "07:05 PM",
+          "reporter_role": "Mortuary Attendant",
+          "incident_description": "Two youths seen climbing the fence by the mortuary side gate, a known CCTV blind spot. Request Security patrol and perimeter check.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-19",
+          "time": "03:50 PM",
+          "reporter_role": "Clinical Engineering Technician",
+          "incident_description": "IV pump battery missing from corridor charging rack outside HDU. Please lock down exits for checks and pull relevant camera footage.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-20",
+          "time": "08:10 AM",
+          "reporter_role": "Duty Manager",
+          "incident_description": "Morning shower left lobby entrance mats saturated; one visitor slipped. Security to cordon area, post wet-floor signage, and assist until housekeeping arrives.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-20",
+          "time": "08:35 PM",
+          "reporter_role": "Ward Clerk - Orthopaedics",
+          "incident_description": "Group of youths on motorbikes harassing staff at Back Gate 3 during shift change. Request Security presence and escorts to bus stop.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-22",
+          "time": "12:25 PM",
+          "reporter_role": "MO-OPD",
+          "incident_description": "Suspected pilferage: minor staff seen tucking ceftriaxone vials into pocket in OPD dressing room. Security to intervene and follow property-theft protocol.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-23",
+          "time": "02:05 PM",
+          "reporter_role": "Theatre Manager",
+          "incident_description": "Private car parked in the OT fire lane; driver refuses to move despite instruction. Security assistance required to clear the lane immediately.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-24",
+          "time": "06:40 PM",
+          "reporter_role": "Paediatric Ward Sister",
+          "incident_description": "Fire exit alarm near Paeds keeps triggering; door propped open by visitors and coastal breeze. Security rounds needed to secure and warn offenders.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-02-26",
+          "time": "06:15 PM",
+          "reporter_role": "Project Engineer",
+          "incident_description": "Gusty shower toppled temporary hoarding at MRI renovation, creating an unsecured access path. Require Security to barricade and control entry until repairs.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-26",
+          "time": "07:30 PM",
+          "reporter_role": "OPD Cashier",
+          "incident_description": "Multiple wallets reported missing in evening clinic queue; suspected pickpocket team. Request urgent CCTV review and plain-clothes Security near counters.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-02-27",
+          "time": "09:55 PM",
+          "reporter_role": "Stores Officer",
+          "incident_description": "Pharmacy night delivery boy attempted to exit Gate 1 with an unverified carton. Security to perform package check and log identity.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-02-28",
+          "time": "03:15 PM",
+          "reporter_role": "HDU Nurse",
+          "incident_description": "Relative threatened to hit staff after being told outside food not allowed in HDU. Security required for immediate de-escalation and access restriction.",
+          "urgency": "Critical"
+        }
+      ]
+    }
+  },
+  {
+    "month": "March",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-03-01",
+          "time": "10:15 AM",
+          "reporter_role": "Nursing Sister - OPD",
+          "incident_description": "Unauthorized food vendor set up cart by Main Out Gate, drawing patient crowd and blocking ambulance path. Request Security to remove, document NIC if possible, and monitor gate for re-entry.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-03-03",
+          "time": "03:25 PM",
+          "reporter_role": "OPD Clerk",
+          "incident_description": "Afternoon thunderstorm drove a large crowd into OPD foyer; exits partially blocked and tempers flared. Need Security to marshal crowd, keep fire egress clear, and control entry screening.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-03",
+          "time": "07:40 PM",
+          "reporter_role": "Biomedical Engineer",
+          "incident_description": "CCTV feeds for Maternity corridor intermittently dropped during lightning; possible surge. Please dispatch Security to physically patrol corridor and coordinate access control until cameras are stable.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-03-05",
+          "time": "06:50 PM",
+          "reporter_role": "ETU Staff Nurse",
+          "incident_description": "Male attendant attempted to wheel out portable oxygen cylinder towards tuk-tuk during evening rain. Security needed to intercept, verify handover note, and log attempted removal.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-07",
+          "time": "05:35 PM",
+          "reporter_role": "Paediatric Ward Sister",
+          "incident_description": "Extended family exceeding visiting hours refused to leave Paediatric Ward 2; father shouting at nurses. Request Security to de-escalate and enforce visiting time limits.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-08",
+          "time": "02:20 PM",
+          "reporter_role": "Ambulance Coordinator",
+          "incident_description": "During sudden downpour, a motorbike parked under Ambulance Bay canopy, obstructing offload zone. Need Security to clear vehicle and keep access lane free.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-08",
+          "time": "07:10 PM",
+          "reporter_role": "OPD Pharmacist",
+          "incident_description": "Patient reported wallet missing from pharmacy queue after rain crowding. Request Security to review CCTV around counters 3–5 and identify suspected pickpocket.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-03-09",
+          "time": "10:05 PM",
+          "reporter_role": "Intern Medical Officer",
+          "incident_description": "After-hours escort requested from ETU to Doctors’ Quarters; group of men loitering near quarters fence, whistling. Please send two guards and clear the area.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-03-12",
+          "time": "04:10 PM",
+          "reporter_role": "NICU Nurse-in-Charge",
+          "incident_description": "Code Pink triggered at SCBU when infant tag alarmed during thunder and power dip. Require Security to lock down exits, check CCTV at lifts, and verify matching BHT bands.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-03-12",
+          "time": "08:55 PM",
+          "reporter_role": "ETU Medical Officer",
+          "incident_description": "Intoxicated visitor demanding entry to resus bay became aggressive with staff. Security intervention required for de-escalation and removal from ETU entrance.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-13",
+          "time": "11:05 AM",
+          "reporter_role": "Maintenance Supervisor",
+          "incident_description": "Fresh tool marks on generator yard padlock; a coil of copper cable missing. Request Security to review last night’s CCTV and increase patrols by Boiler House.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-03-15",
+          "time": "09:40 PM",
+          "reporter_role": "Anaesthesia Registrar",
+          "incident_description": "Request Security escort for transfer of controlled drug box from Theatre to ICU; corridor crowded with bystanders after visiting hours.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-16",
+          "time": "05:10 PM",
+          "reporter_role": "Senior Radiographer",
+          "incident_description": "Heavy rain leak near MRI control room; public entering to avoid wet corridor. Need Security to cordon area, restrict entry, and guide patients via alternate route.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-16",
+          "time": "08:20 PM",
+          "reporter_role": "Ward Master - Ward 7",
+          "incident_description": "Rear exit alarmed after brief power dip; relative attempted tailgating through crash door. Security needed to verify identity and reset alarm.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-03-17",
+          "time": "11:50 AM",
+          "reporter_role": "Hospital Administrator",
+          "incident_description": "Individual livestreaming patients in OPD without consent; refused to stop when advised. Request Security to halt recording, obtain NIC, and accompany to Admin for note.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-03-19",
+          "time": "03:05 PM",
+          "reporter_role": "Transport Officer",
+          "incident_description": "Gusty storm blew Staff Gate ajar; outside vendors entered car park selling bottles. Security required to remove trespassers and secure latch.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-19",
+          "time": "09:15 PM",
+          "reporter_role": "Staff Nurse - Surgical Ward",
+          "incident_description": "Relative produced a pocket knife during dispute over visiting; Code Silver activated. Need immediate Security response to disarm, isolate, and coordinate with police.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-03-21",
+          "time": "06:25 AM",
+          "reporter_role": "Pharmacy Manager",
+          "incident_description": "Repeated after-hours attempts at rear pharmacy door—three failed card swipes and handle rattling on CCTV. Request overnight footage review and additional patrols.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-03-22",
+          "time": "02:55 PM",
+          "reporter_role": "OPD Triage Nurse",
+          "incident_description": "During a rain burst, scooter skidded near OPD porch; driver argued with bystanders, blocking triage access. Security needed to separate parties and clear entrance.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-22",
+          "time": "07:35 PM",
+          "reporter_role": "Maternity Ward Sister",
+          "incident_description": "Condensation on CCTV dome at Maternity entrance obscuring view in humid evening. Please clean lens, adjust angle, and post a guard until visibility is restored.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-03-25",
+          "time": "12:15 PM",
+          "reporter_role": "Cashier Supervisor",
+          "incident_description": "Queue jumping at Cash Counter in midday heat escalated to verbal abuse of staff. Security support requested to manage line and caution offenders.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-03-27",
+          "time": "01:30 PM",
+          "reporter_role": "ICU Senior Staff Nurse",
+          "incident_description": "Unknown male tailgated through ICU staff door using borrowed lanyard; ran towards waiting area when challenged. Require Security to detain and verify credentials.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-29",
+          "time": "08:40 PM",
+          "reporter_role": "Midwife - Mothers’ Hostel",
+          "incident_description": "Group of youths loitering outside hostel fence, catcalling residents during lights-off. Request patrol to disperse group and monitor lane behind quarters.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-30",
+          "time": "03:10 PM",
+          "reporter_role": "Infection Control Nurse",
+          "incident_description": "Heavy rain flooded OPD side gate area; unscreened visitors slipping in via overflow path. Security to close gate temporarily, redirect through Main Entrance, and assist with crowd control.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-30",
+          "time": "07:50 PM",
+          "reporter_role": "Surgical House Officer",
+          "incident_description": "Patient reported mobile phone stolen in Surgical Ward; suspect seen near Stairwell B. Request CCTV trace from Ward 5 to exit and conduct bag checks per SOP.",
+          "urgency": "Medium"
+        }
+      ]
+    }
+  },
+  {
+    "month": "April",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-04-01",
+          "time": "11:20 AM",
+          "reporter_role": "OPD Staff Nurse",
+          "incident_description": "Two men arguing loudly at OPD registration; one shoved the other. Please attend to de-escalate and keep the line moving.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-04-02",
+          "time": "03:10 PM",
+          "reporter_role": "Pharmacy Token Counter Clerk",
+          "incident_description": "Pharmacy token queue turned unruly in the afternoon heat; a group tried to push past counters. Need security to control crowd and maintain queue order.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-04-02",
+          "time": "08:05 PM",
+          "reporter_role": "Front Desk Receptionist",
+          "incident_description": "During the thunderstorm, about 40 visitors crowded the main foyer and blocked the sliding doors; one tried to tailgate into a staff-only corridor. Request door post and crowd control.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-04",
+          "time": "04:25 PM",
+          "reporter_role": "Stores Officer",
+          "incident_description": "Gusty winds blew the side service gate ajar; an outside vendor entered the stores corridor. Require security to remove and secure the gate.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-04-06",
+          "time": "07:55 PM",
+          "reporter_role": "OPD Medical Officer",
+          "incident_description": "Several taxi touts sheltering at the OPD porch were soliciting patients aggressively. Please move them off hospital grounds.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-04-06",
+          "time": "08:50 PM",
+          "reporter_role": "Pharmacist - OPD Dispensary",
+          "incident_description": "During rain and a brief power dip, a youth attempted to snatch a handbag near the dispensary queue; suspect fled towards the car park. Check CCTV and intercept.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-07",
+          "time": "10:35 AM",
+          "reporter_role": "Paediatric Ward Sister",
+          "incident_description": "Man filming children on the paediatric corridor without permission; refused to stop. Please intervene and escort him out.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-08",
+          "time": "02:20 PM",
+          "reporter_role": "Ambulance Coordinator",
+          "incident_description": "Visitors took shelter in the ambulance bay during the downpour and are obstructing an incoming ambulance. Require clearing and temporary barriers.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-10",
+          "time": "06:30 PM",
+          "reporter_role": "ICU Ward Clerk",
+          "incident_description": "Unknown male attempted to enter ICU after visiting hours claiming to be a patient's cousin and argued with staff. Request removal and badge check at ICU door.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-10",
+          "time": "09:10 PM",
+          "reporter_role": "Duty Administrator",
+          "incident_description": "Lightning set off a fire/panic alarm in Block B; partial evacuation began. Need security to manage stairwells and block lift use until cleared by engineering.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-12",
+          "time": "02:50 PM",
+          "reporter_role": "ETU Charge Nurse",
+          "incident_description": "Motorbike parked across the ETU ambulance approach, rider missing. Please locate owner via PA and clear access immediately.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-12",
+          "time": "04:05 PM",
+          "reporter_role": "Mortuary Attendant",
+          "incident_description": "Relatives at the mortuary disputing viewing time became heated; one person threatened staff. Require security presence to calm and enforce schedule.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-13",
+          "time": "11:05 AM",
+          "reporter_role": "Ward Master - Medical Ward",
+          "incident_description": "Relative refused a visitor badge and tried to enter via the back door. Needs to be stopped and redirected to issue a pass.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-04-14",
+          "time": "06:55 PM",
+          "reporter_role": "HR Assistant - Staff Gate",
+          "incident_description": "Short rain led to crowding at the side gate; two individuals tailgated through the biometric door without IDs. Request identity verification and access control.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-15",
+          "time": "01:05 PM",
+          "reporter_role": "Cashier - Revenue Counter",
+          "incident_description": "Wet floors near cashier after afternoon rain caused a slip; crowd pressing forward. Need security to cordon area and manage a single-file queue.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-04-15",
+          "time": "04:30 PM",
+          "reporter_role": "CCTV Operator (Security)",
+          "incident_description": "CCTV observed a male lifting a mobile phone from OPD seating; suspect in blue shirt moved towards the canteen. Request interception and recovery.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-17",
+          "time": "09:20 PM",
+          "reporter_role": "Theatre Nursing Officer",
+          "incident_description": "Post-theatre, a junior nurse requested escort from OT to nurses' quarters due to men loitering near the corridor. Please provide an escort.",
+          "urgency": "Low"
+        },
+        {
+          "date": "2025-04-18",
+          "time": "07:15 PM",
+          "reporter_role": "NICU Nurse In-Charge",
+          "incident_description": "Code Pink alarm triggered at the NICU exit when a tag approached the doorway. Need immediate security sweep and door lockdown; likely false but confirm.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-04-18",
+          "time": "05:10 PM",
+          "reporter_role": "Canteen Manager",
+          "incident_description": "Unlicensed snack seller arguing with canteen staff at the back gate and refusing to leave. Please remove and record details.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-04-20",
+          "time": "03:35 PM",
+          "reporter_role": "Parking Supervisor",
+          "incident_description": "During heavy rain, car park lanes flooded and two drivers began shouting over a blocked exit. Need traffic control and de-escalation.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-04-20",
+          "time": "04:50 PM",
+          "reporter_role": "Stores Manager",
+          "incident_description": "External contractor was moving scrap metal towards the rear gate without a gate pass; possible theft. Detain and verify with Stores.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-22",
+          "time": "08:25 PM",
+          "reporter_role": "Electrical Technician",
+          "incident_description": "Brief power outage left lifts stalled; crowd built up at stairwells and some tried to force lift doors. Require security to hold the crowd and keep routes clear.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-24",
+          "time": "02:40 PM",
+          "reporter_role": "Plant Room Technician",
+          "incident_description": "Strong gusts loosened a fence panel near the oxygen plant; people gathering to look. Need immediate cordon and watch until maintenance arrives.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-26",
+          "time": "11:55 PM",
+          "reporter_role": "Duty Matron - Maternity",
+          "incident_description": "Figure seen on the maternity balcony after visiting hours; CCTV confirms a trespasser. Request patrol to intercept and check intent.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-29",
+          "time": "08:40 PM",
+          "reporter_role": "ETU Senior House Officer",
+          "incident_description": "Intoxicated attendant at ETU yelling at the MO after triage decision; refusing to leave and upsetting other patients. Need de-escalation and removal.",
+          "urgency": "High"
+        }
+      ]
+    }
+  },
+  {
+    "month": "May",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-05-01",
+          "time": "03:35 PM",
+          "reporter_role": "OPD Sister-in-Charge",
+          "incident_description": "During the afternoon downpour, street vendors rushed into the OPD foyer and blocked triage. Please clear non-patients and enforce the no-vendor policy at the main entrance.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-05-02",
+          "time": "11:10 AM",
+          "reporter_role": "Pharmacy Cashier",
+          "incident_description": "Patient reported a wallet theft in the pharmacy queue. Suspect seen on CCTV lingering near token counter; request interception at the south gate and footage preservation.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-03",
+          "time": "02:20 PM",
+          "reporter_role": "Administrative Officer (On Duty)",
+          "incident_description": "Torrential rain flooded the car park; the side access door to Block C was propped open with a wedge. Access control compromised—please secure and post a guard.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-03",
+          "time": "08:05 PM",
+          "reporter_role": "Psychiatry Medical Officer",
+          "incident_description": "Male patient attempted to abscond from Ward 8, became verbally aggressive when stopped by staff. Need de-escalation support and safe return to ward.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-04",
+          "time": "08:45 PM",
+          "reporter_role": "Intern House Officer (Medicine)",
+          "incident_description": "Request after-hours escort from ETU to staff quarters following late handover. Area around quarters was quiet but poorly lit.",
+          "urgency": "Low"
+        },
+        {
+          "date": "2025-05-05",
+          "time": "04:10 PM",
+          "reporter_role": "OPD Attendant (Minor Staff)",
+          "incident_description": "During the thunderstorm, three riders pushed motorcycles into the OPD corridor to avoid rain, creating fumes and slip risk. Please remove bikes and secure side shutters.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-05-06",
+          "time": "01:30 PM",
+          "reporter_role": "Paediatric Ward Nurse",
+          "incident_description": "Stray dog entered the paediatric waiting area as doors were kept open during squally winds. Children distressed—request animal removal and entrance monitoring.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-05-07",
+          "time": "07:50 PM",
+          "reporter_role": "Staff Nurse - Surgical Ward 2",
+          "incident_description": "Visitor attempted to pocket a patient’s mobile phone. Suspect left ward; please review CCTV and stop-check at main gate.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-08",
+          "time": "03:00 PM",
+          "reporter_role": "Pharmacy Stores Supervisor",
+          "incident_description": "Controlled-drug crate was left briefly in corridor due to rain. Unknown male loitering nearby—request immediate securing of crate and ID check.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-09",
+          "time": "06:15 AM",
+          "reporter_role": "Housekeeping Supervisor - Block B",
+          "incident_description": "Attendants sleeping on stair landing blocked the fire exit. Repeated notices ignored—need Security to clear and enforce access.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-05-10",
+          "time": "05:40 PM",
+          "reporter_role": "ICU Registrar",
+          "incident_description": "Aggressive relative refused to leave ICU after visiting hours and shouted at staff. Request de-escalation and escort out.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-11",
+          "time": "02:55 PM",
+          "reporter_role": "Transport Officer",
+          "incident_description": "Gusty winds jammed the main gate boom barrier in the open position. Vehicles entering without log—need manual control and guard at gate.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-12",
+          "time": "10:25 AM",
+          "reporter_role": "Medical Officer - Well Woman Clinic",
+          "incident_description": "Male individual filmed patients despite signage. He refused to delete footage; please intervene, escort out, and document incident.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-13",
+          "time": "12:40 PM",
+          "reporter_role": "Health Information Officer (OPD Tickets)",
+          "incident_description": "Heavy rain caused crowding at token counter; queue jump led to a brief scuffle. Need Security to manage queue and keep corridor clear.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-05-14",
+          "time": "11:50 AM",
+          "reporter_role": "Antenatal Clinic Nurse",
+          "incident_description": "Unlicensed vendor selling herbal balms inside ANC corridor despite warnings. Please remove and keep vendors beyond the main gate.",
+          "urgency": "Low"
+        },
+        {
+          "date": "2025-05-15",
+          "time": "07:25 PM",
+          "reporter_role": "Supplies Officer",
+          "incident_description": "During the evening rain and thunder, unknown person seen near General Stores roller door; pry marks noted. Request perimeter sweep and access control.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-16",
+          "time": "09:20 PM",
+          "reporter_role": "House Officer - Surgery",
+          "incident_description": "Request escort from Theatre to staff quarters after late list. Prior reports of teasing near the walkway last night.",
+          "urgency": "Low"
+        },
+        {
+          "date": "2025-05-17",
+          "time": "03:10 PM",
+          "reporter_role": "NICU Charge Nurse",
+          "incident_description": "Code Pink alarm: NICU exit held open with a stool during storm; alarm triggered. Need immediate lockdown of stairs/lifts and infant tag verification support.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-05-18",
+          "time": "08:05 AM",
+          "reporter_role": "Lab Technician (Haematology)",
+          "incident_description": "Two youths used the pathology corridor as a shortcut from the bus stand. Please redirect and monitor the side gate.",
+          "urgency": "Low"
+        },
+        {
+          "date": "2025-05-19",
+          "time": "01:10 PM",
+          "reporter_role": "ETU Charge Nurse",
+          "incident_description": "Wind-blown rain pooled near the ETU lift lobby; several near-slips. Request Security to cordon area and redirect foot traffic until mopped.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-05-21",
+          "time": "04:50 PM",
+          "reporter_role": "Maternity Ward Sister",
+          "incident_description": "Dispute between two families over beds escalated; one man shouting and refusing to step out. Need de-escalation and removal of extra attendants.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-22",
+          "time": "09:15 AM",
+          "reporter_role": "CCTV Operator (Security)",
+          "incident_description": "Strong SW wind shifted Camera 14, creating a blind spot over Orthopaedic Stores roller door. Request immediate guard post until realigned.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-05-23",
+          "time": "06:35 PM",
+          "reporter_role": "ETU Registrar",
+          "incident_description": "Oxygen regulator missing from trolley; found at gate during bag check of an attendant. Please retain suspect details and preserve CCTV for police.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-24",
+          "time": "09:40 AM",
+          "reporter_role": "Medical Records Clerk - OPD",
+          "incident_description": "Unattended parcel left near the OPD pharmacy window; area cordoned as per protocol. Item later identified as a lunch box; request closure and CCTV review.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-25",
+          "time": "05:15 PM",
+          "reporter_role": "Transport Supervisor",
+          "incident_description": "Basement partially flooded after intense downpour; two outsiders attempted to access parked cars claiming to ‘check’ them. Please verify IDs and restrict to owners only; patrol the area.",
+          "urgency": "Medium"
+        }
+      ]
+    }
+  },
+  {
+    "month": "June",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-06-01",
+          "time": "08:15 AM",
+          "reporter_role": "OPD Nurse-In-Charge",
+          "incident_description": "Wind-driven rain pooled at the OPD main entrance; slippery crowding started. Please deploy guards to cordon, place wet floor signs, and manage entry queue.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-06-02",
+          "time": "02:40 PM",
+          "reporter_role": "OPD Pharmacy Dispenser",
+          "incident_description": "During the sudden rain burst, a man cut the token line and became verbally aggressive at OPD Pharmacy. Need security to de-escalate and enforce queue.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-03",
+          "time": "11:10 AM",
+          "reporter_role": "Administrative Officer",
+          "incident_description": "Two street vendors set up by the main gate in the breeze, trying to sell snacks to visitors. Please move them and keep the gate clear.",
+          "urgency": "Low"
+        },
+        {
+          "date": "2025-06-04",
+          "time": "03:05 PM",
+          "reporter_role": "Theatre Nursing Sister",
+          "incident_description": "After the thunderstorm, access control to the OT corridor is malfunctioning; one door stuck open. Need security presence and manual checks until reset.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-04",
+          "time": "07:50 PM",
+          "reporter_role": "Paediatric Ward MO",
+          "incident_description": "Guardian refusing to leave after visiting hours, arguing with staff in Paediatric Ward. Request security to escort out calmly.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-05",
+          "time": "10:20 AM",
+          "reporter_role": "OPD Registration Clerk",
+          "incident_description": "Attendant reported a phone missing from the OPD waiting area. Please review lobby and token-counter CCTV and guide on complaint.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-06-06",
+          "time": "01:12 PM",
+          "reporter_role": "ETU Consultant",
+          "incident_description": "Taxi and a three-wheeler are blocking the ambulance bay to avoid showers. Clear the path immediately.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-06-08",
+          "time": "02:18 PM",
+          "reporter_role": "Postnatal Ward Sister-in-Charge",
+          "incident_description": "During the lightning burst, infant RFID tag alarm triggered (Code Pink). Need all exits manned and CCTV sweep of stairwells.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-06-08",
+          "time": "07:30 PM",
+          "reporter_role": "Surgical Ward Sister-in-Charge",
+          "incident_description": "Two suspected intoxicated visitors loitering at the ward entrance, using foul language. Request de-escalation and removal.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-09",
+          "time": "09:25 PM",
+          "reporter_role": "HR Officer (Staff Welfare)",
+          "incident_description": "Unknown male tailgated into staff quarters after evening clinics. Kindly check IDs and patrol the perimeter.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-06-10",
+          "time": "04:45 PM",
+          "reporter_role": "Transport Officer",
+          "incident_description": "Strong winds forced the boom gate to remain open; vehicles entering unchecked. Need guard to control manually until repair.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-11",
+          "time": "01:55 PM",
+          "reporter_role": "Medical Ward Nursing Sister",
+          "incident_description": "Suspected pilferage of IV cannulas and syringes from the procedure room. Request CCTV review and sealing of the cupboard.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-11",
+          "time": "10:10 PM",
+          "reporter_role": "ETU Intern MO",
+          "incident_description": "Request after-hours escort from ETU to quarters; loiterers and stray dogs near the back path.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-06-12",
+          "time": "03:35 PM",
+          "reporter_role": "Biomedical Engineer",
+          "incident_description": "Visitor found smoking near the oxygen manifold behind CSSD despite signage. Need immediate intervention.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-13",
+          "time": "07:55 AM",
+          "reporter_role": "OPD Supervisor",
+          "incident_description": "Morning drizzle caused lobby crowding; pushing at entrance when counters opened. Please deploy barriers and manage flow.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-06-14",
+          "time": "12:05 PM",
+          "reporter_role": "Blood Bank Technologist",
+          "incident_description": "Wind lifted the donor registration tent near the car park; pegs loose. Please cordon the area and assist re-securing.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-06-15",
+          "time": "04:20 PM",
+          "reporter_role": "Pharmacy In-Charge",
+          "incident_description": "Rear pharmacy door left propped during delivery; unknown person seen near controlled drugs room. Need immediate security check and footage pull.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-06-16",
+          "time": "08:30 PM",
+          "reporter_role": "Matron",
+          "incident_description": "Repeated reports of a man harassing nurses near the quarters fence after dusk. Request increased patrols and statement taking.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-17",
+          "time": "02:02 PM",
+          "reporter_role": "Mortuary Attendant",
+          "incident_description": "Brief storm caused water into mortuary ramp; crowd gathered taking photos. Please restrict access and assist safe movement.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-18",
+          "time": "06:40 AM",
+          "reporter_role": "IT Officer",
+          "incident_description": "Post-downpour, Block B/C CCTV feeds show fogging and outages; stairwell blind spots. Need temporary guards at those points.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-20",
+          "time": "11:50 AM",
+          "reporter_role": "Immunization Clinic Nursing Sister",
+          "incident_description": "Mother reports handbag missing at the vaccination area. Kindly check cameras at the clinic desk and main gate.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-06-22",
+          "time": "05:15 PM",
+          "reporter_role": "Infection Control Nurse",
+          "incident_description": "Relative tried to force entry to the Fever Isolation Unit during visiting ban. Need security to block and explain protocol.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-24",
+          "time": "08:10 PM",
+          "reporter_role": "Maintenance Supervisor",
+          "incident_description": "Small sedan with dark tints circling staff car park repeatedly; previous week had fuel siphoning. Request plate check and patrol.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-06-26",
+          "time": "03:28 PM",
+          "reporter_role": "Facilities Engineer",
+          "incident_description": "During the short rain burst, plant room area crowded; roof access ladder found unlocked. Please secure and post 'No Entry'.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-06-28",
+          "time": "09:05 AM",
+          "reporter_role": "OPD Gatekeeper",
+          "incident_description": "Suspected pickpocket group at the OPD entrance; attendants detained one. Need security custody and inform police per protocol.",
+          "urgency": "Critical"
+        }
+      ]
+    }
+  },
+  {
+    "month": "July",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-07-01",
+          "time": "07:40 AM",
+          "reporter_role": "ICU Sister-in-Charge",
+          "incident_description": "Visitor refusing to wear issued badge attempted to push into ICU citing 'emergency'. Please intercept at ICU foyer and enforce access control.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-02",
+          "time": "05:20 PM",
+          "reporter_role": "OPD Nursing Officer",
+          "incident_description": "During light rain, crowded under OPD awning, a visitor reported mobile phone missing. Need CCTV review and assistance to identify suspect loitering near token counter.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-07-03",
+          "time": "03:12 PM",
+          "reporter_role": "Postnatal Ward Nurse",
+          "incident_description": "Code Pink alarm sounded at corridor exit during heavy rain and thunder. Request immediate lockdown of exits and sweep of stairwells.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-07-05",
+          "time": "09:35 PM",
+          "reporter_role": "House Officer - Medicine",
+          "incident_description": "Intern doctor requests escort from Medical Ward to quarters. Unknown male seen loitering near the dark walkway by the mortuary.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-07-07",
+          "time": "10:05 AM",
+          "reporter_role": "Parking Attendant",
+          "incident_description": "Two-wheeler rider arguing and blocking the ambulance route near Gate 2 due to rain parking. Requires de-escalation and removal from lane.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-07",
+          "time": "07:10 PM",
+          "reporter_role": "OPD Duty Clerk",
+          "incident_description": "OPD lobby floor wet; crowd pressing in for files. Please place barricades and manage queue to prevent slips and disorder.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-07-08",
+          "time": "11:22 AM",
+          "reporter_role": "Pharmacy Dispenser",
+          "incident_description": "Controlled drug cupboard keys not returned after ward round. Need immediate security presence at Pharmacy and CCTV check on corridor.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-09",
+          "time": "02:45 PM",
+          "reporter_role": "IT Officer (CCTV)",
+          "incident_description": "Thunderstorm caused intermittent CCTV outages in Old Surgical Block. Request security patrols to cover blind spots until feeds stabilize.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-09",
+          "time": "06:50 PM",
+          "reporter_role": "Paediatric Ward Nurse",
+          "incident_description": "Aggressive relative refusing to leave after visiting hours, shouting at staff in Paediatric Ward. Need de-escalation and removal.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-11",
+          "time": "07:10 AM",
+          "reporter_role": "OPD Medical Officer",
+          "incident_description": "Street vendor at Gate 1 touting 'fast OPD tokens' to patients. Kindly move the individual away and prevent solicitation.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-07-12",
+          "time": "09:02 AM",
+          "reporter_role": "Operating Theatre Matron",
+          "incident_description": "Delivery person tailgated into sterile OT corridor without pass. Please verify ID, escort out, and secure the access door.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-14",
+          "time": "08:18 PM",
+          "reporter_role": "Rear Gate Attendant",
+          "incident_description": "Attempted two-wheeler theft near Rear Gate during evening rain; suspect ran toward staff quarters. Need area sweep and CCTV review.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-15",
+          "time": "10:40 PM",
+          "reporter_role": "Accounts Clerk (Cashier)",
+          "incident_description": "Request secure escort to transfer OPD cash to Accounts safe after hours. Few unknown persons lingering near Block B stairs.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-07-17",
+          "time": "01:20 PM",
+          "reporter_role": "OPD Counter Supervisor",
+          "incident_description": "Rain pushed crowd under OPD canopy; queue jumping led to a scuffle. Need crowd control and separation at token queue.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-17",
+          "time": "09:56 PM",
+          "reporter_role": "NICU Registrar",
+          "incident_description": "Suspicious male seen on CCTV at NICU back stairwell after hours. Please respond urgently and secure neonatal area doors.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-07-18",
+          "time": "03:05 PM",
+          "reporter_role": "Pharmacy Stores Officer",
+          "incident_description": "Courier attempted to remove used drug cartons without gate pass near Stores. Possible diversion attempt; intervene and verify.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-07-19",
+          "time": "08:30 AM",
+          "reporter_role": "Front Entrance Nurse",
+          "incident_description": "Steady rain caused pooling at Main Entrance; slips reported. Request security to cordon slippery area and manage single-file entry.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-07-19",
+          "time": "05:47 PM",
+          "reporter_role": "HR Officer",
+          "incident_description": "Former employee at HR counter shouting and threatening to 'bring trouble'. Please remove from premises and document incident.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-21",
+          "time": "08:22 PM",
+          "reporter_role": "ETU Medical Officer",
+          "incident_description": "Intoxicated attendant in ETU yelling and attempting to hit minor staff during rainy evening rush. Immediate restraint/de-escalation needed.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-07-23",
+          "time": "11:15 AM",
+          "reporter_role": "Medical Records In-Charge",
+          "incident_description": "Repeated tailgating into Records room; unauthorized persons near file racks. Request door monitoring and ID checks.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-07-24",
+          "time": "02:18 PM",
+          "reporter_role": "Ambulance Coordinator",
+          "incident_description": "Taxi sheltering from gusty rain is blocking ambulance bay at Gate 2 despite instructions. Need vehicle moved immediately.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-26",
+          "time": "10:58 PM",
+          "reporter_role": "Ward Sister - Female Surgical",
+          "incident_description": "Night staff request escort from ward to nurses’ hostel. Dogs and poorly lit path behind Laundry causing concern.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-07-28",
+          "time": "04:26 PM",
+          "reporter_role": "OPD Attendant",
+          "incident_description": "Patient’s bag reported stolen from OPD washroom; suspect last seen heading toward canteen. Need CCTV check and area sweep.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-30",
+          "time": "08:05 PM",
+          "reporter_role": "Maternity Block Matron",
+          "incident_description": "During heavy rain, multiple non-visitors sheltering inside Maternity entrance; refusing to leave. Please enforce visiting policy and verify IDs.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-31",
+          "time": "07:55 AM",
+          "reporter_role": "Hospital Administrator (Acting DMS)",
+          "incident_description": "Two youths at Gate 3 offering 'fast-track' clinic tokens for a fee. Request removal and liaison with local police post if they persist.",
+          "urgency": "Medium"
+        }
+      ]
+    }
+  },
+  {
+    "month": "August",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-08-01",
+          "time": "08:15 AM",
+          "reporter_role": "Front Desk Receptionist - OPD",
+          "incident_description": "Unknown food vendor entered via rear service gate and refused to sign the visitor log. Please send security to remove him and record NIC.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-08-02",
+          "time": "07:40 PM",
+          "reporter_role": "Nursing Officer - Ward 7 (Surgery)",
+          "incident_description": "Relatives refusing to leave after visiting hours; corridor crowded after earlier rain. Need security to clear the area and de-escalate.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-08-05",
+          "time": "03:20 PM",
+          "reporter_role": "Ward Clerk - OPD",
+          "incident_description": "Patient reported phone missing from OPD benches. Request CCTV review and brief exit check at Gates 1 and 2.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-08-07",
+          "time": "10:05 AM",
+          "reporter_role": "Ambulance Supervisor",
+          "incident_description": "Two-wheeler parked in ambulance bay; rider arguing with staff. Need security to move the bike and warn the owner.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-08-08",
+          "time": "11:30 AM",
+          "reporter_role": "OPD Triage Nurse",
+          "incident_description": "Heavy rain pushed a crowd into the OPD foyer; people slipping and pushing. Please deploy guards for queue control and place cones.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-08-08",
+          "time": "08:50 PM",
+          "reporter_role": "Nursing Sister - Postnatal Ward",
+          "incident_description": "Infant tag alarm activated during thunderstorm. Request Code Pink response: lock lifts/exits and verify via CCTV immediately.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-08-09",
+          "time": "06:10 AM",
+          "reporter_role": "Staff Nurse - ICU (Night)",
+          "incident_description": "Kindly provide escort to quarters across back car park; stray dogs seen and lighting is poor.",
+          "urgency": "Low"
+        },
+        {
+          "date": "2025-08-11",
+          "time": "12:35 PM",
+          "reporter_role": "Medical Officer - Ward 3 (Medicine)",
+          "incident_description": "Attendant became aggressive over bed allocation. Need security to calm and remove him from the ward corridor.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-12",
+          "time": "09:15 PM",
+          "reporter_role": "Pharmacist In-Charge - Main Pharmacy",
+          "incident_description": "Suspicious male loitering near pharmacy back door during stock take; seen on CCTV earlier. Request patrol to check ID and stand by.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-08-13",
+          "time": "02:10 PM",
+          "reporter_role": "ETU Registration Clerk",
+          "incident_description": "After thunder, token system stalled and crowd surged at triage. Need security for line management and entry restriction.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-14",
+          "time": "05:55 AM",
+          "reporter_role": "Maintenance Officer (Stores)",
+          "incident_description": "Oxygen cage padlock appears partly sawn; possible attempted theft overnight. Please secure the area and review CCTV.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-15",
+          "time": "12:10 PM",
+          "reporter_role": "Senior House Officer - Paediatrics",
+          "incident_description": "Handbag snatched in paediatric waiting area; suspect ran towards Gate 2. Request immediate gate block and CCTV tracking.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-15",
+          "time": "08:20 PM",
+          "reporter_role": "Theatre Matron",
+          "incident_description": "Two nurses finishing late list request escort to quarters; men loitering near pathway behind theatre.",
+          "urgency": "Low"
+        },
+        {
+          "date": "2025-08-17",
+          "time": "03:40 PM",
+          "reporter_role": "Radiology Receptionist",
+          "incident_description": "Gusty rain triggered the side-door alarm; patients sheltering inside the corridor. Need security to close door and redirect flow.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-08-17",
+          "time": "09:05 PM",
+          "reporter_role": "ETU Medical Officer",
+          "incident_description": "Intoxicated relative shouting and banging at ETU doors after casualty arrival. Request immediate de-escalation and removal.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-18",
+          "time": "04:45 AM",
+          "reporter_role": "CCTV Operator",
+          "incident_description": "Gate 3 camera fogged and feed dropped due to condensation. Please post a guard and maintain manual entry log.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-08-19",
+          "time": "01:25 PM",
+          "reporter_role": "Assistant Transport Officer",
+          "incident_description": "Two motorbikes tried to shortcut through the ambulance gate without permits. Need guards to block and redirect to main entrance.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-08-21",
+          "time": "06:30 PM",
+          "reporter_role": "ICU Charge Nurse",
+          "incident_description": "Visitor filming on phone in ICU corridor despite signage. Request security to stop and enforce no-photography policy.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-08-22",
+          "time": "10:50 AM",
+          "reporter_role": "OPD Medical Records Supervisor",
+          "incident_description": "Front steps flooded during thundery rain; slip risk noted. Need barricades and crowd control until cleared.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-08-22",
+          "time": "07:35 PM",
+          "reporter_role": "Pharmacy Night Pharmacist",
+          "incident_description": "Brief power blink left controlled drug register open; outsider peered through hatch. Request security to secure hatch and remain on post.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-23",
+          "time": "01:05 PM",
+          "reporter_role": "OPD Cashier",
+          "incident_description": "Private lab agent arguing and trying to jump the queue at cash counter. Please send security to maintain order.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-08-24",
+          "time": "02:55 PM",
+          "reporter_role": "Lift Technician (On-call)",
+          "incident_description": "After thunder, lift stalled at Level 2 and a crowd gathered. Need security to cordon area and keep access clear for repair.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-08-24",
+          "time": "11:10 PM",
+          "reporter_role": "Nursing Officer - Maternity",
+          "incident_description": "Male tried to enter verandah via external stairs claiming to be relative, no NIC produced. Request security to detain and inform police.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-25",
+          "time": "07:15 AM",
+          "reporter_role": "Supplies Officer",
+          "incident_description": "Delivery truck without gate pass attempted early entry at Stores gate. Please refuse entry and record details.",
+          "urgency": "Low"
+        },
+        {
+          "date": "2025-08-30",
+          "time": "05:20 PM",
+          "reporter_role": "Paediatric Ward Registrar",
+          "incident_description": "Drone hovering outside paediatric ward windows after rain eased. Request security to track via CCTV and coordinate with police.",
+          "urgency": "High"
+        }
+      ]
+    }
+  },
+  {
+    "month": "September",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-09-02",
+          "time": "02:35 PM",
+          "reporter_role": "OPD Nurse In-Charge",
+          "incident_description": "Crowd bunched at OPD main entrance during light rain; one visitor tried to force entry to Surgical Ward outside visiting hours. Request Security to control queue and enforce access.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-09-03",
+          "time": "11:10 AM",
+          "reporter_role": "Radiology Registrar",
+          "incident_description": "Side door to Imaging was propped open for ventilation in the heat; unknown male slipped into the corridor. Need Security sweep and door secured.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-04",
+          "time": "06:20 PM",
+          "reporter_role": "Administrative Officer",
+          "incident_description": "Rain pushed visitors to shelter at the rear staff gate causing tailgating at access control. Please deploy Security to manage entry and clear the area.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-09-07",
+          "time": "10:05 AM",
+          "reporter_role": "OPD Token Counter Clerk",
+          "incident_description": "Aggressive father shouting at paediatric OPD counter, refusing to queue. Security needed for de-escalation and to protect staff.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-08",
+          "time": "03:40 PM",
+          "reporter_role": "Maintenance Supervisor",
+          "incident_description": "Gusty wind blew open the delivery gate by pharmacy store; CCTV shows unknown person near oxygen manifold cage. Security to attend immediately.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-08",
+          "time": "05:55 PM",
+          "reporter_role": "Front Office Executive",
+          "incident_description": "Rainwater tracked into main lobby created slip hazard; crowd congesting near entrance. Request Security cordon and crowd control.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-09-10",
+          "time": "07:18 PM",
+          "reporter_role": "Ward Sister, Postnatal",
+          "incident_description": "Infant-tag alarm triggered during thunderstorm power dip; initiating Code Pink. Require Security to lock down exits and review CCTV.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-09-10",
+          "time": "07:26 PM",
+          "reporter_role": "Theatre Charge Nurse",
+          "incident_description": "Power fluctuation released OT complex maglocks; two vendors wandered into sterile corridor. Security needed to clear and secure doors.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-12",
+          "time": "02:02 PM",
+          "reporter_role": "ETU Medical Officer",
+          "incident_description": "Drivers sheltering from intermittent rain blocked part of the ambulance bay. Security required to clear and keep the lane open.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-14",
+          "time": "08:35 PM",
+          "reporter_role": "On-Call MO, Male Surgical",
+          "incident_description": "Intoxicated visitor refusing to leave at end of visiting hours, using foul language toward staff. Need Security escort out.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-15",
+          "time": "11:48 AM",
+          "reporter_role": "OPD Matron",
+          "incident_description": "Visitor reported handbag stolen from OPD seating; suspect seen on CCTV moving toward canteen. Request Security response and camera review.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-17",
+          "time": "03:22 PM",
+          "reporter_role": "Finance Officer",
+          "incident_description": "During heavy rain, public used staff-only back stairwell to shelter, breaching restricted access. Please post a Security guard and redirect flow.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-09-17",
+          "time": "08:12 PM",
+          "reporter_role": "Transport Officer",
+          "incident_description": "Two persons loitering near motorcycles in dim car park during downpour; appeared to tamper with number plates. Request immediate Security patrol.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-18",
+          "time": "04:05 PM",
+          "reporter_role": "Dialysis Charge Nurse",
+          "incident_description": "Wind kept slamming the side access door; an unknown man tailgated a porter into the unit. Security to verify ID and escort out.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-19",
+          "time": "05:10 PM",
+          "reporter_role": "Cashier Supervisor",
+          "incident_description": "Queue disorder at OPD cash counter as people rushed in from rain; minor scuffle started. Security assistance for queuing and separation.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-09-21",
+          "time": "02:58 PM",
+          "reporter_role": "IT Officer",
+          "incident_description": "Thundery weather caused CCTV outage in Maternity block. Request Security to initiate manual patrols until feeds restore.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-09-21",
+          "time": "06:45 PM",
+          "reporter_role": "ICU Consultant",
+          "incident_description": "Family tried to push past staff into ICU citing emergency during storm. Need Security to enforce ICU access protocol immediately.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-22",
+          "time": "09:35 PM",
+          "reporter_role": "Medical Ward Staff Nurse",
+          "incident_description": "Requesting after-hours Security escort to staff quarters; recent stray dogs and poor lighting along the path.",
+          "urgency": "Low"
+        },
+        {
+          "date": "2025-09-23",
+          "time": "07:02 PM",
+          "reporter_role": "Senior Pharmacist",
+          "incident_description": "Thunderstorm crowd banged on satellite pharmacy shutter; one person reached into dispensing area. Security needed for barrier and order.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-25",
+          "time": "03:18 PM",
+          "reporter_role": "Anaesthesia Technician",
+          "incident_description": "Attempted removal of two IV pumps from corridor trolley near CSSD; suspect in raincoat seen walking away. Security to respond and review cameras.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-25",
+          "time": "08:20 PM",
+          "reporter_role": "Administrative Officer",
+          "incident_description": "Flooded section of visitor car park led to a stuck car and heated argument with attendant. Request Security to manage crowd and coordinate tow.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-09-27",
+          "time": "07:45 PM",
+          "reporter_role": "Mortuary Attendant",
+          "incident_description": "Large group gathered at mortuary entrance after hours demanding release. Security required to control gate and enforce policy.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-28",
+          "time": "11:15 AM",
+          "reporter_role": "Nursing Superintendent",
+          "incident_description": "Controlled drug cupboard key unaccounted for in OT recovery; potential pilferage risk. Security to initiate lock-down and chain-of-custody review.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-09-28",
+          "time": "04:30 PM",
+          "reporter_role": "Facilities Manager",
+          "incident_description": "Rain shelters overflowed; footpath vendors moved into hospital perimeter. Request Security to remove encroachment and keep entrances clear.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-09-29",
+          "time": "12:22 PM",
+          "reporter_role": "Paediatric Registrar",
+          "incident_description": "Drone sighted over paediatric ward courtyard; privacy and safety concern. Security to locate operator and coordinate with authorities.",
+          "urgency": "High"
+        }
+      ]
+    }
+  },
+  {
+    "month": "October",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-10-01",
+          "time": "07:40 PM",
+          "reporter_role": "OPD Charge Nurse",
+          "incident_description": "Sudden downpour drove a large crowd into the OPD foyer; visitors pushed past the desk to avoid rain. Request security to control entry and enforce visiting-hour limits.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-10-01",
+          "time": "09:12 PM",
+          "reporter_role": "On-call Biomedical Engineer",
+          "incident_description": "Lightning caused an access-control reboot at NICU; mag-lock cycled and door remained ajar. Need security to post a guard and check CCTV of the corridor.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-02",
+          "time": "03:10 PM",
+          "reporter_role": "ETU Medical Officer",
+          "incident_description": "During the heavy shower, three tuk-tuks blocked the ambulance bay while sheltering. Request immediate security to clear bay and manage the gate.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-04",
+          "time": "08:25 PM",
+          "reporter_role": "Sister-in-Charge, Male Medical Ward",
+          "incident_description": "Relative under influence became aggressive, refusing to leave after hours. Security support needed for de-escalation and removal.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-05",
+          "time": "06:50 PM",
+          "reporter_role": "Midwife, Postnatal Ward",
+          "incident_description": "Code Pink alarm activated during storm-related power dip; infant tag pinged near lift lobby. Lock down exits and verify movement on CCTV.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-10-05",
+          "time": "08:05 PM",
+          "reporter_role": "Canteen Cashier",
+          "incident_description": "In the crowded, wet lobby a man attempted to snatch a visitor’s purse and ran toward the south exit. Need security pursuit and camera review.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-07",
+          "time": "11:20 AM",
+          "reporter_role": "Administrative Officer",
+          "incident_description": "Unauthorized umbrella vendors slipped in via the side gate during rain. Please remove them and secure the gate.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-10-08",
+          "time": "07:58 PM",
+          "reporter_role": "IT/NOC Officer",
+          "incident_description": "Lightning caused a brief CCTV outage on Block B east wing. Request security foot patrols to cover blind spots until feed stabilizes.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-10",
+          "time": "08:45 PM",
+          "reporter_role": "Pharmacist-in-Charge, OPD Pharmacy",
+          "incident_description": "During a power flicker, a visitor reached over the counter toward a Tramadol carton. Security needed to intervene and secure the storeroom door.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-11",
+          "time": "09:05 AM",
+          "reporter_role": "ETU Senior Staff Nurse",
+          "incident_description": "Private car parked across the ambulance ramp; driver refusing to move despite rain. Request security to clear the obstruction immediately.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-11",
+          "time": "07:30 PM",
+          "reporter_role": "Paediatric Registrar",
+          "incident_description": "Group of six relatives insisting on staying by the bedside due to bad weather. Need security to enforce visiting policy and escort them to the waiting area.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-10-12",
+          "time": "08:02 PM",
+          "reporter_role": "Ward Clerk, Female Surgical",
+          "incident_description": "Unknown male attempted entry claiming to be a cousin; name not on the list. Please verify at the desk and remove from ward corridor.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-10-14",
+          "time": "05:55 PM",
+          "reporter_role": "OPD Receptionist",
+          "incident_description": "Phone snatching attempt near ticket counter during storm-related crowding. Security response needed and footage retrieval from Camera OPD-03.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-14",
+          "time": "07:18 PM",
+          "reporter_role": "NICU Staff Nurse",
+          "incident_description": "Infant tag briefly lost signal near rear stairwell; request immediate corridor lockdown and exit checks per protocol.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-10-15",
+          "time": "02:40 PM",
+          "reporter_role": "Accounts Clerk",
+          "incident_description": "Relative shouted at cashier over refund and hit the counter. Security needed for de-escalation and to clear the queue.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-10-17",
+          "time": "08:20 PM",
+          "reporter_role": "OT In-Charge Nurse",
+          "incident_description": "After gusty winds, the access card reader at OT-2 failed; staff entering without proper logging. Post a guard and start manual sign-in.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-18",
+          "time": "07:05 PM",
+          "reporter_role": "Cardiology Clinic Nurse",
+          "incident_description": "Patient’s handbag reported missing from waiting corridor. Need security to review corridor cameras and check exits immediately.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-10-20",
+          "time": "03:15 PM",
+          "reporter_role": "OPD Medical Officer",
+          "incident_description": "During the squall, two family groups argued and shoved each other in the main foyer. Security intervention required to separate and move them out.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-20",
+          "time": "10:10 PM",
+          "reporter_role": "Senior Radiographer",
+          "incident_description": "Request after-hours escort to staff quarters; pathway lights unreliable after the storm.",
+          "urgency": "Low"
+        },
+        {
+          "date": "2025-10-22",
+          "time": "08:27 PM",
+          "reporter_role": "Duty Midwife, Maternity",
+          "incident_description": "Staff noticed a small drone hovering above maternity roof after visiting hours. Please dispatch security to investigate and notify police if needed.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-24",
+          "time": "01:35 PM",
+          "reporter_role": "Transport Supervisor",
+          "incident_description": "Brief flooding diverted public through the staff gate near CSSD. Need security to redirect and secure the gate.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-10-24",
+          "time": "06:22 PM",
+          "reporter_role": "ETU Registrar",
+          "incident_description": "Intoxicated visitor threatened staff and refused to leave the ETU. Urgent security needed for restraint and handover to police.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-10-25",
+          "time": "09:40 PM",
+          "reporter_role": "Consultant Radiologist",
+          "incident_description": "Portable ultrasound probe missing after evening list. Request security to lock store exits, check loading bay, and pull corridor footage.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-27",
+          "time": "11:10 AM",
+          "reporter_role": "Finance Officer",
+          "incident_description": "OPD cash transfer to Accounts requires security escort due to unusually heavy footfall in the corridor.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-10-28",
+          "time": "08:55 PM",
+          "reporter_role": "Pharmacy Stores Manager",
+          "incident_description": "Power surge during thunder triggered the store door tamper alarm; unknown person loitering near loading bay. Request immediate security sweep.",
+          "urgency": "High"
+        }
+      ]
+    }
+  },
+  {
+    "month": "November",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-11-01",
+          "time": "02:35 PM",
+          "reporter_role": "OPD Triage Nurse",
+          "incident_description": "During the downpour, a crowd rushed into OPD lobby, blocking the entrance and arguing over tokens; need security to manage crowd flow and cordon the slippery area.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-01",
+          "time": "08:10 PM",
+          "reporter_role": "Sister-in-Charge - Paediatric Ward",
+          "incident_description": "Non-custodial father refused to leave after visiting hours, shouting at staff and filming; request de-escalation and removal as children were distressed.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-03",
+          "time": "05:20 PM",
+          "reporter_role": "NICU Charge Nurse",
+          "incident_description": "Humidity fogged the NICU corridor dome camera; we need security to post a guard and monitor access until CCTV visibility is restored.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-11-04",
+          "time": "06:40 PM",
+          "reporter_role": "Transport Supervisor",
+          "incident_description": "Two helmets reported missing from the motorcycle shed near Gate 2; please review CCTV and increase patrols as evening rain brought many outsiders under the shelter.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-11-06",
+          "time": "03:15 PM",
+          "reporter_role": "ETU Medical Officer",
+          "incident_description": "Ambulance bay congested with unauthorized taxis seeking shelter from steady rain; request immediate clearance and traffic control to keep emergency access open.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-06",
+          "time": "09:55 PM",
+          "reporter_role": "Administrative Officer (On-Call)",
+          "incident_description": "Families bedding down in main lobby citing rain; please enforce closing time and move them to designated waiting area without incident.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-11-08",
+          "time": "11:25 AM",
+          "reporter_role": "OPD MO",
+          "incident_description": "Attendant tried recording a minor procedure on mobile despite warnings; he argued with staff and refused to step out. Need security to intervene.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-09",
+          "time": "12:05 PM",
+          "reporter_role": "Pharmacy Counter Clerk",
+          "incident_description": "Umbrella rack theft near OPD pharmacy suspected; one man loitering, then missing umbrellas after squally shower. Request CCTV review and patrol.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-11-09",
+          "time": "06:30 PM",
+          "reporter_role": "Matron - Labour Room",
+          "incident_description": "Code Pink alarm from maternity stairwell; infant tag triggered near Exit C. Initiate exit control and CCTV check until baby-location confirmed by ward.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-11-11",
+          "time": "04:50 PM",
+          "reporter_role": "Stores Attendant",
+          "incident_description": "Side gate wedged open with a brick; wet shortcut used by unknown vendors entering to canteen. Need gate secured and IDs checked.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-11-13",
+          "time": "07:15 AM",
+          "reporter_role": "ETU Triage Nurse",
+          "incident_description": "Aggressive relative demanded priority at ETU, pushing chairs and abusing staff; require immediate de-escalation and removal if noncompliant.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-15",
+          "time": "02:40 PM",
+          "reporter_role": "OPD Registration Officer",
+          "incident_description": "Heavy rain drove a surge into OPD foyer; queues collapsed and exit doors blocked. Please control entry and re-establish token lines.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-15",
+          "time": "08:05 PM",
+          "reporter_role": "Anaesthetist (On-Call)",
+          "incident_description": "Two midazolam vials unaccounted from Theatre drug trolley after evening list; request security seal check, access log, and corridor CCTV review.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-16",
+          "time": "09:10 PM",
+          "reporter_role": "Ward Sister - Oncology 3A",
+          "incident_description": "Large visitor group continued prayers after 8 pm, disturbing patients and refusing to leave. Need security to enforce visiting hours gently.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-11-17",
+          "time": "12:50 PM",
+          "reporter_role": "NICU Staff Nurse",
+          "incident_description": "Unidentified male tailgated into NICU at shift change without a badge; verbally rude when challenged. Please verify ID and escort out.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-18",
+          "time": "03:55 PM",
+          "reporter_role": "Transport Officer",
+          "incident_description": "Rainwater pooled in front car park; vehicles blocking ambulance lane during patient pickups. Request traffic marshaling and cones.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-18",
+          "time": "10:20 PM",
+          "reporter_role": "Senior Lab Technologist",
+          "incident_description": "After-hours escort requested to staff quarters; stray dogs seen near back path and lights flickering in drizzle.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-11-20",
+          "time": "11:35 AM",
+          "reporter_role": "Ward Sister - Medical 5",
+          "incident_description": "CCTV for our corridor intermittently blanks during rain—possible condensation on dome. Please increase patrols and monitor access to side stair.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-11-20",
+          "time": "07:25 PM",
+          "reporter_role": "RMO (On-Call)",
+          "incident_description": "Group of youths sheltering near boundary wall, drinking and peering through fence into maternity. Need removal and patrol of perimeter.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-11-22",
+          "time": "05:10 PM",
+          "reporter_role": "Staff Nurse - Surgical 2C",
+          "incident_description": "Patient’s mobile missing after visiting hours; last seen on bedside locker. Request exit bag checks as per policy and corridor CCTV review.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-11-23",
+          "time": "01:05 PM",
+          "reporter_role": "Chief Pharmacist",
+          "incident_description": "Man claiming to be pharma rep attempted entry to controlled store without appointment or ID; please verify credentials and escort out.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-25",
+          "time": "06:50 PM",
+          "reporter_role": "Administrative Officer (Evening)",
+          "incident_description": "Rain caused long vehicle queue at Main Gate; impatient driver honking and nearly struck pedestrian. Need immediate traffic control.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-27",
+          "time": "09:00 AM",
+          "reporter_role": "ICU Nurse-in-Charge",
+          "incident_description": "External food vendor tried to push trolley into ICU corridor despite access rules; refused verbal instruction. Please stop and document.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-11-28",
+          "time": "08:40 PM",
+          "reporter_role": "HR Officer - Staff Welfare",
+          "incident_description": "Male relative loitering outside female staff change room; claims he is waiting for wife but area is staff-only. Kindly verify and move him.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-30",
+          "time": "11:15 PM",
+          "reporter_role": "Medical Officer - ETU",
+          "incident_description": "Request night escort to car park; two men seen loitering by boundary after kiosk closed, lights dim on that stretch.",
+          "urgency": "Medium"
+        }
+      ]
+    }
+  },
+  {
+    "month": "December",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-12-01",
+          "time": "10:25 AM",
+          "reporter_role": "OPD Sister-in-Charge",
+          "incident_description": "Relative became loud and threatening at OPD triage during rain delays; request Security to de-escalate and escort out.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-01",
+          "time": "07:15 PM",
+          "reporter_role": "Duty Administrator",
+          "incident_description": "Thunderstorm drove visitors into main foyer, blocking the entrance and a fire exit. Need Security to manage crowd flow and keep access clear.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-03",
+          "time": "01:40 PM",
+          "reporter_role": "Canteen Manager",
+          "incident_description": "Visitor reported handbag missing at canteen. Request CCTV review of canteen corridor and exit gates.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-12-05",
+          "time": "08:10 PM",
+          "reporter_role": "ICU Medical Officer",
+          "incident_description": "Unknown male attempted ICU entry after visiting hours, insisting to see a patient. Security needed to verify ID and remove.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-07",
+          "time": "06:50 PM",
+          "reporter_role": "OPD Floor Attendant",
+          "incident_description": "Evening rain made OPD ramp slippery; several near-falls at entrance. Please cordon and redirect foot traffic until mopped.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-12-09",
+          "time": "05:55 PM",
+          "reporter_role": "Transport Supervisor",
+          "incident_description": "Suspected attempt to remove a staff motorcycle from back parking; plate partly covered. Need CCTV pull and gate hold.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-10",
+          "time": "10:35 PM",
+          "reporter_role": "House Officer, Medicine",
+          "incident_description": "Request Security escort for two female interns to quarters; path behind dialysis unit poorly lit tonight.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-12-11",
+          "time": "11:22 AM",
+          "reporter_role": "Maternity Ward Sister",
+          "incident_description": "Infant tag alarm triggered (Code Pink) in postnatal ward; humidity may have affected sensor. Immediate exit checks and sweep needed.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-12-11",
+          "time": "03:05 PM",
+          "reporter_role": "Biomedical Technician",
+          "incident_description": "Two OPD-facing CCTV domes fogged after showers; request increased Security rounds and manual entrance monitoring until cleared.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-12-12",
+          "time": "09:18 AM",
+          "reporter_role": "Main Gate Receptionist",
+          "incident_description": "Visitor attempted to bring an arrack bottle to Surgical Ward. Please search and deny entry as per policy.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-12-13",
+          "time": "08:47 PM",
+          "reporter_role": "MO OPD",
+          "incident_description": "Patient became verbally aggressive at pharmacy window, pounding shutter for sedatives. Security to de-escalate and remove from area.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-15",
+          "time": "06:30 AM",
+          "reporter_role": "Pharmacy In-Charge",
+          "incident_description": "Tampered padlock found at controlled drug cage during morning check. Request urgent seal, scene protection, and CCTV review (11 PM–5 AM).",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-12-16",
+          "time": "02:20 PM",
+          "reporter_role": "Front Office Executive",
+          "incident_description": "Rain pushed excess visitors into lobby; many refusing to leave post visiting time. Need Security to enforce hours and clear lifts.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-16",
+          "time": "04:55 PM",
+          "reporter_role": "OPD Nurse",
+          "incident_description": "Attender reports wallet missing in OPD Bay C. Please review cameras and detain suspected pickpocket near ticket counter.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-12-17",
+          "time": "09:05 AM",
+          "reporter_role": "Supplies Officer",
+          "incident_description": "Unregistered gas cylinder vendor at service gate without gate pass. Security to stop entry and verify with Procurement.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-12-19",
+          "time": "07:42 PM",
+          "reporter_role": "Medical Registrar, Geriatrics",
+          "incident_description": "Disoriented elderly patient wandered toward rear exit without attender. Please intercept and return to Ward 8.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-20",
+          "time": "01:12 PM",
+          "reporter_role": "HR Officer",
+          "incident_description": "Ex-casual staff attempted lab access using old ID. Security to confiscate card and log trespass.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-22",
+          "time": "11:10 PM",
+          "reporter_role": "Nursing Officer, ETU",
+          "incident_description": "Request after-hours Security escort to staff bus stop; group of men loitering outside side gate.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-12-23",
+          "time": "02:35 PM",
+          "reporter_role": "Pharmacy Storekeeper",
+          "incident_description": "Male loitering near pharmacy loading bay, recording on phone. Security to check purpose and clear restricted area.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-12-24",
+          "time": "09:02 AM",
+          "reporter_role": "Ambulance Unit Coordinator",
+          "incident_description": "Private car parked in ambulance bay blocking inbound transfer. Need immediate Security action to locate driver and clear zone.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-12-25",
+          "time": "04:28 PM",
+          "reporter_role": "OPD Admin Clerk",
+          "incident_description": "Child separated from mother in crowded OPD. Request Security to activate child-locate and monitor all exits.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-27",
+          "time": "01:50 AM",
+          "reporter_role": "Waste Management Supervisor",
+          "incident_description": "Pack of stray dogs entered via rear gate toward waste yard. Security to secure gate and patrol till animal control arrives.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-12-28",
+          "time": "07:15 PM",
+          "reporter_role": "Administrative Officer (On-call)",
+          "incident_description": "Evening humidity and brief rain fogged CCTV at back gate. Please post a guard and log all movements manually.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-12-30",
+          "time": "05:25 PM",
+          "reporter_role": "Nursing Sister, Surgical",
+          "incident_description": "Medicine trolley missing during shift change between Ward 5 and theatre. Seal exits and review corridor cameras urgently.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-12-31",
+          "time": "11:20 PM",
+          "reporter_role": "Matron on Duty",
+          "incident_description": "New Year crowd gathered at main gate with horns disturbing neonatal unit. Security to move crowd off perimeter and control fireworks.",
+          "urgency": "High"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,2186 @@
+[
+  {
+    "month": "January",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-01-01",
+          "time": "08:35 AM",
+          "reporter_role": "OPD Cashier",
+          "incident_description": "HMS still charging 15% VAT for lab panels this morning; new 18% rate effective today. Need Finance to correct bills already printed and issue adjusted tax invoices.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-01",
+          "time": "10:05 AM",
+          "reporter_role": "Pharmacy In-Charge",
+          "incident_description": "Imported meds showing VAT 18% plus SSCL 2.5% added incorrectly to tax base. Please review pricing template and reprint affected invoices before EOD.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-01",
+          "time": "02:15 PM",
+          "reporter_role": "Hospital Administrator",
+          "incident_description": "Consultant session revenue-share needs recalibration post VAT change for January clinics. Request Finance to update settlement sheets this week.",
+          "urgency": "Low"
+        },
+        {
+          "date": "2025-01-03",
+          "time": "09:10 AM",
+          "reporter_role": "OPD Cashier",
+          "incident_description": "Note counter jammed and EOD variance shows LKR 4,500 short. Kindly reconcile cashbook and authorize write-off/adjustment.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-01-05",
+          "time": "11:50 AM",
+          "reporter_role": "Ward Clerk - Surgical Ward",
+          "incident_description": "Discharged patient (BHT 23/00145) deposit refund pending despite insurer AIA guarantee on file. Please process balance transfer to guardian today.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-01-07",
+          "time": "03:20 PM",
+          "reporter_role": "HR Officer",
+          "incident_description": "December overtime for theatre orderlies (32 hours) not pulled into payroll. Need Finance/Payroll to add before pay run lock.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-08",
+          "time": "02:45 PM",
+          "reporter_role": "Radiology Receptionist",
+          "incident_description": "Short rain coincided with POS network drop; five card payments show bank approval but not posted in HMS. Finance to reconcile POS MID and issue receipts.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-08",
+          "time": "04:10 PM",
+          "reporter_role": "Stores Keeper",
+          "incident_description": "Oxygen cylinder invoice includes new transport surcharge from today; PO not updated, GRN mismatch blocking payment. Request AP to raise debit note/PO amendment.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-01-10",
+          "time": "01:05 PM",
+          "reporter_role": "Laboratory Manager",
+          "incident_description": "TPA MedNet Lanka rejected three claims citing ICD-10 code mismatch and missing consultant signature. Finance Claims Team please correct and resubmit.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-01-12",
+          "time": "11:15 AM",
+          "reporter_role": "ETU Nursing Officer",
+          "incident_description": "ECG charged twice when patient moved ETU to OPD. Need credit note and LankaQR refund to guardian before discharge.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-13",
+          "time": "07:25 PM",
+          "reporter_role": "Medical Records Officer",
+          "incident_description": "Evening rain caused minor seepage; some Dec ICU originals damp, QR on bills unreadable. Please regenerate duplicate tax invoices for audit bundle.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-01-13",
+          "time": "11:30 AM",
+          "reporter_role": "Procurement Officer",
+          "incident_description": "Supplier early-payment discount (2%) on sutures invoice lapses tomorrow. AP needs to process today to avail discount.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-15",
+          "time": "09:00 AM",
+          "reporter_role": "Consultant Physician",
+          "incident_description": "eChannelling commission deducted twice on seven 14th Jan bookings; my session settlement is short. Finance to review and rectify before Friday.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-01-17",
+          "time": "05:55 PM",
+          "reporter_role": "Pharmacy Dispenser",
+          "incident_description": "LankaQR showed success on patient phone (Ref: LQ-17492), but no ledger entry at cashier. Kindly verify with bank and post receipt.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-19",
+          "time": "09:20 AM",
+          "reporter_role": "Accounts Assistant",
+          "incident_description": "Morning rain delayed cheque courier; risk of missing bank 3 PM cut-off for salary funding. Request approval to use online transfer as backup.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-19",
+          "time": "12:10 PM",
+          "reporter_role": "Housekeeping Supervisor",
+          "incident_description": "Chemmaster hasn’t been paid since Nov; they are holding disinfectant delivery. AP to clear pending GRN invoices urgently to avoid stockout.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-20",
+          "time": "10:40 AM",
+          "reporter_role": "Ward Matron - Paediatrics",
+          "incident_description": "Cash receipt for discharge bill printed with wrong guardian name. Please cancel and reissue correct invoice to close the file today.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-01-22",
+          "time": "02:00 PM",
+          "reporter_role": "HR Manager",
+          "incident_description": "EPF/ETF bank e-submission file rejected due to new format. Need Payroll to regenerate and submit before statutory deadline.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-24",
+          "time": "08:50 AM",
+          "reporter_role": "Physiotherapy In-Charge",
+          "incident_description": "Corporate client People’s Leasing has exceeded credit limit; today’s sessions on hold. AR to approve temporary extension or request prepayment.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-01-26",
+          "time": "09:45 AM",
+          "reporter_role": "OPD Coordinator",
+          "incident_description": "January OPD petty cash floats not replenished; counters short of change causing queues. Finance please top-up and update logbook.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-01-28",
+          "time": "03:30 PM",
+          "reporter_role": "OPD Cashier",
+          "incident_description": "QR scanner  is jammed; two LankaQR amounts keyed manually don’t match bank confirmations. Need reconciliation and adjustment entries.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-28",
+          "time": "05:10 PM",
+          "reporter_role": "Laboratory Technician",
+          "incident_description": "Agrahara claim requires original VAT invoice but system prints 'Duplicate'. Finance to reissue proper tax invoice so claim doesn’t lapse.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-01-30",
+          "time": "01:40 PM",
+          "reporter_role": "Theatre In-Charge",
+          "incident_description": "Locum anaesthetist payments for January not processed; surgeons warning of cancellations. Please release payments today.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-01-31",
+          "time": "10:05 AM",
+          "reporter_role": "Internal Auditor",
+          "incident_description": "Surprise cash count at OPD safe short by LKR 2,000; access log shows gaps. Request daily reconciliation and variance report from Finance immediately.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-01-31",
+          "time": "04:25 PM",
+          "reporter_role": "Dietician",
+          "incident_description": "Dairy supplier invoice dated 25th billed at 15% VAT; should be 18%. AP to obtain corrected tax invoice before month-end close.",
+          "urgency": "Medium"
+        }
+      ]
+    }
+  },
+  {
+    "month": "February",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-02-01",
+          "time": "09:15 AM",
+          "reporter_role": "OPD Cashier",
+          "incident_description": "OPD card POS intermittently failed since noon; several bills marked cash. Need Finance to reclassify and settle with bank.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-02-01",
+          "time": "04:40 PM",
+          "reporter_role": "Ward Clerk - Surgical",
+          "incident_description": "Patient shifted to private room at 1:00 pm; room rate not updated on bill. Please adjust from transfer time.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-02",
+          "time": "11:05 AM",
+          "reporter_role": "Physiotherapy Unit Admin",
+          "incident_description": "Package price updated at unit, but HIS still charges old rate for 10 OPD visits. Request rate correction and credit notes.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-02-04",
+          "time": "08:30 AM",
+          "reporter_role": "HR Officer",
+          "incident_description": "January ETU nurse overtime missing in payroll draft. Biometric night logs exported; please correct payroll before release.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-05",
+          "time": "02:20 PM",
+          "reporter_role": "Pharmacy Supervisor",
+          "incident_description": "System lag printed 12 labels but didn’t post to IP bills. AR needs manual postings against respective MRNs.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-02-05",
+          "time": "06:55 PM",
+          "reporter_role": "Consultant Clinic Coordinator",
+          "incident_description": "Doctor fee schedule revised today; two sessions billed at old share. Please recalculate doctor share and adjust settlement.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-02-07",
+          "time": "10:10 AM",
+          "reporter_role": "Procurement Officer",
+          "incident_description": "Lab reagent invoice shows duplicate VAT. Payable on hold; request debit note and GRN correction.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-02-08",
+          "time": "03:05 PM",
+          "reporter_role": "Imaging Front Desk Executive",
+          "incident_description": "Insurer portal down; 9 CT cases done on credit. Need manual guarantee letters uploaded for claim submission.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-08",
+          "time": "07:50 PM",
+          "reporter_role": "Security Officer (Cash Transit)",
+          "incident_description": "One bank slip is illegible. Finance to verify till totals and reprint supports before cutoff.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-10",
+          "time": "09:00 AM",
+          "reporter_role": "Accounts Receivable Officer",
+          "incident_description": "Two Agrahara claims rejected for unclear consultant stamp. Need re-stamp and resubmission within 14 days.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-02-11",
+          "time": "01:35 PM",
+          "reporter_role": "Theatre Matron",
+          "incident_description": "Three implant charges missing on OT estimates. Vendor consignment notes attached; please raise interim invoices to avoid discharge delay.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-12",
+          "time": "08:55 AM",
+          "reporter_role": "Biomedical Engineer",
+          "incident_description": "January dialysis machine rental not accrued. Vendor requests PO-backed payment; please accrue and process AP.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-02-12",
+          "time": "05:20 PM",
+          "reporter_role": "OPD Supervisor",
+          "incident_description": "Midday crowd led to manual receipts; Rs 38,500 needs mapping to HIS invoices. Cash/POS reconciliation pending.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-14",
+          "time": "09:18 AM",
+          "reporter_role": "Radiology Consultant",
+          "incident_description": "Interventional case used a third stent emergently; pre-auth covers two. Finance to obtain add-on approval and adjust bill.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-02-14",
+          "time": "04:45 PM",
+          "reporter_role": "Medical Records Officer",
+          "incident_description": "Afternoon thundershowers dampened some files; scanned discharges were OCR-rejected by insurer. Please coordinate re-scan and extend deadlines.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-15",
+          "time": "12:10 PM",
+          "reporter_role": "Wards Billing Executive",
+          "incident_description": "NICU estimate missing phototherapy tariff due to mapping error. Need correction before parent settlement.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-17",
+          "time": "02:05 PM",
+          "reporter_role": "HR Assistant",
+          "incident_description": "Locum MO claim sheets in; APIT tax codes missing for two doctors. Update master and recalc net pay before bank file.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-02-18",
+          "time": "05:55 PM",
+          "reporter_role": "Facilities Manager",
+          "incident_description": "Heat increased chiller runtime; Feb CEB bill tracking ~18% over budget. Request utility forecast update and release of additional vote.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-02-19",
+          "time": "08:40 AM",
+          "reporter_role": "IT Officer",
+          "incident_description": "Nightly payment gateway settlement failed; e-channel collections (~Rs 1.2M) not posted to AR. Need manual JV with audit trail.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-19",
+          "time": "03:25 PM",
+          "reporter_role": "Ward Sister - ICU",
+          "incident_description": "Patient moved HDU to ICU at 2:50 pm; monitor rental started but old bed rate still billing. Adjust from transfer time.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-21",
+          "time": "11:47 AM",
+          "reporter_role": "Clinic Cashier",
+          "incident_description": "Foreign patient paid in USD; system used outdated rate. Short by Rs 12,600; apply today’s TT rate and issue supplementary invoice.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-02-22",
+          "time": "09:33 AM",
+          "reporter_role": "Stores In-Charge",
+          "incident_description": "SPC antibiotic invoice lists 30 packs; GRN shows 28. Please hold payment and raise quantity discrepancy with vendor.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-02-25",
+          "time": "07:15 AM",
+          "reporter_role": "Night Duty Supervisor",
+          "incident_description": "Morning safe check shows Rs 10,000 over at OPD counter. Request Finance to review CCTV, reconcile receipts, and pass adjustment.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-02-26",
+          "time": "08:20 PM",
+          "reporter_role": "Branch Clinic Coordinator",
+          "incident_description": "Evening gusty rain delayed courier with signed credit bills; month-end insurer submission at risk. Please accept scanned copies tonight.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-02-28",
+          "time": "04:05 PM",
+          "reporter_role": "Internal Audit Executive",
+          "incident_description": "Two units overspent petty cash without vouchers. Need Finance to regularize via IOUs before February close.",
+          "urgency": "Medium"
+        }
+      ]
+    }
+  },
+  {
+    "month": "March",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-03-01",
+          "time": "08:25 AM",
+          "reporter_role": "OPD Registration Clerk",
+          "incident_description": "New ECG tariff didn’t load on the billing system; a few patients were overcharged by about Rs. 200 each. Please correct the rate and arrange refunds/revised receipts.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-03-03",
+          "time": "05:10 PM",
+          "reporter_role": "Pharmacy Manager",
+          "incident_description": "Agrahara claims for six OPD prescriptions bounced due to drug code mismatch after the HIS update. Need Finance claims team to correct and resubmit before month-end.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-03",
+          "time": "07:35 PM",
+          "reporter_role": "Cashier - Private Wing",
+          "incident_description": "Thunderstorm caused a power dip; POS captured 11 card payments but HIS didn’t post them. Please reconcile and confirm settlement before tonight’s bank batch.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-05",
+          "time": "10:50 AM",
+          "reporter_role": "Ward Nurse - Surgical",
+          "incident_description": "Discharge bill shows private room rate instead of semi. Family is waiting—request Finance to reclassify bed charges and reissue the receipt.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-07",
+          "time": "09:15 AM",
+          "reporter_role": "Procurement Officer",
+          "incident_description": "Linen supplier is holding delivery; last month’s invoice is unpaid pending WHT certificate. Need AP to issue WHT and release payment urgently.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-07",
+          "time": "02:20 PM",
+          "reporter_role": "HR Officer",
+          "incident_description": "March payroll preview misses ICU night allowance and OT for two shifts after roster import. Please rectify before the bank file upload.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-03-08",
+          "time": "11:05 AM",
+          "reporter_role": "Radiology MO",
+          "incident_description": "One CT case got billed twice due to duplicate order entry. Kindly void the duplicate and adjust the insurer claim.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-10",
+          "time": "03:40 PM",
+          "reporter_role": "Lab Supervisor",
+          "incident_description": "Corporate client AR shows unapplied receipts for Feb (ABC Bank wellness camp). Please allocate against pending invoices to prevent dunning notices.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-03-12",
+          "time": "08:10 AM",
+          "reporter_role": "Theatre Matron",
+          "incident_description": "Orthopaedic implant vendor will not release consignment until Rs. 940,000 from Feb cases is cleared; PO/GRN mismatch flagged. Request AP to resolve and pay today.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-03-12",
+          "time": "12:55 PM",
+          "reporter_role": "Insurance Desk Officer",
+          "incident_description": "Agrahara portal is intermittently down; today’s OPD claims are queued offline. Please coordinate deadline tolerance and push the batch once stable.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-13",
+          "time": "06:30 PM",
+          "reporter_role": "Consultant Physician - Medical Unit",
+          "incident_description": "Private ward patient disputes ICU surcharge not supported on the BHT. Please audit and remove if not justified before discharge.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-03-15",
+          "time": "07:50 AM",
+          "reporter_role": "Stores In-Charge",
+          "incident_description": "OPD dressing clinic imprest (Rs. 15,000) is exhausted after the weekend. Request petty cash top-up to start morning sessions.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-03-16",
+          "time": "11:35 AM",
+          "reporter_role": "Biomedical Engineer",
+          "incident_description": "Vendor invoice for ventilator PM has the wrong VAT rate. Need AP to correct the tax code and reprocess payment.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-03-16",
+          "time": "05:25 PM",
+          "reporter_role": "Cashier - OPD",
+          "incident_description": "Several thermal receipts blurred. Please reprint and note the exception for audit before EOD.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-17",
+          "time": "09:40 AM",
+          "reporter_role": "Ward Clerk - Maternity",
+          "incident_description": "Final bill missed the maternity package discount on labs and scans. Kindly apply package rates and arrange a refund to the family.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-19",
+          "time": "08:05 AM",
+          "reporter_role": "Security Supervisor",
+          "incident_description": "Fuel supplier placed us on credit hold; Rs. 1.2M diesel invoice overdue and generator refill due tomorrow. Need immediate payment release.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-03-19",
+          "time": "03:15 PM",
+          "reporter_role": "Quality Officer",
+          "incident_description": "Internal audit found two theatre cash refunds without counterfoils. Request Finance to trace receipts and update the audit trail.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-03-21",
+          "time": "01:25 PM",
+          "reporter_role": "Consultant Surgeon",
+          "incident_description": "Implant and consumable charges posted under the wrong procedure code; pre-auth number doesn’t match. Please correct codes to avoid claim denial.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-22",
+          "time": "10:30 AM",
+          "reporter_role": "Physiotherapy Unit Head",
+          "incident_description": "Corporate tariff (Union Bank contract) not applied on four inpatient physio sessions; AR raised at rack rate. Need rebill and credit note.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-03-22",
+          "time": "04:45 PM",
+          "reporter_role": "IT Officer - HIS",
+          "incident_description": "After the burst of rain, the HIS–Finance interface queue is stuck; 73 finalized encounters not posted to GL. Request Finance to clear before EOD.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-24",
+          "time": "09:00 AM",
+          "reporter_role": "Dietary Supervisor",
+          "incident_description": "Rice supplier warned of cutting Monday delivery; Rs. 350,000 bill is past terms. Please process AP payment today.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-25",
+          "time": "11:10 AM",
+          "reporter_role": "Payroll Executive",
+          "incident_description": "Bank rejected salary file; four locum MOs have invalid account formats. Need corrected bank file before 03:00 PM cut-off.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-03-27",
+          "time": "02:05 PM",
+          "reporter_role": "Finance Intern",
+          "incident_description": "Q2 budget upload shows Radiology negative variance due to duplicated OT estimate. Please review and reforecast before CFO sign-off.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-03-30",
+          "time": "07:20 PM",
+          "reporter_role": "Ward Sister - Orthopaedics",
+          "incident_description": "Evening thunder delayed insurer courier; discharge patient needs final guarantee letter. Kindly arrange email guarantee and hold deposit till received.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-03-31",
+          "time": "08:35 PM",
+          "reporter_role": "Front Office Executive - Private Wing",
+          "incident_description": "eChannelling prepayments for five consults didn’t sync to HIS; patients requesting refunds. Please verify merchant settlement and process refunds.",
+          "urgency": "Medium"
+        }
+      ]
+    }
+  },
+  {
+    "month": "April",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-04-01",
+          "time": "08:35 AM",
+          "reporter_role": "OPD Billing Clerk",
+          "incident_description": "New April consultant tariff not loaded in HMS; morning OPD bills undercharged by ~10% (23 patients). Please correct and issue debit notes.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-04-02",
+          "time": "08:15 PM",
+          "reporter_role": "Pharmacy Cashier",
+          "incident_description": "Lightning caused a brief power dip; two POS terminals didn't settle EOD. LKR 364,500 in card sales not posted—need manual batch close and reconciliation.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-02",
+          "time": "09:40 PM",
+          "reporter_role": "Insurance Coordinator",
+          "incident_description": "Agrahara and private insurer portals timed out during storm; 18 e-claims show submitted without receipt. Please confirm transmission or resubmit before cutoff.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-04",
+          "time": "07:20 PM",
+          "reporter_role": "Administrative Officer",
+          "incident_description": "Bank cash pickup skipped due to heavy rain/wind; OPD+Lab cash exceeds safe limit by ~LKR 480,000. Request emergency morning pickup and interim register entry.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-05",
+          "time": "11:05 AM",
+          "reporter_role": "Theatre Stores Officer",
+          "incident_description": "Supplier invoice for sutures shows 520 units; GRN logged 500. Value difference LKR 62,500. Please hold AP and obtain a credit note.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-04-06",
+          "time": "10:10 PM",
+          "reporter_role": "Medical Records Executive",
+          "incident_description": "Late storm caused moisture damage to scans; six insurer attachments are unreadable and got auto-rejected. Need re-scan and re-upload tonight.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-04-08",
+          "time": "04:15 PM",
+          "reporter_role": "Facilities Manager",
+          "incident_description": "Cafeteria contractor says March invoice unpaid after bank change. Update vendor master (new People's Bank a/c) and release LKR 220,000 to avoid service disruption.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-04-10",
+          "time": "08:55 PM",
+          "reporter_role": "IT Officer (Billing Systems)",
+          "incident_description": "During lightning, IPG callbacks failed; eChannelling online payments show paid in gateway but not in HMS (12 transactions). Need Finance to reconcile and post.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-10",
+          "time": "07:40 PM",
+          "reporter_role": "Radiology Reception Supervisor",
+          "incident_description": "CT list halted 2 hours for safety; 8 patients requested refunds or rebooking. Please authorise refunds totalling LKR 142,000 and adjust revenue.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-04-12",
+          "time": "05:35 PM",
+          "reporter_role": "HR Officer (Payroll)",
+          "incident_description": "SLIPS upload for locum payments (LKR 1.2M, 38 doctors) timed out in storm; cutoff missed. Need CEFTS run or cash advance by morning.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-14",
+          "time": "06:50 PM",
+          "reporter_role": "Security Supervisor",
+          "incident_description": "Avurudu bank holidays : deposits stacked and safe nearing limit (~LKR 2.5M). Request holiday vault arrangement and provisional receipts.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-15",
+          "time": "02:25 PM",
+          "reporter_role": "Ambulance Coordinator",
+          "incident_description": "Ambulance toll slips got wet in the rain; ink bled and claims stuck. Please verify via e-receipt portal and clear reimbursements.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-04-15",
+          "time": "12:10 PM",
+          "reporter_role": "Procurement Executive",
+          "incident_description": "Oxygen supplier early-payment discount 2% on LKR 2.1M expires today. Please process RTGS before 04:00 PM to retain discount.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-16",
+          "time": "01:30 PM",
+          "reporter_role": "OPD Cashier",
+          "incident_description": "Midday audit shows till short by LKR 5,000; ECG tariff auto-overrode to old code during rush. Request Finance to investigate and adjust.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-04-18",
+          "time": "09:05 PM",
+          "reporter_role": "Theatre Matron",
+          "incident_description": "Pre-auth lines were down; 3 implants used on assurance patients without prior approval. Finance to file retro authorisations urgently.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-19",
+          "time": "10:00 AM",
+          "reporter_role": "Medical Secretary",
+          "incident_description": "Consultant fee split for Saturday clinic not posted; two consultants awaiting transfer (~LKR 180,000). Please post and remit today.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-04-20",
+          "time": "03:45 PM",
+          "reporter_role": "Lab Manager",
+          "incident_description": "Petty cash vouchers for reagents totalling LKR 78,300 lack approvals; month-close pending. Need Finance to regularise and post.",
+          "urgency": "Low"
+        },
+        {
+          "date": "2025-04-20",
+          "time": "07:55 PM",
+          "reporter_role": "Ward Clerk - 3B",
+          "incident_description": "Power trip during storm corrupted billing; 17 inpatient folios missing room charges. Please restore from backup and re-bill before discharge.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-04-22",
+          "time": "05:20 PM",
+          "reporter_role": "Discharge Nurse",
+          "incident_description": "Surgical ward POS offline after thunder; 5 discharges waiting with cards. Request manual imprinter/4G backup and later batch posting.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-23",
+          "time": "11:40 AM",
+          "reporter_role": "Physiotherapy Receptionist",
+          "incident_description": "Physio package billed twice to one OPD patient; insurer copy already printed. Please reverse duplicate and notify insurer to avoid denial.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-04-24",
+          "time": "08:30 PM",
+          "reporter_role": "Accounts Assistant",
+          "incident_description": "Leak during gusts dampened cheque box; ink on 3 post-dated cheques smeared. Bank may reject. Need replacements from payers tomorrow.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-26",
+          "time": "04:05 PM",
+          "reporter_role": "Internal Auditor",
+          "incident_description": "Audit note: pharmacy expiry write-offs (LKR 153,000) lack approval trail in system. Finance to compile support and pass journal.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-04-28",
+          "time": "09:15 AM",
+          "reporter_role": "OPD In-Charge",
+          "incident_description": "April OT for attendants (192 hrs) not in payroll preview. Please run off-cycle adjustment and reflect in payslips.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-29",
+          "time": "06:25 PM",
+          "reporter_role": "Finance Systems Analyst",
+          "incident_description": "CEFTS batch for consultant payouts returned—11 beneficiaries have wrong NIC in bank master. Need corrections and re-send tonight.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-04-30",
+          "time": "10:50 AM",
+          "reporter_role": "ICU Stores Nurse",
+          "incident_description": "Two ICU GRNs posted without cost centre; month-end close blocked. Kindly assign ICU/CCU codes and finalise posting.",
+          "urgency": "High"
+        }
+      ]
+    }
+  },
+  {
+    "month": "May",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-05-01",
+          "time": "02:40 PM",
+          "reporter_role": "OPD Cashier",
+          "incident_description": "POS at OPD are out; we issued 47 manual receipts (Book A172). Finance to reconcile and post the cash/cards against MRNs today.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-01",
+          "time": "05:20 PM",
+          "reporter_role": "Procurement Officer (CSSD)",
+          "incident_description": "Vendor for sterilization pouches declined cheque collection due to gusty weather and asked for EFT before dispatch. Please process urgent transfer to avoid CSSD stock-out.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-03",
+          "time": "11:05 AM",
+          "reporter_role": "Claims Executive",
+          "incident_description": "Request Finance approval to e-submit Sri Lanka Insurance and Union Assurance claim bundles and send extension letters for deadlines.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-04",
+          "time": "09:10 AM",
+          "reporter_role": "Nursing Officer-in-Charge (ICU)",
+          "incident_description": "April ICU on-call allowances for 6 nurses not captured in the payroll register. Finance Payroll to add arrears in May cycle.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-05-05",
+          "time": "03:25 PM",
+          "reporter_role": "Chief Pharmacist",
+          "incident_description": "Meropenem shipment on hold; supplier flagged overdue Invoice INV-2317. Finance AP to clear payment today or provide remittance proof.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-05-06",
+          "time": "08:30 PM",
+          "reporter_role": "Medical Records Supervisor",
+          "incident_description": "Leak during heavy rain damaged printed discharge bills for 12 inpatients awaiting insurer stamping. Finance AR to regenerate bills and share soft copies.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-07",
+          "time": "04:10 PM",
+          "reporter_role": "Theatre Coordinator",
+          "incident_description": "Surgical OT overtime spend exceeded monthly allocation by 18%. Request Finance to revise forecast and open a sub cost-center for weekend cases.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-05-08",
+          "time": "09:35 AM",
+          "reporter_role": "Ward Clerk - Surgical",
+          "incident_description": "Petty cash float exhausted; bank delayed due to rain and wind. Need emergency top-up for patient transfer hire charges today.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-09",
+          "time": "11:50 AM",
+          "reporter_role": "Front Office Supervisor",
+          "incident_description": "We missed bank cut-off due to continuous rain; deposit slip dated 08th but posted on 09th. Finance to advise on backdating vs reconciliation adjustment.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-05-10",
+          "time": "07:55 PM",
+          "reporter_role": "Channelling Desk Executive",
+          "incident_description": "Receipt printer rebooted and duplicated numbers R-105432 to R-105436. Finance to audit and cancel the duplicate series in the cashiering system.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-05-11",
+          "time": "08:20 PM",
+          "reporter_role": "Patient Relations Officer",
+          "incident_description": "Case cancelled; card refund LKR 38,500 pending as payment gateway went offline during the downpour. Request manual refund processing by Finance.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-12",
+          "time": "03:00 PM",
+          "reporter_role": "Medical Coding Officer",
+          "incident_description": "Insurer rejected Ward 3 claim for wrong ICD-10 and tariff map. Finance Claims to correct coding, attach consultant endorsement, and resubmit.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-05-13",
+          "time": "06:40 PM",
+          "reporter_role": "Catering Manager",
+          "incident_description": "Dinner supply threatened; vendor insists last month’s bill is unpaid. Waterlogging has disrupted them already—please release AP payment today.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-05-14",
+          "time": "10:25 AM",
+          "reporter_role": "HR Officer (Payroll)",
+          "incident_description": "APIT and ETF were miscalculated for a MO with locum hours; double deduction flagged in previews. Finance Payroll to correct before payslips issue.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-15",
+          "time": "01:15 PM",
+          "reporter_role": "Ambulance Coordinator",
+          "incident_description": "Toll and parking receipts from transfers got smudged in prolonged rain. Finance to accept scanned duplicates or obtain RDA e-statements for reimbursement.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-05-16",
+          "time": "02:05 PM",
+          "reporter_role": "OPD Supervisor",
+          "incident_description": "Corporate client ABC Garments exceeded credit limit; staff need direction on co-pay. Finance to update contract terms and system credit block.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-17",
+          "time": "09:00 PM",
+          "reporter_role": "OPD Cashier (Night)",
+          "incident_description": "Request Finance approval to exchange unfit notes at bank and adjust the cashbook.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-05-18",
+          "time": "10:45 AM",
+          "reporter_role": "Biomedical Engineer",
+          "incident_description": "CT scanner asset insurance premium due tomorrow; insurer warned of lapse. Finance to process payment and share cover note to keep service active.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-05-19",
+          "time": "03:30 PM",
+          "reporter_role": "Radiology Receptionist",
+          "incident_description": "Network down in rain; took 28 card payments via manual imprints. Finance to batch process and reconcile with the EOD list.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-20",
+          "time": "09:20 AM",
+          "reporter_role": "Transport Manager",
+          "incident_description": "Ceypetco price cut in effect; please revise ambulance fuel surcharge in tariff and issue credit notes for last week’s transfers.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-05-21",
+          "time": "11:10 AM",
+          "reporter_role": "Laboratory Manager",
+          "incident_description": "SPC distributor holding reagents over 3-way match issues (PO vs GRN vs invoice). Finance AP to clear discrepancies and release payment.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-22",
+          "time": "02:25 PM",
+          "reporter_role": "HR Assistant",
+          "incident_description": "Vesak festival advances for 17 attendants not posted. Finance Payroll to run an off-cycle disbursement today.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-05-23",
+          "time": "04:50 PM",
+          "reporter_role": "Senior Claims Officer",
+          "incident_description": "Agrahara portal timing out in thunderstorms; month-end cut-off at risk. Need Finance to issue extension request and approve physical courier to Colombo.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-05-24",
+          "time": "12:05 PM",
+          "reporter_role": "Internal Auditor",
+          "incident_description": "ICU implant billed under wrong tariff; detected in pre-close check. Finance to raise credit note and rebill to correct cost center before closure.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-05-25",
+          "time": "07:40 PM",
+          "reporter_role": "Medical Officer-in-Charge (Mobile Clinic)",
+          "incident_description": "Transport petty cash exceeded by LKR 8,200. Request Finance to regularize settlement and top-up for return leg.",
+          "urgency": "High"
+        }
+      ]
+    }
+  },
+  {
+    "month": "June",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-06-01",
+          "time": "08:15 AM",
+          "reporter_role": "OPD Cashier",
+          "incident_description": "Card terminals went offline. we issued manual receipts for 31 OPD visits—need reconciliation and batch settlement.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-01",
+          "time": "05:40 PM",
+          "reporter_role": "Procurement Officer",
+          "incident_description": "Courier couldn’t reach due to the evening storm; reagent vendor cheques will miss due date, risking penalty—please arrange online transfer today.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-03",
+          "time": "11:05 AM",
+          "reporter_role": "Front Office Executive",
+          "incident_description": "eChannelling settlement shows the Orthopaedics clinic overcharged gateway fees for two slots; request verification and reversal.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-06-05",
+          "time": "09:20 AM",
+          "reporter_role": "Nursing In-Charge, Surgical Ward 3",
+          "incident_description": "May night-duty allowance for six nurses is missing in the payroll draft; please correct before bank file upload.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-06",
+          "time": "10:10 AM",
+          "reporter_role": "Pharmacy Manager",
+          "incident_description": "Inpatient stent (consignment) used in Cath Lab not billed due to delayed GRN; need AR adjustment and insurer claim addendum.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-06",
+          "time": "07:30 PM",
+          "reporter_role": "Medical Records Officer",
+          "incident_description": "please request deadline extension and permit scanned copies of SLI General claims bundle.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-08",
+          "time": "02:25 PM",
+          "reporter_role": "IT Support, Cashiers",
+          "incident_description": "POS pushed a duplicate batch for afternoon OPD—need immediate reversals with the acquiring bank.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-06-10",
+          "time": "03:15 PM",
+          "reporter_role": "International Patient Coordinator",
+          "incident_description": "Cashier used an outdated FX rate on a USD invoice; requires LKR refund adjustment and reissue of bill.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-06-11",
+          "time": "11:40 AM",
+          "reporter_role": "Administrative Officer",
+          "incident_description": "CEB bill picked up a late fee after yesterday’s CEFTS outage during rain; please lodge waiver request and settle today.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-06-11",
+          "time": "08:05 PM",
+          "reporter_role": "Theatre Coordinator",
+          "incident_description": "Insurer pre-auth number not captured for this evening’s laparoscopic case; finance to obtain retro authorization to avoid denial.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-13",
+          "time": "09:50 AM",
+          "reporter_role": "Transport Supervisor",
+          "incident_description": "Fuel supplier invoice shows wrong VAT and SSCL rates; need corrected tax invoice before posting to AP.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-06-15",
+          "time": "12:10 PM",
+          "reporter_role": "OPD Supervisor",
+          "incident_description": "Brief heavy rain knocked the LankaQR scanner offline; we collected cash for 54 tickets—please reconcile manual log to HIS.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-06-15",
+          "time": "04:55 PM",
+          "reporter_role": "Consultant Liaison Officer",
+          "incident_description": "Shared procedure fee split posted 50:50 instead of 60:40; adjust before consultant payout run.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-17",
+          "time": "09:05 AM",
+          "reporter_role": "HR Executive",
+          "incident_description": "Flooded staff car park led to unplanned night OT for security; include in June payroll with EPF/ETF and confirm cost centre.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-06-17",
+          "time": "06:20 PM",
+          "reporter_role": "Claims Coordinator",
+          "incident_description": "Courier delayed; 40 Allianz claims will miss cut-off—please email scans and secure acceptance.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-18",
+          "time": "08:30 AM",
+          "reporter_role": "Supply Chain Executive",
+          "incident_description": "Early-payment discount on SPC invoice expires today; internet was unstable after the downpour—request priority online payment.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-20",
+          "time": "01:05 PM",
+          "reporter_role": "Radiology Receptionist",
+          "incident_description": "System froze during the rain burst; CT contrast was billed twice—need credit note and insurer notification.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-06-20",
+          "time": "05:35 PM",
+          "reporter_role": "IT Officer, Revenue Cycle",
+          "incident_description": "LankaQR deposits from OPD (Rs 187,500) not interfacing to HIS since noon; please create AR suspense and trace with the bank.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-06-21",
+          "time": "10:25 AM",
+          "reporter_role": "Payroll Officer",
+          "incident_description": "Updated PAYE brackets not applied to two junior MOs; June deductions incorrect—recalculate and process arrears.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-23",
+          "time": "02:50 PM",
+          "reporter_role": "Nephrology Unit Manager",
+          "incident_description": "Dialysis consumable budget exceeded due to SPC price revision; request mid-year forecast update before audit committee.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-24",
+          "time": "09:10 AM",
+          "reporter_role": "OPD Cashier",
+          "incident_description": "Handwritten receipts issued 08:45–09:15—please post to ledgers with scans attached.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-06-24",
+          "time": "03:40 PM",
+          "reporter_role": "Coding Officer",
+          "incident_description": "Agrahara ward claims returned for missing ICD-10 descriptors; need corrected tariffs and a resubmission letter.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-06-26",
+          "time": "12:30 PM",
+          "reporter_role": "Facilities Manager",
+          "incident_description": "CEFTS downtime blocked today’s payment run; NWSDB bill due—please process manual counter payment to avoid service issues.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-06-27",
+          "time": "11:55 AM",
+          "reporter_role": "eChannelling Desk Coordinator",
+          "incident_description": "Gateway settlement omits two rescheduled ENT sessions; require adjustment note and consultant fee recalculation.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-06-29",
+          "time": "04:05 PM",
+          "reporter_role": "Internal Auditor",
+          "incident_description": "Physiotherapy petty cash shows unsigned chits and missing bills; request finance to initiate CAP and recover advances.",
+          "urgency": "Medium"
+        }
+      ]
+    }
+  },
+  {
+    "month": "July",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-07-01",
+          "time": "08:35 AM",
+          "reporter_role": "OPD Cashier",
+          "incident_description": "End-of-day HMS shows LKR 5,000 more than physical cash; two manual receipts during a rush weren’t posted. Request Finance to reconcile and adjust Z-report.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-07-03",
+          "time": "03:10 PM",
+          "reporter_role": "Billing Supervisor",
+          "incident_description": "Thunderstorm knocked card terminals offline; we used manual imprinter slips for 14 patients. Finance needs to settle with the bank and prevent duplicate charges.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-03",
+          "time": "06:22 PM",
+          "reporter_role": "Surgical Ward Clerk",
+          "incident_description": "Private room discharge pending >24 hrs as consultant fee not posted to the bill. Please raise the fee note and close the account today.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-04",
+          "time": "11:05 AM",
+          "reporter_role": "Pharmacy In-Charge",
+          "incident_description": "Supplier invoice GRN posted twice, causing stock and ledger mismatch. Need Finance to reverse the duplicate and note for internal audit.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-07-06",
+          "time": "09:18 AM",
+          "reporter_role": "HR Officer",
+          "incident_description": "July payroll draft missed ETU night shift allowances despite roster upload. Please correct pay codes before bank file submission.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-07",
+          "time": "10:47 AM",
+          "reporter_role": "Insurance Claims Officer",
+          "incident_description": "Agrahara OPD claims for 5–6 July couldn’t dispatch due to steady rain; courier declined pickup. Need approval for alternate courier and note late submission.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-07",
+          "time": "02:14 PM",
+          "reporter_role": "Theatre Matron",
+          "incident_description": "Linen vendor halted supply citing 60+ day overdue invoice. Finance to release urgent part-payment or operations tomorrow will be affected.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-07-08",
+          "time": "01:33 PM",
+          "reporter_role": "Radiology Receptionist",
+          "incident_description": "Corporate client (ABC Garments) billed as cash by mistake. Please reclassify to corporate A/R and issue credit note to the patient.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-07-09",
+          "time": "04:56 PM",
+          "reporter_role": "Billing Executive",
+          "incident_description": "HMS retried posts and duplicated 18 lab charges. Need Finance to run reversal batch before daily statements.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-09",
+          "time": "07:08 PM",
+          "reporter_role": "Consultant Anaesthetist",
+          "incident_description": "My fee for 07/07 OT case isn’t on the patient’s final bill; insurer needs proper ICD/procedure mapping. Kindly post the professional fee today.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-07-11",
+          "time": "09:41 AM",
+          "reporter_role": "Accounts Payable Clerk",
+          "incident_description": "WHT rate applied incorrectly on a service invoice; supplier is disputing. Please correct withholding and reprocess in this week’s payment run.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-07-13",
+          "time": "12:27 PM",
+          "reporter_role": "Dietician",
+          "incident_description": "Canteen bill shows 120 extra staff meals vs diet sheets and ward census. Request Finance to verify and adjust the PO amount.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-07-14",
+          "time": "08:02 PM",
+          "reporter_role": "Nursing Officer - Ward 5",
+          "incident_description": "OT slips uploaded but not appearing in July advances. Please validate and include.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-07-16",
+          "time": "05:19 PM",
+          "reporter_role": "OPD Manager",
+          "incident_description": "Channeling counter deposit reconciliation short by LKR 32,000 vs bank slip. Need Finance to investigate and pass adjustment.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-17",
+          "time": "06:11 PM",
+          "reporter_role": "Procurement Officer",
+          "incident_description": "Cheque printer misfeeds; three cheques spoiled. Please place stop-payments and reissue via EFT today.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-17",
+          "time": "10:22 AM",
+          "reporter_role": "Laboratory Manager",
+          "incident_description": "Reference lab is withholding reports until our overdue remittance clears. Need urgent EFT to release results and avoid patient escalations.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-07-18",
+          "time": "03:03 PM",
+          "reporter_role": "Ward Sister - Maternity",
+          "incident_description": "Maternity package billed under local tariff instead of SAARC rate for a foreign patient. Please correct and reissue for insurance.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-07-19",
+          "time": "07:45 AM",
+          "reporter_role": "Transport Supervisor",
+          "incident_description": "Ambulance fuel card declined; vendor placed account on hold over unpaid June bill. Request immediate settlement or cash advance.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-19",
+          "time": "02:36 PM",
+          "reporter_role": "Medical Records Officer",
+          "incident_description": "Morning dampness affected a batch of original cash receipts near the window. Need Finance guidance on reprints and audit annotations.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-07-21",
+          "time": "11:54 AM",
+          "reporter_role": "Paediatric OPD Clerk",
+          "incident_description": "Parent paid by card and then cash due to queue confusion. Please process card refund and adjust the cashbook.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-23",
+          "time": "04:02 PM",
+          "reporter_role": "HR Manager",
+          "incident_description": "EPF/ETF for three contract physiotherapists calculated on wrong pay codes. Need recalculation and correction on the Labour portal.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-07-24",
+          "time": "05:28 PM",
+          "reporter_role": "Claims Coordinator",
+          "incident_description": "Insurer portal kept failing during gusty rain; endoscopy pre-auth lapsed. Please lodge appeal and waiver letter citing outage logs.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-07-27",
+          "time": "09:09 AM",
+          "reporter_role": "Dialysis Unit In-Charge",
+          "incident_description": "Co-pay balances for 11 chronic patients aged >90 days. Request Finance to arrange instalment plans and flag bookings pending agreement.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-07-29",
+          "time": "01:48 PM",
+          "reporter_role": "Biomedical Engineer",
+          "incident_description": "UPS battery invoice arrived in USD while PO is in LKR; customs and taxes included ambiguously. Need Finance to validate FX rate and tax treatment before payment.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-07-30",
+          "time": "08:57 PM",
+          "reporter_role": "Billing Counter Junior",
+          "incident_description": "Widespread rain caused power dips; EOD close failed and sales not posted to GL. Need Finance to run recovery and close period tonight.",
+          "urgency": "Critical"
+        }
+      ]
+    }
+  },
+  {
+    "month": "August",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-08-01",
+          "time": "08:15 AM",
+          "reporter_role": "OPD Billing Supervisor",
+          "incident_description": "New August tariff update for minor procedures not pushed to the billing system; OPD bills printed at old rates. Finance to correct and issue refunds where needed.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-02",
+          "time": "11:40 AM",
+          "reporter_role": "Ward Sister - Surgical Ward 8",
+          "incident_description": "Advance deposit from BHT 23/1147 not adjusted after bed downgrade; patient discharging by 2 pm. Please finalize refund through cashier.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-03",
+          "time": "03:05 PM",
+          "reporter_role": "Pharmacy In-Charge",
+          "incident_description": "Corporate credit line with Sri Lanka Insurance for OPD meds reached limit; AR team to obtain extension or switch to cash until approval.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-08-05",
+          "time": "09:10 AM",
+          "reporter_role": "Radiology Administrator",
+          "incident_description": "Pre-authorization for MRI (Ceylinco) pending on TPA portal; patient ready now. Finance claims team please expedite guarantee of payment.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-08-06",
+          "time": "02:20 PM",
+          "reporter_role": "HR Executive - Payroll",
+          "incident_description": "ICU night-duty allowance for July not reflected for five nurses due to roster import error. Need off-cycle adjustment in this month’s payroll.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-08",
+          "time": "10:35 AM",
+          "reporter_role": "Procurement Officer",
+          "incident_description": "Signed cheques not delivered to oxygen supplier. Request urgent CEFTS transfer to avoid supply hold.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-08",
+          "time": "06:10 PM",
+          "reporter_role": "OPD Cashier",
+          "incident_description": " POS declines at peak. Need approval for manual receipts and temporary cash float top-up.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-08-09",
+          "time": "09:25 AM",
+          "reporter_role": "Dietary Services Supervisor",
+          "incident_description": "Provision supplier early-payment discount (2%) lapses today; last month’s GRNs cleared. Please release payment to capture discount.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-08-10",
+          "time": "01:30 PM",
+          "reporter_role": "Biomedical Engineer",
+          "incident_description": "AMC invoice for anaesthesia machines stuck in approval; vendor refusing urgent visit without payment schedule. Finance to confirm release.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-11",
+          "time": "04:45 PM",
+          "reporter_role": "Medical Records Officer",
+          "incident_description": "Agrahara claim for BHT 23/1289 rejected for missing ICD-10 on e-form; finance claims needs resubmission coordination before month-end.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-08-13",
+          "time": "10:05 AM",
+          "reporter_role": "Laboratory Manager",
+          "incident_description": "Clients expect same-day e-bills. Please issue provisional invoices to keep AR current.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-08-14",
+          "time": "07:55 AM",
+          "reporter_role": "Consultant Anaesthetist",
+          "incident_description": "Locum session payments for July not credited; eChannelling and theatre lists attached. Request settlement before next roster.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-15",
+          "time": "05:40 PM",
+          "reporter_role": "Security Supervisor",
+          "incident_description": "Extra guards for last week’s VIP visit did 36 OT hours; sheets submitted. Kindly include in August payroll to avoid grievances.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-08-16",
+          "time": "11:10 AM",
+          "reporter_role": "Stores Officer",
+          "incident_description": "Main store petty cash reimbursement pending since 05/08; we can’t procure autoclave tape today. Request immediate top-up.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-17",
+          "time": "08:50 PM",
+          "reporter_role": "Ambulance Coordinator",
+          "incident_description": "Rain delays plus fuel station declined our diesel credit due to overdue bill. Need urgent payment to restore ambulance fueling.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-08-18",
+          "time": "07:20 AM",
+          "reporter_role": "Accounts Trainee",
+          "incident_description": "Cash count variance of LKR 7,500 at OPD closing on 17/08; request reconciliation and CCTV review before posting to GL.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-19",
+          "time": "01:05 PM",
+          "reporter_role": "Ward Clerk - Maternity",
+          "incident_description": "Normal delivery package billed without the circular maternity discount; family disputing. Finance to adjust before discharge at 3 pm.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-20",
+          "time": "03:15 PM",
+          "reporter_role": "IT Officer (Revenue Cycle Systems)",
+          "incident_description": "TPA claims portal subscription suspended due to unpaid invoice; e-submissions blocked ahead of Nikini Poya cut-offs. Need immediate payment.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-22",
+          "time": "09:00 AM",
+          "reporter_role": "Laundry Supervisor",
+          "incident_description": "External laundry vendor held today’s pickup citing 45-day overdue. With thundery rain, ward linen backlog will escalate. Please settle.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-24",
+          "time": "08:05 AM",
+          "reporter_role": "OPD Nurse-In-Charge",
+          "incident_description": "Senior citizen concession not applied at counters since last finance circular; need billing table update and refunds for today’s OPD tokens.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-08-24",
+          "time": "02:55 PM",
+          "reporter_role": "Finance Manager",
+          "incident_description": "Internal audit noted 12 pharmacy credit bills missing insurer authorization scans. Retrieval needed before audit review on 26/08.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-08-25",
+          "time": "11:25 AM",
+          "reporter_role": "Radiology Cashier",
+          "incident_description": "eChannelling commission for Dr. Silva deducted twice on 18/08; request reconciliation and reversal entry.",
+          "urgency": "Low"
+        },
+        {
+          "date": "2025-08-27",
+          "time": "04:10 PM",
+          "reporter_role": "Procurement Pharmacist",
+          "incident_description": "SPC supplier statement shows variance: GRN posted but invoice not booked, aging at 60 days. AP team to match and settle.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-08-28",
+          "time": "09:50 AM",
+          "reporter_role": "HR Officer",
+          "incident_description": "EPF/ETF not set up for two July joiners; need backdated contributions and payslip corrections before month-end.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-08-30",
+          "time": "12:40 PM",
+          "reporter_role": "Payroll Accountant",
+          "incident_description": "SLIPS window may be missed for salaries. Request CEFTS contingency and approval to release today.",
+          "urgency": "Critical"
+        }
+      ]
+    }
+  },
+  {
+    "month": "September",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-09-01",
+          "time": "08:15 AM",
+          "reporter_role": "OPD Cashier",
+          "incident_description": "Start-of-day cash float short by LKR 25,000 and 31 Aug card settlement not posted; need top-up and posting to proceed with morning clinics.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-09-03",
+          "time": "02:40 PM",
+          "reporter_role": "Pharmacy Supervisor",
+          "incident_description": "Inpatient BHT 24-3176 charged meropenem 1g twice; please correct bill and process LankaQR refund to guardian.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-04",
+          "time": "11:10 AM",
+          "reporter_role": "Radiology Receptionist",
+          "incident_description": "CT cash patient MRN 102334 deposit collected yesterday not applied; HIS shows pending receipting—please allocate so report can be released.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-09-04",
+          "time": "05:35 PM",
+          "reporter_role": "Insurance Liaison Officer",
+          "incident_description": "SLIC e-claims timeouts; cataract pre-auth expires today—need deposit hold extension and manual claim submission.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-06",
+          "time": "09:25 AM",
+          "reporter_role": "Maintenance Supervisor",
+          "incident_description": "Diesel supplier invoice INV-DS/2311 exceeds LPO rate by Rs 12.50/litre; please hold payment and obtain corrected tax invoice/debit note.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-09-08",
+          "time": "09:05 AM",
+          "reporter_role": "Ward Clerk - Maternity",
+          "incident_description": "NICU phototherapy day-2 missed for BHT 24-3391; SLIC GL balance adequate—kindly add supplementary billing and inform insurer.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-08",
+          "time": "07:50 PM",
+          "reporter_role": "IT Officer - HIS",
+          "incident_description": "Brief rain-related network drop led to duplicate POS authorizations for MRN 77452; please void one and reconcile with bank batch.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-09",
+          "time": "03:15 PM",
+          "reporter_role": "HR Executive - Payroll",
+          "incident_description": "Portering OT (Aug) missing in payroll draft; approved timesheets attached—add OT and night allowance before EPF/ETF calculation.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-10",
+          "time": "09:40 PM",
+          "reporter_role": "Ambulance Coordinator",
+          "incident_description": "Two transfer cases paid cash; thunderstorm prevented deposit—placed in night safe with slips. Please acknowledge and post to AR by morning.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-09-12",
+          "time": "10:55 AM",
+          "reporter_role": "Laboratory In-Charge",
+          "incident_description": "AIA claim for OP labs (MRN 55621) rejected for ICD mismatch; request finance claims team to correct code, re-upload, and track TAT.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-09-13",
+          "time": "01:20 PM",
+          "reporter_role": "Consultant Anaesthetist",
+          "incident_description": "August professional fee for THR (BHT 24-3289) not credited; surgeon paid. Please review PF schedule, tax deductions, and release.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-15",
+          "time": "09:30 AM",
+          "reporter_role": "Procurement Officer",
+          "incident_description": "MedSurg submitted duplicate invoices against GRN 8421; kindly block in AP run and obtain credit note before cheque cycle.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-15",
+          "time": "04:05 PM",
+          "reporter_role": "Canteen Contractor",
+          "incident_description": "Last week’s SLIPS payment returned due to name mismatch; please reprocess via CEFTS to acct 0112xxxxxxx—arrears now 14 days.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-09-17",
+          "time": "02:10 PM",
+          "reporter_role": "Stores Keeper",
+          "incident_description": "GRN scan unreadable and invoice INV-4471 flagged. Request acceptance of vendor copy or allow reprint for audit.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-09-17",
+          "time": "06:25 PM",
+          "reporter_role": "OPD Manager",
+          "incident_description": "Need urgent top-up of Rs 100/50 notes. LankaQR intermittent—please liaise with bank.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-09-19",
+          "time": "03:40 PM",
+          "reporter_role": "Dialysis Unit Nurse",
+          "incident_description": "Package renewal for MRN 66890 charged VAT on service; dialysis service should be VAT-exempt—please amend bill and refund card difference.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-21",
+          "time": "11:15 AM",
+          "reporter_role": "Biomedical Engineer",
+          "incident_description": "AMC invoice from TechCare missing agreed retention and WHT lines; hold payment and request revised tax invoice.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-09-21",
+          "time": "08:20 PM",
+          "reporter_role": "Ward Sister - Dengue Ward",
+          "incident_description": "Petty cash reimbursement for linen/bleach pending 3 days; ward running short—please replenish float tonight.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-23",
+          "time": "09:10 AM",
+          "reporter_role": "Internal Auditor",
+          "incident_description": "Delayed POS auto-post; recon gap LKR 148,350 across Sampath/EasyPay. Need manual JV and bank confirmation today.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-23",
+          "time": "05:55 PM",
+          "reporter_role": "Channeling Counter Executive",
+          "incident_description": "37 pre-paid bookings pending refund. Please process LankaQR reversals within 24 hrs to avoid complaints.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-09-25",
+          "time": "11:05 AM",
+          "reporter_role": "Nursing Officer - Surgical",
+          "incident_description": "Final bill for BHT 24-3510 shows ICU bed 23–24 Sep in error; please amend and reprint for insurer GL so discharge can proceed.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-09-25",
+          "time": "03:25 PM",
+          "reporter_role": "Government Liaison Officer",
+          "incident_description": "Agrahara maternity claims (3 cases) returned for missing hospital seal/finance sign; need stamping and resubmission before month-end.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-09-27",
+          "time": "10:35 AM",
+          "reporter_role": "Accounts Assistant - AR",
+          "incident_description": "CEFTS credit LKR 62,500 on 26 Sep unmapped; payer ref shows 'MRN 90331?'. Please allocate before statements go out.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-09-28",
+          "time": "08:50 AM",
+          "reporter_role": "Housekeeping Supervisor",
+          "incident_description": "Laundry vendor halted pickups over two overdue invoices; request urgent part-payment via online transfer to resume service today.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-09-30",
+          "time": "02:45 PM",
+          "reporter_role": "Budget Officer",
+          "incident_description": "Q4 upload shows pharmacy ultrasound trolley coded to OPEX instead of CAPEX; need JV reclass and forecast update for Board pack.",
+          "urgency": "Medium"
+        }
+      ]
+    }
+  },
+  {
+    "month": "October",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-10-01",
+          "time": "08:47 PM",
+          "reporter_role": "OPD Billing Clerk",
+          "incident_description": "POS flickered and posted duplicate card payments for 6 OPD bills. Need Finance to verify with bank and process reversals by tonight.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-02",
+          "time": "04:18 PM",
+          "reporter_role": "Procurement Executive",
+          "incident_description": "Vendors for linen and oxygen are waiting. Request emergency CEFTS transfers to avoid supply disruption.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-05",
+          "time": "07:25 PM",
+          "reporter_role": "OPD Cashier",
+          "incident_description": "LankaQR went offline. 14 patients were issued manual receipts. Please reconcile and post these against HIS once bank settlement appears.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-10-06",
+          "time": "11:12 AM",
+          "reporter_role": "Radiology Receptionist",
+          "incident_description": "CT with contrast tariff update not applied; morning cases were underbilled. Need Finance to adjust charges and reprint invoices before discharge.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-07",
+          "time": "03:05 PM",
+          "reporter_role": "Transport Officer",
+          "incident_description": "CPC fuel invoice reflects revised VAT but our PO/GRN shows old rate. Accounts Payable to amend GRN and issue corrected payment.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-10-08",
+          "time": "06:50 PM",
+          "reporter_role": "Medical Records Officer",
+          "incident_description": "Leak during the thunderstorm soaked two insurer claim bundles; some receipts are smudged. Request Finance to accept certified scans for submission.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-09",
+          "time": "10:35 AM",
+          "reporter_role": "Private Wing Admission Coordinator",
+          "incident_description": "Corporate client NDB Staff Scheme is 90+ days outstanding. Please place credit hold and initiate dunning before further admissions.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-11",
+          "time": "05:40 PM",
+          "reporter_role": "OPD Shift Supervisor",
+          "incident_description": "Today’s OPD cash cannot be deposited due to some delay. Need Finance approval to retain overnight in safe with dual lock.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-11",
+          "time": "02:15 PM",
+          "reporter_role": "Engineering Supervisor",
+          "incident_description": "Emergency diesel purchase during rain lacked the 3-quote protocol. Please raise an emergency procurement memo for audit justification.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-10-13",
+          "time": "09:10 AM",
+          "reporter_role": "HR Officer - Payroll",
+          "incident_description": "On-call allowance for Anaesthesia SHOs (Roster 2B) missing from September payroll. Request off-cycle adjustment this week.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-10-14",
+          "time": "08:20 PM",
+          "reporter_role": "Ward Clerk - Surgical",
+          "incident_description": "HIS was down ; we issued paper bills and several consumables weren’t coded. Finance needs to map retro charges before discharges.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-14",
+          "time": "11:55 AM",
+          "reporter_role": "Clinic Coordinator",
+          "incident_description": "Online prepayments captured for evening clinic that got cancelled due to weather. Gateway shows capture but HIS not updated; need refunds processed.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-10-15",
+          "time": "03:30 PM",
+          "reporter_role": "Claims Coordinator",
+          "incident_description": "SLIC is rejecting Agrahara top-up claims citing missing ICD codes on e-forms. Finance to coordinate coder sign-off and resubmit before the 30-day limit.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-17",
+          "time": "09:05 AM",
+          "reporter_role": "Laboratory Manager",
+          "incident_description": "Two vendor cheques returned due to new signatory mismatch. Reagents at risk of supply halt; need re-issue today.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-18",
+          "time": "08:10 PM",
+          "reporter_role": "Senior Cashier",
+          "incident_description": "Till recount after rain-time rush is short by Rs 18,500. Request immediate cash audit and CCTV review before night close.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-10-20",
+          "time": "07:45 PM",
+          "reporter_role": "IT Officer - HIS",
+          "incident_description": "Double-submitted five LankaQR payments; HIS shows single receipts. Finance to verify bank logs and issue refunds if needed.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-21",
+          "time": "10:00 AM",
+          "reporter_role": "Hospital Administrator",
+          "incident_description": "Outreach clinic revenue posted under OPD instead of Private Wing. Please reclassify cost centre to correct the month-to-date report.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-10-22",
+          "time": "06:15 PM",
+          "reporter_role": "Pathology Reception",
+          "incident_description": "Courier cancelled; insurer deadline is tomorrow. Can Finance accept scanned claims with e-stamp for timely submission?",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-24",
+          "time": "01:25 PM",
+          "reporter_role": "OPD Cashier",
+          "incident_description": "Need guidance for documenting condition and proceeding with bank deposit.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-10-24",
+          "time": "04:50 PM",
+          "reporter_role": "Dialysis Unit In-Charge",
+          "incident_description": "Several prepaid dialysis no-shows. Request Finance to extend package validity and defer revenue recognition.",
+          "urgency": "Low"
+        },
+        {
+          "date": "2025-10-27",
+          "time": "02:40 PM",
+          "reporter_role": "Internal Auditor",
+          "incident_description": "Audit trail shows backdated tariff change by user FIN03 on 10 Oct. Need formal justification and approval note for external audit pack.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-10-28",
+          "time": "05:30 PM",
+          "reporter_role": "Pharmacy In-Charge",
+          "incident_description": "Supplier threatens credit hold; invoice age 62 days due to PO-GRN price variance. AP to process debit note and release payment.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-30",
+          "time": "09:20 PM",
+          "reporter_role": "Admission Supervisor - Private Wing",
+          "incident_description": "Network outage from torrential rain forced manual receipts; large posting backlog. Request OT approval and ensure payroll reflects extra hours.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-10-30",
+          "time": "06:35 AM",
+          "reporter_role": "Theatre Manager",
+          "incident_description": "CEFTS transfer for neurosurgery implant advance failed mid-transaction. Need urgent reprocessing or cash float to avoid case delay.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-10-31",
+          "time": "03:10 PM",
+          "reporter_role": "Senior Accountant",
+          "incident_description": "Month-end close blocked: AR ageing excludes new corporate code for Oceanic Lines. Please map ledger and regenerate statements.",
+          "urgency": "High"
+        }
+      ]
+    }
+  },
+  {
+    "month": "November",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-11-01",
+          "time": "02:35 PM",
+          "reporter_role": "OPD Cashier",
+          "incident_description": "LankaQR pad kept rebooting; seven OPD payments show as pending in HIS though patients’ apps show debited—needs reconciliation and manual posting before cash close.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-01",
+          "time": "06:10 PM",
+          "reporter_role": "Front Office Supervisor",
+          "incident_description": "Power flicker during heavy rain caused the card terminal to pre-authorize a private room deposit twice; family requests reversal of the extra hold—please coordinate with the acquirer.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-03",
+          "time": "09:15 AM",
+          "reporter_role": "Insurance Desk Executive",
+          "incident_description": "Agrahara e-claim portal is timing out ; Ward 10 discharge is ready but we cannot upload the guarantee letter—request temporary credit extension and later resubmission.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-03",
+          "time": "03:05 PM",
+          "reporter_role": "Accounts Payable Clerk",
+          "incident_description": "Cheque printer is jamming due to damp paper; three vendor cheques for lab reagents are overdue—request approval to switch to EFT and email remittances.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-05",
+          "time": "11:20 AM",
+          "reporter_role": "Payroll Officer",
+          "incident_description": "APIT/WHT rate was misapplied to 17 consultants in October; under-deductions identified—need correcting entries and amended return to IRD.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-06",
+          "time": "07:55 PM",
+          "reporter_role": "Pharmacy Superintendent",
+          "incident_description": "POS network is distrupted. large pharmacy cash takings cannot be deposited tonight and batch settlements are pending—request treasury support for interim storage and next-day posting.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-08",
+          "time": "10:10 AM",
+          "reporter_role": "Senior Accounts Receivable Executive",
+          "incident_description": "Corporate client Samudra Logistics is 65 days overdue for multiple inpatient bills (approx. LKR 2.1M); please issue final dunning and propose an installment plan.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-11-09",
+          "time": "08:40 AM",
+          "reporter_role": "Medical Records Supervisor",
+          "incident_description": "Leak during squally rain soaked OPD bill bundles from 02–03 Nov; several barcodes are illegible—finance to regenerate invoices from HIS and document for audit.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-09",
+          "time": "04:20 PM",
+          "reporter_role": "Radiology Receptionist",
+          "incident_description": "CT package promo not applied due to unsynced tariff; two walk-ins were billed full—need credit notes and instant refunds before close of day.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-10",
+          "time": "09:05 AM",
+          "reporter_role": "Finance Reconciliation Officer",
+          "incident_description": "LankaPay settlement file for 09 Nov is missing; POS totals exceed bank statement by LKR 185,340—request urgent investigation with the bank and provisional JV if needed.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-11",
+          "time": "07:30 PM",
+          "reporter_role": "Nursing Officer In-Charge - Ward 6",
+          "incident_description": "Biometric readers failed during prolonged rain; OT hours and night allowance for several staff not captured—please accept signed manual muster sheets for payroll.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-11-12",
+          "time": "01:50 PM",
+          "reporter_role": "Channeling Desk Coordinator",
+          "incident_description": "There are 42 channeling cancellations from 11 Nov pending refunds; card reversals are aging beyond 24 hours—need finance clearance for bulk processing today.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-13",
+          "time": "10:25 AM",
+          "reporter_role": "OPD Cashier Lead",
+          "incident_description": "Armoured pickup delayed due to flooded roads; OPD cash on hand has exceeded insured limit—request temporary safe access and written endorsement from finance.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-11-13",
+          "time": "02:40 PM",
+          "reporter_role": "Claims Coordinator",
+          "incident_description": "TPA rejected a claim citing ICD-10 code mismatch with the discharge summary; need coding review and resubmission within the 48-hour window.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-15",
+          "time": "11:05 AM",
+          "reporter_role": "Internal Auditor",
+          "incident_description": "Generator diesel invoice was posted twice (duplicate GRN) and vendor received both payments—require immediate recovery via debit note and reversal JV.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-16",
+          "time": "03:30 PM",
+          "reporter_role": "Head Nurse - NICU",
+          "incident_description": "NICU consumables are 18% over the monthly budget due to extra TPN—request reforecast and interim limit adjustment before further orders.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-11-18",
+          "time": "09:50 AM",
+          "reporter_role": "Accounts Assistant - Treasury",
+          "incident_description": "Deposit slips from the weekend got wet in rain during courier transit; amounts on two slips are unreadable—need bank-certified copies for posting and audit.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-11-18",
+          "time": "02:15 PM",
+          "reporter_role": "HR & Payroll Coordinator",
+          "incident_description": "November tea allowance was posted twice for 126 staff in the payroll preview—request reversal before generating the bank file.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-20",
+          "time": "10:35 AM",
+          "reporter_role": "Billing Supervisor",
+          "incident_description": "Multiple LankaQR payments from last night appear duplicated after outages during heavy rain; patients report double debits—please validate and process refunds where applicable.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-20",
+          "time": "01:25 PM",
+          "reporter_role": "Procurement Officer",
+          "incident_description": "Linen supplier invoice due today; cheque printing stalled by moisture issues—request EFT processing and email of remittance advice.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-11-21",
+          "time": "09:10 AM",
+          "reporter_role": "Nuclear Medicine Receptionist",
+          "incident_description": "PET/CT patient deposit was short-collected using an outdated rate card—need supplementary bill and adjustment to consultant revenue share.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-11-22",
+          "time": "03:00 PM",
+          "reporter_role": "Insurance Desk Officer",
+          "incident_description": "Agrahara maternity claim returned for missing hospital seal on the final bill—please validate, stamp, and resubmit via courier.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-11-23",
+          "time": "12:40 PM",
+          "reporter_role": "Accounts Executive - Revenue Share",
+          "incident_description": "Dr. S. Jayasinghe’s cardiology OPD share was posted under a wrong consultant code—need JV reclassification before this week’s payout.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-11-25",
+          "time": "05:55 PM",
+          "reporter_role": "Inpatient Pharmacy Charge Nurse",
+          "incident_description": "HIS lag posted a pharmacy charge to the OPD cost centre; please reclassify to Ward 3 IP bill before discharge tonight.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-11-28",
+          "time": "08:05 AM",
+          "reporter_role": "A&E Administrative Officer",
+          "incident_description": "A&E petty cash is short by LKR 12,500 after the weekend; CCTV was down during rain—request immediate count, IOU verification, and top-up to continue services.",
+          "urgency": "High"
+        }
+      ]
+    }
+  },
+  {
+    "month": "December",
+    "data": {
+      "reports": [
+        {
+          "date": "2025-12-01",
+          "time": "02:15 PM",
+          "reporter_role": "OPD Cashier",
+          "incident_description": "The POS at OPD charged a patient’s Visa twice. Need immediate reversal and bank chargeback, plus corrected receipt for the file.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-01",
+          "time": "11:10 AM",
+          "reporter_role": "Claims Officer",
+          "incident_description": "Heavy rain stopped courier pickup to Sri Lanka Insurance; today’s Agrahara and SLIC claim cheques will miss cut-off. Request CEFTS payment and email acknowledgement to avoid delay interest.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-12-01",
+          "time": "07:40 PM",
+          "reporter_role": "Pharmacy In-Charge",
+          "incident_description": "Short power dip in the rain forced manual receipts for three high-value meds. Please reconcile cash, post to AR, and attach manager’s countersign for audit.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-12-03",
+          "time": "09:05 AM",
+          "reporter_role": "Lab Manager",
+          "incident_description": "Printer ribbon smudge on 12 lab invoices; totals are unreadable. Need reprint and finance countersign so the batch can be posted today.",
+          "urgency": "Low"
+        },
+        {
+          "date": "2025-12-05",
+          "time": "03:20 PM",
+          "reporter_role": "Ward Clerk - Female Surgical",
+          "incident_description": "Patient’s implant (code IM-PT-42) got billed twice after theatre. Please raise a credit note, correct AR, and update insurer pre-auth to avoid short-settlement.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-07",
+          "time": "10:35 AM",
+          "reporter_role": "Procurement Officer",
+          "incident_description": "SLIPS payment to oxygen supplier returned (wrong account number). Shipment on hold until remitted. Urgent reprocessing needed with correct bank details.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-07",
+          "time": "05:55 PM",
+          "reporter_role": "Front Office Supervisor",
+          "incident_description": "Weekend eChanneling commissions not accrued in the ledger; consultant share sheets are ready. Please post accrual to avoid end-of-month disputes.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-12-09",
+          "time": "01:25 PM",
+          "reporter_role": "Accounts Assistant",
+          "incident_description": "LankaQR settlements from Sunday OPD aren’t reflecting in BOC statement; cashier Z-tape shows Rs. 148,600 collected. Need reconciliation with the bank.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-12-11",
+          "time": "11:48 AM",
+          "reporter_role": "Insurance Coordinator",
+          "incident_description": "Agrahara batch for Ward 7 rejected—missing hospital rubber stamp on discharge summaries. Resubmission window closes Friday; need stamping and re-upload today.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-11",
+          "time": "08:20 PM",
+          "reporter_role": "Treasury Cashier",
+          "incident_description": "Evening cash-up shows Rs. 12,000 variance; notes were damp after the rain and got stuck during count. Request recount with CCTV review and variance note for audit.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-12",
+          "time": "04:10 PM",
+          "reporter_role": "HR Officer",
+          "incident_description": "December festival advance not credited for six housekeeping staff after bank file upload. Please run an off-cycle CEFTS transfer before tomorrow.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-13",
+          "time": "09:15 AM",
+          "reporter_role": "Finance Executive",
+          "incident_description": "Consultant revenue share SLIPS file uploaded twice by mistake. Need urgent stop payment with the bank and reversal entry before EOD.",
+          "urgency": "Critical"
+        },
+        {
+          "date": "2025-12-13",
+          "time": "04:30 PM",
+          "reporter_role": "Stores Officer (Theatre)",
+          "incident_description": "Implant vendor invoice lacks GRN attachment; payment can’t be processed. Vendor has warned credit hold before Monday lists—please advise on temporary approval.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-12-15",
+          "time": "11:00 AM",
+          "reporter_role": "Billing Systems Admin",
+          "incident_description": "New dialysis package mapped with 0% VAT; today’s bills undercharged. Need rate correction and back-billing for morning sessions.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-16",
+          "time": "02:05 PM",
+          "reporter_role": "Claims Scanning Clerk",
+          "incident_description": "The feeder jammed yesterday; Allianz e-claims now aging past 14 days. Request priority scanning and finance sign-off for late submission.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-12-16",
+          "time": "06:40 PM",
+          "reporter_role": "Hospital Administrator",
+          "incident_description": "OPD revenue down ~22% today due to afternoon showers. Please revise mid-month cashflow forecast to ensure payroll cover on the 25th.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-12-17",
+          "time": "10:10 AM",
+          "reporter_role": "Payroll Officer",
+          "incident_description": "EPF/ETF e-Return rejected—employer reference changed after system upgrade. Deadline is the 20th; need corrected file and bank confirmation.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-19",
+          "time": "12:50 PM",
+          "reporter_role": "Radiology Manager",
+          "incident_description": "Cash patient charged twice for extra film; till shows excess Rs. 3,200. Request CEFTS refund and adjustment note in AR.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-12-21",
+          "time": "02:25 PM",
+          "reporter_role": "Dental OPD In-Charge",
+          "incident_description": "Petty cash short by Rs. 3,500; one voucher missing counter-sign. Need finance to reconcile box and log a variance for internal audit.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-12-22",
+          "time": "09:30 AM",
+          "reporter_role": "Administrative Officer",
+          "incident_description": "Canteen rent cheque shows value date on 27th due to weekend/holiday. Landlord demands receipt; please issue interim confirmation letter from Accounts.",
+          "urgency": "Low"
+        },
+        {
+          "date": "2025-12-24",
+          "time": "03:35 PM",
+          "reporter_role": "Pharmacist In-Charge",
+          "incident_description": "Year-end stock valuation out of sync with ledger—IV sets UOM changed from box to unit. Need finance adjustment and audit note.",
+          "urgency": "High"
+        },
+        {
+          "date": "2025-12-25",
+          "time": "10:45 AM",
+          "reporter_role": "MOIC - ETU",
+          "incident_description": "Holiday on-call allowance for 06 Dec not paid to ETU MOs due to roster miscode. Please process off-cycle adjustment before month-end.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-12-27",
+          "time": "11:55 AM",
+          "reporter_role": "Community Outreach Coordinator",
+          "incident_description": "1990 Suwaseriya standby invoice shows 5 extra hours for the camp. Request dispute note and hold GRN until corrected bill is issued.",
+          "urgency": "Medium"
+        },
+        {
+          "date": "2025-12-28",
+          "time": "08:10 PM",
+          "reporter_role": "OPD Cashier",
+          "incident_description": "Z-report is unreadable for scanning. Kindly accept manual settlement sheet with supervisor sign-off.",
+          "urgency": "Low"
+        },
+        {
+          "date": "2025-12-31",
+          "time": "05:20 PM",
+          "reporter_role": "Finance Manager",
+          "incident_description": "December P&L shows lab reagents posted to CWIP by error. Need JV to reclassify and proper narration before finalizing the audit pack.",
+          "urgency": "Critical"
+        }
+      ]
+    }
+  }
+]
