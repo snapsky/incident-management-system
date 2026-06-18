@@ -8,6 +8,8 @@ venv/
 env/
 bin/
 lib/
+app/trained_models/
+train/artifacts/
 
 data/
 models/
