@@ -1,10 +1,10 @@
 from __future__ import annotations
 
-from fastapi import APIRouter, Depends, Response, status
+from fastapi import APIRouter, Depends, Header, HTTPException, Response, status
 from sqlalchemy.orm import Session
 
 from app.database.database import get_db
-from app.users.user_schema import UserCreate, UserResponse, UserUpdate
+from app.users.user_schema import UserCreate, UserLogin, UserResponse, UserSession, UserUpdate
 from app.users.user_service import UserService
 
 
@@ -21,6 +21,35 @@ def create_user(
     service: UserService = Depends(get_user_service),
 ) -> UserResponse:
     return service.create_user(user_in)
+
+
+@router.post("/login", response_model=UserSession)
+def login_user(
+    credentials: UserLogin,
+    service: UserService = Depends(get_user_service),
+) -> UserSession:
+    return service.login_user(credentials)
+
+
+@router.get("/session", response_model=UserResponse)
+def get_current_session_user(
+    authorization: str | None = Header(default=None),
+    service: UserService = Depends(get_user_service),
+) -> UserResponse:
+    if not authorization or not authorization.startswith("Bearer "):
+        raise HTTPException(
+            status_code=status.HTTP_401_UNAUTHORIZED,
+            detail="Authorization header is required.",
+        )
+
+    token = authorization.removeprefix("Bearer ").strip()
+    if not token:
+        raise HTTPException(
+            status_code=status.HTTP_401_UNAUTHORIZED,
+            detail="Session token is required.",
+        )
+
+    return service.get_user_from_session(token)
 
 
 @router.get("/", response_model=list[UserResponse])

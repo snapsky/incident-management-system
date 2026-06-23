@@ -66,6 +66,8 @@ class IncidentService:
         urgency = self._predict_urgency(incident_in.incident)
 
         incident_payload = IncidentCreate(
+            incident_date=incident_in.incident_date,
+            incident_time=incident_in.incident_time,
             incident=incident_in.incident,
             send_by=incident_in.send_by,
             action_taken=incident_in.action_taken,
