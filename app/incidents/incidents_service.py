@@ -18,7 +18,7 @@ from app.users.user_repository import UserRepository
 
 TRAINED_MODELS_DIR = Path(__file__).resolve().parents[1] / "trained_models"
 DEPARTMENT_MODEL_DIR = TRAINED_MODELS_DIR / "distilbert_incident_classifier"
-URGENCY_MODEL_DIR = TRAINED_MODELS_DIR / "xgboost_urgency_binary_screening"
+URGENCY_MODEL_DIR = TRAINED_MODELS_DIR / "svm_urgency_binary_screening"
 URGENCY_MODEL_PATH = URGENCY_MODEL_DIR / "model.pkl"
 URGENCY_METADATA_PATH = URGENCY_MODEL_DIR / "metadata.json"
 
@@ -41,6 +41,15 @@ def load_trained_models() -> dict[str, Any]:
         urgency_model = pickle.load(model_file)
 
     metadata = json.loads(URGENCY_METADATA_PATH.read_text(encoding="utf-8"))
+    urgency_label_mapping = metadata.get("label_mapping", {})
+    urgency_positive_class = metadata.get("positive_class", urgency_label_mapping.get("1"))
+    urgency_negative_class = metadata.get("negative_class", urgency_label_mapping.get("0"))
+
+    if urgency_positive_class is None or urgency_negative_class is None:
+        raise ValueError(
+            "Urgency model metadata must define either positive_class/negative_class "
+            "or label_mapping entries for classes 1 and 0."
+        )
 
     return {
         "department_tokenizer": department_tokenizer,
@@ -48,8 +57,8 @@ def load_trained_models() -> dict[str, Any]:
         "department_label_mapping": department_label_mapping,
         "urgency_model": urgency_model,
         "urgency_threshold": float(metadata["selected_threshold"]),
-        "urgency_positive_class": str(metadata["positive_class"]),
-        "urgency_negative_class": str(metadata["negative_class"]),
+        "urgency_positive_class": str(urgency_positive_class),
+        "urgency_negative_class": str(urgency_negative_class),
     }
 
 

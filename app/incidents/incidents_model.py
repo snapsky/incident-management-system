@@ -10,6 +10,9 @@ from sqlalchemy.orm import Mapped, mapped_column
 from app.database.database import Base
 
 
+ENUM_VALUES = lambda enum_cls: [member.value for member in enum_cls]
+
+
 class IncidentUrgency(str, Enum):
     IMMEDIATE_ATTENTION = "immediate-attention"
     ROUTINE_REVIEW = "routine-review"
@@ -29,11 +32,11 @@ class Incident(Base):
     incident_time: Mapped[time | None] = mapped_column(Time, nullable=True)
     incident: Mapped[str] = mapped_column(Text, nullable=False)
     urgency: Mapped[IncidentUrgency] = mapped_column(
-        SqlEnum(IncidentUrgency, name="incident_urgency"),
+        SqlEnum(IncidentUrgency, name="incident_urgency", values_callable=ENUM_VALUES),
         nullable=False,
     )
     status: Mapped[IncidentStatus] = mapped_column(
-        SqlEnum(IncidentStatus, name="incident_status"),
+        SqlEnum(IncidentStatus, name="incident_status", values_callable=ENUM_VALUES),
         nullable=False,
         default=IncidentStatus.PENDING,
     )

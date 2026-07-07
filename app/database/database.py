@@ -60,6 +60,7 @@ def initialize_database() -> None:
 
     server_engine.dispose()
     Base.metadata.create_all(bind=engine)
+    _sync_mysql_enum_columns()
 
     from app.users.user_model import create_admin_user_from_env
 
@@ -68,3 +69,77 @@ def initialize_database() -> None:
         create_admin_user_from_env(db)
     finally:
         db.close()
+
+
+def _sync_mysql_enum_columns() -> None:
+    if not DB_DRIVER.startswith("mysql"):
+        return
+
+    with engine.begin() as connection:
+        connection.execute(
+            text(
+                """
+                ALTER TABLE incidents
+                MODIFY COLUMN urgency VARCHAR(64) NOT NULL
+                """
+            )
+        )
+        connection.execute(
+            text(
+                """
+                UPDATE incidents
+                SET urgency = CASE
+                    WHEN urgency = 'IMMEDIATE_ATTENTION' THEN 'immediate-attention'
+                    WHEN urgency = 'ROUTINE_REVIEW' THEN 'routine-review'
+                    ELSE urgency
+                END
+                """
+            )
+        )
+        connection.execute(
+            text(
+                """
+                ALTER TABLE incidents
+                MODIFY COLUMN urgency ENUM('immediate-attention', 'routine-review')
+                NOT NULL
+                """
+            )
+        )
+        connection.execute(
+            text(
+                """
+                ALTER TABLE incidents
+                MODIFY COLUMN status VARCHAR(32) NOT NULL
+                """
+            )
+        )
+        connection.execute(
+            text(
+                """
+                UPDATE incidents
+                SET status = CASE
+                    WHEN status = 'PENDING' THEN 'pending'
+                    WHEN status = 'RESOLVED' THEN 'resolved'
+                    ELSE status
+                END
+                """
+            )
+        )
+        connection.execute(
+            text(
+                """
+                ALTER TABLE incidents
+                MODIFY COLUMN status ENUM('pending', 'resolved')
+                NOT NULL DEFAULT 'pending'
+                """
+            )
+        )
+        connection.execute(
+            text(
+                """
+                ALTER TABLE users
+                MODIFY COLUMN role ENUM('staff', 'admin', 'department_admin')
+                NOT NULL DEFAULT 'staff'
+                """
+            )
+        )

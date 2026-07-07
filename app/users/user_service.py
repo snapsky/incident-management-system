@@ -3,6 +3,7 @@ from __future__ import annotations
 from fastapi import HTTPException, status
 from sqlalchemy.orm import Session
 
+from app.users.user_model import UserRole
 from app.users.user_repository import UserRepository
 from app.users.user_schema import UserCreate, UserLogin, UserSession, UserUpdate
 from app.users.user_session import create_session_token, decode_session_token
@@ -13,6 +14,7 @@ class UserService:
         self.repository = UserRepository(db)
 
     def create_user(self, user_in: UserCreate):
+        self._validate_department_role(user_in.role, user_in.department)
         existing_user = self.repository.get_by_username(user_in.username)
         if existing_user:
             raise HTTPException(
@@ -64,6 +66,11 @@ class UserService:
 
     def update_user(self, user_id: int, user_in: UserUpdate):
         user = self.get_user(user_id)
+        next_role = user_in.role or user.role
+        next_department = (
+            user_in.department if "department" in user_in.model_fields_set else user.department
+        )
+        self._validate_department_role(next_role, next_department)
 
         if user_in.username and user_in.username != user.username:
             existing_user = self.repository.get_by_username(user_in.username)
@@ -78,3 +85,14 @@ class UserService:
     def delete_user(self, user_id: int) -> None:
         user = self.get_user(user_id)
         self.repository.delete(user)
+
+    def _validate_department_role(
+        self,
+        role: UserRole,
+        department: str | None,
+    ) -> None:
+        if role == UserRole.DEPARTMENT_ADMIN and not department:
+            raise HTTPException(
+                status_code=status.HTTP_422_UNPROCESSABLE_ENTITY,
+                detail="Department admin users must have a department.",
+            )
